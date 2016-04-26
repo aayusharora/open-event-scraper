@@ -1,3 +1,5 @@
+import saveImage
+
 # result is a dictionary of the excel sheet
 def get_linkedin_url(result):
     if result.has_key("linkedin"):
@@ -17,5 +19,7 @@ def get_pic_url(result):
     elif result.has_key("image"):
         return result["image"]
     elif result.has_key("Please add a link to a color photo - of You - in good quality we can use for the website."):
-        return result["Please add a link to a color photo - of You - in good quality we can use for the website."]
+        img_url = result["Please add a link to a color photo - of You - in good quality we can use for the website."]
+        filename = result["Given Name"].replace("/","_") + "_" + result["Family Name"].replace("/","_") + ".jpg"
+        return saveImage.save_img(img_url, filename)
     return ""

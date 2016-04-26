@@ -2,3 +2,5 @@ jsonpickle
 simplejson
 validators
 pytz
+pillow
+requests
