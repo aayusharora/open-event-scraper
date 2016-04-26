@@ -21,6 +21,17 @@ class Track(object):
         self.gid = gid
         self.order = order
 
+class Service(object):
+    id = 0
+    service = ""
+    url = ""
+
+    def __init__(self, id, service, url):
+        super(Service, self).__init__()
+        self.id = id
+        self.service = service
+        self.url = url
+
 
 class Speaker(object):
 
