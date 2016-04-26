@@ -463,7 +463,7 @@
     "twitter": "",
     "linkedin": "",
     "id": 36,
-    "photo": "http://nebula.wsimg.com/fbe93f7139f3e63dc27fbd5d16b2a25f?AccessKeyId=31A44B68CCE281793F64&disposition=0&alloworigin=1",
+    "photo": "speakers/R\u00fcdiger_Trojok.jpg",
     "organisation": "Bioflux",
     "biography": "R\u00fcdiger Trojok Diplom Biologist, studied systems and synthetic biology at the Universities of Potsdam, Copenhagen (DTU) and Freiburg. During his thesis he invented a novel contraceptive method based on genetically altered lactic acid bacteria. He worked as a freelance consultant for the office for Technology Assessment by the German Parliament on biohacking and synthetic biology. Since 2014 he works for the Institute for Technology Assessment and Systems Analysis at the Karlsruhe Institute for Technology on the EU program Synenergene. He is currently establishing a citizen science biolab in Berlin, and is supporting open-source biotechnology projects related to public life, politics and the arts."
   },
@@ -476,7 +476,7 @@
     "twitter": "https://twitter.com/robbi5",
     "linkedin": "",
     "id": 37,
-    "photo": "https://robbi5.de/img/photo.jpg",
+    "photo": "speakers/Maximilian_Richt.jpg",
     "organisation": "Open Knowledge Foundation Deutschland",
     "biography": "Maximilian Richt ist ehrenamtlich bei der Open Knowledge Foundation Deutschland und besch\u00e4ftigt sich mit der \u00d6ffnung und Durchsuchbarkeit von Daten.  Sonst verbringt er viel Zeit in Z\u00fcgen, die hin und wieder zu Projekten wie kleineAnfragen.de f\u00fchrt."
   },
@@ -489,8 +489,6 @@
     "twitter": "",
     "linkedin": "",
     "id": 38,
-    "photo": "http://socialvisions.net/wp-content/uploads/2014/09/syriaonthemove_logo_finale1-310x310.jpg",
-    "id": 36,
     "photo": "speakers/Jenz_Steiner.jpg",
     "organisation": "Syria on the Move, SocialVisions e.V.",
     "biography": "Anja Pietsch and Jenz Steiner are two activists of the project Syria on the Move. They have been into participatory photography and grassroots media for many years."
@@ -504,8 +502,6 @@
     "twitter": "https://twitter.com/@simulo",
     "linkedin": "",
     "id": 39,
-    "photo": "https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/JanDittrich.jpg",
-    "id": 37,
     "photo": "speakers/Jan _ Lisa_Dittrich _ Conrad.jpg",
     "organisation": "private",
     "biography": "Jan is User Researcher, Lisa is an Anthropologist. Both are interested in why people do what they do. "
@@ -519,8 +515,6 @@
     "twitter": "https://www.twitter.com/Iversps",
     "linkedin": "https://de.linkedin.com/in/iversp",
     "id": 40,
-    "photo": "https://raw.githubusercontent.com/MeshCon/2014.meshcon.net/gh-pages/img/YvesPierre.jpg",
-    "id": 38,
     "photo": "speakers/Ivers Yves_Pierre.jpg",
     "organisation": "Copertura Label",
     "biography": "Ivers, originally from Haiti but resides in Germany for 7 years, Founder and CEO of Copertura Label, a 2 co-branded lines of fashion Tempo Libero for casuals and Sports and Wearable for fashion tech. Actual Regional Business Development Manager in Deliveryhero.com, the largest online food ordering platform worldwide. "
@@ -534,8 +528,6 @@
     "twitter": "https://twitter.com/@simulo",
     "linkedin": "https://de.linkedin.com/in/jandittrich",
     "id": 41,
-    "photo": "https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/JanDittrich.jpg",
-    "id": 39,
     "photo": "speakers/Jan_Dittrich.jpg",
     "organisation": "private",
     "biography": "Jan is an UX Designer and User Researcher. His current focus is making research on user needs and motivations easier for small design teams. He contributes to open source projects like RKWard, Etherpad and quickMockup.   When not dealing with Design and Research, Jan enjoys playing guitar and reading books on neuroscience."
@@ -549,8 +541,6 @@
     "twitter": "https://twitter.com/@swkBerlin",
     "linkedin": "",
     "id": 42,
-    "photo": "http://photos3.meetupstatic.com/photos/event/9/6/5/d/global_447218493.jpeg",
-    "id": 40,
     "photo": "speakers/Raimo, Markus_Radczewski, Decke.jpg",
     "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community",
     "biography": "Die Softwerkskammer Berlin ist die Berliner Lokalgruppe der weltweiten Software Craftsmanship Bewegung, die sich zum Ziel gesetzt hat, IT-Professionals eine Community zu geben, in der das gegenseitige Lernen im Vordergrund steht. Die Softwerkskammer trifft sich mindestens einmal im Monat zu gemeinsamen Workshops, Diskussionen und Vortr\u00e4gen. Markus Decke (@mrksdck) ist Software Engineer bei idealo internet GmbH Raimo Radczewski (@rradczewski) ist Software Engineer bei @vaamo und freiberuflicher Coach und Trainer f\u00fcr Pair Programming, TDD und JavaScript"
@@ -564,8 +554,6 @@
     "twitter": "https://twitter.com/jospoortvliet",
     "linkedin": "",
     "id": 43,
-    "photo": "https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/JosPoortvliet.jpg",
-    "id": 41,
     "photo": "speakers/Jos _Poortvliet.jpg",
     "organisation": "ownCloud",
     "biography": "People person, technology enthusiast and all-things-open evangelist. Previously community manager at SUSE and now at ownCloud while continuing an decade long involvement in the KDE community. Enjoys avoiding traffic and public transport on bike through Berlin, but only when the weather is good. Loves cooking for friends and family and playing with our dog. https://github.com/jospoortvliet  | http://twitter.com/jospoortvliet"
@@ -579,8 +567,6 @@
     "twitter": "https://twitter.com/@picotcp",
     "linkedin": "",
     "id": 44,
-    "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/000/251/37a/2c87c11.jpg",
-    "id": 42,
     "photo": "speakers/Toon_PETERS.jpg",
     "organisation": "Altran",
     "biography": "Toon is not your everyday engineer. With his passion for technology and enthusiasm for interesting projects, he can truly bring a project to the next level. All while having loads of fun.  Skill-wise, Toon has experience in Embedded software and Electronics, but also marketing, offer development and even recruiting. In short: An all-rounder"
@@ -594,8 +580,6 @@
     "twitter": "",
     "linkedin": "",
     "id": 45,
-    "photo": "https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/LPI-cube.jpg",
-    "id": 43,
     "photo": "speakers/Harald_Maa\u00dfen.jpg",
     "organisation": "LPI e.V.",
     "biography": "Harald Maassen ist langjaehriger Aktiver beim Linux Professional Institute."
