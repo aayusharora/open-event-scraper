@@ -101,7 +101,8 @@ function foldByTrack(sessions, speakers) {
       speakers_list: session.speakers.map(speaker => speakersMap.get(speaker.id)),
       description: session.description,
       session_id: session.session_id,
-      sign_up: session.sign_up
+      sign_up: session.sign_up,
+      video: session.video
     })
   });
 
