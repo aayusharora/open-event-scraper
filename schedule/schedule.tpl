@@ -107,6 +107,9 @@
                     <a class="session-link" href="#{{session_id}}">
                       <i class="fa fa-link"></i>
                     </a>
+                    {{#if sign_up}}
+                    <a href="{{sign_up}}" class="btn btn-xs btn-sign-up"> Sign up </a>
+                    {{/if}}
                   </h4>
                   <p class="session-location">
                     {{location}}
