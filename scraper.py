@@ -164,6 +164,11 @@ def parse_row(row, last_speaker, last_session, current_track):
 
     if not hasattr(session, 'description'):
         session.description = row["Abstract of talk or project"]
+    if not hasattr(session, 'sign_up'):
+        if row.has_key('Sign up') and row['Sign up']:
+            session.sign_up = row['Sign up']
+        else:
+            session.sign_up = None
     if not hasattr(session, 'type'):
         session.type = row["Type of Proposal"]
     if not hasattr(session, 'track'):
