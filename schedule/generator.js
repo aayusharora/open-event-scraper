@@ -102,7 +102,8 @@ function foldByTrack(sessions, speakers) {
       description: session.description,
       session_id: session.session_id,
       sign_up: session.sign_up,
-      video: session.video
+      video: session.video,
+      slides: session.slides
     })
   });
 

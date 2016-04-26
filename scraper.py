@@ -174,6 +174,11 @@ def parse_row(row, last_speaker, last_session, current_track):
             session.video = row['Video']
         else:
             session.video = None
+    if not hasattr(session, 'slides'):
+        if row.has_key('Slideshow') and row['Slideshow']:
+            session.slides = row['Slideshow']
+        else:
+            session.slides = None
     if not hasattr(session, 'type'):
         session.type = row["Type of Proposal"]
     if not hasattr(session, 'track'):

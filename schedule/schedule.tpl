@@ -108,8 +108,13 @@
                       <i class="fa fa-link"></i>
                     </a>
                     {{#if video}}
-                    <a class="session-link" href="{{video}}" target="_blank">
+                    <a class="video-link" href="{{video}}" target="_blank">
                       <i class="fa fa-youtube-play fa-2x"></i>
+                    </a>
+                    {{/if}}
+                    {{#if slides}}
+                    <a class="slide-link" href="{{slides}}" target="_blank">
+                      [Slides]
                     </a>
                     {{/if}}
                     {{#if sign_up}}
