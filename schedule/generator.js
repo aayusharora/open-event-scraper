@@ -100,9 +100,10 @@ function foldByTrack(sessions, speakers) {
       speakers: session.speakers.map(speakerNameWithOrg).join(', '),
       speakers_list: session.speakers.map(speaker => speakersMap.get(speaker.id)),
       description: session.description,
-      session_id: session.session_id
+      session_id: session.session_id,
+      sign_up: session.sign_up
     })
-  })
+  });
 
   let tracks = Array.from(trackData.values())
   tracks.sort(byProperty('sortKey'))
