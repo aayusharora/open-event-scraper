@@ -742,6 +742,11 @@
         "organisation": "Junge T\u00fcftler",
         "id": 30,
         "name": "Franziska Schmid"
+      },
+      {
+        "organisation": "Junge T\u00fcftler",
+        "id": 9,
+        "name": "Julia Kleeberger"
       }
     ],
     "description": "During this talk we want to share our vision of how education will change within the next years: Thanks to open educational resources, open source software and the digitalization of the society learning is not longer restricted to school buildings and can happens ubiquitously. Thus, we believe education doesn\u2019t need to be a privilege anymore.   We want to show possibilities how to live up to it and share our experiences we already gained with Junge T\u00fcftler: an initiative that offers children a playful access to coding & electronics.",
@@ -753,29 +758,6 @@
     },
     "start_time": "2016-05-05T16:00:00+00:00",
     "session_id": "OT-21",
-    "location": "Room 1",
-    "sign_up": null,
-    "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T16:30:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
-        "organisation": "Junge T\u00fcftler",
-        "id": 9,
-        "name": "Julia Kleeberger"
-      }
-    ],
-    "description": "During this talk we want to share our vision of how education will change within the next years: Thanks to open educational resources, open source software and the digitalization of the society learning is not longer restricted to school buildings and can happens ubiquitously. Thus, we believe education doesn\u2019t need to be a privilege anymore.   We want to show possibilities how to live up to it and share our experiences we already gained with Junge T\u00fcftler: an initiative that offers children a playful access to coding & electronics.",
-    "title": "Feel the force! ... or how to make open education for real.",
-    "track": {
-      "order": 3,
-      "name": "OTS 1",
-      "id": 3
-    },
-    "start_time": "2016-05-05T16:20:00+00:00",
-    "session_id": "OT-22",
     "location": "Room 1",
     "sign_up": null,
     "type": "Talk of 25 minutes",
@@ -1409,6 +1391,11 @@
         "organisation": "Junge T\u00fcftler",
         "id": 30,
         "name": "Franziska Schmid"
+      },
+      {
+        "organisation": "Junge T\u00fcftler",
+        "id": 9,
+        "name": "Julia Kleeberger"
       }
     ],
     "description": "During this talk we want to share our vision of how education will change within the next years: Thanks to open educational resources, open source software and the digitalization of the society learning is not longer restricted to school buildings and can happens ubiquitously. Thus, we believe education doesn\u2019t need to be a privilege anymore.   We want to show possibilities how to live up to it and share our experiences we already gained with Junge T\u00fcftler: an initiative that offers children a playful access to coding & electronics.",
@@ -1420,29 +1407,6 @@
     },
     "start_time": "2016-05-05T16:00:00+00:00",
     "session_id": "OT2-22",
-    "location": "Room 1b",
-    "sign_up": null,
-    "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T16:30:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
-        "organisation": "Junge T\u00fcftler",
-        "id": 9,
-        "name": "Julia Kleeberger"
-      }
-    ],
-    "description": "During this talk we want to share our vision of how education will change within the next years: Thanks to open educational resources, open source software and the digitalization of the society learning is not longer restricted to school buildings and can happens ubiquitously. Thus, we believe education doesn\u2019t need to be a privilege anymore.   We want to show possibilities how to live up to it and share our experiences we already gained with Junge T\u00fcftler: an initiative that offers children a playful access to coding & electronics.",
-    "title": "Feel the force! ... or how to make open education for real.",
-    "track": {
-      "order": 4,
-      "name": "OTS 2",
-      "id": 4
-    },
-    "start_time": "2016-05-05T16:20:00+00:00",
-    "session_id": "OT2-23",
     "location": "Room 1b",
     "sign_up": null,
     "type": "Talk of 25 minutes",
