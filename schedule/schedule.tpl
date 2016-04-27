@@ -21,7 +21,7 @@
   <link rel="shortcut icon" href="../fossasia.ico" type="image/x-icon" />
   <link href="../css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all"/>
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,300' rel='stylesheet' type='text/css'>
-  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all"/>
+  <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all"/>
 
   <link rel="stylesheet" href="../css/schedule.css">
 
@@ -46,7 +46,7 @@
             <span>Menu</span>
           </button>
           <a class="navbar-brand" href="//opentechsummit.net/">
-            <img alt="Logo" class="logo logo-dark" src="../img/Logo_OpenTecSummit_TXT_grey.png">    
+            <img alt="Logo" class="logo logo-dark" src="../img/Logo_OpenTecSummit_TXT_grey.png">
           </a>
         </div>
         <div class="collapse navbar-collapse" id="navbar">
@@ -70,6 +70,13 @@
             </ul>
             {{/days}}
           </ul>
+          <div class="pull-right">
+            {{#sociallinks}}
+            <div class="btn">
+              <a href="{{url}}"><i class="fa fa-lg fa-{{icon}}"></i></a>
+            </div>
+            {{/sociallinks}}
+          </div>
         </div><!--/.nav-collapse -->
       </div>
     </nav>
