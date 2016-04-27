@@ -66,7 +66,9 @@
           </ul>
           <ul class="nav navbar-nav navbar-right">
             {{#sociallinks}}
-              <li><a href="{{url}}"><i class="fa fa-lg fa-{{icon}}"></i></a></li>
+              {{#if show}}
+                <li><a href="{{url}}"><i class="fa fa-lg fa-{{icon}}"></i></a></li>
+              {{/if}}
             {{/sociallinks}}
           </ul>
         </div><!--/.nav-collapse -->

@@ -6,6 +6,7 @@ git config --global user.name "Travis CI"
 git config --global user.email "noreply+travis@fossasia.org"
 
 python scraper.py
+python event.py
 
 # don't continue if no changes
 if git diff-index --quiet HEAD; then
