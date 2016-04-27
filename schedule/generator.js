@@ -7,6 +7,7 @@ const handlebars = require('handlebars')
 const tpl = handlebars.compile(fs.readFileSync(__dirname + '/schedule.tpl').toString('utf-8'))
 const sessionsData = require('../out/sessions.json')
 const speakersData = require('../out/speakers.json')
+const servicesData = require('../out/services.json')
 
 if(!String.linkify) {
     String.prototype.linkify = function() {
@@ -30,17 +31,17 @@ function slugify(str) {
 }
 
 function speakerNameWithOrg(speaker) {
-  return speaker.organisation ? 
-    `${speaker.name} (${speaker.organisation})` : 
+  return speaker.organisation ?
+    `${speaker.name} (${speaker.organisation})` :
     speaker.name
 }
 
 function foldByDate(tracks) {
-  let dateMap = new Map() 
+  let dateMap = new Map()
 
   tracks.forEach(track => {
     if (!dateMap.has(track.date)) dateMap.set(track.date, {
-      caption: track.date, 
+      caption: track.date,
       tracks: []
     })
     dateMap.get(track.date).tracks.push(track)
@@ -74,7 +75,7 @@ function foldByTrack(sessions, speakers) {
       return
 
     // generate slug/key for session
-    let date = moment(session.start_time).format('YYYY-MM-DD') 
+    let date = moment(session.start_time).format('YYYY-MM-DD')
     let slug = date + '-' + slugify(session.track.name)
     let track = null
 
@@ -83,7 +84,7 @@ function foldByTrack(sessions, speakers) {
       track = {
         title: session.track.name,
         date: moment(session.start_time).format('ddd, MMM DD'),
-        slug: slug, 
+        slug: slug,
         sortKey: date + '-' + zeroFill(session.track.order),
         sessions: []
       }
@@ -113,11 +114,45 @@ function foldByTrack(sessions, speakers) {
   return tracks
 }
 
-function transformData(sessions, speakers) {
-  let tracks = foldByTrack(sessions.sessions, speakers.speakers)
-  let days = foldByDate(tracks)
-  return {tracks, days}
+function createSocialLinks(services) {
+  let sociallinks = Array.from(services.services)
+  sociallinks.forEach(link => {
+    switch(link.service.toLowerCase()) {
+      case 'event main page':
+        link.icon = 'home'
+        break;
+      case 'twitter':
+        link.icon = 'twitter'
+        break;
+      case 'github':
+        link.icon = 'github'
+        break;
+      case 'facebook':
+        link.icon = 'facebook'
+        break;
+      case 'youtube':
+        link.icon = 'youtube'
+        break;
+      case 'linkedin':
+        link.icon = 'linkedin'
+        break;
+      case 'flickr':
+        link.icon = 'flickr'
+        break;
+      case 'google plus':
+        link.icon = 'google-plus'
+        break;
+    }
+  })
+  return sociallinks
 }
 
-const data = transformData(sessionsData, speakersData)
+function transformData(sessions, speakers, services) {
+  let tracks = foldByTrack(sessions.sessions, speakers.speakers)
+  let days = foldByDate(tracks)
+  let sociallinks = createSocialLinks(services)
+  return {tracks, days, sociallinks}
+}
+
+const data = transformData(sessionsData, speakersData, servicesData)
 process.stdout.write(tpl(data))
