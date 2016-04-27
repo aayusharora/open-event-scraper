@@ -20,8 +20,8 @@
   <!-- Latest compiled and minified CSS -->
   <link rel="shortcut icon" href="../fossasia.ico" type="image/x-icon" />
   <link href="../css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all"/>
-  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,300' rel='stylesheet' type='text/css'>
-  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all"/>
+  <link href='//fonts.googleapis.com/css?family=Open+Sans:400,600,300' rel='stylesheet' type='text/css'>
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all"/>
 
   <link rel="stylesheet" href="../css/schedule.css">
 
@@ -53,30 +53,24 @@
           <ul class="nav navbar-nav">
             {{#days}}
             <li class="dropdown" id="day-menu">
-              <a
-              href="#"
-              class="dropdown-toggle"
-              data-toggle="dropdown"
-              role="button"
-              aria-haspopup="true"
-              aria-expanded="false">
-              {{caption}}
-              <span class="caret"></span>
-            </a>
-            <ul class="dropdown-menu">
-              {{#tracks}}
-              <li><a href="#{{slug}}">{{title}}</a></li>
-              {{/tracks}}
-            </ul>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                {{caption}} <span class="caret"></span>
+              </a>
+              <ul class="dropdown-menu">
+                {{#tracks}}
+                <li><a href="#{{slug}}">{{title}}</a></li>
+                {{/tracks}}
+              </ul>
+            </li>
             {{/days}}
           </ul>
-          <div class="pull-right">
+          <ul class="nav navbar-nav navbar-right">
             {{#sociallinks}}
-            <div class="btn">
-              <a href="{{url}}"><i class="fa fa-lg fa-{{icon}}"></i></a>
-            </div>
+              {{#if show}}
+                <li><a href="{{url}}"><i class="fa fa-lg fa-{{icon}}"></i></a></li>
+              {{/if}}
             {{/sociallinks}}
-          </div>
+          </ul>
         </div><!--/.nav-collapse -->
       </div>
     </nav>
@@ -196,9 +190,9 @@
 
     </div><!-- /#session-list -->
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.11.2/moment.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.11.2/moment.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
     integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
     crossorigin="anonymous">
   </script>

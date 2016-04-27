@@ -117,6 +117,7 @@ function foldByTrack(sessions, speakers) {
 function createSocialLinks(services) {
   let sociallinks = Array.from(services.services)
   sociallinks.forEach(link => {
+    link.show = true
     switch(link.service.toLowerCase()) {
       case 'event main page':
         link.icon = 'home'
@@ -131,10 +132,13 @@ function createSocialLinks(services) {
         link.icon = 'facebook'
         break;
       case 'youtube':
-        link.icon = 'youtube'
+        link.icon = 'youtube-play'
         break;
       case 'linkedin':
         link.icon = 'linkedin'
+        break;
+      case 'vimeo':
+        link.icon = 'vimeo'
         break;
       case 'flickr':
         link.icon = 'flickr'
@@ -142,6 +146,13 @@ function createSocialLinks(services) {
       case 'google plus':
         link.icon = 'google-plus'
         break;
+      default:
+        link.show = false
+        break;
+    }
+
+    if (link.url == "") {
+      link.show = false
     }
   })
   return sociallinks

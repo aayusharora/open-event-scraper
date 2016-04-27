@@ -27,7 +27,7 @@
     "py/object": "models.Service",
     "url": "https://www.flickr.com/search/?q=openxlab",
     "id": 6,
-    "service": "Flcikr"
+    "service": "Flickr"
   },
   {
     "py/object": "models.Service",
@@ -45,6 +45,12 @@
     "py/object": "models.Service",
     "url": "",
     "id": 9,
+    "service": "Vimeo"
+  },
+  {
+    "py/object": "models.Service",
+    "url": "",
+    "id": 10,
     "service": "Linkedin"
   }
 ]}
