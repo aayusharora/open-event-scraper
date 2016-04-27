@@ -107,6 +107,16 @@
                     <a class="session-link" href="#{{session_id}}">
                       <i class="fa fa-link"></i>
                     </a>
+                    {{#if video}}
+                    <a class="video-link" href="{{video}}" target="_blank">
+                      <i class="fa fa-youtube-play fa-2x"></i>
+                    </a>
+                    {{/if}}
+                    {{#if slides}}
+                    <a class="slide-link" href="{{slides}}" target="_blank">
+                      [Slides]
+                    </a>
+                    {{/if}}
                     {{#if sign_up}}
                     <a href="{{sign_up}}" class="btn btn-xs btn-sign-up"> Sign up </a>
                     {{/if}}

@@ -169,6 +169,16 @@ def parse_row(row, last_speaker, last_session, current_track):
             session.sign_up = row['Sign up']
         else:
             session.sign_up = None
+    if not hasattr(session, 'video'):
+        if row.has_key('Video') and row['Video']:
+            session.video = row['Video']
+        else:
+            session.video = None
+    if not hasattr(session, 'slides'):
+        if row.has_key('Slideshow') and row['Slideshow']:
+            session.slides = row['Slideshow']
+        else:
+            session.slides = None
     if not hasattr(session, 'type'):
         session.type = row["Type of Proposal"]
     if not hasattr(session, 'track'):
