@@ -71,5 +71,5 @@ target/
 node_modules/
 .env
 
-
+.idea
 fa16-repo/
