@@ -114,6 +114,7 @@
                     <a class="session-link" href="#{{session_id}}">
                       <i class="fa fa-link"></i>
                     </a>
+                    <input class="inputbox" type="text" onclick="this.select()" value="https://opentechevent.net/programm/#{{session_id}}" style="display:none;">
                     {{#if video}}
                     <a class="video-link" href="{{video}}" target="_blank">
                       <i class="fa fa-youtube-play fa-2x"></i>
@@ -202,6 +203,13 @@
     crossorigin="anonymous">
   </script>
    <script type="text/javascript">
+       $(document).ready(function(){
+
+        $('.session-link').click(function() {
+          $(this).next('.inputbox').slideToggle();
+        });
+
+  });
       $(function() {
       $('a[href*="#"]:not([href="#"])').click(function() {
         if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
