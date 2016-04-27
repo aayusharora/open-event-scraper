@@ -114,7 +114,7 @@
                     <a class="session-link" href="#{{session_id}}">
                       <i class="fa fa-link"></i>
                     </a>
-                    <input class="inputbox" type="text" onclick="this.select()" value="http://opentechevent.net/programm/#{{session_id}}" style="display:none;">
+                    <input class="inputbox" type="text" onclick="this.select()" value="http://opentechsummit.net/programm/#{{session_id}}" style="display:none;">
                     {{#if video}}
                     <a class="video-link" href="{{video}}" target="_blank">
                       <i class="fa fa-youtube-play fa-2x"></i>
