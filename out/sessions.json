@@ -641,7 +641,7 @@
     "py/object": "models.Session",
     "speakers": [],
     "description": "",
-    "title": "",
+    "title": "Hong Phuc Dang",
     "track": {
       "order": 5,
       "name": "OTS 1",
@@ -661,7 +661,7 @@
     "speakers": [
       {
         "organisation": "OTS",
-        "id": 24,
+        "id": 25,
         "name": "Erik D\u00f6rnenburg and OTS Panelists"
       }
     ],
@@ -686,7 +686,7 @@
     "speakers": [
       {
         "organisation": "OpenKnowledge",
-        "id": 25,
+        "id": 26,
         "name": "Rufus Pollock"
       }
     ],
@@ -711,7 +711,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 26,
+        "id": 27,
         "name": "Lennart Poettering"
       }
     ],
@@ -736,7 +736,7 @@
     "speakers": [
       {
         "organisation": "Kinvolk GmbH",
-        "id": 27,
+        "id": 28,
         "name": "Chris K\u00fchl"
       }
     ],
@@ -761,7 +761,7 @@
     "speakers": [
       {
         "organisation": "Beuth Hochschule fuer Technik Berlin",
-        "id": 28,
+        "id": 29,
         "name": "Ruediger/Bruno Weis/Kirschner"
       }
     ],
@@ -786,7 +786,7 @@
     "speakers": [
       {
         "organisation": "Free Software Foundation Europe e.V.",
-        "id": 29,
+        "id": 30,
         "name": "Matthias Kirschner"
       }
     ],
@@ -811,7 +811,7 @@
     "speakers": [
       {
         "organisation": "ionary",
-        "id": 30,
+        "id": 31,
         "name": "Denjell Caleb Thompson"
       }
     ],
@@ -836,7 +836,7 @@
     "speakers": [
       {
         "organisation": "Thunderbird",
-        "id": 31,
+        "id": 32,
         "name": "J\u00f6rg Knobloch"
       }
     ],
@@ -861,7 +861,7 @@
     "speakers": [
       {
         "organisation": "Bioflux",
-        "id": 32,
+        "id": 33,
         "name": "R\u00fcdiger Trojok"
       }
     ],
@@ -886,7 +886,7 @@
     "speakers": [
       {
         "organisation": "Intelligent Systems / Altran",
-        "id": 33,
+        "id": 34,
         "name": "Toon Peters"
       }
     ],
@@ -936,7 +936,7 @@
     "speakers": [
       {
         "organisation": "Wikimedia Deutschland",
-        "id": 34,
+        "id": 35,
         "name": "Barbara Fischer"
       }
     ],
@@ -961,8 +961,13 @@
     "speakers": [
       {
         "organisation": "Junge T\u00fcftler",
-        "id": 35,
+        "id": 36,
         "name": "Franziska Schmid"
+      },
+      {
+        "organisation": "Junge T\u00fcftler",
+        "id": 16,
+        "name": "Julia Kleeberger"
       }
     ],
     "description": "During this talk we want to share our vision of how education will change within the next years: Thanks to open educational resources, open source software and the digitalization of the society learning is not longer restricted to school buildings and can happens ubiquitously. Thus, we believe education doesn\u2019t need to be a privilege anymore.   We want to show possibilities how to live up to it and share our experiences we already gained with Junge T\u00fcftler: an initiative that offers children a playful access to coding & electronics.",
@@ -985,20 +990,20 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Junge T\u00fcftler",
-        "id": 16,
-        "name": "Julia Kleeberger"
+        "organisation": "FreeGeo API",
+        "id": 37,
+        "name": "Zac Brown"
       }
     ],
-    "description": "During this talk we want to share our vision of how education will change within the next years: Thanks to open educational resources, open source software and the digitalization of the society learning is not longer restricted to school buildings and can happens ubiquitously. Thus, we believe education doesn\u2019t need to be a privilege anymore.   We want to show possibilities how to live up to it and share our experiences we already gained with Junge T\u00fcftler: an initiative that offers children a playful access to coding & electronics.",
-    "title": "Feel the force! ... or how to make open education for real.",
+    "description": "Explore the way the FreeGeo API uses the freely available, and open geospatial data provided by the OSM project to accomplish a free (and, of course, also open) production ready interface that lets developers perform geospatial calclations, geocoding and more!",
+    "title": "FreeGeo API: What, Why & How",
     "track": {
       "order": 6,
       "name": "OTS 2",
       "id": 6
     },
     "start_time": "2016-05-05T11:00:00+00:00",
-    "session_id": "OT2-5",
+    "session_id": "OT2-6",
     "slides": null,
     "video": null,
     "location": "Ebene 2, Loft",
@@ -1010,20 +1015,20 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "FreeGeo API",
-        "id": 36,
-        "name": "Zac Brown"
+        "organisation": "Code for Berlin",
+        "id": 38,
+        "name": "Thomas Tursics"
       }
     ],
-    "description": "Explore the way the FreeGeo API uses the freely available, and open geospatial data provided by the OSM project to accomplish a free (and, of course, also open) production ready interface that lets developers perform geospatial calclations, geocoding and more!",
-    "title": "FreeGeo API: What, Why & How",
+    "description": "Nach einer kurzen Einleitung, was Open Data ist, schauen wir gemeinsam in mehrere Open Data Portale hinein. Welche Daten werden angeboten, wie kann man sie sich anschauen und was daraus schlu\u00dffolgern? Unterf\u00fcttert mit jede Menge Anwendungsbeispielen aus der Community und Ergebnissen von Hackathons soll die Lust auf Open Data geweckt werden.",
+    "title": "Open Data f\u00fcr Dummies - oder - Wie nutze ich offene Daten",
     "track": {
       "order": 6,
       "name": "OTS 2",
       "id": 6
     },
     "start_time": "2016-05-05T11:30:00+00:00",
-    "session_id": "OT2-6",
+    "session_id": "OT2-7",
     "slides": null,
     "video": null,
     "location": "Ebene 2, Loft",
@@ -1035,20 +1040,20 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Code for Berlin",
-        "id": 37,
-        "name": "Thomas Tursics"
+        "organisation": "Kommentarspezialistin",
+        "id": 39,
+        "name": "Felicitas Blanck"
       }
     ],
-    "description": "Nach einer kurzen Einleitung, was Open Data ist, schauen wir gemeinsam in mehrere Open Data Portale hinein. Welche Daten werden angeboten, wie kann man sie sich anschauen und was daraus schlu\u00dffolgern? Unterf\u00fcttert mit jede Menge Anwendungsbeispielen aus der Community und Ergebnissen von Hackathons soll die Lust auf Open Data geweckt werden.",
-    "title": "Open Data f\u00fcr Dummies - oder - Wie nutze ich offene Daten",
+    "description": "Sind die Kommentare noch zu retten? Wie l\u00e4sst man Nutzer im Internet am besten zu Wort kommen? Und wie kommen wir dabei zu einer sachlicheren Debatte? Nutzerkommentare sind sprichw\u00f6rtliches Reservoir f\u00fcr Hass und Beleidigungen. Viele Nachrichtenportale und Blogs haben inzwischen ihre Kommentarbereiche geschlossen oder stark eingeschr\u00e4nkt.  Ist das wirklich der Weisheit letzter Schluss? Immer wieder gibt es Versuche, durch die Anpassung der Nutzeroberfl\u00e4che und H\u00fcrden bei der Anmeldung zu einer sachlicheren Debatte zu kommen. Was gibt es f\u00fcr Ans\u00e4tze? Sind diese erfolgreich? Und was ",
+    "title": "Nutzerkommentare im Internet",
     "track": {
       "order": 6,
       "name": "OTS 2",
       "id": 6
     },
     "start_time": "2016-05-05T12:00:00+00:00",
-    "session_id": "OT2-7",
+    "session_id": "OT2-8",
     "slides": null,
     "video": null,
     "location": "Ebene 2, Loft",
@@ -1060,33 +1065,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Kommentarspezialistin",
-        "id": 38,
-        "name": "Felicitas Blanck"
-      }
-    ],
-    "description": "Sind die Kommentare noch zu retten? Wie l\u00e4sst man Nutzer im Internet am besten zu Wort kommen? Und wie kommen wir dabei zu einer sachlicheren Debatte? Nutzerkommentare sind sprichw\u00f6rtliches Reservoir f\u00fcr Hass und Beleidigungen. Viele Nachrichtenportale und Blogs haben inzwischen ihre Kommentarbereiche geschlossen oder stark eingeschr\u00e4nkt.  Ist das wirklich der Weisheit letzter Schluss? Immer wieder gibt es Versuche, durch die Anpassung der Nutzeroberfl\u00e4che und H\u00fcrden bei der Anmeldung zu einer sachlicheren Debatte zu kommen. Was gibt es f\u00fcr Ans\u00e4tze? Sind diese erfolgreich? Und was ",
-    "title": "Nutzerkommentare im Internet",
-    "track": {
-      "order": 6,
-      "name": "OTS 2",
-      "id": 6
-    },
-    "start_time": "2016-05-05T12:30:00+00:00",
-    "session_id": "OT2-8",
-    "slides": null,
-    "video": null,
-    "location": "Ebene 2, Loft",
-    "sign_up": null,
-    "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T13:00:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
         "organisation": "Gregarious Mammal",
-        "id": 39,
+        "id": 40,
         "name": "Chris Ward"
       }
     ],
@@ -1097,14 +1077,14 @@
       "name": "OTS 2",
       "id": 6
     },
-    "start_time": "2016-05-05T13:00:00+00:00",
+    "start_time": "2016-05-05T12:30:00+00:00",
     "session_id": "OT2-9",
     "slides": null,
     "video": null,
     "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T13:30:00+00:00"
+    "end_time": "2016-05-05T13:00:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -1122,21 +1102,21 @@
       "name": "OTS 2",
       "id": 6
     },
-    "start_time": "2016-05-05T13:30:00+00:00",
+    "start_time": "2016-05-05T13:00:00+00:00",
     "session_id": "OT2-10",
     "slides": null,
     "video": null,
     "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "Talk mit Live-Hack (20 Minuten)",
-    "end_time": "2016-05-05T14:00:00+00:00"
+    "end_time": "2016-05-05T13:30:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "organisation": "Technische Universit\u00e4t Berlin",
-        "id": 40,
+        "id": 41,
         "name": "J\u00e9r\u00e9my Bonvoisin"
       }
     ],
@@ -1147,8 +1127,33 @@
       "name": "OTS 2",
       "id": 6
     },
-    "start_time": "2016-05-05T14:00:00+00:00",
+    "start_time": "2016-05-05T13:30:00+00:00",
     "session_id": "OT2-11",
+    "slides": null,
+    "video": null,
+    "location": "Ebene 2, Loft",
+    "sign_up": null,
+    "type": "Talk of 25 minutes",
+    "end_time": "2016-05-05T14:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "Askemos",
+        "id": 42,
+        "name": "J\u00f6rg Wittenberger"
+      }
+    ],
+    "description": "Modellierung von rechtlichen Prozessen.  Anforderungen und L\u00f6sungsans\u00e4tze im Vergleich.",
+    "title": "smart contracts [th]at work",
+    "track": {
+      "order": 6,
+      "name": "OTS 2",
+      "id": 6
+    },
+    "start_time": "2016-05-05T14:00:00+00:00",
+    "session_id": "OT2-12",
     "slides": null,
     "video": null,
     "location": "Ebene 2, Loft",
@@ -1160,20 +1165,20 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Askemos",
-        "id": 41,
-        "name": "J\u00f6rg Wittenberger"
+        "organisation": "Endocode AG",
+        "id": 43,
+        "name": "Thomas Fricke"
       }
     ],
-    "description": "Modellierung von rechtlichen Prozessen.  Anforderungen und L\u00f6sungsans\u00e4tze im Vergleich.",
-    "title": "smart contracts [th]at work",
+    "description": "It does not make sense to mourn about clouds just being other peoples computers. With Kubernetes (k8s) and Docker you can easily create your own public cloud running on your cloud providers computers, or with a little more effort,  your own *private* cloud running on or your *own* hardware.  There has been evolved an entire ecosystem for software deployed in  containers and for software components securing privacy in the k8s cloud.  With CoreOS as an immutable operating system running immutable containers you could get a higher integrity level build in your application by design.",
+    "title": "Creating Service Clouds with Kubernetes, CoreOS, Container and Co ",
     "track": {
       "order": 6,
       "name": "OTS 2",
       "id": 6
     },
     "start_time": "2016-05-05T14:30:00+00:00",
-    "session_id": "OT2-12",
+    "session_id": "OT2-13",
     "slides": null,
     "video": null,
     "location": "Ebene 2, Loft",
@@ -1185,20 +1190,20 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Endocode AG",
-        "id": 42,
-        "name": "Thomas Fricke"
+        "organisation": "Open Knowledge Foundation Deutschland",
+        "id": 44,
+        "name": "Maximilian Richt"
       }
     ],
-    "description": "It does not make sense to mourn about clouds just being other peoples computers. With Kubernetes (k8s) and Docker you can easily create your own public cloud running on your cloud providers computers, or with a little more effort,  your own *private* cloud running on or your *own* hardware.  There has been evolved an entire ecosystem for software deployed in  containers and for software components securing privacy in the k8s cloud.  With CoreOS as an immutable operating system running immutable containers you could get a higher integrity level build in your application by design.",
-    "title": "Creating Service Clouds with Kubernetes, CoreOS, Container and Co ",
+    "description": "Am Anfang stand eine Gerichtsentscheidung: Letzten Herbst entschied das Bundesverwaltungsgericht, dass der Bundestag ein Gutachten seines wissenschaftlichen Dienstes herausgeben muss, wenn eine IFG-Anfrage dazu gestellt wird.  Aber anstatt von selbst s\u00e4mtliche bisherigen Gutachten zu ver\u00f6ffentlichen, entschied sich der Bundestag, so wenig wie m\u00f6glich herauszugeben - bis wir die Kampagne \"FragDenBundestag\" starteten. Mit der Hilfe von tausenden Usern wurden mehr als 2.000 IFG-Anfragen gestellt, um Gutachten des Wissenschaftlichen Dienstes \u00f6ffentlich zu machen. Dies bewegte letztendlich den Bundestag dazu, St\u00fcck f\u00fcr St\u00fcck von selbst zu ver\u00f6ffentlichen.  In diesem Talk stelle ich die Plattformen sehrgutachten.de und kleineAnfragen.de vor, die einen einfacheren Zugang zu staatlichen Dokumenten erm\u00f6glichen und gehe auf die Schwierigkeiten ein, die entstehen, wenn man versucht, die eigene Regierung etwas transparenter zu machen.",
+    "title": "sehrgutachten und kleineAnfragen: Einmischen in Regierungsangelegenheiten",
     "track": {
       "order": 6,
       "name": "OTS 2",
       "id": 6
     },
     "start_time": "2016-05-05T15:00:00+00:00",
-    "session_id": "OT2-13",
+    "session_id": "OT2-14",
     "slides": null,
     "video": null,
     "location": "Ebene 2, Loft",
@@ -1210,33 +1215,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Open Knowledge Foundation Deutschland",
-        "id": 43,
-        "name": "Maximilian Richt"
-      }
-    ],
-    "description": "Am Anfang stand eine Gerichtsentscheidung: Letzten Herbst entschied das Bundesverwaltungsgericht, dass der Bundestag ein Gutachten seines wissenschaftlichen Dienstes herausgeben muss, wenn eine IFG-Anfrage dazu gestellt wird.  Aber anstatt von selbst s\u00e4mtliche bisherigen Gutachten zu ver\u00f6ffentlichen, entschied sich der Bundestag, so wenig wie m\u00f6glich herauszugeben - bis wir die Kampagne \"FragDenBundestag\" starteten. Mit der Hilfe von tausenden Usern wurden mehr als 2.000 IFG-Anfragen gestellt, um Gutachten des Wissenschaftlichen Dienstes \u00f6ffentlich zu machen. Dies bewegte letztendlich den Bundestag dazu, St\u00fcck f\u00fcr St\u00fcck von selbst zu ver\u00f6ffentlichen.  In diesem Talk stelle ich die Plattformen sehrgutachten.de und kleineAnfragen.de vor, die einen einfacheren Zugang zu staatlichen Dokumenten erm\u00f6glichen und gehe auf die Schwierigkeiten ein, die entstehen, wenn man versucht, die eigene Regierung etwas transparenter zu machen.",
-    "title": "sehrgutachten und kleineAnfragen: Einmischen in Regierungsangelegenheiten",
-    "track": {
-      "order": 6,
-      "name": "OTS 2",
-      "id": 6
-    },
-    "start_time": "2016-05-05T15:30:00+00:00",
-    "session_id": "OT2-14",
-    "slides": null,
-    "video": null,
-    "location": "Ebene 2, Loft",
-    "sign_up": null,
-    "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T16:00:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
         "organisation": "youbroketheinternet.org",
-        "id": 44,
+        "id": 45,
         "name": "carlo von lynX"
       }
     ],
@@ -1247,14 +1227,14 @@
       "name": "OTS 2",
       "id": 6
     },
-    "start_time": "2016-05-05T16:00:00+00:00",
+    "start_time": "2016-05-05T15:30:00+00:00",
     "session_id": "OT2-15",
     "slides": null,
     "video": null,
     "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T16:30:00+00:00"
+    "end_time": "2016-05-05T16:00:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -1286,7 +1266,7 @@
     "speakers": [
       {
         "organisation": "private",
-        "id": 45,
+        "id": 46,
         "name": "Jan / Lisa Dittrich / Conrad"
       }
     ],
@@ -1311,7 +1291,7 @@
     "speakers": [
       {
         "organisation": "Copertura Label",
-        "id": 46,
+        "id": 47,
         "name": "Ivers Yves Pierre"
       }
     ],
@@ -1361,7 +1341,7 @@
     "speakers": [
       {
         "organisation": "LPI e.V.",
-        "id": 47,
+        "id": 48,
         "name": "Harald Maa\u00dfen"
       }
     ],
@@ -1386,7 +1366,7 @@
     "speakers": [
       {
         "organisation": "LPI e.V.",
-        "id": 47,
+        "id": 48,
         "name": "Harald Maa\u00dfen"
       }
     ],
