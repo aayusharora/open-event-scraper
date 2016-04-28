@@ -12,7 +12,7 @@
     "title": "Fantastische Hardware Bauen & L\u00f6ten Lernen mit Mitch (TV-B-Gone) // Learn to Solder with Cool Kits!",
     "track": {
       "order": 2,
-      "name": "Maker Space",
+      "name": "Maker Camp",
       "id": 2
     },
     "start_time": "2016-05-05T07:30:00+00:00",
@@ -37,7 +37,7 @@
     "title": "CoderDojo",
     "track": {
       "order": 2,
-      "name": "Maker Space",
+      "name": "Maker Camp",
       "id": 2
     },
     "start_time": "2016-05-05T07:30:00+00:00",
@@ -62,7 +62,7 @@
     "title": "Postapokalyptischer Schmuck / Postapocalyptic Jewellery",
     "track": {
       "order": 2,
-      "name": "Maker Space",
+      "name": "Maker Camp",
       "id": 2
     },
     "start_time": "2016-05-05T07:30:00+00:00",
@@ -87,7 +87,7 @@
     "title": "Query Service Wikidata ",
     "track": {
       "order": 2,
-      "name": "Maker Space",
+      "name": "Maker Camp",
       "id": 2
     },
     "start_time": "2016-05-05T07:30:00+00:00",
@@ -112,7 +112,7 @@
     "title": "Unabh\u00e4ngige eigene Internet-Suche in wenigen Schritten auf dem PC installieren",
     "track": {
       "order": 2,
-      "name": "Maker Space",
+      "name": "Maker Camp",
       "id": 2
     },
     "start_time": "2016-05-05T07:30:00+00:00",
@@ -137,7 +137,7 @@
     "title": "Jugend Hackt",
     "track": {
       "order": 2,
-      "name": "Maker Space",
+      "name": "Maker Camp",
       "id": 2
     },
     "start_time": "2016-05-05T07:30:00+00:00",
@@ -162,7 +162,7 @@
     "title": "Code Week Award Live-Hack",
     "track": {
       "order": 2,
-      "name": "Maker Space",
+      "name": "Maker Camp",
       "id": 2
     },
     "start_time": "2016-05-05T07:30:00+00:00",
@@ -187,7 +187,7 @@
     "title": "Heart Of Code - a hackspace for women* in Berlin",
     "track": {
       "order": 2,
-      "name": "Maker Space",
+      "name": "Maker Camp",
       "id": 2
     },
     "start_time": "2016-05-05T07:30:00+00:00",
@@ -212,7 +212,7 @@
     "title": "Wir Bauen Tolle Sachen und T\u00fcfteln mit Elektronik, Papier, Knete und Stoff",
     "track": {
       "order": 2,
-      "name": "Maker Space",
+      "name": "Maker Camp",
       "id": 2
     },
     "start_time": "2016-05-05T07:30:00+00:00",
@@ -237,7 +237,7 @@
     "title": "TinyBoy Project - a 3D printer for education",
     "track": {
       "order": 2,
-      "name": "Maker Space",
+      "name": "Maker Camp",
       "id": 2
     },
     "start_time": "2016-05-05T07:30:00+00:00",
@@ -262,7 +262,7 @@
     "title": "Free Software Foundation Europe e.V.",
     "track": {
       "order": 2,
-      "name": "Maker Space",
+      "name": "Maker Camp",
       "id": 2
     },
     "start_time": "2016-05-05T07:30:00+00:00",
@@ -294,7 +294,7 @@
     "session_id": "W-1",
     "slides": null,
     "video": null,
-    "location": "Room 3",
+    "location": "Saal",
     "sign_up": "http://www.meetup.com/OpenXLab/events/230435191/",
     "type": "Workshop, 2h",
     "end_time": "2016-05-05T08:30:00+00:00"
@@ -319,7 +319,7 @@
     "session_id": "W-5",
     "slides": null,
     "video": null,
-    "location": "Room 3",
+    "location": "Saal",
     "sign_up": "http://www.meetup.com/Software-Craftsmanship-Berlin/events/230566242/",
     "type": "Workshop und Developer Meetup",
     "end_time": "2016-05-05T09:30:00+00:00"
@@ -344,7 +344,7 @@
     "session_id": "W-2",
     "slides": null,
     "video": null,
-    "location": "Room 3",
+    "location": "Ebene 1, Raum 4",
     "sign_up": "http://www.meetup.com/OpenXLab/events/230446672/",
     "type": "Workshop",
     "end_time": "2016-05-05T09:30:00+00:00"
@@ -369,7 +369,7 @@
     "session_id": "W-3",
     "slides": null,
     "video": null,
-    "location": "Room 3",
+    "location": "Ebene 1, Raum 1",
     "sign_up": "http://www.meetup.com/OpenXLab/events/230447656/",
     "type": "Workshop",
     "end_time": "2016-05-05T12:30:00+00:00"
@@ -394,7 +394,7 @@
     "session_id": "W-6",
     "slides": null,
     "video": null,
-    "location": "Room 3",
+    "location": "Saal",
     "sign_up": "http://www.meetup.com/Software-Craftsmanship-Berlin/events/230566242/",
     "type": "Workshop und Developer Meetup",
     "end_time": "2016-05-05T14:30:00+00:00"
@@ -419,7 +419,7 @@
     "session_id": "W-4",
     "slides": null,
     "video": null,
-    "location": "Room 3",
+    "location": "Ebene 1, Raum 1",
     "sign_up": "http://www.meetup.com/OpenXLab/events/230539055/",
     "type": "Workshop",
     "end_time": "2016-05-05T14:30:00+00:00"
