@@ -33,45 +33,48 @@
     </head>
     <body>
 
-      <!-- Fixed navbar -->
-      <nav class="navbar navbar-default navbar-fixed-top">
-        <div class="container">
-          <div class="navbar-header">
-            <button
-            type="button"
-            class="navbar-toggle collapsed"
-            data-toggle="collapse"
-            data-target="#navbar"
-            aria-expanded="false">
-            <span>Menu</span>
-          </button>
+    <!-- Fixed navbar -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header navbar-left pull-left">
           <a class="navbar-brand" href="//opentechsummit.net/">
             <img alt="Logo" class="logo logo-dark" src="../img/Logo_OpenTecSummit_TXT_grey.png">
           </a>
         </div>
-        <div class="collapse navbar-collapse" id="navbar">
-          <ul class="nav navbar-nav">
+
+        <div class="navbar-header navbar-right pull-right">
+          <ul class="nav navbar-nav pull-left">
+            {{#sociallinks}}
+              {{#if show}}
+                <li class="pull-left"><a href="{{url}}"><i class="fa fa-lg fa-{{icon}}"></i></a></li>
+              {{/if}}
+            {{/sociallinks}}
+          </ul>
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse" style="margin-left:1em;margin-top:1em;">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+
+        <div class="hidden-lg hidden-md hidden-sm clearfix"></div>
+        <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-left">
             {{#days}}
             <li class="dropdown" id="day-menu">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                 {{caption}} <span class="caret"></span>
               </a>
               <ul class="dropdown-menu">
                 {{#tracks}}
-                <li><a href="#{{slug}}">{{title}}</a></li>
+                  <li><a href="#{{slug}}">{{title}}</a></li>
                 {{/tracks}}
               </ul>
             </li>
             {{/days}}
           </ul>
-          <ul class="nav navbar-nav navbar-right">
-            {{#sociallinks}}
-              {{#if show}}
-                <li><a href="{{url}}"><i class="fa fa-lg fa-{{icon}}"></i></a></li>
-              {{/if}}
-            {{/sociallinks}}
-          </ul>
-        </div><!--/.nav-collapse -->
+        </div>
       </div>
     </nav>
 
