@@ -200,7 +200,7 @@
        $(document).ready(function(){
 
         $('.session-link').click(function() {
-          $(this).next('.inputbox').slideToggle();
+          $(this).next('.inputbox').toggle().select();
         });
 
   });
