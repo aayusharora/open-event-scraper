@@ -62,13 +62,13 @@
     "track_image_url": "http://lorempixel.com/400/200",
     "id": 7,
     "gid": "1549016393",
-    "location": "Ebene 2, Loft",
+    "location": "Ebene 1, Galerie",
     "order": 7
   },
   {
     "py/object": "models.Track",
     "key_color": "#3DC8C3",
-    "name": "Zertifizierung",
+    "name": "Linux-Zertifizierung",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
     "id": 8,

@@ -1252,14 +1252,14 @@
       "name": "Lightning Talks",
       "id": 7
     },
-    "start_time": "2016-05-05T11:00:00+00:00",
+    "start_time": "2016-05-05T11:30:00+00:00",
     "session_id": "LT-1",
     "slides": null,
     "video": null,
-    "location": "Ebene 2, Loft",
+    "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Lightning Talk (5-10 minutes)",
-    "end_time": "2016-05-05T11:30:00+00:00"
+    "end_time": "2016-05-05T12:00:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -1277,14 +1277,14 @@
       "name": "Lightning Talks",
       "id": 7
     },
-    "start_time": "2016-05-05T11:10:00+00:00",
+    "start_time": "2016-05-05T11:37:00+00:00",
     "session_id": "LT-2",
     "slides": null,
     "video": null,
-    "location": "Ebene 2, Loft",
+    "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Lightning Talk (5-10 minutes)",
-    "end_time": "2016-05-05T11:40:00+00:00"
+    "end_time": "2016-05-05T12:07:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -1302,14 +1302,14 @@
       "name": "Lightning Talks",
       "id": 7
     },
-    "start_time": "2016-05-05T11:20:00+00:00",
+    "start_time": "2016-05-05T11:44:00+00:00",
     "session_id": "LT-3",
     "slides": null,
     "video": null,
-    "location": "Ebene 2, Loft",
+    "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Lightning Talk (5-10 minutes)",
-    "end_time": "2016-05-05T11:50:00+00:00"
+    "end_time": "2016-05-05T12:14:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -1327,14 +1327,14 @@
       "name": "Lightning Talks",
       "id": 7
     },
-    "start_time": "2016-05-05T11:30:00+00:00",
+    "start_time": "2016-05-05T11:51:00+00:00",
     "session_id": "LT-4",
     "slides": null,
     "video": null,
-    "location": "Ebene 2, Loft",
+    "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Lightning Talk (5-10 minutes)",
-    "end_time": "2016-05-05T12:00:00+00:00"
+    "end_time": "2016-05-05T12:21:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -1349,7 +1349,7 @@
     "title": "LPI Zertifizierung",
     "track": {
       "order": 8,
-      "name": "Zertifizierung",
+      "name": "Linux-Zertifizierung",
       "id": 8
     },
     "start_time": "2016-05-05T12:00:00+00:00",
@@ -1374,7 +1374,7 @@
     "title": "LPI Zertifizierung",
     "track": {
       "order": 8,
-      "name": "Zertifizierung",
+      "name": "Linux-Zertifizierung",
       "id": 8
     },
     "start_time": "2016-05-05T14:00:00+00:00",
