@@ -19,7 +19,7 @@
     "session_id": "MS-1",
     "slides": null,
     "video": "https://www.youtube.com/channel/UCJoKp-gG2t7lH5_hiKp95yA",
-    "location": "Room 5",
+    "location": "Erdgeschoss, Saal",
     "sign_up": "http://www.meetup.com/OpenXLab/events/230011213/",
     "type": "Soldering Workshop",
     "end_time": "2016-05-05T08:00:00+00:00"
@@ -44,7 +44,7 @@
     "session_id": "MS-6",
     "slides": null,
     "video": null,
-    "location": "Room 5",
+    "location": "Erdgeschoss, Saal",
     "sign_up": null,
     "type": "Workshop/Exhibition",
     "end_time": "2016-05-05T08:00:00+00:00"
@@ -69,7 +69,7 @@
     "session_id": "MS-5",
     "slides": null,
     "video": null,
-    "location": "Room 5",
+    "location": "Erdgeschoss, Saal",
     "sign_up": null,
     "type": "Exhibition Area, Table with Laptops, cushions",
     "end_time": "2016-05-05T08:00:00+00:00"
@@ -94,7 +94,7 @@
     "session_id": "MS-10",
     "slides": null,
     "video": null,
-    "location": "Room 5",
+    "location": "Erdgeschoss, Saal",
     "sign_up": "http://www.meetup.com/OpenXLab/events/230593089/",
     "type": "Exhibition Area",
     "end_time": "2016-05-05T08:00:00+00:00"
@@ -119,7 +119,7 @@
     "session_id": "MS-8",
     "slides": null,
     "video": null,
-    "location": "Room 5",
+    "location": "Erdgeschoss, Saal",
     "sign_up": null,
     "type": "Exhibition",
     "end_time": "2016-05-05T08:00:00+00:00"
@@ -144,7 +144,7 @@
     "session_id": "MS-9",
     "slides": null,
     "video": null,
-    "location": "Room 5",
+    "location": "Erdgeschoss, Saal",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T08:00:00+00:00"
@@ -169,7 +169,7 @@
     "session_id": "MS-11",
     "slides": null,
     "video": null,
-    "location": "Room 5",
+    "location": "Erdgeschoss, Saal",
     "sign_up": null,
     "type": "Exhibition Area",
     "end_time": "2016-05-05T08:00:00+00:00"
@@ -341,10 +341,10 @@
       "id": 4
     },
     "start_time": "2016-05-05T07:30:00+00:00",
-    "session_id": "MS-2",
+    "session_id": "KC-1",
     "slides": null,
     "video": null,
-    "location": "",
+    "location": "Erdgeschoss, Saal",
     "sign_up": "http://www.meetup.com/OpenXLab/events/230160858/",
     "type": "Kids Maker Space",
     "end_time": "2016-05-05T08:00:00+00:00"
@@ -366,10 +366,10 @@
       "id": 4
     },
     "start_time": "2016-05-05T07:30:00+00:00",
-    "session_id": "MS-4",
+    "session_id": "KC-2",
     "slides": null,
     "video": null,
-    "location": "",
+    "location": "Erdgeschoss, Saal",
     "sign_up": null,
     "type": "Exhibition Area",
     "end_time": "2016-05-05T08:00:00+00:00"
@@ -391,10 +391,10 @@
       "id": 4
     },
     "start_time": "2016-05-05T07:30:00+00:00",
-    "session_id": "MS-7",
+    "session_id": "KC-3",
     "slides": null,
     "video": null,
-    "location": "",
+    "location": "Erdgeschoss, Saal",
     "sign_up": null,
     "type": "Exhibition",
     "end_time": "2016-05-05T08:00:00+00:00"
@@ -416,10 +416,10 @@
       "id": 4
     },
     "start_time": "2016-05-05T07:30:00+00:00",
-    "session_id": "MS-3",
+    "session_id": "KC-4",
     "slides": null,
     "video": null,
-    "location": "",
+    "location": "Ebene 1, Raum 2 und Raum 3",
     "sign_up": "http://www.meetup.com/OpenXLab/events/230160858/",
     "type": "Kids Maker Space",
     "end_time": "2016-05-05T08:00:00+00:00"
@@ -444,7 +444,7 @@
     "session_id": "OT-01",
     "slides": null,
     "video": null,
-    "location": "Room 1",
+    "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T09:30:00+00:00"
@@ -469,7 +469,7 @@
     "session_id": "OT-02",
     "slides": null,
     "video": null,
-    "location": "Room 1",
+    "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T09:50:00+00:00"
@@ -494,7 +494,7 @@
     "session_id": "OT-65",
     "slides": null,
     "video": null,
-    "location": "Room 1",
+    "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T10:10:00+00:00"
@@ -519,7 +519,7 @@
     "session_id": "OT-03",
     "slides": null,
     "video": null,
-    "location": "Room 1",
+    "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T10:30:00+00:00"
@@ -544,7 +544,7 @@
     "session_id": "OT-04",
     "slides": null,
     "video": null,
-    "location": "Room 1",
+    "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T10:50:00+00:00"
@@ -569,7 +569,7 @@
     "session_id": "OT-05",
     "slides": null,
     "video": null,
-    "location": "Room 1",
+    "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T11:10:00+00:00"
@@ -594,7 +594,7 @@
     "session_id": "OT-06",
     "slides": null,
     "video": null,
-    "location": "Room 1",
+    "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "1 hour",
     "end_time": "2016-05-05T11:30:00+00:00"
@@ -619,7 +619,7 @@
     "session_id": "OT-07",
     "slides": null,
     "video": null,
-    "location": "Room 1",
+    "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T11:50:00+00:00"
@@ -644,7 +644,7 @@
     "session_id": "OT-08",
     "slides": null,
     "video": null,
-    "location": "Room 1",
+    "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T12:10:00+00:00"
@@ -669,7 +669,7 @@
     "session_id": "OT-09",
     "slides": null,
     "video": null,
-    "location": "Room 1",
+    "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Panel",
     "end_time": "2016-05-05T12:30:00+00:00"
@@ -694,7 +694,7 @@
     "session_id": "OT-10",
     "slides": null,
     "video": null,
-    "location": "Room 1",
+    "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T12:50:00+00:00"
@@ -719,7 +719,7 @@
     "session_id": "OT-11",
     "slides": null,
     "video": null,
-    "location": "Room 1",
+    "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T13:10:00+00:00"
@@ -744,7 +744,7 @@
     "session_id": "OT-12",
     "slides": null,
     "video": null,
-    "location": "Room 1",
+    "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T13:30:00+00:00"
@@ -769,7 +769,7 @@
     "session_id": "OT-13",
     "slides": null,
     "video": null,
-    "location": "Room 1",
+    "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Talk mit Live-Hack (20 Minuten)",
     "end_time": "2016-05-05T13:50:00+00:00"
@@ -794,7 +794,7 @@
     "session_id": "OT-14",
     "slides": null,
     "video": null,
-    "location": "Room 1",
+    "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T14:10:00+00:00"
@@ -819,7 +819,7 @@
     "session_id": "OT-15",
     "slides": null,
     "video": null,
-    "location": "Room 1",
+    "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T14:30:00+00:00"
@@ -844,7 +844,7 @@
     "session_id": "OT-16",
     "slides": null,
     "video": null,
-    "location": "Room 1",
+    "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T14:50:00+00:00"
@@ -869,7 +869,7 @@
     "session_id": "OT-17",
     "slides": null,
     "video": null,
-    "location": "Room 1",
+    "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T15:10:00+00:00"
@@ -894,7 +894,7 @@
     "session_id": "OT-18",
     "slides": null,
     "video": null,
-    "location": "Room 1",
+    "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T15:30:00+00:00"
@@ -919,7 +919,7 @@
     "session_id": "OT-19",
     "slides": null,
     "video": null,
-    "location": "Room 1",
+    "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T15:50:00+00:00"
@@ -944,7 +944,7 @@
     "session_id": "OT-20",
     "slides": null,
     "video": null,
-    "location": "Room 1",
+    "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T16:10:00+00:00"
@@ -974,7 +974,7 @@
     "session_id": "OT-21",
     "slides": null,
     "video": null,
-    "location": "Room 1",
+    "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T16:50:00+00:00"
@@ -999,7 +999,7 @@
     "session_id": "OT-23",
     "slides": null,
     "video": null,
-    "location": "Room 1",
+    "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T17:10:00+00:00"
@@ -1024,7 +1024,7 @@
     "session_id": "OT-24",
     "slides": null,
     "video": null,
-    "location": "Room 1",
+    "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T17:30:00+00:00"
@@ -1049,7 +1049,7 @@
     "session_id": "OT-25",
     "slides": null,
     "video": null,
-    "location": "Room 1",
+    "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T17:50:00+00:00"
@@ -1074,7 +1074,7 @@
     "session_id": "OT-26",
     "slides": null,
     "video": null,
-    "location": "Room 1",
+    "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T18:10:00+00:00"
@@ -1099,7 +1099,7 @@
     "session_id": "OT-27",
     "slides": null,
     "video": null,
-    "location": "Room 1",
+    "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T18:50:00+00:00"
@@ -1124,7 +1124,7 @@
     "session_id": "OT-28",
     "slides": null,
     "video": null,
-    "location": "Room 1",
+    "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Lightning Talk (5-10 minutes)",
     "end_time": "2016-05-05T19:10:00+00:00"
@@ -1149,7 +1149,7 @@
     "session_id": "OT2-01",
     "slides": null,
     "video": null,
-    "location": "Room 1b",
+    "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T09:30:00+00:00"
@@ -1174,7 +1174,7 @@
     "session_id": "OT2-02",
     "slides": null,
     "video": null,
-    "location": "Room 1b",
+    "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T09:50:00+00:00"
@@ -1199,7 +1199,7 @@
     "session_id": "OT2-03",
     "slides": null,
     "video": null,
-    "location": "Room 1b",
+    "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T10:10:00+00:00"
@@ -1224,7 +1224,7 @@
     "session_id": "OT2-04",
     "slides": null,
     "video": null,
-    "location": "Room 1b",
+    "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T10:30:00+00:00"
@@ -1249,7 +1249,7 @@
     "session_id": "OT2-05",
     "slides": null,
     "video": null,
-    "location": "Room 1b",
+    "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T10:50:00+00:00"
@@ -1274,7 +1274,7 @@
     "session_id": "OT2-06",
     "slides": null,
     "video": null,
-    "location": "Room 1b",
+    "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T11:10:00+00:00"
@@ -1299,7 +1299,7 @@
     "session_id": "OT2-07",
     "slides": null,
     "video": null,
-    "location": "Room 1b",
+    "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "1 hour",
     "end_time": "2016-05-05T11:30:00+00:00"
@@ -1324,7 +1324,7 @@
     "session_id": "OT2-08",
     "slides": null,
     "video": null,
-    "location": "Room 1b",
+    "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T11:50:00+00:00"
@@ -1349,7 +1349,7 @@
     "session_id": "OT2-09",
     "slides": null,
     "video": null,
-    "location": "Room 1b",
+    "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T12:10:00+00:00"
@@ -1374,7 +1374,7 @@
     "session_id": "OT2-10",
     "slides": null,
     "video": null,
-    "location": "Room 1b",
+    "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "Panel",
     "end_time": "2016-05-05T12:30:00+00:00"
@@ -1399,7 +1399,7 @@
     "session_id": "OT2-11",
     "slides": null,
     "video": null,
-    "location": "Room 1b",
+    "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T12:50:00+00:00"
@@ -1424,7 +1424,7 @@
     "session_id": "OT2-12",
     "slides": null,
     "video": null,
-    "location": "Room 1b",
+    "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T13:10:00+00:00"
@@ -1449,7 +1449,7 @@
     "session_id": "OT2-13",
     "slides": null,
     "video": null,
-    "location": "Room 1b",
+    "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T13:30:00+00:00"
@@ -1474,7 +1474,7 @@
     "session_id": "OT2-14",
     "slides": null,
     "video": null,
-    "location": "Room 1b",
+    "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "Talk mit Live-Hack (20 Minuten)",
     "end_time": "2016-05-05T13:50:00+00:00"
@@ -1499,7 +1499,7 @@
     "session_id": "OT2-15",
     "slides": null,
     "video": null,
-    "location": "Room 1b",
+    "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T14:10:00+00:00"
@@ -1524,7 +1524,7 @@
     "session_id": "OT2-16",
     "slides": null,
     "video": null,
-    "location": "Room 1b",
+    "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T14:30:00+00:00"
@@ -1549,7 +1549,7 @@
     "session_id": "OT2-17",
     "slides": null,
     "video": null,
-    "location": "Room 1b",
+    "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T14:50:00+00:00"
@@ -1574,7 +1574,7 @@
     "session_id": "OT2-18",
     "slides": null,
     "video": null,
-    "location": "Room 1b",
+    "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T15:10:00+00:00"
@@ -1599,7 +1599,7 @@
     "session_id": "OT2-19",
     "slides": null,
     "video": null,
-    "location": "Room 1b",
+    "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T15:30:00+00:00"
@@ -1624,7 +1624,7 @@
     "session_id": "OT2-20",
     "slides": null,
     "video": null,
-    "location": "Room 1b",
+    "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T15:50:00+00:00"
@@ -1649,7 +1649,7 @@
     "session_id": "OT2-21",
     "slides": null,
     "video": null,
-    "location": "Room 1b",
+    "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T16:10:00+00:00"
@@ -1679,7 +1679,7 @@
     "session_id": "OT2-22",
     "slides": null,
     "video": null,
-    "location": "Room 1b",
+    "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T16:50:00+00:00"
@@ -1704,7 +1704,7 @@
     "session_id": "OT2-24",
     "slides": null,
     "video": null,
-    "location": "Room 1b",
+    "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T17:10:00+00:00"
@@ -1729,7 +1729,7 @@
     "session_id": "OT2-25",
     "slides": null,
     "video": null,
-    "location": "Room 1b",
+    "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T17:30:00+00:00"
@@ -1754,7 +1754,7 @@
     "session_id": "OT2-26",
     "slides": null,
     "video": null,
-    "location": "Room 1b",
+    "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T17:50:00+00:00"
@@ -1779,7 +1779,7 @@
     "session_id": "OT2-27",
     "slides": null,
     "video": null,
-    "location": "Room 1b",
+    "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T18:10:00+00:00"
@@ -1804,7 +1804,7 @@
     "session_id": "OT2-28",
     "slides": null,
     "video": null,
-    "location": "Room 1b",
+    "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T18:30:00+00:00"
@@ -1829,7 +1829,7 @@
     "session_id": "OT2-29",
     "slides": null,
     "video": null,
-    "location": "Room 1b",
+    "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T18:50:00+00:00"
@@ -1854,7 +1854,7 @@
     "session_id": "OT2-30",
     "slides": null,
     "video": null,
-    "location": "Room 1b",
+    "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "Lightning Talk (5-10 minutes)",
     "end_time": "2016-05-05T19:10:00+00:00"
@@ -1879,7 +1879,7 @@
     "session_id": "LT-1",
     "slides": null,
     "video": null,
-    "location": "Room 2",
+    "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "Lightning Talk (5-10 minutes)",
     "end_time": "2016-05-05T11:30:00+00:00"
@@ -1904,7 +1904,7 @@
     "session_id": "LT-2",
     "slides": null,
     "video": null,
-    "location": "Room 2",
+    "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "Lightning Talk (5-10 minutes)",
     "end_time": "2016-05-05T11:40:00+00:00"
@@ -1929,7 +1929,7 @@
     "session_id": "LT-3",
     "slides": null,
     "video": null,
-    "location": "Room 2",
+    "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "Lightning Talk (5-10 minutes)",
     "end_time": "2016-05-05T11:50:00+00:00"
@@ -1954,7 +1954,7 @@
     "session_id": "LT-4",
     "slides": null,
     "video": null,
-    "location": "Room 2",
+    "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "Lightning Talk (5-10 minutes)",
     "end_time": "2016-05-05T12:00:00+00:00"
@@ -1979,7 +1979,7 @@
     "session_id": "Z-1",
     "slides": null,
     "video": null,
-    "location": "Room 4",
+    "location": "Ebene 2, Raum 4",
     "sign_up": null,
     "type": "Zertifizierung",
     "end_time": "2016-05-05T12:30:00+00:00"
@@ -2004,7 +2004,7 @@
     "session_id": "Z-2",
     "slides": null,
     "video": null,
-    "location": "Room 4",
+    "location": "Ebene 2, Raum 4",
     "sign_up": null,
     "type": "Zertifizierung",
     "end_time": "2016-05-05T14:30:00+00:00"

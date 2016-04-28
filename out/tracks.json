@@ -7,7 +7,7 @@
     "track_image_url": "http://lorempixel.com/400/200",
     "id": 2,
     "gid": "1760580974",
-    "location": "Room 5",
+    "location": "Erdgeschoss, Saal",
     "order": 2
   },
   {
@@ -18,7 +18,7 @@
     "track_image_url": "http://lorempixel.com/400/200",
     "id": 3,
     "gid": "1407536099",
-    "location": "Room 3",
+    "location": "Erdgeschoss und Ebene 1",
     "order": 3
   },
   {
@@ -29,7 +29,7 @@
     "track_image_url": "http://lorempixel.com/400/200",
     "id": 4,
     "gid": "79278252",
-    "location": "",
+    "location": "Erdgeschoss und Ebene 1",
     "order": 4
   },
   {
@@ -40,7 +40,7 @@
     "track_image_url": "http://lorempixel.com/400/200",
     "id": 5,
     "gid": "11336237",
-    "location": "Room 1",
+    "location": "Ebene 1, Galerie",
     "order": 5
   },
   {
@@ -51,7 +51,7 @@
     "track_image_url": "http://lorempixel.com/400/200",
     "id": 6,
     "gid": "2134915567",
-    "location": "Room 1b",
+    "location": "Ebene 2, Loft",
     "order": 6
   },
   {
@@ -62,7 +62,7 @@
     "track_image_url": "http://lorempixel.com/400/200",
     "id": 7,
     "gid": "1549016393",
-    "location": "Room 2",
+    "location": "Ebene 2, Loft",
     "order": 7
   },
   {
@@ -73,7 +73,7 @@
     "track_image_url": "http://lorempixel.com/400/200",
     "id": 8,
     "gid": "1996047265",
-    "location": "Room 4",
+    "location": "Ebene 2, Raum 4",
     "order": 8
   }
 ]}
