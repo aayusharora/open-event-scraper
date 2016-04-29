@@ -5,9 +5,10 @@ import requests
 
 def save_img(img_url, filename):
 	try:
+		img_content = requests.get(img_url).content
 		filename = 'speakers/' + filename
 		f = open((filename), 'wb')
-		f.write(requests.get(img_url).content)
+		f.write(img_content)
 		f.close()
 
 		basewidth = 100
