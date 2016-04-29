@@ -690,46 +690,21 @@
       "name": "OTS 1",
       "id": 5
     },
-    "start_time": "2016-05-05T12:40:00+00:00",
+    "start_time": "2016-05-05T12:45:00+00:00",
     "session_id": "OT-10",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Vortrag/Talk",
-    "end_time": "2016-05-05T13:10:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
-        "organisation": "FOSSASIA",
-        "id": 26,
-        "name": "Hong Phuc Dang"
-      }
-    ],
-    "description": "",
-    "title": "FOSSASIA",
-    "track": {
-      "order": 5,
-      "name": "OTS 1",
-      "id": 5
-    },
-    "start_time": "2016-05-05T13:00:00+00:00",
-    "session_id": "OT-11",
-    "slides": null,
-    "video": null,
-    "location": "Ebene 1, Galerie",
-    "sign_up": null,
-    "type": "Vortrag/Talk",
-    "end_time": "2016-05-05T13:30:00+00:00"
+    "end_time": "2016-05-05T13:15:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "organisation": "Thoughtworks",
-        "id": 27,
+        "id": 26,
         "name": "Erik D\u00f6rnenburg"
       }
     ],
@@ -740,21 +715,21 @@
       "name": "OTS 1",
       "id": 5
     },
-    "start_time": "2016-05-05T13:20:00+00:00",
-    "session_id": "OT-12",
+    "start_time": "2016-05-05T13:15:00+00:00",
+    "session_id": "OT-11",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Panel",
-    "end_time": "2016-05-05T13:50:00+00:00"
+    "end_time": "2016-05-05T13:45:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "organisation": "OpenKnowledge",
-        "id": 28,
+        "id": 27,
         "name": "Rufus Pollock"
       }
     ],
@@ -766,7 +741,7 @@
       "id": 5
     },
     "start_time": "2016-05-05T14:00:00+00:00",
-    "session_id": "OT-13",
+    "session_id": "OT-12",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
@@ -779,7 +754,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 29,
+        "id": 28,
         "name": "Lennart Poettering"
       }
     ],
@@ -791,7 +766,7 @@
       "id": 5
     },
     "start_time": "2016-05-05T14:30:00+00:00",
-    "session_id": "OT-14",
+    "session_id": "OT-13",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
@@ -804,7 +779,7 @@
     "speakers": [
       {
         "organisation": "Kinvolk GmbH",
-        "id": 30,
+        "id": 29,
         "name": "Chris K\u00fchl"
       }
     ],
@@ -816,7 +791,7 @@
       "id": 5
     },
     "start_time": "2016-05-05T15:10:00+00:00",
-    "session_id": "OT-15",
+    "session_id": "OT-14",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
@@ -829,7 +804,7 @@
     "speakers": [
       {
         "organisation": "Beuth Hochschule fuer Technik Berlin",
-        "id": 31,
+        "id": 30,
         "name": "Ruediger/Bruno Weis/Kirschner"
       }
     ],
@@ -841,7 +816,7 @@
       "id": 5
     },
     "start_time": "2016-05-05T15:40:00+00:00",
-    "session_id": "OT-16",
+    "session_id": "OT-15",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
@@ -854,7 +829,7 @@
     "speakers": [
       {
         "organisation": "Free Software Foundation Europe e.V.",
-        "id": 32,
+        "id": 31,
         "name": "Matthias Kirschner"
       }
     ],
@@ -866,7 +841,7 @@
       "id": 5
     },
     "start_time": "2016-05-05T16:10:00+00:00",
-    "session_id": "OT-17",
+    "session_id": "OT-16",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
@@ -879,7 +854,7 @@
     "speakers": [
       {
         "organisation": "cusy GmbH",
-        "id": 33,
+        "id": 32,
         "name": "Veit Schiele"
       }
     ],
@@ -891,7 +866,7 @@
       "id": 5
     },
     "start_time": "2016-05-05T16:40:00+00:00",
-    "session_id": "OT-18",
+    "session_id": "OT-17",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
@@ -904,7 +879,7 @@
     "speakers": [
       {
         "organisation": "Thunderbird",
-        "id": 34,
+        "id": 33,
         "name": "J\u00f6rg Knobloch"
       }
     ],
@@ -916,7 +891,7 @@
       "id": 5
     },
     "start_time": "2016-05-05T17:05:00+00:00",
-    "session_id": "OT-19",
+    "session_id": "OT-18",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
@@ -929,12 +904,12 @@
     "speakers": [
       {
         "organisation": "Bioflux",
-        "id": 35,
+        "id": 34,
         "name": "R\u00fcdiger Trojok"
       },
       {
         "organisation": "Bioflux",
-        "id": 36,
+        "id": 35,
         "name": "Mirela Alistar"
       }
     ],
@@ -946,7 +921,7 @@
       "id": 5
     },
     "start_time": "2016-05-05T17:30:00+00:00",
-    "session_id": "OT-20",
+    "session_id": "OT-19",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
@@ -984,7 +959,7 @@
     "speakers": [
       {
         "organisation": "Junge T\u00fcftler",
-        "id": 37,
+        "id": 36,
         "name": "Franziska Schmid"
       },
       {
@@ -1014,7 +989,7 @@
     "speakers": [
       {
         "organisation": "Wikimedia Deutschland",
-        "id": 38,
+        "id": 37,
         "name": "Barbara Fischer"
       }
     ],
@@ -1039,7 +1014,7 @@
     "speakers": [
       {
         "organisation": "Intelligent Systems / Altran",
-        "id": 39,
+        "id": 38,
         "name": "Toon Peters"
       }
     ],
@@ -1064,7 +1039,7 @@
     "speakers": [
       {
         "organisation": "FreeGeo API",
-        "id": 40,
+        "id": 39,
         "name": "Zac Brown"
       }
     ],
@@ -1089,7 +1064,7 @@
     "speakers": [
       {
         "organisation": "Code for Berlin",
-        "id": 41,
+        "id": 40,
         "name": "Thomas Tursics"
       }
     ],
@@ -1114,7 +1089,7 @@
     "speakers": [
       {
         "organisation": "Valentina",
-        "id": 42,
+        "id": 41,
         "name": "Susan Spencer"
       }
     ],
@@ -1139,7 +1114,7 @@
     "speakers": [
       {
         "organisation": "Kommentarspezialistin",
-        "id": 43,
+        "id": 42,
         "name": "Felicitas Blanck"
       }
     ],
@@ -1189,7 +1164,7 @@
     "speakers": [
       {
         "organisation": "Gregarious Mammal",
-        "id": 44,
+        "id": 43,
         "name": "Chris Ward"
       }
     ],
@@ -1214,7 +1189,7 @@
     "speakers": [
       {
         "organisation": "Endocode AG",
-        "id": 45,
+        "id": 44,
         "name": "Thomas Fricke"
       }
     ],
@@ -1239,7 +1214,7 @@
     "speakers": [
       {
         "organisation": "flashcat-project",
-        "id": 46,
+        "id": 45,
         "name": "Kai Mertens"
       }
     ],
@@ -1264,7 +1239,7 @@
     "speakers": [
       {
         "organisation": "Technische Universit\u00e4t Berlin",
-        "id": 47,
+        "id": 46,
         "name": "J\u00e9r\u00e9my Bonvoisin"
       }
     ],
@@ -1289,7 +1264,7 @@
     "speakers": [
       {
         "organisation": "Mozilla",
-        "id": 48,
+        "id": 47,
         "name": "Rok Garbas"
       }
     ],
@@ -1314,7 +1289,7 @@
     "speakers": [
       {
         "organisation": "Askemos",
-        "id": 49,
+        "id": 48,
         "name": "J\u00f6rg Wittenberger"
       }
     ],
@@ -1339,7 +1314,7 @@
     "speakers": [
       {
         "organisation": "ionary",
-        "id": 50,
+        "id": 49,
         "name": "Denjell Caleb Thompson"
       }
     ],
@@ -1364,7 +1339,7 @@
     "speakers": [
       {
         "organisation": "Open Knowledge Foundation Deutschland",
-        "id": 51,
+        "id": 50,
         "name": "Maximilian Richt"
       }
     ],
@@ -1389,7 +1364,7 @@
     "speakers": [
       {
         "organisation": "youbroketheinternet.org",
-        "id": 52,
+        "id": 51,
         "name": "carlo von lynX"
       }
     ],
@@ -1439,7 +1414,7 @@
     "speakers": [
       {
         "organisation": "Open Source Enthusiasts",
-        "id": 53,
+        "id": 52,
         "name": "Jan / Lisa Dittrich / Conrad"
       }
     ],
@@ -1464,7 +1439,7 @@
     "speakers": [
       {
         "organisation": "Copertura Label",
-        "id": 54,
+        "id": 53,
         "name": "Ivers Yves Pierre"
       }
     ],
@@ -1514,7 +1489,7 @@
     "speakers": [
       {
         "organisation": "Heart of Code",
-        "id": 55,
+        "id": 54,
         "name": "Conny Kawohl"
       }
     ],
@@ -1539,7 +1514,7 @@
     "speakers": [
       {
         "organisation": "Flowedoo",
-        "id": 56,
+        "id": 55,
         "name": "Stefan Koehler"
       }
     ],
@@ -1558,6 +1533,31 @@
     "sign_up": null,
     "type": "Lightning Talk (5-10 minutes)",
     "end_time": "2016-05-05T12:30:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "FOSSASIA",
+        "id": 56,
+        "name": "Hong Phuc Dang"
+      }
+    ],
+    "description": "Background of FOSSASIA - an initiative in Asia bringing together an inspiring community across borders and ages to form a better future with Open Technologies and introduction to Code Program for Youth. ",
+    "title": "Open Source Movement In Asia",
+    "track": {
+      "order": 7,
+      "name": "Lightning Talks",
+      "id": 7
+    },
+    "start_time": "2016-05-05T12:06:00+00:00",
+    "session_id": "LT-7",
+    "slides": null,
+    "video": null,
+    "location": "Ebene 1, Galerie",
+    "sign_up": null,
+    "type": "Lightning Talk (5-10 minutes)",
+    "end_time": "2016-05-05T12:36:00+00:00"
   },
   {
     "py/object": "models.Session",
