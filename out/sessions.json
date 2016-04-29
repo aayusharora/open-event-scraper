@@ -96,7 +96,7 @@
     "video": null,
     "location": "Erdgeschoss, Saal",
     "sign_up": "http://www.meetup.com/OpenXLab/events/230593089/",
-    "type": "Exhibition Area",
+    "type": "Exhibition Area und Workshop",
     "end_time": "2016-05-05T08:00:00+00:00"
   },
   {
@@ -241,7 +241,7 @@
       "id": 3
     },
     "start_time": "2016-05-05T09:00:00+00:00",
-    "session_id": "W-5",
+    "session_id": "W-2",
     "slides": null,
     "video": null,
     "location": "Saal",
@@ -266,7 +266,7 @@
       "id": 3
     },
     "start_time": "2016-05-05T09:00:00+00:00",
-    "session_id": "W-2",
+    "session_id": "W-3",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Raum 4",
@@ -291,7 +291,7 @@
       "id": 3
     },
     "start_time": "2016-05-05T12:00:00+00:00",
-    "session_id": "W-3",
+    "session_id": "W-4",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Raum 1",
@@ -316,7 +316,7 @@
       "id": 3
     },
     "start_time": "2016-05-05T14:00:00+00:00",
-    "session_id": "W-6",
+    "session_id": "W-5",
     "slides": null,
     "video": null,
     "location": "Saal",
@@ -341,7 +341,7 @@
       "id": 3
     },
     "start_time": "2016-05-05T14:00:00+00:00",
-    "session_id": "W-4",
+    "session_id": "W-6",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Raum 1",
@@ -353,8 +353,46 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Coder Dojo Potsdam",
+        "organisation": "Metaversa",
         "id": 14,
+        "name": "Birgit Marzinka"
+      },
+      {
+        "organisation": "Metaversa",
+        "id": 15,
+        "name": "Daniel Abma"
+      },
+      {
+        "organisation": "Metaversa",
+        "id": 14,
+        "name": "Birgit Marzinka"
+      },
+      {
+        "organisation": "Metaversa",
+        "id": 14,
+        "name": "Birgit Marzinka"
+      }
+    ],
+    "description": "Roboter mit Scratch und Blockly programmieren - das ist das Thema vom Metaversa e.V. auf dem OpenTechSummit. Die mBots k\u00f6nnen \u00fcber eine grafische Programmiersprache an Tablets und Laptops programmiert werden. Zeit: 10 bis 15 Uhr",
+    "title": "Roboter mit Scratch und Blockly programmieren",
+    "track": {
+      "order": 3,
+      "name": "Workshops",
+      "id": 3
+    },
+    "session_id": "W-7",
+    "slides": null,
+    "video": null,
+    "location": "Erdgeschoss und Ebene 1",
+    "sign_up": null,
+    "type": "Workshop"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "Coder Dojo Potsdam",
+        "id": 16,
         "name": "Nicco Kunzmann"
       }
     ],
@@ -379,7 +417,7 @@
     "speakers": [
       {
         "organisation": "Jugend Hackt",
-        "id": 15,
+        "id": 17,
         "name": "Jakob Schade"
       }
     ],
@@ -404,7 +442,7 @@
     "speakers": [
       {
         "organisation": "Code Week Award",
-        "id": 16,
+        "id": 18,
         "name": "Code Week Award"
       }
     ],
@@ -429,7 +467,7 @@
     "speakers": [
       {
         "organisation": "Junge T\u00fcftler",
-        "id": 17,
+        "id": 19,
         "name": "Julia Kleeberger"
       }
     ],
@@ -454,7 +492,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 18,
+        "id": 20,
         "name": "OTS OpenTechSummit"
       }
     ],
@@ -479,7 +517,7 @@
     "speakers": [
       {
         "organisation": "initOS GmbH / Otto-von-Guericke University Magdeburg",
-        "id": 19,
+        "id": 21,
         "name": "Frederik Kramer"
       }
     ],
@@ -504,7 +542,7 @@
     "speakers": [
       {
         "organisation": "Wikimedia Deutschland e.V.",
-        "id": 20,
+        "id": 22,
         "name": "Marius Hoch"
       }
     ],
@@ -554,7 +592,7 @@
     "speakers": [
       {
         "organisation": "Mozilla",
-        "id": 21,
+        "id": 23,
         "name": "Elio Qoshi"
       }
     ],
@@ -579,7 +617,7 @@
     "speakers": [
       {
         "organisation": "Open Source Circular Economy Days",
-        "id": 22,
+        "id": 24,
         "name": "Lars Zimmermann"
       }
     ],
@@ -604,7 +642,7 @@
     "speakers": [
       {
         "organisation": "IBM",
-        "id": 23,
+        "id": 25,
         "name": "Alexander Loibl"
       }
     ],
@@ -629,7 +667,7 @@
     "speakers": [
       {
         "organisation": "at OpenTechSummit",
-        "id": 24,
+        "id": 26,
         "name": "Lightning Talkers"
       }
     ],
@@ -654,7 +692,7 @@
     "speakers": [
       {
         "organisation": "Hackerspace.sg",
-        "id": 25,
+        "id": 27,
         "name": "Justin Lee"
       }
     ],
@@ -678,13 +716,13 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Loklak/Yacy",
+        "organisation": "yacy.net",
         "id": 4,
         "name": "Michael Christen"
       }
     ],
-    "description": "Hauptentwickler Michael Christen zeigt uns wie wir in wenigen Schritten YaCy auf dem PC oder Handy installieren. YaCy ist eine Suchmaschine bei dem die Nutzer selbst zum Betreiber werden. Die freie Suchmaschinensoftware YaCy l\u00e4uft nicht auf einem Server im Internet, sondern auf dem eigenen Rechner und kann sich mit anderen Nutzern im Internet zusammenschalten, um die Reichweite des Suchindexes zu vergr\u00f6ssern.",
-    "title": "loklak Big Data Engine",
+    "description": "Wir k\u00f6nnen nun auf 20 Jahre Suchmaschinenentwicklung f\u00fcr das World Wide Web zur\u00fcckblicken! Was k\u00f6nnen wir in der Zukunft erwarten, welche Dienste wird es geben? Der Vortrag zeigt M\u00f6glichkeiten, Entwicklungen und versucht, aus der Vergangenheit auf die Zukunkt zu schliessen. \u00dcberraschungen, Spa\u00df und Inspiration inklusive!",
+    "title": "Suchmaschinen der Zukunft",
     "track": {
       "order": 5,
       "name": "OTS 1",
@@ -696,7 +734,7 @@
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
-    "type": "Vortrag/Talk",
+    "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T13:15:00+00:00"
   },
   {
@@ -704,7 +742,7 @@
     "speakers": [
       {
         "organisation": "Thoughtworks",
-        "id": 26,
+        "id": 28,
         "name": "Erik D\u00f6rnenburg"
       }
     ],
@@ -729,7 +767,7 @@
     "speakers": [
       {
         "organisation": "OpenKnowledge",
-        "id": 27,
+        "id": 29,
         "name": "Rufus Pollock"
       }
     ],
@@ -754,7 +792,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 28,
+        "id": 30,
         "name": "Lennart Poettering"
       }
     ],
@@ -779,7 +817,7 @@
     "speakers": [
       {
         "organisation": "Kinvolk GmbH",
-        "id": 29,
+        "id": 31,
         "name": "Chris K\u00fchl"
       }
     ],
@@ -804,12 +842,12 @@
     "speakers": [
       {
         "organisation": "Beuth Hochschule f\u00fcr Technik Berlin",
-        "id": 30,
+        "id": 32,
         "name": "Ruediger Weis"
       },
       {
         "organisation": "Beuth Hochschule f\u00fcr Technik Berlin",
-        "id": 31,
+        "id": 33,
         "name": "Bruno Kirschner"
       }
     ],
@@ -834,7 +872,7 @@
     "speakers": [
       {
         "organisation": "Free Software Foundation Europe e.V.",
-        "id": 32,
+        "id": 34,
         "name": "Matthias Kirschner"
       }
     ],
@@ -859,7 +897,7 @@
     "speakers": [
       {
         "organisation": "cusy GmbH",
-        "id": 33,
+        "id": 35,
         "name": "Veit Schiele"
       }
     ],
@@ -884,7 +922,7 @@
     "speakers": [
       {
         "organisation": "Thunderbird",
-        "id": 34,
+        "id": 36,
         "name": "J\u00f6rg Knobloch"
       }
     ],
@@ -909,12 +947,12 @@
     "speakers": [
       {
         "organisation": "Bioflux",
-        "id": 35,
+        "id": 37,
         "name": "R\u00fcdiger Trojok"
       },
       {
         "organisation": "Bioflux",
-        "id": 36,
+        "id": 38,
         "name": "Mirela Alistar"
       }
     ],
@@ -939,7 +977,7 @@
     "speakers": [
       {
         "organisation": "Jugend Hackt",
-        "id": 15,
+        "id": 17,
         "name": "Jakob Schade"
       }
     ],
@@ -964,12 +1002,12 @@
     "speakers": [
       {
         "organisation": "Junge T\u00fcftler",
-        "id": 37,
+        "id": 39,
         "name": "Franziska Schmid"
       },
       {
         "organisation": "Junge T\u00fcftler",
-        "id": 17,
+        "id": 19,
         "name": "Julia Kleeberger"
       }
     ],
@@ -994,7 +1032,7 @@
     "speakers": [
       {
         "organisation": "Wikimedia Deutschland",
-        "id": 38,
+        "id": 40,
         "name": "Barbara Fischer"
       }
     ],
@@ -1019,7 +1057,7 @@
     "speakers": [
       {
         "organisation": "Intelligent Systems / Altran",
-        "id": 39,
+        "id": 41,
         "name": "Toon Peters"
       }
     ],
@@ -1044,7 +1082,7 @@
     "speakers": [
       {
         "organisation": "FreeGeo API",
-        "id": 40,
+        "id": 42,
         "name": "Zac Brown"
       }
     ],
@@ -1069,7 +1107,7 @@
     "speakers": [
       {
         "organisation": "Code for Berlin",
-        "id": 41,
+        "id": 43,
         "name": "Thomas Tursics"
       }
     ],
@@ -1094,7 +1132,7 @@
     "speakers": [
       {
         "organisation": "Valentina",
-        "id": 42,
+        "id": 44,
         "name": "Susan Spencer"
       }
     ],
@@ -1119,7 +1157,7 @@
     "speakers": [
       {
         "organisation": "Kommentarspezialistin",
-        "id": 43,
+        "id": 45,
         "name": "Felicitas Blanck"
       }
     ],
@@ -1144,7 +1182,7 @@
     "speakers": [
       {
         "organisation": "Code Week Award",
-        "id": 16,
+        "id": 18,
         "name": "Code Week Award"
       }
     ],
@@ -1169,7 +1207,7 @@
     "speakers": [
       {
         "organisation": "Gregarious Mammal",
-        "id": 44,
+        "id": 46,
         "name": "Chris Ward"
       }
     ],
@@ -1194,7 +1232,7 @@
     "speakers": [
       {
         "organisation": "Endocode AG",
-        "id": 45,
+        "id": 47,
         "name": "Thomas Fricke"
       }
     ],
@@ -1219,7 +1257,7 @@
     "speakers": [
       {
         "organisation": "flashcat-project",
-        "id": 46,
+        "id": 48,
         "name": "Kai Mertens"
       }
     ],
@@ -1244,7 +1282,7 @@
     "speakers": [
       {
         "organisation": "Technische Universit\u00e4t Berlin",
-        "id": 47,
+        "id": 49,
         "name": "J\u00e9r\u00e9my Bonvoisin"
       }
     ],
@@ -1269,7 +1307,7 @@
     "speakers": [
       {
         "organisation": "Mozilla",
-        "id": 48,
+        "id": 50,
         "name": "Rok Garbas"
       }
     ],
@@ -1294,7 +1332,7 @@
     "speakers": [
       {
         "organisation": "Askemos",
-        "id": 49,
+        "id": 51,
         "name": "J\u00f6rg Wittenberger"
       }
     ],
@@ -1319,7 +1357,7 @@
     "speakers": [
       {
         "organisation": "ionary",
-        "id": 50,
+        "id": 52,
         "name": "Denjell Caleb Thompson"
       }
     ],
@@ -1344,7 +1382,7 @@
     "speakers": [
       {
         "organisation": "Open Knowledge Foundation Deutschland",
-        "id": 51,
+        "id": 53,
         "name": "Maximilian Richt"
       }
     ],
@@ -1369,7 +1407,7 @@
     "speakers": [
       {
         "organisation": "youbroketheinternet.org",
-        "id": 52,
+        "id": 54,
         "name": "carlo von lynX"
       }
     ],
@@ -1419,7 +1457,7 @@
     "speakers": [
       {
         "organisation": "Open Source Enthusiasts",
-        "id": 53,
+        "id": 55,
         "name": "Jan / Lisa Dittrich / Conrad"
       }
     ],
@@ -1444,7 +1482,7 @@
     "speakers": [
       {
         "organisation": "Copertura Label",
-        "id": 54,
+        "id": 56,
         "name": "Ivers Yves Pierre"
       }
     ],
@@ -1494,7 +1532,7 @@
     "speakers": [
       {
         "organisation": "Heart of Code",
-        "id": 55,
+        "id": 57,
         "name": "Conny Kawohl"
       }
     ],
@@ -1519,7 +1557,7 @@
     "speakers": [
       {
         "organisation": "Flowedoo",
-        "id": 56,
+        "id": 58,
         "name": "Stefan Koehler"
       }
     ],
@@ -1544,7 +1582,7 @@
     "speakers": [
       {
         "organisation": "FOSSASIA",
-        "id": 57,
+        "id": 59,
         "name": "Hong Phuc Dang"
       }
     ],
@@ -1569,7 +1607,7 @@
     "speakers": [
       {
         "organisation": "LPI e.V.",
-        "id": 58,
+        "id": 60,
         "name": "Harald Maa\u00dfen"
       }
     ],
@@ -1594,7 +1632,7 @@
     "speakers": [
       {
         "organisation": "LPI e.V.",
-        "id": 58,
+        "id": 60,
         "name": "Harald Maa\u00dfen"
       }
     ],
