@@ -1413,16 +1413,16 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Syria on the Move, SocialVisions e.V.",
-        "id": 19,
-        "name": "Jenz Steiner"
+        "organisation": "Syria on the Move",
+        "id": 60,
+        "name": "Jenz Steiner (SocialVisions e.V.)"
       }
     ],
     "description": "More than 4.7 million Syrians have now fled the war and became refugees in other countries. Humanitarian aid is is usefull, but cannot replace civil rights or freedom of speech. The Berlin based independent project \"Syria on the Move\" gives a voice to syrian refugees and helps them to get in touch by establishing a webbased map tool. This allows refugees to upload their pictures, share experiences and comment on issues that really matter to them. ",
     "title": "Connecting Syrian refugees",
     "track": {
       "order": 6,
-      "name": "Lightning Talks",
+      "name": "LightningTalks",
       "id": 6
     },
     "session_id": "LT-1",
@@ -1437,7 +1437,7 @@
     "speakers": [
       {
         "organisation": "Open Source Enthusiasts",
-        "id": 60,
+        "id": 61,
         "name": "Jan / Lisa Dittrich / Conrad"
       }
     ],
@@ -1445,7 +1445,7 @@
     "title": "In praise of workarounds",
     "track": {
       "order": 6,
-      "name": "Lightning Talks",
+      "name": "LightningTalks",
       "id": 6
     },
     "session_id": "LT-2",
@@ -1460,7 +1460,7 @@
     "speakers": [
       {
         "organisation": "Copertura Label",
-        "id": 61,
+        "id": 62,
         "name": "Ivers Yves Pierre"
       }
     ],
@@ -1468,7 +1468,7 @@
     "title": "Raising money with Venture Capitalist",
     "track": {
       "order": 6,
-      "name": "Lightning Talks",
+      "name": "LightningTalks",
       "id": 6
     },
     "session_id": "LT-3",
@@ -1491,7 +1491,7 @@
     "title": "Heart Of Code - a hackspace for women* in Berlin",
     "track": {
       "order": 6,
-      "name": "Lightning Talks",
+      "name": "LightningTalks",
       "id": 6
     },
     "session_id": "LT-4",
@@ -1506,7 +1506,7 @@
     "speakers": [
       {
         "organisation": "Heart of Code",
-        "id": 62,
+        "id": 63,
         "name": "Conny Kawohl"
       }
     ],
@@ -1514,7 +1514,7 @@
     "title": "Get Sassy!",
     "track": {
       "order": 6,
-      "name": "Lightning Talks",
+      "name": "LightningTalks",
       "id": 6
     },
     "session_id": "LT-5",
@@ -1529,7 +1529,7 @@
     "speakers": [
       {
         "organisation": "Flowedoo",
-        "id": 63,
+        "id": 64,
         "name": "Stefan Koehler"
       }
     ],
@@ -1537,7 +1537,7 @@
     "title": "Netze f\u00fcr Vielfalt",
     "track": {
       "order": 6,
-      "name": "Lightning Talks",
+      "name": "LightningTalks",
       "id": 6
     },
     "session_id": "LT-6",
@@ -1552,7 +1552,7 @@
     "speakers": [
       {
         "organisation": "FOSSASIA",
-        "id": 64,
+        "id": 65,
         "name": "Hong Phuc Dang"
       }
     ],
@@ -1560,7 +1560,7 @@
     "title": "Open Source Movement In Asia",
     "track": {
       "order": 6,
-      "name": "Lightning Talks",
+      "name": "LightningTalks",
       "id": 6
     },
     "session_id": "LT-7",
@@ -1575,7 +1575,7 @@
     "speakers": [
       {
         "organisation": "Coder Dojo Potsdam",
-        "id": 65,
+        "id": 66,
         "name": "Nicco Kunzmann"
       }
     ],
@@ -1680,7 +1680,7 @@
     "speakers": [
       {
         "organisation": "LPI e.V.",
-        "id": 66,
+        "id": 67,
         "name": "Harald Maa\u00dfen"
       }
     ],
@@ -1705,7 +1705,7 @@
     "speakers": [
       {
         "organisation": "LPI e.V.",
-        "id": 66,
+        "id": 67,
         "name": "Harald Maa\u00dfen"
       }
     ],
