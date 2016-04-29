@@ -287,16 +287,16 @@
   },
   {
     "py/object": "models.Speaker",
-    "web": "http://blog.initos.com",
-    "github": "https://github.com/OSevangelist",
-    "name": "Frederik Kramer",
-    "country": "Germany",
-    "twitter": "https://twitter.com/OSevangelist",
-    "linkedin": "https://www.linkedin.com/in/frederik-kramer-68188087",
+    "web": "http://www.picotcp.com/",
+    "github": "https://github.com/tass-belgium/picotcp",
+    "name": "Toon Peters",
+    "country": "Belgium",
+    "twitter": "https://twitter.com/@picotcp",
+    "linkedin": "https://be.linkedin.com/in/toonpeters",
     "id": 23,
-    "photo": "speakers/Frederik_Kramer.jpg",
-    "organisation": "initOS GmbH / Otto-von-Guericke University Magdeburg",
-    "biography": "Frederik Kramer studierte Wirtschaftsinformatik am Institut f\u00fcr Technische und Betriebliche Informationssysteme der Otto-von-Guericke-Universit\u00e4t Magdeburg. Aktuell arbeitet er als assoziierter Wissenschaftler am Magdeburg Research and Competence Cluster (MRCC) an seiner Promotion zur strategischen Gestaltung von Systemlandschaften in KMU. Sein Forschungsinteresse liegt dabei insbesondere bei der strategischen Nutzung von Open Source Software zur Gewinnung nachhaltiger Wettbewerbsvorteile. Als Gr\u00fcnder und Gesch\u00e4ftsf\u00fchrer der initOS GmbH besch\u00e4ftigt er sich zusammen mit seinen Kollegen seit vielen Jahren mit der strategischen Planung, Einf\u00fchrung, Wartung und Nutzung auf Open Source Software basierender komplexer betrieblicher Anwendungssysteme."
+    "photo": "speakers/Toon_Peters.jpg",
+    "organisation": "Intelligent Systems / Altran",
+    "biography": "Toon is not your everyday engineer. With his passion for technology and enthusiasm for interesting projects, he can truly bring a project to the next level. All while having loads of fun.  Skill-wise, Toon has experience in Embedded software and Electronics, but also marketing, offer development and even recruiting. In short: An all-rounder"
   },
   {
     "py/object": "models.Speaker",
@@ -560,16 +560,16 @@
   },
   {
     "py/object": "models.Speaker",
-    "web": "http://www.picotcp.com/",
-    "github": "https://github.com/tass-belgium/picotcp",
-    "name": "Toon Peters",
-    "country": "Belgium",
-    "twitter": "https://twitter.com/@picotcp",
-    "linkedin": "https://be.linkedin.com/in/toonpeters",
+    "web": "http://blog.initos.com",
+    "github": "https://github.com/OSevangelist",
+    "name": "Frederik Kramer",
+    "country": "Germany",
+    "twitter": "https://twitter.com/OSevangelist",
+    "linkedin": "https://www.linkedin.com/in/frederik-kramer-68188087",
     "id": 44,
-    "photo": "speakers/Toon_Peters.jpg",
-    "organisation": "Intelligent Systems / Altran",
-    "biography": "Toon is not your everyday engineer. With his passion for technology and enthusiasm for interesting projects, he can truly bring a project to the next level. All while having loads of fun.  Skill-wise, Toon has experience in Embedded software and Electronics, but also marketing, offer development and even recruiting. In short: An all-rounder"
+    "photo": "speakers/Frederik_Kramer.jpg",
+    "organisation": "initOS GmbH / Otto-von-Guericke University Magdeburg",
+    "biography": "Frederik Kramer studierte Wirtschaftsinformatik am Institut f\u00fcr Technische und Betriebliche Informationssysteme der Otto-von-Guericke-Universit\u00e4t Magdeburg. Aktuell arbeitet er als assoziierter Wissenschaftler am Magdeburg Research and Competence Cluster (MRCC) an seiner Promotion zur strategischen Gestaltung von Systemlandschaften in KMU. Sein Forschungsinteresse liegt dabei insbesondere bei der strategischen Nutzung von Open Source Software zur Gewinnung nachhaltiger Wettbewerbsvorteile. Als Gr\u00fcnder und Gesch\u00e4ftsf\u00fchrer der initOS GmbH besch\u00e4ftigt er sich zusammen mit seinen Kollegen seit vielen Jahren mit der strategischen Planung, Einf\u00fchrung, Wartung und Nutzung auf Open Source Software basierender komplexer betrieblicher Anwendungssysteme."
   },
   {
     "py/object": "models.Speaker",

@@ -518,13 +518,13 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "initOS GmbH / Otto-von-Guericke University Magdeburg",
+        "organisation": "Intelligent Systems / Altran",
         "id": 23,
-        "name": "Frederik Kramer"
+        "name": "Toon Peters"
       }
     ],
-    "description": "Die Erfindung und Verbreitung des Internet hat die Welt enger zusammenr\u00fccken lassen. L\u00e4ngst ist aus einem einst lokalen, regionalen oder bestenfalls nationalen Wettbewerb ein globaler Wettbewerb geworden. Stetig fallende Kosten der Informationsverarbeitung durch intensive Vernetzung und Erweiterung der \u00dcbertragungsbandbreiten sorgt daf\u00fcr, dass die gespeicherte Informationsmenge rasant w\u00e4chst.  Sie w\u00e4chst dabei erheblich schneller als die Weltbev\u00f6lkerung bzw. die Anzahl verf\u00fcgbarer Fachkr\u00e4fte, die sich mit den technischen  L\u00f6sungen der Informationsverarbeitung befassen. Die Informationstechnologiebranche ist diejenige Branche, die sich stellvertretend f\u00fcr alle anderen Branchen mit den technologischen Anforderungen der Informations- und Wissensverarbeitung auseinandersetzt. Daneben erzeugt und verarbeitet sie selbst im Rahmen ihrer Leistungserbringung gro\u00dfe Mengen komplexen Wissens. Im Maschinenraum der Informationstechnologiebranche planen, entwickeln, betreiben und warten Softwareentwickler, Tester, Administratoren und Projektmanager, Software, deren Erstellung auf Grund fachlicher Anforderungen bzw. eines entsprechenden Marktpotentials notwendig oder sinnvoll erscheint.  Was inbesondere in den 1990er Jahren noch als verr\u00fcckt galt, n\u00e4mlich Wissen in Form von Quellcode uns selbst ganze, komplexe Anwendungssysteme zu explizieren und f\u00fcr jedermann zug\u00e4nglich und nutzbar zu teilen (Open Source bzw. Free Software), hat zusammen mit dem Erfolg prominenter Projekte (z.B. Linux, LibreOffice, Firefox) und dem Ausbau weltweiter Kommunikationsnetze eine globale Erfolgsgeschichte geschrieben. Bis vor wenigen Jahren hielten die meisten Fachleute es f\u00fcr undenkbar, dass auch grundlegenste betriebliche Anwendungen, sogenannte Enterprise Resource Planning Systeme in diesem Modus entwickelt und betrieben werden k\u00f6nnen. U.a. das Open Source ERP-System Odoo tritt seit geraumer Zeit den Gegenbeweis an. Um den belgischen Hersteller haben sich in den vergangenen Jahren mehrere hundert Integrationspartner weltweit und eine Gruppe von \u00fcber 2 Mio. aktive Nutzer in einer Community formiert. Der Vortrag fast die seit 2008 andauernde Entwicklung von Odoo (zuvor als OpenERP bekannt) aus Sicht eines Integrationspartners zusammen und stellt dabei die Rolle des Wissensaustausches, \u00f6konomischer Interessen des Herstellers und der Integrationspartner sowie Erfolgs- und Risikofaktoren eines weltweit erfolgreichen Open Source Projektes am Beispiel dar. Insbesondere wird dabei auch auf den erkennbaren Trend der Professionalisierung erfolgreicher Open Source Projekte und Dual Licensing eingegangen. ",
-    "title": "Die Rolle von Wissen, \u00f6konomischer Faktoren und Professionalisierung in erfolgreichen Open Source Projekten am Beispiel von Odoo",
+    "description": "picoTCP is an open source TCP/IP stack implementation targetted at embedded devices. Its focusses lie in Modularity, Portability and Quality.  During this talk you'll get introduced to picoTCP",
+    "title": "picoTCP",
     "track": {
       "order": 5,
       "name": "OTS 1",
@@ -1058,13 +1058,13 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Intelligent Systems / Altran",
+        "organisation": "initOS GmbH / Otto-von-Guericke University Magdeburg",
         "id": 44,
-        "name": "Toon Peters"
+        "name": "Frederik Kramer"
       }
     ],
-    "description": "picoTCP is an open source TCP/IP stack implementation targetted at embedded devices. Its focusses lie in Modularity, Portability and Quality.  During this talk you'll get introduced to picoTCP",
-    "title": "picoTCP",
+    "description": "Die Erfindung und Verbreitung des Internet hat die Welt enger zusammenr\u00fccken lassen. L\u00e4ngst ist aus einem einst lokalen, regionalen oder bestenfalls nationalen Wettbewerb ein globaler Wettbewerb geworden. Stetig fallende Kosten der Informationsverarbeitung durch intensive Vernetzung und Erweiterung der \u00dcbertragungsbandbreiten sorgt daf\u00fcr, dass die gespeicherte Informationsmenge rasant w\u00e4chst.  Sie w\u00e4chst dabei erheblich schneller als die Weltbev\u00f6lkerung bzw. die Anzahl verf\u00fcgbarer Fachkr\u00e4fte, die sich mit den technischen  L\u00f6sungen der Informationsverarbeitung befassen. Die Informationstechnologiebranche ist diejenige Branche, die sich stellvertretend f\u00fcr alle anderen Branchen mit den technologischen Anforderungen der Informations- und Wissensverarbeitung auseinandersetzt. Daneben erzeugt und verarbeitet sie selbst im Rahmen ihrer Leistungserbringung gro\u00dfe Mengen komplexen Wissens. Im Maschinenraum der Informationstechnologiebranche planen, entwickeln, betreiben und warten Softwareentwickler, Tester, Administratoren und Projektmanager, Software, deren Erstellung auf Grund fachlicher Anforderungen bzw. eines entsprechenden Marktpotentials notwendig oder sinnvoll erscheint.  Was inbesondere in den 1990er Jahren noch als verr\u00fcckt galt, n\u00e4mlich Wissen in Form von Quellcode uns selbst ganze, komplexe Anwendungssysteme zu explizieren und f\u00fcr jedermann zug\u00e4nglich und nutzbar zu teilen (Open Source bzw. Free Software), hat zusammen mit dem Erfolg prominenter Projekte (z.B. Linux, LibreOffice, Firefox) und dem Ausbau weltweiter Kommunikationsnetze eine globale Erfolgsgeschichte geschrieben. Bis vor wenigen Jahren hielten die meisten Fachleute es f\u00fcr undenkbar, dass auch grundlegenste betriebliche Anwendungen, sogenannte Enterprise Resource Planning Systeme in diesem Modus entwickelt und betrieben werden k\u00f6nnen. U.a. das Open Source ERP-System Odoo tritt seit geraumer Zeit den Gegenbeweis an. Um den belgischen Hersteller haben sich in den vergangenen Jahren mehrere hundert Integrationspartner weltweit und eine Gruppe von \u00fcber 2 Mio. aktive Nutzer in einer Community formiert. Der Vortrag fast die seit 2008 andauernde Entwicklung von Odoo (zuvor als OpenERP bekannt) aus Sicht eines Integrationspartners zusammen und stellt dabei die Rolle des Wissensaustausches, \u00f6konomischer Interessen des Herstellers und der Integrationspartner sowie Erfolgs- und Risikofaktoren eines weltweit erfolgreichen Open Source Projektes am Beispiel dar. Insbesondere wird dabei auch auf den erkennbaren Trend der Professionalisierung erfolgreicher Open Source Projekte und Dual Licensing eingegangen. ",
+    "title": "Die Rolle von Wissen, \u00f6konomischer Faktoren und Professionalisierung in erfolgreichen Open Source Projekten am Beispiel von Odoo",
     "track": {
       "order": 6,
       "name": "OTS 2",
