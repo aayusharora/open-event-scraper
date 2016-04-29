@@ -1101,13 +1101,13 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Valentina Patternmaking Software / Schnittmuster",
+        "organisation": "Valentina",
         "id": 42,
         "name": "Susan Spencer"
       }
     ],
-    "description": "",
-    "title": "Valentina Patternmaking for every Designer",
+    "description": "Valentina is open source pattern drafting software, designed to be the foundation of a new stack of open source tools to remake the garment industry. Parametric design +  open data formats + open source code = shareable/remixable patterns usable by any sewist or manufacturer for garment production.  Valentina enables independent designers to become ethically profitable, and can empower designers focused on eco fashion and slow fashion.   Small batch and custom sized clothing manufacturing is essential to create a sustainable future, preserve small to medium sized textile spinning and weaving manufacturers, enable independent and small designers and manufacturers to scale up to make a decent living, rebuild local garment districts, and reduce or eliminate slave labor.  Valentina is available for Linux, Mac, and Windows.",
+    "title": "Valentina digital pattern design",
     "track": {
       "order": 6,
       "name": "OTS 2",
@@ -1119,7 +1119,7 @@
     "video": null,
     "location": "Ebene 2, Loft",
     "sign_up": null,
-    "type": "Vortrag/Talk",
+    "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T12:30:00+00:00"
   },
   {

@@ -320,7 +320,7 @@
     "twitter": "",
     "linkedin": "",
     "id": 25,
-    "photo": "",
+    "photo": "speakers/Justin_Lee.jpg",
     "organisation": "",
     "biography": ""
   },
@@ -534,16 +534,16 @@
   },
   {
     "py/object": "models.Speaker",
-    "web": "",
-    "github": "",
+    "web": "http://www.valentina-project.org",
+    "github": "https://github.com/tusuzu",
     "name": "Susan Spencer",
-    "country": "",
-    "twitter": "",
-    "linkedin": "",
+    "country": "USA",
+    "twitter": "https://twitter.com/@ValentinaPSW",
+    "linkedin": "https://www.linkedin.com/in/susan-spencer-3b502516",
     "id": 42,
     "photo": "speakers/Susan_Spencer.jpg",
-    "organisation": "Valentina Patternmaking Software / Schnittmuster",
-    "biography": ""
+    "organisation": "Valentina",
+    "biography": "Product developer for Valentina open source pattern drafting software.  Network analyst now open source evangelist.    Looking for programmers: Blender - 3D development, C++  - 'assymetric' pattern features to make patterns for disabled persons. Corporate funding possible. Looking for fashion designers and patternmakers. Looking for translators.  Send email to contact@valentina-project.org "
   },
   {
     "py/object": "models.Speaker",
