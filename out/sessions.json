@@ -21,7 +21,7 @@
     "video": "https://www.youtube.com/channel/UCJoKp-gG2t7lH5_hiKp95yA",
     "location": "Erdgeschoss, Saal",
     "sign_up": "http://www.meetup.com/OpenXLab/events/230011213/",
-    "type": "Soldering Workshop",
+    "type": "Ganzt\u00e4giger L\u00f6tworkshop / Soldering Workshop",
     "end_time": "2016-05-05T08:00:00+00:00"
   },
   {
@@ -103,58 +103,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Heart of Code",
-        "id": 5,
-        "name": "Cat Spangehl"
-      }
-    ],
-    "description": "We would like to shortly introduce the Heart of Code, a Berlin based hackspace for women*. ",
-    "title": "Heart Of Code - a hackspace for women* in Berlin",
-    "track": {
-      "order": 2,
-      "name": "Maker Space",
-      "id": 2
-    },
-    "start_time": "2016-05-05T07:30:00+00:00",
-    "session_id": "MS-5",
-    "slides": null,
-    "video": null,
-    "location": "Erdgeschoss, Saal",
-    "sign_up": null,
-    "type": "Hackspace-Infotisch, Exhibition",
-    "end_time": "2016-05-05T08:00:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
-        "organisation": "Makeomnia Ltd / HKCOTA",
-        "id": 6,
-        "name": "Alvin Lui"
-      }
-    ],
-    "description": "TinyBoy Project is an education project started at 2011. The talk is about the follow up of the project, what we did and the progress.  To show the new version of the TinyBoy, TinyBoy2. And to discuss about how to integrate into STEAM.",
-    "title": "TinyBoy Project - a 3D printer for education",
-    "track": {
-      "order": 2,
-      "name": "Maker Space",
-      "id": 2
-    },
-    "start_time": "2016-05-05T07:30:00+00:00",
-    "session_id": "MS-6",
-    "slides": null,
-    "video": null,
-    "location": "Erdgeschoss, Saal",
-    "sign_up": null,
-    "type": "Infotisch/Info Table",
-    "end_time": "2016-05-05T08:00:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
         "organisation": "Nitrokey",
-        "id": 7,
+        "id": 5,
         "name": "Jan Suhr"
       }
     ],
@@ -166,7 +116,7 @@
       "id": 2
     },
     "start_time": "2016-05-05T07:30:00+00:00",
-    "session_id": "MS-7",
+    "session_id": "MS-5",
     "slides": null,
     "video": null,
     "location": "Erdgeschoss, Saal",
@@ -178,8 +128,33 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Heart of Code",
+        "id": 6,
+        "name": "Cat Spangehl"
+      }
+    ],
+    "description": "We would like to shortly introduce the Heart of Code, a Berlin based hackspace for women*. ",
+    "title": "Heart Of Code - a hackspace for women* in Berlin",
+    "track": {
+      "order": 2,
+      "name": "Maker Space",
+      "id": 2
+    },
+    "start_time": "2016-05-05T07:30:00+00:00",
+    "session_id": "MS-6",
+    "slides": null,
+    "video": null,
+    "location": "Erdgeschoss, Saal",
+    "sign_up": null,
+    "type": "Hackspace-Infotisch, Exhibition",
+    "end_time": "2016-05-05T08:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
         "organisation": "Free Software Foundation Europe e.V.",
-        "id": 8,
+        "id": 7,
         "name": "Erik Albers"
       }
     ],
@@ -191,12 +166,37 @@
       "id": 2
     },
     "start_time": "2016-05-05T07:30:00+00:00",
-    "session_id": "MS-8",
+    "session_id": "MS-7",
     "slides": null,
     "video": null,
     "location": "Erdgeschoss, Saal",
     "sign_up": null,
     "type": "Freie Software-Infoecke / Information Corner",
+    "end_time": "2016-05-05T08:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "Makeomnia Ltd / HKCOTA",
+        "id": 8,
+        "name": "Alvin Lui"
+      }
+    ],
+    "description": "TinyBoy Project is an education project started at 2011. The talk is about the follow up of the project, what we did and the progress.  To show the new version of the TinyBoy, TinyBoy2. And to discuss about how to integrate into STEAM.",
+    "title": "TinyBoy Project - a 3D printer for education",
+    "track": {
+      "order": 2,
+      "name": "Maker Space",
+      "id": 2
+    },
+    "start_time": "2016-05-05T07:30:00+00:00",
+    "session_id": "MS-8",
+    "slides": null,
+    "video": null,
+    "location": "Erdgeschoss, Saal",
+    "sign_up": null,
+    "type": "Infotisch/Info Table",
     "end_time": "2016-05-05T08:00:00+00:00"
   },
   {
@@ -244,7 +244,7 @@
     "session_id": "W-1",
     "slides": null,
     "video": null,
-    "location": "Saal",
+    "location": "Erdgeschoss, Saal",
     "sign_up": "http://www.meetup.com/OpenXLab/events/230435191/",
     "type": "Workshop, 2h",
     "end_time": "2016-05-05T08:30:00+00:00"
@@ -284,7 +284,7 @@
     "session_id": "W-2",
     "slides": null,
     "video": null,
-    "location": "Saal",
+    "location": "Erdgeschoss, Saal",
     "sign_up": null,
     "type": "Workshop, 5h",
     "end_time": "2016-05-05T08:30:00+00:00"
@@ -309,7 +309,7 @@
     "session_id": "W-3",
     "slides": null,
     "video": null,
-    "location": "Saal",
+    "location": "Erdgeschoss, Saal",
     "sign_up": "http://www.meetup.com/Software-Craftsmanship-Berlin/events/230566242/",
     "type": "Workshop und Developer Meetup",
     "end_time": "2016-05-05T09:30:00+00:00"
@@ -1114,7 +1114,7 @@
     "speakers": [
       {
         "organisation": "Makeomnia Ltd / HKCOTA",
-        "id": 6,
+        "id": 8,
         "name": "Alvin Lui"
       }
     ],
@@ -1558,7 +1558,7 @@
     "speakers": [
       {
         "organisation": "Heart of Code",
-        "id": 5,
+        "id": 6,
         "name": "Cat Spangehl"
       }
     ],

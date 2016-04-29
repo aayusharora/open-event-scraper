@@ -23,7 +23,7 @@
     "id": 2,
     "photo": "speakers/Paulaner_Paula Pongratz.jpg",
     "organisation": "Postapokalyptischer Schmuck",
-    "biography": "Paula Pongratz vereine \"wichtige Eigenschaften der Zukunft: Sie ist eigensinnig, kreativ  und asozial.\" Schrieb so (mehr oder weniger) eine M\u00fcnchner Tageszeitung.   Die studierte Grafikerin macht zur Zeit lieber Schmuck und Videokunst.   Dabei l\u00e4sst sie stark ihre Umgebung in ihre Arbeiten einflie\u00dfen. So entstanden zB die  Schmuckserien 'Postapokalyptischer Schmuck', in der sie 'Fundst\u00fccke der menschlichen  Zivilisation' zu Schmuck verarbeitete oder 'Schmuck aus Stra\u00dfenkehrmaschinenborsten',  welche sie bei ihren Streifz\u00fcgen durch die Stadt findet.  Als VJ versucht sie, aktuelles Weltgeschehen zu thematisieren \u2013 nicht selten kritisch  humorvoll kommentierend. Auch mit ihren Videoinstallationen geht sie direkt auf den  Raum ein, illustrierend, beschreibend.  Seit 2011 gibt sie Workshops, bei denen Teilnehmende aus selbstgefundenem oder zur Verf\u00fcgung gestelltem Material Schmuck herstellen k\u00f6nnen.  Paula Pongratz lebt in M\u00fcnchen und versucht, weniger zu arbeiten."
+    "biography": "Paula Pongratz vereine \"wichtige Eigenschaften der Zukunft: Sie ist eigensinnig, kreativ und asozial.\" Schrieb so (mehr oder weniger) eine M\u00fcnchner Tageszeitung.   Die studierte Grafikerin macht zur Zeit lieber Schmuck und Videokunst. Dabei l\u00e4sst sie stark ihre Umgebung in ihre Arbeiten einflie\u00dfen. So entstanden zB die Schmuckserien 'Postapokalyptischer Schmuck', in der sie 'Fundst\u00fccke der menschlichen Zivilisation' zu Schmuck verarbeitete oder 'Schmuck aus Stra\u00dfenkehrmaschinenborsten', welche sie bei ihren Streifz\u00fcgen durch die Stadt findet.  Als VJ versucht sie, aktuelles Weltgeschehen zu thematisieren \u2013 nicht selten kritisch humorvoll kommentierend. Auch mit ihren Videoinstallationen geht sie direkt auf den Raum ein, illustrierend, beschreibend.  Seit 2011 gibt sie Workshops, bei denen Teilnehmende aus selbstgefundenem oderzur Verf\u00fcgung gestelltem Material Schmuck herstellen k\u00f6nnen. Paula Pongratz lebt in M\u00fcnchen und versucht, weniger zu arbeiten."
   },
   {
     "py/object": "models.Speaker",
@@ -53,42 +53,29 @@
   },
   {
     "py/object": "models.Speaker",
-    "web": "http://heartofcode.org",
-    "github": "/heartsofcode",
-    "name": "Cat Spangehl",
-    "country": "BER/GER",
-    "twitter": "https://twitter.com/@heartsofcode",
-    "linkedin": "",
-    "id": 5,
-    "photo": "speakers/Cat_Spangehl.jpg",
-    "organisation": "Heart of Code",
-    "biography": "The Heart of Code is a Berlin based HackSpace for women* advocating diversity in tech. "
-  },
-  {
-    "py/object": "models.Speaker",
-    "web": "http://tinyboy.net",
-    "github": "",
-    "name": "Alvin Lui",
-    "country": "Hong Kong",
-    "twitter": "",
-    "linkedin": "",
-    "id": 6,
-    "photo": "speakers/Alvin_Lui.jpg",
-    "organisation": "Makeomnia Ltd / HKCOTA",
-    "biography": "TinyBoy is an open design 3D printer. It fits well on a regular computer desk. TinyBoy is designed as an entry-level machine for students and newbies to learn 3D modelling technology and, ultimately, to encourage creative thinking.  Tinyboy 3D printer is ultra-portable by being small. A one-to-one student to printer ratio can be achieved in computer classrooms to maximize the exposure of student to 3D printing technology. Students can also carry the printer around beyond classrooms to engage in their learning activities. On the other hand, it is very usable for education purpose for printing figures, toys and other creations that students like.  Tinyboy is easy to build. Any student can assemble the TinyBoy by just a screw driver. We wish students can make their own machine and become pioneers to help other people. So that the use of 3D printer can be spread to their families and communities.  The process of making can transform education by inviting students to go beyond being consumers of education. They can be a maker of anything, moving from being directed to self-directed through the process."
-  },
-  {
-    "py/object": "models.Speaker",
     "web": "http://nitrokey.com",
     "github": "",
     "name": "Jan Suhr",
     "country": "Deutschlan",
     "twitter": "",
     "linkedin": "",
-    "id": 7,
+    "id": 5,
     "photo": "speakers/Jan_Suhr.jpg",
     "organisation": "Nitrokey",
     "biography": ""
+  },
+  {
+    "py/object": "models.Speaker",
+    "web": "http://heartofcode.org",
+    "github": "/heartsofcode",
+    "name": "Cat Spangehl",
+    "country": "BER/GER",
+    "twitter": "https://twitter.com/@heartsofcode",
+    "linkedin": "",
+    "id": 6,
+    "photo": "speakers/Cat_Spangehl.jpg",
+    "organisation": "Heart of Code",
+    "biography": "The Heart of Code is a Berlin based HackSpace for women* advocating diversity in tech. "
   },
   {
     "py/object": "models.Speaker",
@@ -98,10 +85,23 @@
     "country": "Germany",
     "twitter": "",
     "linkedin": "",
-    "id": 8,
+    "id": 7,
     "photo": "speakers/Erik_Albers.jpg",
     "organisation": "Free Software Foundation Europe e.V.",
     "biography": "Erik Albers ist der Kontakt f\u00fcr Campaigns and Community im Berliner B\u00fcro der FSFE."
+  },
+  {
+    "py/object": "models.Speaker",
+    "web": "http://tinyboy.net",
+    "github": "",
+    "name": "Alvin Lui",
+    "country": "Hong Kong",
+    "twitter": "",
+    "linkedin": "",
+    "id": 8,
+    "photo": "speakers/Alvin_Lui.jpg",
+    "organisation": "Makeomnia Ltd / HKCOTA",
+    "biography": "TinyBoy is an open design 3D printer. It fits well on a regular computer desk. TinyBoy is designed as an entry-level machine for students and newbies to learn 3D modelling technology and, ultimately, to encourage creative thinking.  Tinyboy 3D printer is ultra-portable by being small. A one-to-one student to printer ratio can be achieved in computer classrooms to maximize the exposure of student to 3D printing technology. Students can also carry the printer around beyond classrooms to engage in their learning activities. On the other hand, it is very usable for education purpose for printing figures, toys and other creations that students like.  Tinyboy is easy to build. Any student can assemble the TinyBoy by just a screw driver. We wish students can make their own machine and become pioneers to help other people. So that the use of 3D printer can be spread to their families and communities.  The process of making can transform education by inviting students to go beyond being consumers of education. They can be a maker of anything, moving from being directed to self-directed through the process."
   },
   {
     "py/object": "models.Speaker",
