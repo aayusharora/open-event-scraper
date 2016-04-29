@@ -411,7 +411,7 @@
     "video": null,
     "location": "Erdgeschoss, Saal",
     "sign_up": "http://www.meetup.com/OpenXLab/events/230160858/",
-    "type": "Kids Maker Space",
+    "type": "Kids Workshops",
     "end_time": "2016-05-05T08:00:00+00:00"
   },
   {
@@ -436,7 +436,7 @@
     "video": null,
     "location": "Erdgeschoss, Saal",
     "sign_up": null,
-    "type": "Exhibition Area",
+    "type": "Ausstellung/Vorstellung/Exhibition",
     "end_time": "2016-05-05T08:00:00+00:00"
   },
   {
@@ -461,7 +461,7 @@
     "video": null,
     "location": "Erdgeschoss, Saal",
     "sign_up": null,
-    "type": "Exhibition",
+    "type": "Ausstellung/Vorstellung/Exhibition",
     "end_time": "2016-05-05T08:00:00+00:00"
   },
   {
@@ -486,7 +486,7 @@
     "video": null,
     "location": "Ebene 1, Raum 2 und Raum 3",
     "sign_up": "http://www.meetup.com/OpenXLab/events/230160858/",
-    "type": "Kids Maker Space",
+    "type": "Kids Workshops",
     "end_time": "2016-05-05T08:00:00+00:00"
   },
   {
@@ -1433,6 +1433,31 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "FFII.org",
+        "id": 57,
+        "name": "Andr\u00e9 Rebentisch"
+      }
+    ],
+    "description": "How Trade Secrets Work.",
+    "title": "Trade Secrets",
+    "track": {
+      "order": 6,
+      "name": "OTS 2",
+      "id": 6
+    },
+    "start_time": "2016-05-05T17:40:00+00:00",
+    "session_id": "OT2-19",
+    "slides": null,
+    "video": null,
+    "location": "Ebene 2, Loft",
+    "sign_up": null,
+    "type": "Vortrag/Talk",
+    "end_time": "2016-05-05T18:10:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
         "organisation": "Syria on the Move, SocialVisions e.V.",
         "id": 16,
         "name": "Jenz Steiner"
@@ -1457,7 +1482,7 @@
     "speakers": [
       {
         "organisation": "Open Source Enthusiasts",
-        "id": 57,
+        "id": 58,
         "name": "Jan / Lisa Dittrich / Conrad"
       }
     ],
@@ -1480,7 +1505,7 @@
     "speakers": [
       {
         "organisation": "Copertura Label",
-        "id": 58,
+        "id": 59,
         "name": "Ivers Yves Pierre"
       }
     ],
@@ -1526,7 +1551,7 @@
     "speakers": [
       {
         "organisation": "Heart of Code",
-        "id": 59,
+        "id": 60,
         "name": "Conny Kawohl"
       }
     ],
@@ -1549,7 +1574,7 @@
     "speakers": [
       {
         "organisation": "Flowedoo",
-        "id": 60,
+        "id": 61,
         "name": "Stefan Koehler"
       }
     ],
@@ -1572,7 +1597,7 @@
     "speakers": [
       {
         "organisation": "FOSSASIA",
-        "id": 61,
+        "id": 62,
         "name": "Hong Phuc Dang"
       }
     ],
@@ -1595,7 +1620,7 @@
     "speakers": [
       {
         "organisation": "LPI e.V.",
-        "id": 62,
+        "id": 63,
         "name": "Harald Maa\u00dfen"
       }
     ],
@@ -1620,7 +1645,7 @@
     "speakers": [
       {
         "organisation": "LPI e.V.",
-        "id": 62,
+        "id": 63,
         "name": "Harald Maa\u00dfen"
       }
     ],

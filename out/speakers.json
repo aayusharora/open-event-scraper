@@ -729,13 +729,26 @@
   },
   {
     "py/object": "models.Speaker",
+    "web": "",
+    "github": "",
+    "name": "Andr\u00e9 Rebentisch",
+    "country": "",
+    "twitter": "",
+    "linkedin": "",
+    "id": 57,
+    "photo": "speakers/Andr\u00e9_Rebentisch.jpg",
+    "organisation": "FFII.org",
+    "biography": ""
+  },
+  {
+    "py/object": "models.Speaker",
     "web": "http://www.fordes.de",
     "github": "https://github.com/jdittrich/",
     "name": "Jan / Lisa Dittrich / Conrad",
     "country": "Germany",
     "twitter": "https://twitter.com/@simulo",
     "linkedin": "",
-    "id": 57,
+    "id": 58,
     "photo": "speakers/Jan _ Lisa_Dittrich _ Conrad.jpg",
     "organisation": "Open Source Enthusiasts",
     "biography": "Jan is User Researcher, Lisa is an Anthropologist. Both are interested in why people do what they do. "
@@ -748,7 +761,7 @@
     "country": "Haiti-Germany",
     "twitter": "https://www.twitter.com/Iversps",
     "linkedin": "https://de.linkedin.com/in/iversp",
-    "id": 58,
+    "id": 59,
     "photo": "speakers/Ivers Yves_Pierre.jpg",
     "organisation": "Copertura Label",
     "biography": "Ivers, originally from Haiti but resides in Germany for 7 years, Founder and CEO of Copertura Label, a 2 co-branded lines of fashion Tempo Libero for casuals and Sports and Wearable for fashion tech. Actual Regional Business Development Manager in Deliveryhero.com, the largest online food ordering platform worldwide. "
@@ -761,7 +774,7 @@
     "country": "Germany",
     "twitter": "https://twitter.com/ckawohl",
     "linkedin": "",
-    "id": 59,
+    "id": 60,
     "photo": "speakers/Conny_Kawohl.jpg",
     "organisation": "Heart of Code",
     "biography": "I am a Senior UI/UX Designer slowly morphing into a Web Frontend Developer. I write JavaScript (Angular/React) but also Ruby (RoR) and am fascinated by CSS Preprocessors. I <3 Hard Science Fiction, Slow Food, Graphic Novels and Human Languages."
@@ -774,7 +787,7 @@
     "country": "Deutschland",
     "twitter": "",
     "linkedin": "",
-    "id": 60,
+    "id": 61,
     "photo": "speakers/Stefan_Koehler.jpg",
     "organisation": "Flowedoo",
     "biography": "Stefan is a dedicated and experienced IT professional with a passion for, but no limitation to, Free Software."
@@ -787,7 +800,7 @@
     "country": "Vietnam",
     "twitter": "https://twitter.com/hpdang",
     "linkedin": "",
-    "id": 61,
+    "id": 62,
     "photo": "speakers/Hong Phuc_Dang.jpg",
     "organisation": "FOSSASIA",
     "biography": "Hong Phuc, originally from Vietnam, has lived in the US, Singapore and Dubai. She is the founder of FOSSASIA, an initiative in Asia bringing together an inspiring community across borders and ages to form a better future with Open Technologies and ICT. Hong Phuc organizes events like the annual FOSSASIA summit since 2009 and puts together Science Hack days across the region in Vietnam, Dubai and China. URL: http://sciencehack.asia | http://fossasia.org"
@@ -800,7 +813,7 @@
     "country": "Germany",
     "twitter": "",
     "linkedin": "",
-    "id": 62,
+    "id": 63,
     "photo": "speakers/Harald_Maa\u00dfen.jpg",
     "organisation": "LPI e.V.",
     "biography": "Harald Maassen ist langjaehriger Aktiver beim Linux Professional Institute."
