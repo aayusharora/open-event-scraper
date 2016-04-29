@@ -153,8 +153,33 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Free Software Foundation Europe e.V.",
+        "organisation": "Nitrokey",
         "id": 7,
+        "name": "Jan Suhr"
+      }
+    ],
+    "description": "Open Hardware Crypto-Devices",
+    "title": "Nitrokey Sicherheits-USB-Stick",
+    "track": {
+      "order": 2,
+      "name": "Maker Space",
+      "id": 2
+    },
+    "start_time": "2016-05-05T07:30:00+00:00",
+    "session_id": "MS-13",
+    "slides": null,
+    "video": null,
+    "location": "Erdgeschoss, Saal",
+    "sign_up": null,
+    "type": "Infotisch mit Workshops / Info table and Workshops",
+    "end_time": "2016-05-05T08:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "Free Software Foundation Europe e.V.",
+        "id": 8,
         "name": "Erik Albers"
       }
     ],
@@ -179,7 +204,7 @@
     "speakers": [
       {
         "organisation": "Hasso-Plattner-Institut Potsdam",
-        "id": 8,
+        "id": 9,
         "name": "Fabian L\u00fcpke"
       }
     ],
@@ -197,31 +222,6 @@
     "location": "Erdgeschoss, Saal",
     "sign_up": null,
     "type": "Hardware Hacks",
-    "end_time": "2016-05-05T08:00:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
-        "organisation": "Nitrokey",
-        "id": 9,
-        "name": "Jan Suhr"
-      }
-    ],
-    "description": "Open Hardware Crypto-Devices",
-    "title": "Nitrokey Sicherheits-USB-Stick",
-    "track": {
-      "order": 2,
-      "name": "Maker Space",
-      "id": 2
-    },
-    "start_time": "2016-05-05T07:30:00+00:00",
-    "session_id": "MS-13",
-    "slides": null,
-    "video": null,
-    "location": "Erdgeschoss, Saal",
-    "sign_up": null,
-    "type": "Infotisch mit Workshops / Info table and Workshops",
     "end_time": "2016-05-05T08:00:00+00:00"
   },
   {
@@ -446,6 +446,11 @@
         "organisation": "Junge T\u00fcftler",
         "id": 20,
         "name": "Julia Kleeberger"
+      },
+      {
+        "organisation": "Junge T\u00fcftler",
+        "id": 21,
+        "name": "Franziska Schmid"
       }
     ],
     "description": "How can fabrics conduct electricity and is it possible to build electric circuits out of paper? In our 3 hour workshop children aged 6 and older will have the possibility to tinker and explore the impact of electricity in a playful way. They can craft figures made out of paper or felt and enrich them with electric functions. With our workshop we wanna share the fascination of technology with kids and want to encourage them to hack and tinker around with everyday objects. ",
@@ -469,7 +474,7 @@
     "speakers": [
       {
         "organisation": "Jugend Hackt",
-        "id": 21,
+        "id": 22,
         "name": "Jakob Schade"
       }
     ],
@@ -494,7 +499,7 @@
     "speakers": [
       {
         "organisation": "Code Week Award",
-        "id": 22,
+        "id": 23,
         "name": "Code Week Award"
       }
     ],
@@ -519,7 +524,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 23,
+        "id": 24,
         "name": "OTS OpenTechSummit"
       }
     ],
@@ -544,7 +549,7 @@
     "speakers": [
       {
         "organisation": "Intelligent Systems / Altran",
-        "id": 24,
+        "id": 25,
         "name": "Toon Peters"
       }
     ],
@@ -569,7 +574,7 @@
     "speakers": [
       {
         "organisation": "Valentina",
-        "id": 25,
+        "id": 26,
         "name": "Susan Spencer"
       }
     ],
@@ -594,7 +599,7 @@
     "speakers": [
       {
         "organisation": "Wikimedia Deutschland e.V.",
-        "id": 26,
+        "id": 27,
         "name": "Marius Hoch"
       }
     ],
@@ -619,7 +624,7 @@
     "speakers": [
       {
         "organisation": "FreeGeo API",
-        "id": 27,
+        "id": 28,
         "name": "Zac Brown"
       }
     ],
@@ -644,7 +649,7 @@
     "speakers": [
       {
         "organisation": "Code for Berlin",
-        "id": 28,
+        "id": 29,
         "name": "Thomas Tursics"
       }
     ],
@@ -669,7 +674,7 @@
     "speakers": [
       {
         "organisation": "IBM",
-        "id": 29,
+        "id": 30,
         "name": "Alexander Loibl"
       }
     ],
@@ -694,7 +699,7 @@
     "speakers": [
       {
         "organisation": "OpenTechSummit",
-        "id": 30,
+        "id": 31,
         "name": "Lightning Talkers"
       }
     ],
@@ -719,7 +724,7 @@
     "speakers": [
       {
         "organisation": "Hackerspace.sg",
-        "id": 31,
+        "id": 32,
         "name": "Justin Lee"
       }
     ],
@@ -769,7 +774,7 @@
     "speakers": [
       {
         "organisation": "Thoughtworks",
-        "id": 32,
+        "id": 33,
         "name": "Erik D\u00f6rnenburg"
       }
     ],
@@ -794,7 +799,7 @@
     "speakers": [
       {
         "organisation": "OpenKnowledge",
-        "id": 33,
+        "id": 34,
         "name": "Rufus Pollock"
       }
     ],
@@ -819,7 +824,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 34,
+        "id": 35,
         "name": "Lennart Poettering"
       }
     ],
@@ -844,7 +849,7 @@
     "speakers": [
       {
         "organisation": "Kinvolk GmbH",
-        "id": 35,
+        "id": 36,
         "name": "Chris K\u00fchl"
       }
     ],
@@ -869,12 +874,12 @@
     "speakers": [
       {
         "organisation": "Beuth Hochschule f\u00fcr Technik Berlin",
-        "id": 36,
+        "id": 37,
         "name": "Ruediger Weis"
       },
       {
         "organisation": "Beuth Hochschule f\u00fcr Technik Berlin",
-        "id": 37,
+        "id": 38,
         "name": "Bruno Kirschner"
       }
     ],
@@ -899,7 +904,7 @@
     "speakers": [
       {
         "organisation": "Free Software Foundation Europe e.V.",
-        "id": 38,
+        "id": 39,
         "name": "Matthias Kirschner"
       }
     ],
@@ -924,7 +929,7 @@
     "speakers": [
       {
         "organisation": "cusy GmbH",
-        "id": 39,
+        "id": 40,
         "name": "Veit Schiele"
       }
     ],
@@ -949,7 +954,7 @@
     "speakers": [
       {
         "organisation": "Thunderbird",
-        "id": 40,
+        "id": 41,
         "name": "J\u00f6rg Knobloch"
       }
     ],
@@ -974,12 +979,12 @@
     "speakers": [
       {
         "organisation": "Bioflux",
-        "id": 41,
+        "id": 42,
         "name": "R\u00fcdiger Trojok"
       },
       {
         "organisation": "Bioflux",
-        "id": 42,
+        "id": 43,
         "name": "Mirela Alistar"
       }
     ],
@@ -1004,7 +1009,7 @@
     "speakers": [
       {
         "organisation": "Jugend Hackt",
-        "id": 21,
+        "id": 22,
         "name": "Jakob Schade"
       }
     ],
@@ -1029,7 +1034,7 @@
     "speakers": [
       {
         "organisation": "Junge T\u00fcftler",
-        "id": 43,
+        "id": 21,
         "name": "Franziska Schmid"
       },
       {
@@ -1209,7 +1214,7 @@
     "speakers": [
       {
         "organisation": "Code Week Award",
-        "id": 22,
+        "id": 23,
         "name": "Code Week Award"
       }
     ],

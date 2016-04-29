@@ -79,13 +79,26 @@
   },
   {
     "py/object": "models.Speaker",
+    "web": "http://nitrokey.com",
+    "github": "",
+    "name": "Jan Suhr",
+    "country": "Deutschlan",
+    "twitter": "",
+    "linkedin": "",
+    "id": 7,
+    "photo": "speakers/Jan_Suhr.jpg",
+    "organisation": "Nitrokey",
+    "biography": ""
+  },
+  {
+    "py/object": "models.Speaker",
     "web": "http://fsfe.org",
     "github": "",
     "name": "Erik Albers",
     "country": "Germany",
     "twitter": "",
     "linkedin": "",
-    "id": 7,
+    "id": 8,
     "photo": "speakers/Erik_Albers.jpg",
     "organisation": "Free Software Foundation Europe e.V.",
     "biography": "Erik Albers ist der Kontakt f\u00fcr Campaigns and Community im Berliner B\u00fcro der FSFE."
@@ -98,23 +111,10 @@
     "country": "Deutschland",
     "twitter": "https://twitter.com/fluepke",
     "linkedin": "",
-    "id": 8,
+    "id": 9,
     "photo": "speakers/Fabian_L\u00fcpke.jpg",
     "organisation": "Hasso-Plattner-Institut Potsdam",
     "biography": "Seit meiner Jugend arbeite ich an verschiedenen Hardware Projekten. Bspw. automatisierte ich die Steuerung meiner Modelleisenbahnanlage oder baute meine eigene Tauchlampe. Derzeit befinde ich mich im zweiten Semster am Hasso-Plattner-Institut in Potsdam. Dort gr\u00fcndete ich au\u00dferdem den \"Makerklub\", in welchem wir uns ebenfalls mit Arduino & Co besch\u00e4ftigen."
-  },
-  {
-    "py/object": "models.Speaker",
-    "web": "http://nitrokey.com",
-    "github": "",
-    "name": "Jan Suhr",
-    "country": "Deutschlan",
-    "twitter": "",
-    "linkedin": "",
-    "id": 9,
-    "photo": "speakers/Jan_Suhr.jpg",
-    "organisation": "Nitrokey",
-    "biography": ""
   },
   {
     "py/object": "models.Speaker",
@@ -261,13 +261,26 @@
   },
   {
     "py/object": "models.Speaker",
+    "web": "http://junge-tueftler.de/",
+    "github": "",
+    "name": "Franziska Schmid",
+    "country": "Germany",
+    "twitter": "https://twitter.com/@Franzi_Schmid",
+    "linkedin": "",
+    "id": 21,
+    "photo": "speakers/Franziska_Schmid.jpg",
+    "organisation": "Junge T\u00fcftler",
+    "biography": "Franziska is Co-Founder of Junge T\u00fcftler. Before she started the Junge T\u00fcftler initiative in 2015 she worked as a Designer for the Volkswagen Innovation Team and IXDS. Junge T\u00fcftler wants to get kids excited about tech and coding. Within the last year the Junge T\u00fcftler team developed various formats to reach kids and multiplicators within Berlin and Germany. "
+  },
+  {
+    "py/object": "models.Speaker",
     "web": "https://jugendhackt.de",
     "github": "https://github.com/jugendhackt",
     "name": "Jakob Schade",
     "country": "Deutschland",
     "twitter": "",
     "linkedin": "",
-    "id": 21,
+    "id": 22,
     "photo": "speakers/Jakob_Schade.jpg",
     "organisation": "Jugend Hackt",
     "biography": "Der Stand soll durch Teilnehmer_innen, Mentor_innen und Organisator_innen gemeinsam betreut werden."
@@ -280,7 +293,7 @@
     "country": "Berlin",
     "twitter": "https://twitter.com/@codeweekaward",
     "linkedin": "",
-    "id": 22,
+    "id": 23,
     "photo": "speakers/Code Week_Award.jpg",
     "organisation": "Code Week Award",
     "biography": "Wir sind das Team des Code Week Awards. Wir unterst\u00fctzen und vernetzen Projekte, sind unterwegs auf kreativen Tech Festivals, f\u00fchren Workshops durch, geben euch Tipps bei Fragen zu OER-Konzepten oder helfen bei der Suche einer Coding-Initiative in eurer N\u00e4he."
@@ -293,7 +306,7 @@
     "country": "",
     "twitter": "",
     "linkedin": "",
-    "id": 23,
+    "id": 24,
     "photo": "",
     "organisation": "",
     "biography": ""
@@ -306,7 +319,7 @@
     "country": "Belgium",
     "twitter": "https://twitter.com/@picotcp",
     "linkedin": "https://be.linkedin.com/in/toonpeters",
-    "id": 24,
+    "id": 25,
     "photo": "speakers/Toon_Peters.jpg",
     "organisation": "Intelligent Systems / Altran",
     "biography": "Toon is not your everyday engineer. With his passion for technology and enthusiasm for interesting projects, he can truly bring a project to the next level. All while having loads of fun.  Skill-wise, Toon has experience in Embedded software and Electronics, but also marketing, offer development and even recruiting. In short: An all-rounder"
@@ -319,7 +332,7 @@
     "country": "USA",
     "twitter": "https://twitter.com/@ValentinaPSW",
     "linkedin": "https://www.linkedin.com/in/susan-spencer-3b502516",
-    "id": 25,
+    "id": 26,
     "photo": "speakers/Susan_Spencer.jpg",
     "organisation": "Valentina",
     "biography": "Product developer for Valentina open source pattern drafting software.  Network analyst now open source evangelist.    Looking for programmers: Blender - 3D development, C++  - 'assymetric' pattern features to make patterns for disabled persons. Corporate funding possible. Looking for fashion designers and patternmakers. Looking for translators.  Send email to contact@valentina-project.org "
@@ -332,7 +345,7 @@
     "country": "Deutschland",
     "twitter": "https://twitter.com/wikidata",
     "linkedin": "",
-    "id": 26,
+    "id": 27,
     "photo": "speakers/Marius_Hoch.jpg",
     "organisation": "Wikimedia Deutschland e.V.",
     "biography": "Marius Hoch is software developer at Wikimedia Deutschland e.V. and a contributor to the Wikidata project since 2012. "
@@ -345,7 +358,7 @@
     "country": "USA",
     "twitter": "https://twitter.com/@YupItsZac",
     "linkedin": "http://linkedin.com/in/yupitszac",
-    "id": 27,
+    "id": 28,
     "photo": "speakers/Zac_Brown.jpg",
     "organisation": "FreeGeo API",
     "biography": "Zac has learned his first two development languages at age 9 when he became curious about computers. Now, at age 21, he builds scalable web based applications for a company in Berlin. Zac uses his knowledge, experience, and desire to learn as a tool to excite engineers about the crucial role open technologies play in shaping the future of the computng industry. "
@@ -358,7 +371,7 @@
     "country": "Germany",
     "twitter": "https://twitter.com/@tursics",
     "linkedin": "http://www.linkedin.com/in/thomastursics",
-    "id": 28,
+    "id": 29,
     "photo": "speakers/Thomas_Tursics.jpg",
     "organisation": "Code for Berlin",
     "biography": "Als gelernter Softwareentwickler arbeite ich seit Jahren an kleinen und gro\u00dfen Projekten mit. In meiner Freizeit nutze ich dieses Wissen, um aus offenen Daten vielf\u00e4ltige Anwendungen zu erstellen. Ich treibe mich des \u00f6fteren auf Hackathons rum und erz\u00e4hle jedem der mir zuh\u00f6rt, wie toll dieses Open Data ist."
@@ -371,7 +384,7 @@
     "country": "",
     "twitter": "",
     "linkedin": "",
-    "id": 29,
+    "id": 30,
     "photo": "speakers/Alexander_Loibl.jpg",
     "organisation": "IBM",
     "biography": ""
@@ -384,7 +397,7 @@
     "country": "",
     "twitter": "",
     "linkedin": "",
-    "id": 30,
+    "id": 31,
     "photo": "",
     "organisation": "OpenTechSummit",
     "biography": ""
@@ -397,7 +410,7 @@
     "country": "",
     "twitter": "",
     "linkedin": "",
-    "id": 31,
+    "id": 32,
     "photo": "speakers/Justin_Lee.jpg",
     "organisation": "Hackerspace.sg",
     "biography": ""
@@ -410,7 +423,7 @@
     "country": "Germany",
     "twitter": "https://twitter.com/opntec",
     "linkedin": "",
-    "id": 32,
+    "id": 33,
     "photo": "speakers/Erik_D\u00f6rnenburg.jpg",
     "organisation": "Thoughtworks",
     "biography": "OpenTech Panel"
@@ -423,7 +436,7 @@
     "country": "UK",
     "twitter": "",
     "linkedin": "",
-    "id": 33,
+    "id": 34,
     "photo": "speakers/Rufus _Pollock.jpg",
     "organisation": "OpenKnowledge",
     "biography": "Leading academic of the European open data movement"
@@ -436,7 +449,7 @@
     "country": "Germany",
     "twitter": "",
     "linkedin": "",
-    "id": 34,
+    "id": 35,
     "photo": "speakers/Lennart_Poettering.jpg",
     "organisation": "Red Hat",
     "biography": "Lennart Poettering is employed by Red Hat to work on systemd. He lives in Berlin."
@@ -449,7 +462,7 @@
     "country": "Germany",
     "twitter": "https://twitter.com/@blixtra",
     "linkedin": "https://www.linkedin.com/in/christopherk1",
-    "id": 35,
+    "id": 36,
     "photo": "speakers/Chris_K\u00fchl.jpg",
     "organisation": "Kinvolk GmbH",
     "biography": "After getting hooked on free and open source software as a hobby through the GNOME project, Chris was able to turn this passion into a career and has since co-founded Kinvolk in Berlin, which focuses exclusively on open source software engineering for foundational Linux technologies: the Linux kernel, systemd, rkt, etc.  Chris is an active member of the Berlin open source community. He helps organize the Berlin meetups for CoreOS and systemd, the Berlin Open Source Eats-n-Drinks Meetup and works with the systemd team to organize systemd.conf."
@@ -462,7 +475,7 @@
     "country": "Berlin",
     "twitter": "",
     "linkedin": "",
-    "id": 36,
+    "id": 37,
     "photo": "speakers/Ruediger_Weis.jpg",
     "organisation": "Beuth Hochschule f\u00fcr Technik Berlin",
     "biography": "Ruediger Weis has studied math at the University of Mannheim. After his PhD in computer science about cryptography for distributed systems he founded cryptolabs Amsterdam. From 2002 till 2005 he worked as Post-Doc researcher with Andy Tanenbaum at the Vrije Universiteit Amsterdam. In 2005 he has accepted a professorship at the Technische Fachhochschule Berlin. Ruediger Weis is a longtime member of the Chaos Computer club and founding member of the Digitale Gesellschaft e.V.. Since 2016 he is also a member of the Minix 3 steering team."
@@ -475,7 +488,7 @@
     "country": "",
     "twitter": "https://twitter.com/ondorio",
     "linkedin": "https://www.linkedin.com/in/bruno-kirschner-4b8421b4",
-    "id": 37,
+    "id": 38,
     "photo": "speakers/Bruno_Kirschner.jpg",
     "organisation": "Beuth Hochschule f\u00fcr Technik Berlin",
     "biography": "Bruno Kirchner is a Master student at the Beuth-Hochschule fuer Technik in Berlin."
@@ -488,7 +501,7 @@
     "country": "Germany",
     "twitter": "https://twitter.com/kirschner",
     "linkedin": "https://de.linkedin.com/in/matthiaskirschner",
-    "id": 38,
+    "id": 39,
     "photo": "speakers/Matthias_Kirschner.jpg",
     "organisation": "Free Software Foundation Europe e.V.",
     "biography": "Matthias Kirschner ist Pr\u00e4sident der FSFE. 1999 begann er GNU/Linux zu nutzen und realisierte, dass Software tief in allen Bereichen unseres Lebens verwurzelt ist. Er ist davon \u00fcberzeugt, dass diese Technik unsere Gesellschaft nicht einschr\u00e4nken, sondern sie bef\u00e4higen muss. Seit 2004, w\u00e4hrend seines Studiums der Politik- und Verwaltungswissenschaft, engagiert er sich bei der FSFE. Er unterst\u00fctzt Organisationen, Unternehmen und die \u00d6ffentliche Verwaltung dabei, von Freier Software zu profitieren und er erkl\u00e4rt, wie die grundlegenden Rechte von Freier Software -- das Recht sie zu verwenden, zu verstehen, zu verbreiten und zu verbessern -- die Meinungsfreiheit, Pressefreiheit oder Privatsph\u00e4re f\u00f6rdern.  Matthias Kirschner is President of FSFE. In 1999 he started using GNU/Linux and realised that software is deeply involved in all aspects of our lives. Matthias is convinced that this technology has to empower society not restrict it. While studying Political and Administrative Science he joined FSFE in 2004. He helps other organisations, companies and governments to understand how they can benefit from Free Software -- which gives everybody the rights to use, understand, adapt and share software -- and how those rights help to support freedom of speech, freedom of press or privacy."
@@ -501,7 +514,7 @@
     "country": "Deutschland",
     "twitter": "https://twitter.com/VeitSchiele",
     "linkedin": "https://www.linkedin.com/in/veit-schiele-84759570",
-    "id": 39,
+    "id": 40,
     "photo": "speakers/Veit_Schiele.jpg",
     "organisation": "cusy GmbH",
     "biography": "Gr\u00fcnder und Gesch\u00e4ftsf\u00fchrer der cusy GmbH. Community manager des Python Software Verband (PySV) und Co-Organisator der Python Users Berlin (PUB)."
@@ -514,7 +527,7 @@
     "country": "Germany",
     "twitter": "",
     "linkedin": "",
-    "id": 40,
+    "id": 41,
     "photo": "speakers/J\u00f6rg_Knobloch.jpg",
     "organisation": "Thunderbird",
     "biography": "Thunderbird-Entwickler und Council-Member"
@@ -527,7 +540,7 @@
     "country": "Deutschland",
     "twitter": "",
     "linkedin": "",
-    "id": 41,
+    "id": 42,
     "photo": "speakers/R\u00fcdiger_Trojok.jpg",
     "organisation": "Bioflux",
     "biography": "R\u00fcdiger Trojok Diplom Biologist, studied systems and synthetic biology at the Universities of Potsdam, Copenhagen (DTU) and Freiburg. During his thesis he invented a novel contraceptive method based on genetically altered lactic acid bacteria. He worked as a freelance consultant for the office for Technology Assessment by the German Parliament on biohacking and synthetic biology. Since 2014 he works for the Institute for Technology Assessment and Systems Analysis at the Karlsruhe Institute for Technology on the EU program Synenergene. He is currently establishing a citizen science biolab in Berlin, and is supporting open-source biotechnology projects related to public life, politics and the arts."
@@ -540,23 +553,10 @@
     "country": "Deutschland",
     "twitter": "",
     "linkedin": "",
-    "id": 42,
+    "id": 43,
     "photo": "speakers/Mirela_Alistar.jpg",
     "organisation": "Bioflux",
     "biography": "Mirela Alistar has received her PhD in computer engineering from the Technical University of Denmark in 2014. Since 2010, she has been working on developing Computer-Aided Design tools for digital microfluidic biochips. Her main research interests are in the area of system-level design of embedded systems, with a special focus on digital microfluidics. She is supporting open access research and she has organized citizen-science events, where she dissiminates to the public with the aim of involving them into creating more knowledge."
-  },
-  {
-    "py/object": "models.Speaker",
-    "web": "http://junge-tueftler.de/",
-    "github": "",
-    "name": "Franziska Schmid",
-    "country": "Germany",
-    "twitter": "https://twitter.com/@Franzi_Schmid",
-    "linkedin": "",
-    "id": 43,
-    "photo": "speakers/Franziska_Schmid.jpg",
-    "organisation": "Junge T\u00fcftler",
-    "biography": "Franziska is Co-Founder of Junge T\u00fcftler. Before she started the Junge T\u00fcftler initiative in 2015 she worked as a Designer for the Volkswagen Innovation Team and IXDS. Junge T\u00fcftler wants to get kids excited about tech and coding. Within the last year the Junge T\u00fcftler team developed various formats to reach kids and multiplicators within Berlin and Germany. "
   },
   {
     "py/object": "models.Speaker",
