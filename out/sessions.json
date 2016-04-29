@@ -651,9 +651,15 @@
   },
   {
     "py/object": "models.Session",
-    "speakers": [],
+    "speakers": [
+      {
+        "organisation": "Hackerspace.sg",
+        "id": 25,
+        "name": "Justin Lee"
+      }
+    ],
     "description": "",
-    "title": "Justin Lee",
+    "title": "Open Tech in Asia",
     "track": {
       "order": 5,
       "name": "OTS 1",
