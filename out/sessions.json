@@ -1093,9 +1093,15 @@
   },
   {
     "py/object": "models.Session",
-    "speakers": [],
+    "speakers": [
+      {
+        "organisation": "Valentina Patternmaking Software / Schnittmuster",
+        "id": 42,
+        "name": "Susan Spencer"
+      }
+    ],
     "description": "",
-    "title": "Susan Spencer",
+    "title": "Valentina Patternmaking for every Designer",
     "track": {
       "order": 6,
       "name": "OTS 2",
@@ -1106,7 +1112,7 @@
     "video": null,
     "location": "Ebene 2, Loft",
     "sign_up": null,
-    "type": ""
+    "type": "Vortrag/Talk"
   },
   {
     "py/object": "models.Session",
