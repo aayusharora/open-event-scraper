@@ -323,8 +323,8 @@
         "name": "Jenz Steiner"
       }
     ],
-    "description": "Audacity is a free and easy to use audio editor. It is almost as easy to use as your old cassette player, if you've ever had one. Within one hour you will pick up the basics that you need in order to produce your own podcast, radio show, mixtape, listening play or wild audio collage. Please bring your own laptop, headphones, if possible: a digital audio recorder or USB-mic and all the necessary cables and cards. You may download the software and the lame codec in advance under audacity.sourceforge.net!",
-    "title": "Fast podcast production with audacity",
+    "description": "Du wolltest schon immer mal deine eigene Radiosendung machen, H\u00f6rspiele oder Reportagen aufnehmen? Jenz zeigt uns beim OpenTechSummit, wie es geht und die freie Software Audacity hilft uns dabei. Sie ist so einfach zu bedienen wie ein Schreibprogramm. Bitte ladet euch den lame codec vorher herunter unter http://audacity.sourceforge.net!  Audacity is a free and easy to use audio editor. It is almost as easy to use as your old cassette player, if you've ever had one. Within one hour you will pick up the basics that you need in order to produce your own podcast, radio show, mixtape, listening play or wild audio collage. Please bring your own laptop, headphones, if possible: a digital audio recorder or USB-mic and all the necessary cables and cards. You may download the software and the lame codec in advance under http://audacity.sourceforge.net!",
+    "title": "Eigene Radiosendungen machen im 60-minutes Beginner Crash Course mit Audacity / Fast podcast production with audacity",
     "track": {
       "order": 3,
       "name": "Workshops",
@@ -505,14 +505,14 @@
       "name": "OTS 1",
       "id": 5
     },
-    "start_time": "2016-05-05T09:00:00+00:00",
+    "start_time": "2016-05-05T08:55:00+00:00",
     "session_id": "OT-01",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "",
-    "end_time": "2016-05-05T09:30:00+00:00"
+    "end_time": "2016-05-05T09:25:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -530,21 +530,46 @@
       "name": "OTS 1",
       "id": 5
     },
-    "start_time": "2016-05-05T09:05:00+00:00",
+    "start_time": "2016-05-05T09:00:00+00:00",
     "session_id": "OT-02",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Vortrag/Talk",
-    "end_time": "2016-05-05T09:35:00+00:00"
+    "end_time": "2016-05-05T09:30:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "Valentina",
+        "id": 24,
+        "name": "Susan Spencer"
+      }
+    ],
+    "description": "Valentina is open source pattern drafting software, designed to be the foundation of a new stack of open source tools to remake the garment industry. Parametric design +  open data formats + open source code = shareable/remixable patterns usable by any sewist or manufacturer for garment production.  Valentina enables independent designers to become ethically profitable, and can empower designers focused on eco fashion and slow fashion.   Small batch and custom sized clothing manufacturing is essential to create a sustainable future, preserve small to medium sized textile spinning and weaving manufacturers, enable independent and small designers and manufacturers to scale up to make a decent living, rebuild local garment districts, and reduce or eliminate slave labor.  Valentina is available for Linux, Mac, and Windows.",
+    "title": "Valentina digital pattern design",
+    "track": {
+      "order": 5,
+      "name": "OTS 1",
+      "id": 5
+    },
+    "start_time": "2016-05-05T09:25:00+00:00",
+    "session_id": "OT-03",
+    "slides": null,
+    "video": null,
+    "location": "Ebene 1, Galerie",
+    "sign_up": null,
+    "type": "Talk of 25 minutes",
+    "end_time": "2016-05-05T09:55:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "organisation": "Wikimedia Deutschland e.V.",
-        "id": 24,
+        "id": 25,
         "name": "Marius Hoch"
       }
     ],
@@ -555,51 +580,26 @@
       "name": "OTS 1",
       "id": 5
     },
-    "start_time": "2016-05-05T09:30:00+00:00",
-    "session_id": "OT-03",
-    "slides": null,
-    "video": null,
-    "location": "Ebene 1, Galerie",
-    "sign_up": null,
-    "type": "Vortrag/Talk",
-    "end_time": "2016-05-05T10:00:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
-        "organisation": "Makeomnia Ltd / HKCOTA",
-        "id": 6,
-        "name": "Alvin Lui"
-      }
-    ],
-    "description": "TinyBoy Project is an education project started at 2011. The talk is about the follow up of the project, what we did and the progress.  To show the new version of the TinyBoy, TinyBoy2. And to discuss about how to integrate into STEAM.",
-    "title": "TinyBoy Project - a 3D printer for education",
-    "track": {
-      "order": 5,
-      "name": "OTS 1",
-      "id": 5
-    },
-    "start_time": "2016-05-05T10:00:00+00:00",
+    "start_time": "2016-05-05T09:50:00+00:00",
     "session_id": "OT-04",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Vortrag/Talk",
-    "end_time": "2016-05-05T10:30:00+00:00"
+    "end_time": "2016-05-05T10:20:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Mozilla",
-        "id": 25,
-        "name": "Elio Qoshi"
+        "organisation": "FreeGeo API",
+        "id": 26,
+        "name": "Zac Brown"
       }
     ],
-    "description": "In early 2016, we started the Community Design initative at Mozilla, allowing all volunteer contributors to work closer with staff and get involved in projects, which before were accessible only to staff at Mozilla. This caters the needs of both community and staff, in a decentralized way.",
-    "title": "Community Design at Mozilla  ",
+    "description": "Explore the way the FreeGeo API uses the freely available, and open geospatial data provided by the OSM project to accomplish a free (and, of course, also open) production ready interface that lets developers perform geospatial calclations, geocoding and more!",
+    "title": "FreeGeo API: What, Why & How",
     "track": {
       "order": 5,
       "name": "OTS 1",
@@ -618,13 +618,13 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Open Source Circular Economy Days",
-        "id": 26,
-        "name": "Lars Zimmermann"
+        "organisation": "Code for Berlin",
+        "id": 27,
+        "name": "Thomas Tursics"
       }
     ],
-    "description": "Open Source Circular Design is so ugly! Is it? Or is it just a new paradigm for design we are going to explore? Funnier, sexier, more elegant ... that was yesterday (or is today). But in the future maybe it will be modular, hackable, reusable and open ...  This talk will be a reading of a letter exchange that happened between a guy that is a critic of open design and loves shiny apple stuff and a guy that tries to explore open source circular design. The letter exchanges brings up the key arguments of both sides. | It mentions and works in the context of the Open Source Circular Economy Days",
-    "title": "Open Source Circular Design is so Ugly! / Open Source Circular Design ist unglaublich h\u00e4sslich!",
+    "description": "Nach einer kurzen Einleitung, was Open Data ist, schauen wir gemeinsam in mehrere Open Data Portale hinein. Welche Daten werden angeboten, wie kann man sie sich anschauen und was daraus schlu\u00dffolgern? Unterf\u00fcttert mit jede Menge Anwendungsbeispielen aus der Community und Ergebnissen von Hackathons soll die Lust auf Open Data geweckt werden.",
+    "title": "Open Data f\u00fcr Dummies - oder - Wie nutze ich offene Daten",
     "track": {
       "order": 5,
       "name": "OTS 1",
@@ -644,7 +644,7 @@
     "speakers": [
       {
         "organisation": "IBM",
-        "id": 27,
+        "id": 28,
         "name": "Alexander Loibl"
       }
     ],
@@ -669,7 +669,7 @@
     "speakers": [
       {
         "organisation": "at OpenTechSummit",
-        "id": 28,
+        "id": 29,
         "name": "Lightning Talkers"
       }
     ],
@@ -694,7 +694,7 @@
     "speakers": [
       {
         "organisation": "Hackerspace.sg",
-        "id": 29,
+        "id": 30,
         "name": "Justin Lee"
       }
     ],
@@ -744,7 +744,7 @@
     "speakers": [
       {
         "organisation": "Thoughtworks",
-        "id": 30,
+        "id": 31,
         "name": "Erik D\u00f6rnenburg"
       }
     ],
@@ -769,7 +769,7 @@
     "speakers": [
       {
         "organisation": "OpenKnowledge",
-        "id": 31,
+        "id": 32,
         "name": "Rufus Pollock"
       }
     ],
@@ -794,7 +794,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 32,
+        "id": 33,
         "name": "Lennart Poettering"
       }
     ],
@@ -819,7 +819,7 @@
     "speakers": [
       {
         "organisation": "Kinvolk GmbH",
-        "id": 33,
+        "id": 34,
         "name": "Chris K\u00fchl"
       }
     ],
@@ -844,12 +844,12 @@
     "speakers": [
       {
         "organisation": "Beuth Hochschule f\u00fcr Technik Berlin",
-        "id": 34,
+        "id": 35,
         "name": "Ruediger Weis"
       },
       {
         "organisation": "Beuth Hochschule f\u00fcr Technik Berlin",
-        "id": 35,
+        "id": 36,
         "name": "Bruno Kirschner"
       }
     ],
@@ -874,7 +874,7 @@
     "speakers": [
       {
         "organisation": "Free Software Foundation Europe e.V.",
-        "id": 36,
+        "id": 37,
         "name": "Matthias Kirschner"
       }
     ],
@@ -899,7 +899,7 @@
     "speakers": [
       {
         "organisation": "cusy GmbH",
-        "id": 37,
+        "id": 38,
         "name": "Veit Schiele"
       }
     ],
@@ -924,7 +924,7 @@
     "speakers": [
       {
         "organisation": "Thunderbird",
-        "id": 38,
+        "id": 39,
         "name": "J\u00f6rg Knobloch"
       }
     ],
@@ -949,12 +949,12 @@
     "speakers": [
       {
         "organisation": "Bioflux",
-        "id": 39,
+        "id": 40,
         "name": "R\u00fcdiger Trojok"
       },
       {
         "organisation": "Bioflux",
-        "id": 40,
+        "id": 41,
         "name": "Mirela Alistar"
       }
     ],
@@ -1004,7 +1004,7 @@
     "speakers": [
       {
         "organisation": "Junge T\u00fcftler",
-        "id": 41,
+        "id": 42,
         "name": "Franziska Schmid"
       },
       {
@@ -1034,7 +1034,7 @@
     "speakers": [
       {
         "organisation": "Wikimedia Deutschland",
-        "id": 42,
+        "id": 43,
         "name": "Barbara Fischer"
       }
     ],
@@ -1059,7 +1059,7 @@
     "speakers": [
       {
         "organisation": "Intelligent Systems / Altran",
-        "id": 43,
+        "id": 44,
         "name": "Toon Peters"
       }
     ],
@@ -1083,13 +1083,13 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "FreeGeo API",
-        "id": 44,
-        "name": "Zac Brown"
+        "organisation": "Makeomnia Ltd / HKCOTA",
+        "id": 6,
+        "name": "Alvin Lui"
       }
     ],
-    "description": "Explore the way the FreeGeo API uses the freely available, and open geospatial data provided by the OSM project to accomplish a free (and, of course, also open) production ready interface that lets developers perform geospatial calclations, geocoding and more!",
-    "title": "FreeGeo API: What, Why & How",
+    "description": "TinyBoy Project is an education project started at 2011. The talk is about the follow up of the project, what we did and the progress.  To show the new version of the TinyBoy, TinyBoy2. And to discuss about how to integrate into STEAM.",
+    "title": "TinyBoy Project - a 3D printer for education",
     "track": {
       "order": 6,
       "name": "OTS 2",
@@ -1108,13 +1108,13 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Code for Berlin",
+        "organisation": "Mozilla",
         "id": 45,
-        "name": "Thomas Tursics"
+        "name": "Elio Qoshi"
       }
     ],
-    "description": "Nach einer kurzen Einleitung, was Open Data ist, schauen wir gemeinsam in mehrere Open Data Portale hinein. Welche Daten werden angeboten, wie kann man sie sich anschauen und was daraus schlu\u00dffolgern? Unterf\u00fcttert mit jede Menge Anwendungsbeispielen aus der Community und Ergebnissen von Hackathons soll die Lust auf Open Data geweckt werden.",
-    "title": "Open Data f\u00fcr Dummies - oder - Wie nutze ich offene Daten",
+    "description": "In early 2016, we started the Community Design initative at Mozilla, allowing all volunteer contributors to work closer with staff and get involved in projects, which before were accessible only to staff at Mozilla. This caters the needs of both community and staff, in a decentralized way.",
+    "title": "Community Design at Mozilla  ",
     "track": {
       "order": 6,
       "name": "OTS 2",
@@ -1133,13 +1133,13 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Valentina",
+        "organisation": "Open Source Circular Economy Days",
         "id": 46,
-        "name": "Susan Spencer"
+        "name": "Lars Zimmermann"
       }
     ],
-    "description": "Valentina is open source pattern drafting software, designed to be the foundation of a new stack of open source tools to remake the garment industry. Parametric design +  open data formats + open source code = shareable/remixable patterns usable by any sewist or manufacturer for garment production.  Valentina enables independent designers to become ethically profitable, and can empower designers focused on eco fashion and slow fashion.   Small batch and custom sized clothing manufacturing is essential to create a sustainable future, preserve small to medium sized textile spinning and weaving manufacturers, enable independent and small designers and manufacturers to scale up to make a decent living, rebuild local garment districts, and reduce or eliminate slave labor.  Valentina is available for Linux, Mac, and Windows.",
-    "title": "Valentina digital pattern design",
+    "description": "Open Source Circular Design is so ugly! Is it? Or is it just a new paradigm for design we are going to explore? Funnier, sexier, more elegant ... that was yesterday (or is today). But in the future maybe it will be modular, hackable, reusable and open ...  This talk will be a reading of a letter exchange that happened between a guy that is a critic of open design and loves shiny apple stuff and a guy that tries to explore open source circular design. The letter exchanges brings up the key arguments of both sides. | It mentions and works in the context of the Open Source Circular Economy Days",
+    "title": "Open Source Circular Design is so Ugly! / Open Source Circular Design ist unglaublich h\u00e4sslich!",
     "track": {
       "order": 6,
       "name": "OTS 2",
@@ -1151,7 +1151,7 @@
     "video": null,
     "location": "Ebene 2, Loft",
     "sign_up": null,
-    "type": "Talk of 25 minutes",
+    "type": "Vortrag/Talk",
     "end_time": "2016-05-05T12:30:00+00:00"
   },
   {
