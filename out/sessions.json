@@ -672,7 +672,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "",
+        "organisation": "Loklak/Yacy",
         "id": 4,
         "name": "Michael Christen"
       }
