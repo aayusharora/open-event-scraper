@@ -803,12 +803,17 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Beuth Hochschule fuer Technik Berlin",
+        "organisation": "Beuth Hochschule f\u00fcr Technik Berlin",
         "id": 30,
-        "name": "Ruediger/Bruno Weis/Kirschner"
+        "name": "Ruediger Weis"
+      },
+      {
+        "organisation": "Beuth Hochschule f\u00fcr Technik Berlin",
+        "id": 31,
+        "name": "Bruno Kirschner"
       }
     ],
-    "description": "Authenticated Anonymity by Math Ruediger Weis, Bruno Kirschner  Number theory provides us many tools to create sometimes really surprising technologies for social communication. We have learned that math might be our last defence line against a real existing all-encompassing surveillance. One central challenge in this conflict is to combine authentication and anonymity. Since a lot of these technologies have not been brought to the implemented world yet, we want to present a proposal to integrate blind signature schemes over elliptic curves into Open PGP. ",
+    "description": "Number theory provides us many tools to create sometimes really surprising technologies for social communication. We have learned that math might be our last defence line against a real existing all-encompassing surveillance. One central challenge in this conflict is to combine authentication and anonymity. Since a lot of these technologies have not been brought to the implemented world yet, we want to present a proposal to integrate blind signature schemes over elliptic curves into Open PGP. ",
     "title": "Authenticated Anonymity by Math",
     "track": {
       "order": 5,
@@ -829,7 +834,7 @@
     "speakers": [
       {
         "organisation": "Free Software Foundation Europe e.V.",
-        "id": 31,
+        "id": 32,
         "name": "Matthias Kirschner"
       }
     ],
@@ -854,7 +859,7 @@
     "speakers": [
       {
         "organisation": "cusy GmbH",
-        "id": 32,
+        "id": 33,
         "name": "Veit Schiele"
       }
     ],
@@ -879,7 +884,7 @@
     "speakers": [
       {
         "organisation": "Thunderbird",
-        "id": 33,
+        "id": 34,
         "name": "J\u00f6rg Knobloch"
       }
     ],
@@ -904,12 +909,12 @@
     "speakers": [
       {
         "organisation": "Bioflux",
-        "id": 34,
+        "id": 35,
         "name": "R\u00fcdiger Trojok"
       },
       {
         "organisation": "Bioflux",
-        "id": 35,
+        "id": 36,
         "name": "Mirela Alistar"
       }
     ],
@@ -959,7 +964,7 @@
     "speakers": [
       {
         "organisation": "Junge T\u00fcftler",
-        "id": 36,
+        "id": 37,
         "name": "Franziska Schmid"
       },
       {
@@ -989,7 +994,7 @@
     "speakers": [
       {
         "organisation": "Wikimedia Deutschland",
-        "id": 37,
+        "id": 38,
         "name": "Barbara Fischer"
       }
     ],
@@ -1014,7 +1019,7 @@
     "speakers": [
       {
         "organisation": "Intelligent Systems / Altran",
-        "id": 38,
+        "id": 39,
         "name": "Toon Peters"
       }
     ],
@@ -1039,7 +1044,7 @@
     "speakers": [
       {
         "organisation": "FreeGeo API",
-        "id": 39,
+        "id": 40,
         "name": "Zac Brown"
       }
     ],
@@ -1064,7 +1069,7 @@
     "speakers": [
       {
         "organisation": "Code for Berlin",
-        "id": 40,
+        "id": 41,
         "name": "Thomas Tursics"
       }
     ],
@@ -1089,7 +1094,7 @@
     "speakers": [
       {
         "organisation": "Valentina",
-        "id": 41,
+        "id": 42,
         "name": "Susan Spencer"
       }
     ],
@@ -1114,7 +1119,7 @@
     "speakers": [
       {
         "organisation": "Kommentarspezialistin",
-        "id": 42,
+        "id": 43,
         "name": "Felicitas Blanck"
       }
     ],
@@ -1164,7 +1169,7 @@
     "speakers": [
       {
         "organisation": "Gregarious Mammal",
-        "id": 43,
+        "id": 44,
         "name": "Chris Ward"
       }
     ],
@@ -1189,7 +1194,7 @@
     "speakers": [
       {
         "organisation": "Endocode AG",
-        "id": 44,
+        "id": 45,
         "name": "Thomas Fricke"
       }
     ],
@@ -1214,7 +1219,7 @@
     "speakers": [
       {
         "organisation": "flashcat-project",
-        "id": 45,
+        "id": 46,
         "name": "Kai Mertens"
       }
     ],
@@ -1239,7 +1244,7 @@
     "speakers": [
       {
         "organisation": "Technische Universit\u00e4t Berlin",
-        "id": 46,
+        "id": 47,
         "name": "J\u00e9r\u00e9my Bonvoisin"
       }
     ],
@@ -1264,7 +1269,7 @@
     "speakers": [
       {
         "organisation": "Mozilla",
-        "id": 47,
+        "id": 48,
         "name": "Rok Garbas"
       }
     ],
@@ -1289,7 +1294,7 @@
     "speakers": [
       {
         "organisation": "Askemos",
-        "id": 48,
+        "id": 49,
         "name": "J\u00f6rg Wittenberger"
       }
     ],
@@ -1314,7 +1319,7 @@
     "speakers": [
       {
         "organisation": "ionary",
-        "id": 49,
+        "id": 50,
         "name": "Denjell Caleb Thompson"
       }
     ],
@@ -1339,7 +1344,7 @@
     "speakers": [
       {
         "organisation": "Open Knowledge Foundation Deutschland",
-        "id": 50,
+        "id": 51,
         "name": "Maximilian Richt"
       }
     ],
@@ -1364,7 +1369,7 @@
     "speakers": [
       {
         "organisation": "youbroketheinternet.org",
-        "id": 51,
+        "id": 52,
         "name": "carlo von lynX"
       }
     ],
@@ -1414,7 +1419,7 @@
     "speakers": [
       {
         "organisation": "Open Source Enthusiasts",
-        "id": 52,
+        "id": 53,
         "name": "Jan / Lisa Dittrich / Conrad"
       }
     ],
@@ -1439,7 +1444,7 @@
     "speakers": [
       {
         "organisation": "Copertura Label",
-        "id": 53,
+        "id": 54,
         "name": "Ivers Yves Pierre"
       }
     ],
@@ -1489,7 +1494,7 @@
     "speakers": [
       {
         "organisation": "Heart of Code",
-        "id": 54,
+        "id": 55,
         "name": "Conny Kawohl"
       }
     ],
@@ -1514,7 +1519,7 @@
     "speakers": [
       {
         "organisation": "Flowedoo",
-        "id": 55,
+        "id": 56,
         "name": "Stefan Koehler"
       }
     ],
@@ -1539,7 +1544,7 @@
     "speakers": [
       {
         "organisation": "FOSSASIA",
-        "id": 56,
+        "id": 57,
         "name": "Hong Phuc Dang"
       }
     ],
@@ -1564,7 +1569,7 @@
     "speakers": [
       {
         "organisation": "LPI e.V.",
-        "id": 57,
+        "id": 58,
         "name": "Harald Maa\u00dfen"
       }
     ],
@@ -1589,7 +1594,7 @@
     "speakers": [
       {
         "organisation": "LPI e.V.",
-        "id": 57,
+        "id": 58,
         "name": "Harald Maa\u00dfen"
       }
     ],
