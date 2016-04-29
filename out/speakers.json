@@ -599,29 +599,29 @@
   },
   {
     "py/object": "models.Speaker",
-    "web": "https://garbas.si",
-    "github": "https://github.com/garbas",
-    "name": "Rok Garbas",
-    "country": "Slovenia",
-    "twitter": "https://twitter.com/garbas",
-    "linkedin": "",
-    "id": 47,
-    "photo": "speakers/Rok_Garbas.jpg",
-    "organisation": "Mozilla",
-    "biography": "Rok Garbas is a web programmer, when not writing Javascript, he usually scripts in Python. He started using Nix and later NixOS (linux distribution built around Nix) 3 years ago. Currently he works at Mozilla as a Release Engineer."
-  },
-  {
-    "py/object": "models.Speaker",
     "web": "http://wiki.opensourcedesign.cc",
     "github": "",
     "name": "J\u00e9r\u00e9my Bonvoisin",
     "country": "Bordeaux, France",
     "twitter": "",
     "linkedin": "",
-    "id": 48,
+    "id": 47,
     "photo": "speakers/J\u00e9r\u00e9my_Bonvoisin.jpg",
     "organisation": "Technische Universit\u00e4t Berlin",
     "biography": "J\u00e9r\u00e9my Bonvoisin performs research in sustainable product development at the department of Industrial Information Technology of the Technische Universit\u00e4t Berlin. He leads the French-German research project \"OPEN!-Methods and tools for community-based product development\" that is dedicated to open source hardware and started in March 2016 for a duration of three years. Along the precedent years of research, he covered research topics such as: remanufacturing, energy efficiency of electric and electronic products, environmental assessment of ICT-based services, energy efficiency of production systems and product modularization. "
+  },
+  {
+    "py/object": "models.Speaker",
+    "web": "https://garbas.si",
+    "github": "https://github.com/garbas",
+    "name": "Rok Garbas",
+    "country": "Slovenia",
+    "twitter": "https://twitter.com/garbas",
+    "linkedin": "",
+    "id": 48,
+    "photo": "speakers/Rok_Garbas.jpg",
+    "organisation": "Mozilla",
+    "biography": "Rok Garbas is a web programmer, when not writing Javascript, he usually scripts in Python. He started using Nix and later NixOS (linux distribution built around Nix) 3 years ago. Currently he works at Mozilla as a Release Engineer."
   },
   {
     "py/object": "models.Speaker",

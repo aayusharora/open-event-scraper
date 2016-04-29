@@ -1245,13 +1245,13 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Mozilla",
+        "organisation": "Technische Universit\u00e4t Berlin",
         "id": 47,
-        "name": "Rok Garbas"
+        "name": "J\u00e9r\u00e9my Bonvoisin"
       }
     ],
-    "description": "Packaging is a hard problem, no doubt. Still every language/distribution tries to (re)invent packaging on their own. This leaves us (developers / sysadmins) with a big number of tools that we need to master in order to do our job.  We will look at how Nix[1] and NixOS[2] can be used in today's software development processes and which are the benefits and drawbacks you might face.  [1] Nix is a powerful package manager for Linux and other Unix systems that makes package management reliable and reproducible. It provides atomic upgrades and rollbacks, side-by-side installation of multiple versions of a package, multi-user package management and easy setup of build environments. http://nixos.org/nix  [2] NixOS is a Linux distribution built on top of the Nix package manager, it is completely declarative, makes upgrading systems reliable, and has many other advantages. http://nixos.org/",
-    "title": "rethinking package management",
+    "description": "Based on the analysis of more than 70 significant open source product development projects, this contribution intends to give an overview of the current state of this emerging practice. The following questions will be particularly addressed:  - How projects use the public space offered by the internet and the existing sharing online platforms in order to stimulate attention and contributions from online communities?  - What are the gaps between actual practices and best practices formulated by the open source hardware association?  - What do these gaps reveal about the intention of open source product development projects?  - What different types of open source product development projects can be characterized? This research is lead in the context of the French-German project \"OPEN!-Methods and tools for community-based product development\" involving among others the Technische Universit\u00e4t Berlin and the University of Grenoble. This project is aimed at understanding and formalizing the emerging practice of community-based product development and at developing methodological and IT tools in order to support these practices.",
+    "title": "Current state of practices in open source hardware",
     "track": {
       "order": 6,
       "name": "OTS 2",
@@ -1270,13 +1270,13 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Technische Universit\u00e4t Berlin",
+        "organisation": "Mozilla",
         "id": 48,
-        "name": "J\u00e9r\u00e9my Bonvoisin"
+        "name": "Rok Garbas"
       }
     ],
-    "description": "Based on the analysis of more than 70 significant open source product development projects, this contribution intends to give an overview of the current state of this emerging practice. The following questions will be particularly addressed:  - How projects use the public space offered by the internet and the existing sharing online platforms in order to stimulate attention and contributions from online communities?  - What are the gaps between actual practices and best practices formulated by the open source hardware association?  - What do these gaps reveal about the intention of open source product development projects?  - What different types of open source product development projects can be characterized? This research is lead in the context of the French-German project \"OPEN!-Methods and tools for community-based product development\" involving among others the Technische Universit\u00e4t Berlin and the University of Grenoble. This project is aimed at understanding and formalizing the emerging practice of community-based product development and at developing methodological and IT tools in order to support these practices.",
-    "title": "Current state of practices in open source hardware",
+    "description": "Packaging is a hard problem, no doubt. Still every language/distribution tries to (re)invent packaging on their own. This leaves us (developers / sysadmins) with a big number of tools that we need to master in order to do our job.  We will look at how Nix[1] and NixOS[2] can be used in today's software development processes and which are the benefits and drawbacks you might face.  [1] Nix is a powerful package manager for Linux and other Unix systems that makes package management reliable and reproducible. It provides atomic upgrades and rollbacks, side-by-side installation of multiple versions of a package, multi-user package management and easy setup of build environments. http://nixos.org/nix  [2] NixOS is a Linux distribution built on top of the Nix package manager, it is completely declarative, makes upgrading systems reliable, and has many other advantages. http://nixos.org/",
+    "title": "rethinking package management",
     "track": {
       "order": 6,
       "name": "OTS 2",
