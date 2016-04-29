@@ -46,7 +46,7 @@
     "video": null,
     "location": "Erdgeschoss, Saal",
     "sign_up": null,
-    "type": "Workshop/Exhibition",
+    "type": "Workshop/Ausstellung/Exhibition",
     "end_time": "2016-05-05T08:00:00+00:00"
   },
   {
@@ -71,7 +71,7 @@
     "video": null,
     "location": "Erdgeschoss, Saal",
     "sign_up": null,
-    "type": "Exhibition Area, Table with Laptops, cushions",
+    "type": "Infotisch, Ausstellung, Exhibition, Gem\u00fctliche Kissenecke",
     "end_time": "2016-05-05T08:00:00+00:00"
   },
   {
@@ -96,7 +96,7 @@
     "video": null,
     "location": "Erdgeschoss, Saal",
     "sign_up": "http://www.meetup.com/OpenXLab/events/230593089/",
-    "type": "Exhibition Area und Workshop",
+    "type": "Workshop und Infotisch",
     "end_time": "2016-05-05T08:00:00+00:00"
   },
   {
@@ -121,7 +121,7 @@
     "video": null,
     "location": "Erdgeschoss, Saal",
     "sign_up": null,
-    "type": "Exhibition",
+    "type": "Hackspace-Infotisch, Exhibition",
     "end_time": "2016-05-05T08:00:00+00:00"
   },
   {
@@ -146,7 +146,7 @@
     "video": null,
     "location": "Erdgeschoss, Saal",
     "sign_up": null,
-    "type": "Talk of 25 minutes",
+    "type": "Infotisch/Info Table",
     "end_time": "2016-05-05T08:00:00+00:00"
   },
   {
@@ -171,7 +171,7 @@
     "video": null,
     "location": "Erdgeschoss, Saal",
     "sign_up": null,
-    "type": "Exhibition Area",
+    "type": "Freie Software-Infoecke / Information Corner",
     "end_time": "2016-05-05T08:00:00+00:00"
   },
   {
@@ -196,7 +196,7 @@
     "video": null,
     "location": "Erdgeschoss, Saal",
     "sign_up": null,
-    "type": "Hardware Hack",
+    "type": "Hardware Hacks",
     "end_time": "2016-05-05T08:00:00+00:00"
   },
   {
