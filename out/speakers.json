@@ -450,7 +450,7 @@
     "twitter": "",
     "linkedin": "",
     "id": 35,
-    "photo": "speakers/Mirela_Alistar.jpg",
+    "photo": "",
     "organisation": "Bioflux",
     "biography": "Mirela Alistar has received her PhD in computer engineering from the Technical University of Denmark in 2014. Since 2010, she has been working on developing Computer-Aided Design tools for digital microfluidic biochips. Her main research interests are in the area of system-level design of embedded systems, with a special focus on digital microfluidics. She is supporting open access research and she has organized citizen-science events, where she dissiminates to the public with the aim of involving them into creating more knowledge."
   },
@@ -638,13 +638,26 @@
   },
   {
     "py/object": "models.Speaker",
+    "web": "https://garbas.si",
+    "github": "https://github.com/garbas",
+    "name": "Rok Garbas",
+    "country": "Slovenia",
+    "twitter": "https://twitter.com/garbas",
+    "linkedin": "",
+    "id": 50,
+    "photo": "speakers/Rok_Garbas.jpg",
+    "organisation": "Mozilla",
+    "biography": "Rok Garbas is a web programmer, when not writing Javascript, he usually scripts in Python. He started using Nix and later NixOS (linux distribution built around Nix) 3 years ago. Currently he works at Mozilla as a Release Engineer."
+  },
+  {
+    "py/object": "models.Speaker",
     "web": "http://www.fordes.de",
     "github": "https://github.com/jdittrich/",
     "name": "Jan / Lisa Dittrich / Conrad",
     "country": "Germany",
     "twitter": "https://twitter.com/@simulo",
     "linkedin": "",
-    "id": 50,
+    "id": 51,
     "photo": "speakers/Jan _ Lisa_Dittrich _ Conrad.jpg",
     "organisation": "private",
     "biography": "Jan is User Researcher, Lisa is an Anthropologist. Both are interested in why people do what they do. "
@@ -657,7 +670,7 @@
     "country": "Haiti-Germany",
     "twitter": "https://www.twitter.com/Iversps",
     "linkedin": "https://de.linkedin.com/in/iversp",
-    "id": 51,
+    "id": 52,
     "photo": "speakers/Ivers Yves_Pierre.jpg",
     "organisation": "Copertura Label",
     "biography": "Ivers, originally from Haiti but resides in Germany for 7 years, Founder and CEO of Copertura Label, a 2 co-branded lines of fashion Tempo Libero for casuals and Sports and Wearable for fashion tech. Actual Regional Business Development Manager in Deliveryhero.com, the largest online food ordering platform worldwide. "
@@ -670,7 +683,7 @@
     "country": "Germany",
     "twitter": "https://twitter.com/ckawohl",
     "linkedin": "",
-    "id": 52,
+    "id": 53,
     "photo": "speakers/Conny_Kawohl.jpg",
     "organisation": "Heart of Code",
     "biography": "I am a Senior UI/UX Designer slowly morphing into a Web Frontend Developer. I write JavaScript (Angular/React) but also Ruby (RoR) and am fascinated by CSS Preprocessors. I <3 Hard Science Fiction, Slow Food, Graphic Novels and Human Languages."
@@ -683,7 +696,7 @@
     "country": "Deutschland",
     "twitter": "",
     "linkedin": "",
-    "id": 53,
+    "id": 54,
     "photo": "speakers/Stefan_Koehler.jpg",
     "organisation": "Flowedoo",
     "biography": "Stefan is a dedicated and experienced IT professional with a passion for, but no limitation to, Free Software."
@@ -696,7 +709,7 @@
     "country": "Germany",
     "twitter": "",
     "linkedin": "",
-    "id": 54,
+    "id": 55,
     "photo": "speakers/Harald_Maa\u00dfen.jpg",
     "organisation": "LPI e.V.",
     "biography": "Harald Maassen ist langjaehriger Aktiver beim Linux Professional Institute."
