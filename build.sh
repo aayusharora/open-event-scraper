@@ -21,7 +21,8 @@ git clone --depth=1 "https://${GH_TOKEN}@github.com/OpenTechSummit/2016.opentech
 node schedule/generator > ots-repo/programm/index.html
 
 cd ots-repo
-cp -r ../speakers/ programm/speakers/
+rm -rf programm/speakers
+rm -rf programm/speakers
 git add programm/index.html programm/speakers/*.jpg
 git commit -m '[Auto] updated schedule' || echo "no changes"
 git push origin gh-pages
