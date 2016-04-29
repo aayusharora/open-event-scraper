@@ -178,8 +178,33 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "private",
+        "organisation": "Hasso-Plattner-Institut Potsdam",
         "id": 8,
+        "name": "Fabian L\u00fcpke"
+      }
+    ],
+    "description": "Hey,  aus einem alten Bahndisplay baute ich eine Tweet-Anzeige. Dazu reverse-engineerte ich die LED-Matrix in der Display-Einheit, um es mit einem eigenem WLAN Modul (WeMos) anzusteuern. Tweets mit einem festlegbaren Hashtag werden automatisch auf dem Display angezeigt. Neben der Twitter-Funktionalit\u00e4t arbeite ich gerade daran, Tetris und Snake  zu implementieren, die man vom Handy aus \u00fcber WLAN steuern kann.  Gerne w\u00fcrde ich das Projekt bei Euch zeigen und ggf. bei einem Lightning Talk vorstellen.  Es w\u00e4re nett, in der N\u00e4he von \"loklak\" platziert zu werden, weil ich f\u00fcr den Zugriff auf Tweets, die API von loklak verwende.",
+    "title": "LED Matrix Display",
+    "track": {
+      "order": 2,
+      "name": "Maker Space",
+      "id": 2
+    },
+    "start_time": "2016-05-05T07:30:00+00:00",
+    "session_id": "MS-12",
+    "slides": null,
+    "video": null,
+    "location": "Erdgeschoss, Saal",
+    "sign_up": null,
+    "type": "Hardware Hack",
+    "end_time": "2016-05-05T08:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "private",
+        "id": 9,
         "name": "Jan Dittrich"
       }
     ],
@@ -204,7 +229,7 @@
     "speakers": [
       {
         "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community",
-        "id": 9,
+        "id": 10,
         "name": "Raimo, Markus Radczewski, Decke"
       }
     ],
@@ -229,7 +254,7 @@
     "speakers": [
       {
         "organisation": "ownCloud",
-        "id": 10,
+        "id": 11,
         "name": "Jos Poortvliet"
       }
     ],
@@ -254,7 +279,7 @@
     "speakers": [
       {
         "organisation": "Piradio - Sender Berlin",
-        "id": 11,
+        "id": 12,
         "name": "Jenz Steiner"
       }
     ],
@@ -279,7 +304,7 @@
     "speakers": [
       {
         "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community",
-        "id": 9,
+        "id": 10,
         "name": "Raimo, Markus Radczewski, Decke"
       }
     ],
@@ -304,7 +329,7 @@
     "speakers": [
       {
         "organisation": "Altran",
-        "id": 12,
+        "id": 13,
         "name": "Toon PETERS"
       }
     ],
@@ -329,7 +354,7 @@
     "speakers": [
       {
         "organisation": "Coder Dojo Potsdam",
-        "id": 13,
+        "id": 14,
         "name": "Nicco Kunzmann"
       }
     ],
@@ -354,7 +379,7 @@
     "speakers": [
       {
         "organisation": "Jugend Hackt",
-        "id": 14,
+        "id": 15,
         "name": "Jakob Schade"
       }
     ],
@@ -379,7 +404,7 @@
     "speakers": [
       {
         "organisation": "Code Week Award",
-        "id": 15,
+        "id": 16,
         "name": "Code Week Award"
       }
     ],
@@ -404,7 +429,7 @@
     "speakers": [
       {
         "organisation": "Junge T\u00fcftler",
-        "id": 16,
+        "id": 17,
         "name": "Julia Kleeberger"
       }
     ],
@@ -429,7 +454,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 17,
+        "id": 18,
         "name": "OTS OpenTechSummit"
       }
     ],
@@ -454,7 +479,7 @@
     "speakers": [
       {
         "organisation": "initOS GmbH / Otto-von-Guericke University Magdeburg",
-        "id": 18,
+        "id": 19,
         "name": "Frederik Kramer"
       }
     ],
@@ -479,7 +504,7 @@
     "speakers": [
       {
         "organisation": "Wikimedia Deutschland e.V.",
-        "id": 19,
+        "id": 20,
         "name": "Marius Hoch"
       }
     ],
@@ -529,7 +554,7 @@
     "speakers": [
       {
         "organisation": "Mozilla",
-        "id": 20,
+        "id": 21,
         "name": "Elio Qoshi"
       }
     ],
@@ -554,7 +579,7 @@
     "speakers": [
       {
         "organisation": "Open Source Circular Economy Days",
-        "id": 21,
+        "id": 22,
         "name": "Lars Zimmermann"
       }
     ],
@@ -579,7 +604,7 @@
     "speakers": [
       {
         "organisation": "at OpenTechSummit",
-        "id": 22,
+        "id": 23,
         "name": "Talkers"
       }
     ],
@@ -609,14 +634,14 @@
       "name": "OTS 1",
       "id": 5
     },
-    "start_time": "2016-05-05T12:00:00+00:00",
+    "start_time": "2016-05-05T12:15:00+00:00",
     "session_id": "OT-08",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "",
-    "end_time": "2016-05-05T12:30:00+00:00"
+    "end_time": "2016-05-05T12:45:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -628,14 +653,14 @@
       "name": "OTS 1",
       "id": 5
     },
-    "start_time": "2016-05-05T12:30:00+00:00",
+    "start_time": "2016-05-05T12:40:00+00:00",
     "session_id": "OT-09",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "",
-    "end_time": "2016-05-05T13:00:00+00:00"
+    "end_time": "2016-05-05T13:10:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -660,9 +685,9 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "OTS",
-        "id": 25,
-        "name": "Erik D\u00f6rnenburg and OTS Panelists"
+        "organisation": "Thoughtworks",
+        "id": 26,
+        "name": "Erik D\u00f6rnenburg"
       }
     ],
     "description": "Technology and Society Panel",
@@ -686,7 +711,7 @@
     "speakers": [
       {
         "organisation": "OpenKnowledge",
-        "id": 26,
+        "id": 27,
         "name": "Rufus Pollock"
       }
     ],
@@ -697,21 +722,21 @@
       "name": "OTS 1",
       "id": 5
     },
-    "start_time": "2016-05-05T13:55:00+00:00",
+    "start_time": "2016-05-05T14:00:00+00:00",
     "session_id": "OT-12",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T14:25:00+00:00"
+    "end_time": "2016-05-05T14:30:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 27,
+        "id": 28,
         "name": "Lennart Poettering"
       }
     ],
@@ -736,7 +761,7 @@
     "speakers": [
       {
         "organisation": "Kinvolk GmbH",
-        "id": 28,
+        "id": 29,
         "name": "Chris K\u00fchl"
       }
     ],
@@ -761,7 +786,7 @@
     "speakers": [
       {
         "organisation": "Beuth Hochschule fuer Technik Berlin",
-        "id": 29,
+        "id": 30,
         "name": "Ruediger/Bruno Weis/Kirschner"
       }
     ],
@@ -786,7 +811,7 @@
     "speakers": [
       {
         "organisation": "Free Software Foundation Europe e.V.",
-        "id": 30,
+        "id": 31,
         "name": "Matthias Kirschner"
       }
     ],
@@ -797,46 +822,46 @@
       "name": "OTS 1",
       "id": 5
     },
-    "start_time": "2016-05-05T16:45:00+00:00",
+    "start_time": "2016-05-05T16:10:00+00:00",
     "session_id": "OT-16",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T17:15:00+00:00"
+    "end_time": "2016-05-05T16:40:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "ionary",
-        "id": 31,
-        "name": "Denjell Caleb Thompson"
+        "organisation": "cusy GmbH",
+        "id": 32,
+        "name": "Veit Schiele"
       }
     ],
-    "description": "Digital content may be licensed in an open way, but how open is its reuse and modification? This lecture presents a novel way of self-reporting the degree to which content can be used and modified with FOSS.",
-    "title": "Degrees of Openness [\u00b0O]",
+    "description": "DevOps ist in den letzten Jahren sehr erfolgreich geworden. H\u00e4ufig wurden in Unternehmen jedoch nur einige neue Werkzeuge eingef\u00fchrt. Die urspr\u00fcngliche Idee war jedoch, dass sich Arbeitskultur,-prozesse und -werkzeuge der Software-Entwicklung umfassend \u00e4ndern sollten. Wir werden eine vollst\u00e4ndige Toolchain f\u00fcr den gesamten Lebenszyklus von Software betrachten, vom agilen Software-Prozess \u00fcber Continuous Integration bis hin zu Continuous Deployment. Dar\u00fcberhinaus wird erst die Bereitstellung der gesamten Infrastruktur eine grundlegende Ver\u00e4nderung der Arbeitskultur und -prozesse bewirken k\u00f6nnen: Die Software-Entwickler sollten auf dieselbe Infrastruktur zum Entwickeln und Testen zur\u00fcckgreifen k\u00f6nnen, die auch in der Produktion verwendet wird; umgekehrt werden sie nicht mehr nur w\u00e4hrend der Entwicklungsphase auf \u00bbihre\u00ab Software verantwortlich sein sondern \u00fcber den gesamten Lebenszyklus hinweg. Nur durch diese Ver\u00e4nderungen werden die Gr\u00e4ben zwischen Development und Operations tats\u00e4chlich \u00fcberwunden werden k\u00f6nnen.",
+    "title": "Quo vadis DevOps?",
     "track": {
       "order": 5,
       "name": "OTS 1",
       "id": 5
     },
-    "start_time": "2016-05-05T17:15:00+00:00",
+    "start_time": "2016-05-05T16:40:00+00:00",
     "session_id": "OT-17",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T17:45:00+00:00"
+    "end_time": "2016-05-05T17:10:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "organisation": "Thunderbird",
-        "id": 32,
+        "id": 33,
         "name": "J\u00f6rg Knobloch"
       }
     ],
@@ -847,22 +872,27 @@
       "name": "OTS 1",
       "id": 5
     },
-    "start_time": "2016-05-05T17:00:00+00:00",
+    "start_time": "2016-05-05T17:05:00+00:00",
     "session_id": "OT-18",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T17:30:00+00:00"
+    "end_time": "2016-05-05T17:35:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "organisation": "Bioflux",
-        "id": 33,
+        "id": 34,
         "name": "R\u00fcdiger Trojok"
+      },
+      {
+        "organisation": "Bioflux",
+        "id": 35,
+        "name": "Mirela Alistar"
       }
     ],
     "description": "Bioflux democratises Life Science with the automated Personal Laboratory. Making research collaborative, open and affordable for everyone. The Personal Lab shrinks a biology lab into a portable, affordable and automated device for point of care diagnostics and personalised drug production. High labor costs restrict rapid prototyping in life sciences inhibiting development of point-of-care diagnostics and personalized drugs for plants, animals and  humans. Existing automation robots used in the pharmaceutical industry are costly and only  economic for high revenue drug production controlled by monopolistic multinationals. This leaves many urgent, but scientifically solvable, environmental and  health problems untouched.  We are developing the Personal Lab as a new platform for scientific literate citizens to read and write biological code. The Personal Lab is a portable and affordable device enabling automated and programmable execution of biological protocols, increasing efficiency up to 100000X.  This will allow a community of users to collaboratively program and test new protocols and create bioapplications to e.g. solve the antibiotic crisis. We have established a network of hardware and software engineers and biologists that developed a prototype of a Personal Lab and are embedded in the global DIYbio scene and thereby quickly spead our technology . We will provide you with Biochips containing all needed reagents and a software that offers unlimited options to code your own bioapplications and share them with the community. Join us in this open source hardware project and start coding biology!",
@@ -886,7 +916,7 @@
     "speakers": [
       {
         "organisation": "Intelligent Systems / Altran",
-        "id": 34,
+        "id": 36,
         "name": "Toon Peters"
       }
     ],
@@ -911,7 +941,7 @@
     "speakers": [
       {
         "organisation": "Jugend Hackt",
-        "id": 14,
+        "id": 15,
         "name": "Jakob Schade"
       }
     ],
@@ -936,7 +966,7 @@
     "speakers": [
       {
         "organisation": "Wikimedia Deutschland",
-        "id": 35,
+        "id": 37,
         "name": "Barbara Fischer"
       }
     ],
@@ -961,13 +991,8 @@
     "speakers": [
       {
         "organisation": "Junge T\u00fcftler",
-        "id": 36,
+        "id": 38,
         "name": "Franziska Schmid"
-      },
-      {
-        "organisation": "Junge T\u00fcftler",
-        "id": 16,
-        "name": "Julia Kleeberger"
       }
     ],
     "description": "During this talk we want to share our vision of how education will change within the next years: Thanks to open educational resources, open source software and the digitalization of the society learning is not longer restricted to school buildings and can happens ubiquitously. Thus, we believe education doesn\u2019t need to be a privilege anymore.   We want to show possibilities how to live up to it and share our experiences we already gained with Junge T\u00fcftler: an initiative that offers children a playful access to coding & electronics.",
@@ -991,7 +1016,7 @@
     "speakers": [
       {
         "organisation": "FreeGeo API",
-        "id": 37,
+        "id": 39,
         "name": "Zac Brown"
       }
     ],
@@ -1016,7 +1041,7 @@
     "speakers": [
       {
         "organisation": "Code for Berlin",
-        "id": 38,
+        "id": 40,
         "name": "Thomas Tursics"
       }
     ],
@@ -1041,7 +1066,7 @@
     "speakers": [
       {
         "organisation": "Kommentarspezialistin",
-        "id": 39,
+        "id": 41,
         "name": "Felicitas Blanck"
       }
     ],
@@ -1066,7 +1091,7 @@
     "speakers": [
       {
         "organisation": "Gregarious Mammal",
-        "id": 40,
+        "id": 42,
         "name": "Chris Ward"
       }
     ],
@@ -1090,13 +1115,13 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Code Week Award",
-        "id": 15,
-        "name": "Code Week Award"
+        "organisation": "Endocode AG",
+        "id": 43,
+        "name": "Thomas Fricke"
       }
     ],
-    "description": "Matthias und Nora vom Code Week Team stellen den Code Week Award vor und zeigen einen Live-Hack. Wir programmieren ein Computerspiel in nur 15 Minuten und spielen mit euch. Wer gewinnt, bekommt von uns einen \u00dcberraschungs-Preis.  Unter dem Motto \u201cJede Woche ist Code Week\u201d f\u00f6rdert der Code Week Award spielerische und kreative Workshop-Formate und digitale Kompetenzen bei Kindern und Jugendlichen in ganz Deutschland. Der Award wurde ankn\u00fcpfend an den Erfolg der EU Code Week im Oktober 2014 erstmalig von der Technologiestiftung Berlin und dem Design Research Lab der Universit\u00e4t der K\u00fcnste Berlin ausgeschrieben und durch die Unterst\u00fctzung von Samsung ins Leben gerufen. 2016 findet bereits die zweite Ausgabe des Awards statt, der in den vergangenen beiden Jahren bereits hunderte Kindern und Jugendlichen einen kreativen Umgang mit digitalen Technologien erm\u00f6glicht hat. ",
-    "title": "Code Week Award Live-Hack",
+    "description": "It does not make sense to mourn about clouds just being other peoples computers. With Kubernetes (k8s) and Docker you can easily create your own public cloud running on your cloud providers computers, or with a little more effort,  your own *private* cloud running on or your *own* hardware.  There has been evolved an entire ecosystem for software deployed in  containers and for software components securing privacy in the k8s cloud.  With CoreOS as an immutable operating system running immutable containers you could get a higher integrity level build in your application by design.",
+    "title": "Creating Service Clouds with Kubernetes, CoreOS, Container and Co ",
     "track": {
       "order": 6,
       "name": "OTS 2",
@@ -1108,20 +1133,20 @@
     "video": null,
     "location": "Ebene 2, Loft",
     "sign_up": null,
-    "type": "Talk mit Live-Hack (20 Minuten)",
+    "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T13:30:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Technische Universit\u00e4t Berlin",
-        "id": 41,
-        "name": "J\u00e9r\u00e9my Bonvoisin"
+        "organisation": "flashcat-project",
+        "id": 44,
+        "name": "Kai Mertens"
       }
     ],
-    "description": "Based on the analysis of more than 70 significant open source product development projects, this contribution intends to give an overview of the current state of this emerging practice. The following questions will be particularly addressed:  - How projects use the public space offered by the internet and the existing sharing online platforms in order to stimulate attention and contributions from online communities?  - What are the gaps between actual practices and best practices formulated by the open source hardware association?  - What do these gaps reveal about the intention of open source product development projects?  - What different types of open source product development projects can be characterized? This research is lead in the context of the French-German project \"OPEN!-Methods and tools for community-based product development\" involving among others the Technische Universit\u00e4t Berlin and the University of Grenoble. This project is aimed at understanding and formalizing the emerging practice of community-based product development and at developing methodological and IT tools in order to support these practices.",
-    "title": "Current state of practices in open source hardware",
+    "description": "Coreboot and Libreboot are precious free firmware replacements for notebooks like the ThinkPad X200. Unfortunately, a non-free flashing equipment that relies on proprietary ARM-architecture is usually used for flashing. This needs to end! The flashcat team from Berlin now proudly presents a flasher which makes use of the Parallax Propeller, a true open design GPLv3 microcontroller. That's really exciting!",
+    "title": "flashcat - your true open design chip flasher",
     "track": {
       "order": 6,
       "name": "OTS 2",
@@ -1140,13 +1165,13 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Askemos",
-        "id": 42,
-        "name": "J\u00f6rg Wittenberger"
+        "organisation": "Code Week Award",
+        "id": 16,
+        "name": "Code Week Award"
       }
     ],
-    "description": "Modellierung von rechtlichen Prozessen.  Anforderungen und L\u00f6sungsans\u00e4tze im Vergleich.",
-    "title": "smart contracts [th]at work",
+    "description": "Matthias und Nora vom Code Week Team stellen den Code Week Award vor und zeigen einen Live-Hack. Wir programmieren ein Computerspiel in nur 15 Minuten und spielen mit euch. Wer gewinnt, bekommt von uns einen \u00dcberraschungs-Preis.  Unter dem Motto \u201cJede Woche ist Code Week\u201d f\u00f6rdert der Code Week Award spielerische und kreative Workshop-Formate und digitale Kompetenzen bei Kindern und Jugendlichen in ganz Deutschland. Der Award wurde ankn\u00fcpfend an den Erfolg der EU Code Week im Oktober 2014 erstmalig von der Technologiestiftung Berlin und dem Design Research Lab der Universit\u00e4t der K\u00fcnste Berlin ausgeschrieben und durch die Unterst\u00fctzung von Samsung ins Leben gerufen. 2016 findet bereits die zweite Ausgabe des Awards statt, der in den vergangenen beiden Jahren bereits hunderte Kindern und Jugendlichen einen kreativen Umgang mit digitalen Technologien erm\u00f6glicht hat. ",
+    "title": "Code Week Award Live-Hack",
     "track": {
       "order": 6,
       "name": "OTS 2",
@@ -1158,40 +1183,90 @@
     "video": null,
     "location": "Ebene 2, Loft",
     "sign_up": null,
-    "type": "Talk of 25 minutes",
+    "type": "Talk mit Live-Hack (20 Minuten)",
     "end_time": "2016-05-05T14:30:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Endocode AG",
-        "id": 43,
-        "name": "Thomas Fricke"
+        "organisation": "Technische Universit\u00e4t Berlin",
+        "id": 45,
+        "name": "J\u00e9r\u00e9my Bonvoisin"
       }
     ],
-    "description": "It does not make sense to mourn about clouds just being other peoples computers. With Kubernetes (k8s) and Docker you can easily create your own public cloud running on your cloud providers computers, or with a little more effort,  your own *private* cloud running on or your *own* hardware.  There has been evolved an entire ecosystem for software deployed in  containers and for software components securing privacy in the k8s cloud.  With CoreOS as an immutable operating system running immutable containers you could get a higher integrity level build in your application by design.",
-    "title": "Creating Service Clouds with Kubernetes, CoreOS, Container and Co ",
+    "description": "Based on the analysis of more than 70 significant open source product development projects, this contribution intends to give an overview of the current state of this emerging practice. The following questions will be particularly addressed:  - How projects use the public space offered by the internet and the existing sharing online platforms in order to stimulate attention and contributions from online communities?  - What are the gaps between actual practices and best practices formulated by the open source hardware association?  - What do these gaps reveal about the intention of open source product development projects?  - What different types of open source product development projects can be characterized? This research is lead in the context of the French-German project \"OPEN!-Methods and tools for community-based product development\" involving among others the Technische Universit\u00e4t Berlin and the University of Grenoble. This project is aimed at understanding and formalizing the emerging practice of community-based product development and at developing methodological and IT tools in order to support these practices.",
+    "title": "Current state of practices in open source hardware",
     "track": {
       "order": 6,
       "name": "OTS 2",
       "id": 6
     },
-    "start_time": "2016-05-05T14:30:00+00:00",
+    "start_time": "2016-05-05T14:20:00+00:00",
     "session_id": "OT2-13",
     "slides": null,
     "video": null,
     "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T15:00:00+00:00"
+    "end_time": "2016-05-05T14:50:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "Askemos",
+        "id": 46,
+        "name": "J\u00f6rg Wittenberger"
+      }
+    ],
+    "description": "Modellierung von rechtlichen Prozessen.  Anforderungen und L\u00f6sungsans\u00e4tze im Vergleich.",
+    "title": "smart contracts [th]at work",
+    "track": {
+      "order": 6,
+      "name": "OTS 2",
+      "id": 6
+    },
+    "start_time": "2016-05-05T14:45:00+00:00",
+    "session_id": "OT2-14",
+    "slides": null,
+    "video": null,
+    "location": "Ebene 2, Loft",
+    "sign_up": null,
+    "type": "Talk of 25 minutes",
+    "end_time": "2016-05-05T15:15:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "ionary",
+        "id": 47,
+        "name": "Denjell Caleb Thompson"
+      }
+    ],
+    "description": "Digital content may be licensed in an open way, but how open is its reuse and modification? This lecture presents a novel way of self-reporting the degree to which content can be used and modified with FOSS.",
+    "title": "Degrees of Openness [\u00b0O]",
+    "track": {
+      "order": 6,
+      "name": "OTS 2",
+      "id": 6
+    },
+    "start_time": "2016-05-05T15:10:00+00:00",
+    "session_id": "OT2-15",
+    "slides": null,
+    "video": null,
+    "location": "Ebene 2, Loft",
+    "sign_up": null,
+    "type": "Talk of 25 minutes",
+    "end_time": "2016-05-05T15:40:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "organisation": "Open Knowledge Foundation Deutschland",
-        "id": 44,
+        "id": 48,
         "name": "Maximilian Richt"
       }
     ],
@@ -1202,21 +1277,21 @@
       "name": "OTS 2",
       "id": 6
     },
-    "start_time": "2016-05-05T15:00:00+00:00",
-    "session_id": "OT2-14",
+    "start_time": "2016-05-05T15:35:00+00:00",
+    "session_id": "OT2-16",
     "slides": null,
     "video": null,
     "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T15:30:00+00:00"
+    "end_time": "2016-05-05T16:05:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "organisation": "youbroketheinternet.org",
-        "id": 45,
+        "id": 49,
         "name": "carlo von lynX"
       }
     ],
@@ -1227,21 +1302,21 @@
       "name": "OTS 2",
       "id": 6
     },
-    "start_time": "2016-05-05T15:30:00+00:00",
-    "session_id": "OT2-15",
+    "start_time": "2016-05-05T16:00:00+00:00",
+    "session_id": "OT2-17",
     "slides": null,
     "video": null,
     "location": "Ebene 2, Loft",
     "sign_up": null,
     "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T16:00:00+00:00"
+    "end_time": "2016-05-05T16:30:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "organisation": "Syria on the Move, SocialVisions e.V.",
-        "id": 11,
+        "id": 12,
         "name": "Jenz Steiner"
       }
     ],
@@ -1266,7 +1341,7 @@
     "speakers": [
       {
         "organisation": "private",
-        "id": 46,
+        "id": 50,
         "name": "Jan / Lisa Dittrich / Conrad"
       }
     ],
@@ -1277,21 +1352,21 @@
       "name": "Lightning Talks",
       "id": 7
     },
-    "start_time": "2016-05-05T11:37:00+00:00",
+    "start_time": "2016-05-05T11:36:00+00:00",
     "session_id": "LT-2",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Lightning Talk (5-10 minutes)",
-    "end_time": "2016-05-05T12:07:00+00:00"
+    "end_time": "2016-05-05T12:06:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "organisation": "Copertura Label",
-        "id": 47,
+        "id": 51,
         "name": "Ivers Yves Pierre"
       }
     ],
@@ -1302,14 +1377,14 @@
       "name": "Lightning Talks",
       "id": 7
     },
-    "start_time": "2016-05-05T11:44:00+00:00",
+    "start_time": "2016-05-05T11:42:00+00:00",
     "session_id": "LT-3",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Lightning Talk (5-10 minutes)",
-    "end_time": "2016-05-05T12:14:00+00:00"
+    "end_time": "2016-05-05T12:12:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -1327,21 +1402,71 @@
       "name": "Lightning Talks",
       "id": 7
     },
-    "start_time": "2016-05-05T11:51:00+00:00",
+    "start_time": "2016-05-05T11:48:00+00:00",
     "session_id": "LT-4",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
     "type": "Lightning Talk (5-10 minutes)",
-    "end_time": "2016-05-05T12:21:00+00:00"
+    "end_time": "2016-05-05T12:18:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "Heart of Code",
+        "id": 52,
+        "name": "Conny Kawohl"
+      }
+    ],
+    "description": "Spice up your Frontend with Sass. It's like CSS, but with superpowers! It will help make creating stylesheets easier, more readable and more concise. Plus it frees you up to experiment with color, font choices and component styling.  Prior knowledge of CSS helpful, but not necessary. Sass: http://sass-lang.com",
+    "title": "Get Sassy!",
+    "track": {
+      "order": 7,
+      "name": "Lightning Talks",
+      "id": 7
+    },
+    "start_time": "2016-05-05T11:54:00+00:00",
+    "session_id": "LT-5",
+    "slides": null,
+    "video": null,
+    "location": "Ebene 1, Galerie",
+    "sign_up": null,
+    "type": "Lightning Talk (5-10 minutes)",
+    "end_time": "2016-05-05T12:24:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "Flowedoo",
+        "id": 53,
+        "name": "Stefan Koehler"
+      }
+    ],
+    "description": "Vielfalt scheint erstrebenswert. Niemand m\u00f6chte jeden Tag dasselbe Essen vorgesetzt bekommen, st\u00e4ndig ein und dasselbe Computerspiel spielen m\u00fcssen oder gar von Monopolisten in Soft- und Hardware abh\u00e4ngen.  Damit Vielfalt entstehen kann, m\u00fcssen Voraussetzungen erf\u00fcllt werden. Einige dieser Bedingungenwerden im Vortrag kurz beleuchtet.",
+    "title": "Netze f\u00fcr Vielfalt",
+    "track": {
+      "order": 7,
+      "name": "Lightning Talks",
+      "id": 7
+    },
+    "start_time": "2016-05-05T12:00:00+00:00",
+    "session_id": "LT-6",
+    "slides": null,
+    "video": null,
+    "location": "Ebene 1, Galerie",
+    "sign_up": null,
+    "type": "Lightning Talk (5-10 minutes)",
+    "end_time": "2016-05-05T12:30:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "organisation": "LPI e.V.",
-        "id": 48,
+        "id": 54,
         "name": "Harald Maa\u00dfen"
       }
     ],
@@ -1366,7 +1491,7 @@
     "speakers": [
       {
         "organisation": "LPI e.V.",
-        "id": 48,
+        "id": 54,
         "name": "Harald Maa\u00dfen"
       }
     ],
