@@ -1445,14 +1445,12 @@
       "name": "Lightning Talks",
       "id": 7
     },
-    "start_time": "2016-05-05T11:30:00+00:00",
     "session_id": "LT-1",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
-    "type": "Lightning Talk",
-    "end_time": "2016-05-05T12:00:00+00:00"
+    "type": "Lightning Talk"
   },
   {
     "py/object": "models.Session",
@@ -1470,14 +1468,12 @@
       "name": "Lightning Talks",
       "id": 7
     },
-    "start_time": "2016-05-05T11:36:00+00:00",
     "session_id": "LT-2",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
-    "type": "Lightning Talk",
-    "end_time": "2016-05-05T12:06:00+00:00"
+    "type": "Lightning Talk"
   },
   {
     "py/object": "models.Session",
@@ -1495,14 +1491,12 @@
       "name": "Lightning Talks",
       "id": 7
     },
-    "start_time": "2016-05-05T11:42:00+00:00",
     "session_id": "LT-3",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
-    "type": "Lightning Talk",
-    "end_time": "2016-05-05T12:12:00+00:00"
+    "type": "Lightning Talk"
   },
   {
     "py/object": "models.Session",
@@ -1520,14 +1514,12 @@
       "name": "Lightning Talks",
       "id": 7
     },
-    "start_time": "2016-05-05T11:48:00+00:00",
     "session_id": "LT-4",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
-    "type": "Lightning Talk",
-    "end_time": "2016-05-05T12:18:00+00:00"
+    "type": "Lightning Talk"
   },
   {
     "py/object": "models.Session",
@@ -1545,14 +1537,12 @@
       "name": "Lightning Talks",
       "id": 7
     },
-    "start_time": "2016-05-05T11:54:00+00:00",
     "session_id": "LT-5",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
-    "type": "Lightning Talk",
-    "end_time": "2016-05-05T12:24:00+00:00"
+    "type": "Lightning Talk"
   },
   {
     "py/object": "models.Session",
@@ -1570,14 +1560,12 @@
       "name": "Lightning Talks",
       "id": 7
     },
-    "start_time": "2016-05-05T12:00:00+00:00",
     "session_id": "LT-6",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
-    "type": "Lightning Talk",
-    "end_time": "2016-05-05T12:30:00+00:00"
+    "type": "Lightning Talk"
   },
   {
     "py/object": "models.Session",
@@ -1595,14 +1583,12 @@
       "name": "Lightning Talks",
       "id": 7
     },
-    "start_time": "2016-05-05T12:06:00+00:00",
     "session_id": "LT-7",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
-    "type": "Lightning Talk",
-    "end_time": "2016-05-05T12:36:00+00:00"
+    "type": "Lightning Talk"
   },
   {
     "py/object": "models.Session",
