@@ -203,7 +203,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "private",
+        "organisation": "OpenTech Designer",
         "id": 9,
         "name": "Jan Dittrich"
       }
@@ -323,7 +323,7 @@
         "name": "Jenz Steiner"
       }
     ],
-    "description": "Du wolltest schon immer mal deine eigene Radiosendung machen, H\u00f6rspiele oder Reportagen aufnehmen? Jenz zeigt uns beim OpenTechSummit, wie es geht und die freie Software Audacity hilft uns dabei. Sie ist so einfach zu bedienen wie ein Schreibprogramm. Bitte ladet euch den lame codec vorher herunter unter http://audacity.sourceforge.net!  Audacity is a free and easy to use audio editor. It is almost as easy to use as your old cassette player, if you've ever had one. Within one hour you will pick up the basics that you need in order to produce your own podcast, radio show, mixtape, listening play or wild audio collage. Please bring your own laptop, headphones, if possible: a digital audio recorder or USB-mic and all the necessary cables and cards. You may download the software and the lame codec in advance under http://audacity.sourceforge.net!",
+    "description": "Du wolltest schon immer mal deine eigene Radiosendung machen, H\u00f6rspiele oder Reportagen aufnehmen? Jenz zeigt uns beim OpenTechSummit, wie es geht und die freie Software Audacity hilft uns dabei. Sie ist so einfach zu bedienen wie ein Schreibprogramm. Bitte ladet euch den lame codec vorher herunter unter http://audacity.sourceforge.net! //   Audacity is a free and easy to use audio editor. It is almost as easy to use as your old cassette player, if you've ever had one. Within one hour you will pick up the basics that you need in order to produce your own podcast, radio show, mixtape, listening play or wild audio collage. Please bring your own laptop, headphones, if possible: a digital audio recorder or USB-mic and all the necessary cables and cards. You may download the software and the lame codec in advance under http://audacity.sourceforge.net!",
     "title": "Eigene Radiosendungen machen im 60-minutes Beginner Crash Course mit Audacity / Fast podcast production with audacity",
     "track": {
       "order": 3,
@@ -668,7 +668,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "at OpenTechSummit",
+        "organisation": "OpenTechSummit",
         "id": 29,
         "name": "Lightning Talkers"
       }
