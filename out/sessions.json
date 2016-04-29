@@ -496,7 +496,7 @@
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
-    "type": "Talk of 25 minutes",
+    "type": "Vortrag/Talk",
     "end_time": "2016-05-05T09:35:00+00:00"
   },
   {
@@ -521,7 +521,7 @@
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
-    "type": "Talk of 25 minutes",
+    "type": "Vortrag/Talk",
     "end_time": "2016-05-05T10:00:00+00:00"
   },
   {
@@ -546,7 +546,7 @@
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
-    "type": "Talk of 25 minutes",
+    "type": "Vortrag/Talk",
     "end_time": "2016-05-05T10:30:00+00:00"
   },
   {
@@ -565,14 +565,14 @@
       "name": "OTS 1",
       "id": 5
     },
-    "start_time": "2016-05-05T10:30:00+00:00",
+    "start_time": "2016-05-05T10:20:00+00:00",
     "session_id": "OT-05",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
-    "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T11:00:00+00:00"
+    "type": "Vortrag/Talk",
+    "end_time": "2016-05-05T10:50:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -590,38 +590,63 @@
       "name": "OTS 1",
       "id": 5
     },
-    "start_time": "2016-05-05T11:00:00+00:00",
+    "start_time": "2016-05-05T10:50:00+00:00",
     "session_id": "OT-06",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
-    "type": "Talk of 25 minutes",
-    "end_time": "2016-05-05T11:30:00+00:00"
+    "type": "Vortrag/Talk",
+    "end_time": "2016-05-05T11:20:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "IBM",
+        "id": 23,
+        "name": "Alexander Loibl"
+      }
+    ],
+    "description": "IBM Cloud Storage",
+    "title": "IBM Cloud Storage",
+    "track": {
+      "order": 5,
+      "name": "OTS 1",
+      "id": 5
+    },
+    "start_time": "2016-05-05T11:10:00+00:00",
+    "session_id": "OT-07",
+    "slides": null,
+    "video": null,
+    "location": "Ebene 1, Galerie",
+    "sign_up": null,
+    "type": "Vortrag/Talk",
+    "end_time": "2016-05-05T11:40:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "organisation": "at OpenTechSummit",
-        "id": 23,
+        "id": 24,
         "name": "Talkers"
       }
     ],
     "description": "",
-    "title": "Lightning Talks",
+    "title": "Kurzvortr\u00e4ge",
     "track": {
       "order": 5,
       "name": "OTS 1",
       "id": 5
     },
     "start_time": "2016-05-05T11:30:00+00:00",
-    "session_id": "OT-07",
+    "session_id": "OT-08",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
-    "type": "1 hour",
+    "type": "Lightning Talks",
     "end_time": "2016-05-05T12:00:00+00:00"
   },
   {
@@ -635,12 +660,12 @@
       "id": 5
     },
     "start_time": "2016-05-05T12:15:00+00:00",
-    "session_id": "OT-08",
+    "session_id": "OT-09",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
-    "type": "",
+    "type": "Vortrag/Talk",
     "end_time": "2016-05-05T12:45:00+00:00"
   },
   {
@@ -654,12 +679,12 @@
       "id": 5
     },
     "start_time": "2016-05-05T12:40:00+00:00",
-    "session_id": "OT-09",
+    "session_id": "OT-10",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
-    "type": "",
+    "type": "Vortrag/Talk",
     "end_time": "2016-05-05T13:10:00+00:00"
   },
   {
@@ -673,12 +698,12 @@
       "id": 5
     },
     "start_time": "2016-05-05T13:00:00+00:00",
-    "session_id": "OT-10",
+    "session_id": "OT-11",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
-    "type": "",
+    "type": "Vortrag/Talk",
     "end_time": "2016-05-05T13:30:00+00:00"
   },
   {
@@ -686,7 +711,7 @@
     "speakers": [
       {
         "organisation": "Thoughtworks",
-        "id": 26,
+        "id": 27,
         "name": "Erik D\u00f6rnenburg"
       }
     ],
@@ -698,7 +723,7 @@
       "id": 5
     },
     "start_time": "2016-05-05T13:20:00+00:00",
-    "session_id": "OT-11",
+    "session_id": "OT-12",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
@@ -711,7 +736,7 @@
     "speakers": [
       {
         "organisation": "OpenKnowledge",
-        "id": 27,
+        "id": 28,
         "name": "Rufus Pollock"
       }
     ],
@@ -723,12 +748,12 @@
       "id": 5
     },
     "start_time": "2016-05-05T14:00:00+00:00",
-    "session_id": "OT-12",
+    "session_id": "OT-13",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
-    "type": "Talk of 25 minutes",
+    "type": "Vortrag/Talk",
     "end_time": "2016-05-05T14:30:00+00:00"
   },
   {
@@ -736,7 +761,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 28,
+        "id": 29,
         "name": "Lennart Poettering"
       }
     ],
@@ -748,12 +773,12 @@
       "id": 5
     },
     "start_time": "2016-05-05T14:30:00+00:00",
-    "session_id": "OT-13",
+    "session_id": "OT-14",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
-    "type": "Talk of 25 minutes",
+    "type": "Vortrag/Talk",
     "end_time": "2016-05-05T15:00:00+00:00"
   },
   {
@@ -761,7 +786,7 @@
     "speakers": [
       {
         "organisation": "Kinvolk GmbH",
-        "id": 29,
+        "id": 30,
         "name": "Chris K\u00fchl"
       }
     ],
@@ -773,12 +798,12 @@
       "id": 5
     },
     "start_time": "2016-05-05T15:10:00+00:00",
-    "session_id": "OT-14",
+    "session_id": "OT-15",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
-    "type": "Talk of 25 minutes",
+    "type": "Vortrag/Talk",
     "end_time": "2016-05-05T15:40:00+00:00"
   },
   {
@@ -786,7 +811,7 @@
     "speakers": [
       {
         "organisation": "Beuth Hochschule fuer Technik Berlin",
-        "id": 30,
+        "id": 31,
         "name": "Ruediger/Bruno Weis/Kirschner"
       }
     ],
@@ -798,12 +823,12 @@
       "id": 5
     },
     "start_time": "2016-05-05T15:40:00+00:00",
-    "session_id": "OT-15",
+    "session_id": "OT-16",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
-    "type": "Talk of 25 minutes",
+    "type": "Vortrag/Talk",
     "end_time": "2016-05-05T16:10:00+00:00"
   },
   {
@@ -811,7 +836,7 @@
     "speakers": [
       {
         "organisation": "Free Software Foundation Europe e.V.",
-        "id": 31,
+        "id": 32,
         "name": "Matthias Kirschner"
       }
     ],
@@ -823,12 +848,12 @@
       "id": 5
     },
     "start_time": "2016-05-05T16:10:00+00:00",
-    "session_id": "OT-16",
+    "session_id": "OT-17",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
-    "type": "Talk of 25 minutes",
+    "type": "Vortrag/Talk",
     "end_time": "2016-05-05T16:40:00+00:00"
   },
   {
@@ -836,7 +861,7 @@
     "speakers": [
       {
         "organisation": "cusy GmbH",
-        "id": 32,
+        "id": 33,
         "name": "Veit Schiele"
       }
     ],
@@ -848,12 +873,12 @@
       "id": 5
     },
     "start_time": "2016-05-05T16:40:00+00:00",
-    "session_id": "OT-17",
+    "session_id": "OT-18",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
-    "type": "Talk of 25 minutes",
+    "type": "Vortrag/Talk",
     "end_time": "2016-05-05T17:10:00+00:00"
   },
   {
@@ -861,7 +886,7 @@
     "speakers": [
       {
         "organisation": "Thunderbird",
-        "id": 33,
+        "id": 34,
         "name": "J\u00f6rg Knobloch"
       }
     ],
@@ -873,12 +898,12 @@
       "id": 5
     },
     "start_time": "2016-05-05T17:05:00+00:00",
-    "session_id": "OT-18",
+    "session_id": "OT-19",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
-    "type": "Talk of 25 minutes",
+    "type": "Vortrag/Talk",
     "end_time": "2016-05-05T17:35:00+00:00"
   },
   {
@@ -886,12 +911,12 @@
     "speakers": [
       {
         "organisation": "Bioflux",
-        "id": 34,
+        "id": 35,
         "name": "R\u00fcdiger Trojok"
       },
       {
         "organisation": "Bioflux",
-        "id": 35,
+        "id": 36,
         "name": "Mirela Alistar"
       }
     ],
@@ -903,12 +928,12 @@
       "id": 5
     },
     "start_time": "2016-05-05T17:30:00+00:00",
-    "session_id": "OT-19",
+    "session_id": "OT-20",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
-    "type": "Lightning Talk (5-10 minutes)",
+    "type": "Vortrag/Talk",
     "end_time": "2016-05-05T18:00:00+00:00"
   },
   {
@@ -916,7 +941,7 @@
     "speakers": [
       {
         "organisation": "Intelligent Systems / Altran",
-        "id": 36,
+        "id": 37,
         "name": "Toon Peters"
       }
     ],
@@ -933,7 +958,7 @@
     "video": null,
     "location": "Ebene 2, Loft",
     "sign_up": null,
-    "type": "Talk of 25 minutes",
+    "type": "Vortrag/Talk",
     "end_time": "2016-05-05T09:30:00+00:00"
   },
   {
@@ -958,7 +983,7 @@
     "video": null,
     "location": "Ebene 2, Loft",
     "sign_up": null,
-    "type": "Talk of 25 minutes",
+    "type": "Vortrag/Talk",
     "end_time": "2016-05-05T10:00:00+00:00"
   },
   {
@@ -966,7 +991,7 @@
     "speakers": [
       {
         "organisation": "Wikimedia Deutschland",
-        "id": 37,
+        "id": 38,
         "name": "Barbara Fischer"
       }
     ],
@@ -983,7 +1008,7 @@
     "video": null,
     "location": "Ebene 2, Loft",
     "sign_up": null,
-    "type": "Talk of 25 minutes",
+    "type": "Vortrag/Talk",
     "end_time": "2016-05-05T10:30:00+00:00"
   },
   {
@@ -991,7 +1016,7 @@
     "speakers": [
       {
         "organisation": "Junge T\u00fcftler",
-        "id": 38,
+        "id": 39,
         "name": "Franziska Schmid"
       },
       {
@@ -1013,7 +1038,7 @@
     "video": null,
     "location": "Ebene 2, Loft",
     "sign_up": null,
-    "type": "Talk of 25 minutes",
+    "type": "Vortrag/Talk",
     "end_time": "2016-05-05T11:00:00+00:00"
   },
   {
@@ -1021,7 +1046,7 @@
     "speakers": [
       {
         "organisation": "FreeGeo API",
-        "id": 39,
+        "id": 40,
         "name": "Zac Brown"
       }
     ],
@@ -1038,7 +1063,7 @@
     "video": null,
     "location": "Ebene 2, Loft",
     "sign_up": null,
-    "type": "Talk of 25 minutes",
+    "type": "Vortrag/Talk",
     "end_time": "2016-05-05T11:30:00+00:00"
   },
   {
@@ -1046,7 +1071,7 @@
     "speakers": [
       {
         "organisation": "Code for Berlin",
-        "id": 40,
+        "id": 41,
         "name": "Thomas Tursics"
       }
     ],
@@ -1063,7 +1088,7 @@
     "video": null,
     "location": "Ebene 2, Loft",
     "sign_up": null,
-    "type": "Talk of 25 minutes",
+    "type": "Vortrag/Talk",
     "end_time": "2016-05-05T12:00:00+00:00"
   },
   {
@@ -1071,7 +1096,7 @@
     "speakers": [
       {
         "organisation": "Kommentarspezialistin",
-        "id": 41,
+        "id": 42,
         "name": "Felicitas Blanck"
       }
     ],
@@ -1088,7 +1113,7 @@
     "video": null,
     "location": "Ebene 2, Loft",
     "sign_up": null,
-    "type": "Talk of 25 minutes",
+    "type": "Vortrag/Talk",
     "end_time": "2016-05-05T12:30:00+00:00"
   },
   {
@@ -1096,7 +1121,7 @@
     "speakers": [
       {
         "organisation": "Gregarious Mammal",
-        "id": 42,
+        "id": 43,
         "name": "Chris Ward"
       }
     ],
@@ -1113,7 +1138,7 @@
     "video": null,
     "location": "Ebene 2, Loft",
     "sign_up": null,
-    "type": "Talk of 25 minutes",
+    "type": "Vortrag/Talk",
     "end_time": "2016-05-05T13:00:00+00:00"
   },
   {
@@ -1121,7 +1146,7 @@
     "speakers": [
       {
         "organisation": "Endocode AG",
-        "id": 43,
+        "id": 44,
         "name": "Thomas Fricke"
       }
     ],
@@ -1138,7 +1163,7 @@
     "video": null,
     "location": "Ebene 2, Loft",
     "sign_up": null,
-    "type": "Talk of 25 minutes",
+    "type": "Vortrag/Talk",
     "end_time": "2016-05-05T13:30:00+00:00"
   },
   {
@@ -1146,7 +1171,7 @@
     "speakers": [
       {
         "organisation": "flashcat-project",
-        "id": 44,
+        "id": 45,
         "name": "Kai Mertens"
       }
     ],
@@ -1163,7 +1188,7 @@
     "video": null,
     "location": "Ebene 2, Loft",
     "sign_up": null,
-    "type": "Talk of 25 minutes",
+    "type": "Vortrag/Talk",
     "end_time": "2016-05-05T14:00:00+00:00"
   },
   {
@@ -1196,7 +1221,7 @@
     "speakers": [
       {
         "organisation": "Technische Universit\u00e4t Berlin",
-        "id": 45,
+        "id": 46,
         "name": "J\u00e9r\u00e9my Bonvoisin"
       }
     ],
@@ -1213,7 +1238,7 @@
     "video": null,
     "location": "Ebene 2, Loft",
     "sign_up": null,
-    "type": "Talk of 25 minutes",
+    "type": "Vortrag/Talk",
     "end_time": "2016-05-05T14:50:00+00:00"
   },
   {
@@ -1221,7 +1246,7 @@
     "speakers": [
       {
         "organisation": "Askemos",
-        "id": 46,
+        "id": 47,
         "name": "J\u00f6rg Wittenberger"
       }
     ],
@@ -1238,7 +1263,7 @@
     "video": null,
     "location": "Ebene 2, Loft",
     "sign_up": null,
-    "type": "Talk of 25 minutes",
+    "type": "Vortrag/Talk",
     "end_time": "2016-05-05T15:15:00+00:00"
   },
   {
@@ -1246,7 +1271,7 @@
     "speakers": [
       {
         "organisation": "ionary",
-        "id": 47,
+        "id": 48,
         "name": "Denjell Caleb Thompson"
       }
     ],
@@ -1263,7 +1288,7 @@
     "video": null,
     "location": "Ebene 2, Loft",
     "sign_up": null,
-    "type": "Talk of 25 minutes",
+    "type": "Vortrag/Talk",
     "end_time": "2016-05-05T15:40:00+00:00"
   },
   {
@@ -1271,7 +1296,7 @@
     "speakers": [
       {
         "organisation": "Open Knowledge Foundation Deutschland",
-        "id": 48,
+        "id": 49,
         "name": "Maximilian Richt"
       }
     ],
@@ -1288,7 +1313,7 @@
     "video": null,
     "location": "Ebene 2, Loft",
     "sign_up": null,
-    "type": "Talk of 25 minutes",
+    "type": "Vortrag/Talk",
     "end_time": "2016-05-05T16:05:00+00:00"
   },
   {
@@ -1296,7 +1321,7 @@
     "speakers": [
       {
         "organisation": "youbroketheinternet.org",
-        "id": 49,
+        "id": 50,
         "name": "carlo von lynX"
       }
     ],
@@ -1313,7 +1338,7 @@
     "video": null,
     "location": "Ebene 2, Loft",
     "sign_up": null,
-    "type": "Talk of 25 minutes",
+    "type": "Vortrag/Talk",
     "end_time": "2016-05-05T16:30:00+00:00"
   },
   {
@@ -1321,7 +1346,7 @@
     "speakers": [
       {
         "organisation": "Mozilla",
-        "id": 50,
+        "id": 51,
         "name": "Rok Garbas"
       }
     ],
@@ -1338,7 +1363,7 @@
     "video": null,
     "location": "Ebene 2, Loft",
     "sign_up": null,
-    "type": "Talk of 25 minutes",
+    "type": "Vortrag/Talk",
     "end_time": "2016-05-05T17:00:00+00:00"
   },
   {
@@ -1371,7 +1396,7 @@
     "speakers": [
       {
         "organisation": "private",
-        "id": 51,
+        "id": 52,
         "name": "Jan / Lisa Dittrich / Conrad"
       }
     ],
@@ -1396,7 +1421,7 @@
     "speakers": [
       {
         "organisation": "Copertura Label",
-        "id": 52,
+        "id": 53,
         "name": "Ivers Yves Pierre"
       }
     ],
@@ -1446,7 +1471,7 @@
     "speakers": [
       {
         "organisation": "Heart of Code",
-        "id": 53,
+        "id": 54,
         "name": "Conny Kawohl"
       }
     ],
@@ -1471,7 +1496,7 @@
     "speakers": [
       {
         "organisation": "Flowedoo",
-        "id": 54,
+        "id": 55,
         "name": "Stefan Koehler"
       }
     ],
@@ -1496,7 +1521,7 @@
     "speakers": [
       {
         "organisation": "LPI e.V.",
-        "id": 55,
+        "id": 56,
         "name": "Harald Maa\u00dfen"
       }
     ],
@@ -1521,7 +1546,7 @@
     "speakers": [
       {
         "organisation": "LPI e.V.",
-        "id": 55,
+        "id": 56,
         "name": "Harald Maa\u00dfen"
       }
     ],
