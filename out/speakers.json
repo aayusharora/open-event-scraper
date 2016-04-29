@@ -469,16 +469,16 @@
   },
   {
     "py/object": "models.Speaker",
-    "web": "http://www.picotcp.com/",
-    "github": "https://github.com/tass-belgium/picotcp",
-    "name": "Toon Peters",
-    "country": "Belgium",
-    "twitter": "https://twitter.com/@picotcp",
-    "linkedin": "https://be.linkedin.com/in/toonpeters",
+    "web": "http://junge-tueftler.de/",
+    "github": "",
+    "name": "Franziska Schmid",
+    "country": "Germany",
+    "twitter": "https://twitter.com/@Franzi_Schmid",
+    "linkedin": "",
     "id": 37,
-    "photo": "speakers/Toon_Peters.jpg",
-    "organisation": "Intelligent Systems / Altran",
-    "biography": "Toon is not your everyday engineer. With his passion for technology and enthusiasm for interesting projects, he can truly bring a project to the next level. All while having loads of fun.  Skill-wise, Toon has experience in Embedded software and Electronics, but also marketing, offer development and even recruiting. In short: An all-rounder"
+    "photo": "speakers/Franziska_Schmid.jpg",
+    "organisation": "Junge T\u00fcftler",
+    "biography": "Franziska is Co-Founder of Junge T\u00fcftler. Before she started the Junge T\u00fcftler initiative in 2015 she worked as a Designer for the Volkswagen Innovation Team and IXDS. Junge T\u00fcftler wants to get kids excited about tech and coding. Within the last year the Junge T\u00fcftler team developed various formats to reach kids and multiplicators within Berlin and Germany. "
   },
   {
     "py/object": "models.Speaker",
@@ -495,16 +495,16 @@
   },
   {
     "py/object": "models.Speaker",
-    "web": "http://junge-tueftler.de/",
-    "github": "",
-    "name": "Franziska Schmid",
-    "country": "Germany",
-    "twitter": "https://twitter.com/@Franzi_Schmid",
-    "linkedin": "",
+    "web": "http://www.picotcp.com/",
+    "github": "https://github.com/tass-belgium/picotcp",
+    "name": "Toon Peters",
+    "country": "Belgium",
+    "twitter": "https://twitter.com/@picotcp",
+    "linkedin": "https://be.linkedin.com/in/toonpeters",
     "id": 39,
-    "photo": "speakers/Franziska_Schmid.jpg",
-    "organisation": "Junge T\u00fcftler",
-    "biography": "Franziska is Co-Founder of Junge T\u00fcftler. Before she started the Junge T\u00fcftler initiative in 2015 she worked as a Designer for the Volkswagen Innovation Team and IXDS. Junge T\u00fcftler wants to get kids excited about tech and coding. Within the last year the Junge T\u00fcftler team developed various formats to reach kids and multiplicators within Berlin and Germany. "
+    "photo": "speakers/Toon_Peters.jpg",
+    "organisation": "Intelligent Systems / Altran",
+    "biography": "Toon is not your everyday engineer. With his passion for technology and enthusiasm for interesting projects, he can truly bring a project to the next level. All while having loads of fun.  Skill-wise, Toon has experience in Embedded software and Electronics, but also marketing, offer development and even recruiting. In short: An all-rounder"
   },
   {
     "py/object": "models.Speaker",
@@ -534,13 +534,26 @@
   },
   {
     "py/object": "models.Speaker",
+    "web": "",
+    "github": "",
+    "name": "Susan Spencer",
+    "country": "",
+    "twitter": "",
+    "linkedin": "",
+    "id": 42,
+    "photo": "",
+    "organisation": "Valentina Patternmaking Software / Schnittmuster",
+    "biography": ""
+  },
+  {
+    "py/object": "models.Speaker",
     "web": "https://about.me/felicitasblanck",
     "github": "",
     "name": "Felicitas Blanck",
     "country": "Germany",
     "twitter": "https://twitter.com/fraufeli/",
     "linkedin": "https://de.linkedin.com/in/felicitasblanck",
-    "id": 42,
+    "id": 43,
     "photo": "speakers/Felicitas_Blanck.jpg",
     "organisation": "Kommentarspezialistin",
     "biography": "Community Managerin oder auch Zensuruschi. Urspr\u00fcnglich Kunsthistorikerin. Ich besch\u00e4ftige mich mit der Kommentardebatte im Internet und der Frage, wie man Nutzer am besten zu Wort kommen lassen kann. Sehr interessiert an Verkn\u00fcpfungen von Kultur/Journalismus und Internet."
@@ -553,7 +566,7 @@
     "country": "Germany",
     "twitter": "https://twitter.com/ChrisChinch",
     "linkedin": "http://www.linkedin.com/in/chrischinchilla",
-    "id": 43,
+    "id": 44,
     "photo": "speakers/Chris_Ward.jpg",
     "organisation": "Gregarious Mammal",
     "biography": "Developer Relations, Technical Writing and Editing, (Board) Game Design, Education, Explanation and always more to come."
@@ -566,7 +579,7 @@
     "country": "Germany",
     "twitter": "",
     "linkedin": "https://www.linkedin.com/in/thomas-fricke-9840a21",
-    "id": 44,
+    "id": 45,
     "photo": "speakers/Thomas_Fricke.jpg",
     "organisation": "Endocode AG",
     "biography": "CTO and Partner of Endocode AG  As a Cloud Architect, he has designed clouds and applications shaped to run in clouds for more than a decade.  OpenSource enthusiast for nearly 30 years  "
@@ -579,10 +592,23 @@
     "country": "Germany/ Berlin",
     "twitter": "",
     "linkedin": "",
-    "id": 45,
+    "id": 46,
     "photo": "speakers/Kai_Mertens.jpg",
     "organisation": "flashcat-project",
     "biography": "born in 1970 studying art until 2001 working as sculptor until 2014 participating on 31c3 initiating the flashcat project in 2015   "
+  },
+  {
+    "py/object": "models.Speaker",
+    "web": "https://garbas.si",
+    "github": "https://github.com/garbas",
+    "name": "Rok Garbas",
+    "country": "Slovenia",
+    "twitter": "https://twitter.com/garbas",
+    "linkedin": "",
+    "id": 47,
+    "photo": "speakers/Rok_Garbas.jpg",
+    "organisation": "Mozilla",
+    "biography": "Rok Garbas is a web programmer, when not writing Javascript, he usually scripts in Python. He started using Nix and later NixOS (linux distribution built around Nix) 3 years ago. Currently he works at Mozilla as a Release Engineer."
   },
   {
     "py/object": "models.Speaker",
@@ -592,7 +618,7 @@
     "country": "Bordeaux, France",
     "twitter": "",
     "linkedin": "",
-    "id": 46,
+    "id": 48,
     "photo": "speakers/J\u00e9r\u00e9my_Bonvoisin.jpg",
     "organisation": "Technische Universit\u00e4t Berlin",
     "biography": "J\u00e9r\u00e9my Bonvoisin performs research in sustainable product development at the department of Industrial Information Technology of the Technische Universit\u00e4t Berlin. He leads the French-German research project \"OPEN!-Methods and tools for community-based product development\" that is dedicated to open source hardware and started in March 2016 for a duration of three years. Along the precedent years of research, he covered research topics such as: remanufacturing, energy efficiency of electric and electronic products, environmental assessment of ICT-based services, energy efficiency of production systems and product modularization. "
@@ -605,7 +631,7 @@
     "country": "Deutschland",
     "twitter": "",
     "linkedin": "",
-    "id": 47,
+    "id": 49,
     "photo": "speakers/J\u00f6rg_Wittenberger.jpg",
     "organisation": "Askemos",
     "biography": "geboren 1965  Studium der Informatik (Diplom) 1988-93"
@@ -618,7 +644,7 @@
     "country": "Germany",
     "twitter": "http://twitter.com/denjello",
     "linkedin": "",
-    "id": 48,
+    "id": 50,
     "photo": "speakers/Denjell_Caleb Thompson.jpg",
     "organisation": "ionary",
     "biography": "Media Artist at ionary"
@@ -631,7 +657,7 @@
     "country": "Deutschland",
     "twitter": "https://twitter.com/robbi5",
     "linkedin": "",
-    "id": 49,
+    "id": 51,
     "photo": "speakers/Maximilian_Richt.jpg",
     "organisation": "Open Knowledge Foundation Deutschland",
     "biography": "Maximilian Richt ist ehrenamtlich bei der Open Knowledge Foundation Deutschland und besch\u00e4ftigt sich mit der \u00d6ffnung und Durchsuchbarkeit von Daten.  Sonst verbringt er viel Zeit in Z\u00fcgen, die hin und wieder zu Projekten wie kleineAnfragen.de f\u00fchrt."
@@ -644,23 +670,10 @@
     "country": "Rome",
     "twitter": "https://twitter.com/lynXintl",
     "linkedin": "",
-    "id": 50,
+    "id": 52,
     "photo": "speakers/carlo_von lynX.jpg",
     "organisation": "youbroketheinternet.org",
     "biography": "Recently Yanis Varoufakis joined the Icelandic Pirate Party's choir, asking for a new Constitution for the European Union. It is quite obvious, that such a document must be developed in a participatory utilizing the Internet. Yet, the Internet bears many threats and e-democracy platforms are prone to many fallacies. carlo von lynX has been publicly discussing potentials and risks after participating in the debut installation of Liquid Feedback which led to 2011's electoral success of the Berlin Piratenpartei. Later he joined the Italian Pirate Party in the endeavor of designing a leaderless political party, continuously governed by a permanent electronic assembly \u2013 where decisions are taken together. At first it didn't work, but after several years of design re-iterations it now seems like the design is functional. A large-scale digital assembly or parliament is not only possible, it can also be self-governed."
-  },
-  {
-    "py/object": "models.Speaker",
-    "web": "https://garbas.si",
-    "github": "https://github.com/garbas",
-    "name": "Rok Garbas",
-    "country": "Slovenia",
-    "twitter": "https://twitter.com/garbas",
-    "linkedin": "",
-    "id": 51,
-    "photo": "speakers/Rok_Garbas.jpg",
-    "organisation": "Mozilla",
-    "biography": "Rok Garbas is a web programmer, when not writing Javascript, he usually scripts in Python. He started using Nix and later NixOS (linux distribution built around Nix) 3 years ago. Currently he works at Mozilla as a Release Engineer."
   },
   {
     "py/object": "models.Speaker",
@@ -670,7 +683,7 @@
     "country": "Germany",
     "twitter": "https://twitter.com/@simulo",
     "linkedin": "",
-    "id": 52,
+    "id": 53,
     "photo": "speakers/Jan _ Lisa_Dittrich _ Conrad.jpg",
     "organisation": "private",
     "biography": "Jan is User Researcher, Lisa is an Anthropologist. Both are interested in why people do what they do. "
@@ -683,7 +696,7 @@
     "country": "Haiti-Germany",
     "twitter": "https://www.twitter.com/Iversps",
     "linkedin": "https://de.linkedin.com/in/iversp",
-    "id": 53,
+    "id": 54,
     "photo": "speakers/Ivers Yves_Pierre.jpg",
     "organisation": "Copertura Label",
     "biography": "Ivers, originally from Haiti but resides in Germany for 7 years, Founder and CEO of Copertura Label, a 2 co-branded lines of fashion Tempo Libero for casuals and Sports and Wearable for fashion tech. Actual Regional Business Development Manager in Deliveryhero.com, the largest online food ordering platform worldwide. "
@@ -696,7 +709,7 @@
     "country": "Germany",
     "twitter": "https://twitter.com/ckawohl",
     "linkedin": "",
-    "id": 54,
+    "id": 55,
     "photo": "speakers/Conny_Kawohl.jpg",
     "organisation": "Heart of Code",
     "biography": "I am a Senior UI/UX Designer slowly morphing into a Web Frontend Developer. I write JavaScript (Angular/React) but also Ruby (RoR) and am fascinated by CSS Preprocessors. I <3 Hard Science Fiction, Slow Food, Graphic Novels and Human Languages."
@@ -709,7 +722,7 @@
     "country": "Deutschland",
     "twitter": "",
     "linkedin": "",
-    "id": 55,
+    "id": 56,
     "photo": "speakers/Stefan_Koehler.jpg",
     "organisation": "Flowedoo",
     "biography": "Stefan is a dedicated and experienced IT professional with a passion for, but no limitation to, Free Software."
@@ -722,7 +735,7 @@
     "country": "Germany",
     "twitter": "",
     "linkedin": "",
-    "id": 56,
+    "id": 57,
     "photo": "speakers/Harald_Maa\u00dfen.jpg",
     "organisation": "LPI e.V.",
     "biography": "Harald Maassen ist langjaehriger Aktiver beim Linux Professional Institute."
