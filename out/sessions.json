@@ -630,7 +630,7 @@
       {
         "organisation": "at OpenTechSummit",
         "id": 24,
-        "name": "Talkers"
+        "name": "Lightning Talkers"
       }
     ],
     "description": "",
@@ -701,9 +701,15 @@
   },
   {
     "py/object": "models.Session",
-    "speakers": [],
+    "speakers": [
+      {
+        "organisation": "FOSSASIA",
+        "id": 26,
+        "name": "Hong Phuc Dang"
+      }
+    ],
     "description": "",
-    "title": "Hong Phuc Dang",
+    "title": "FOSSASIA",
     "track": {
       "order": 5,
       "name": "OTS 1",
