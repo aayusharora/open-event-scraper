@@ -19,7 +19,7 @@
     "session_id": "MS-1",
     "slides": null,
     "video": "https://www.youtube.com/channel/UCJoKp-gG2t7lH5_hiKp95yA",
-    "location": "Erdgeschoss, Saal",
+    "location": "Erdgeschoss, Saal / Ground Floor",
     "sign_up": "http://www.meetup.com/OpenXLab/events/230011213/",
     "type": "Ganzt\u00e4giger L\u00f6tworkshop / Soldering Workshop",
     "end_time": "2016-05-05T08:00:00+00:00"
@@ -44,7 +44,7 @@
     "session_id": "MS-2",
     "slides": null,
     "video": null,
-    "location": "Erdgeschoss, Saal",
+    "location": "Erdgeschoss, Saal / Ground Floor",
     "sign_up": null,
     "type": "Workshop/Ausstellung/Exhibition",
     "end_time": "2016-05-05T08:00:00+00:00"
@@ -69,7 +69,7 @@
     "session_id": "MS-3",
     "slides": null,
     "video": null,
-    "location": "Erdgeschoss, Saal",
+    "location": "Erdgeschoss, Saal / Ground Floor",
     "sign_up": null,
     "type": "Infotisch, Ausstellung, Exhibition, Gem\u00fctliche Kissenecke",
     "end_time": "2016-05-05T08:00:00+00:00"
@@ -94,7 +94,7 @@
     "session_id": "MS-4",
     "slides": null,
     "video": null,
-    "location": "Erdgeschoss, Saal",
+    "location": "Erdgeschoss, Saal / Ground Floor",
     "sign_up": "http://www.meetup.com/OpenXLab/events/230593089/",
     "type": "Workshop und Infotisch",
     "end_time": "2016-05-05T08:00:00+00:00"
@@ -119,7 +119,7 @@
     "session_id": "MS-5",
     "slides": null,
     "video": null,
-    "location": "Erdgeschoss, Saal",
+    "location": "Erdgeschoss, Saal / Ground Floor",
     "sign_up": null,
     "type": "Infotisch mit Workshops / Info table and Workshops",
     "end_time": "2016-05-05T08:00:00+00:00"
@@ -144,7 +144,7 @@
     "session_id": "MS-6",
     "slides": null,
     "video": null,
-    "location": "Erdgeschoss, Saal",
+    "location": "Erdgeschoss, Saal / Ground Floor",
     "sign_up": null,
     "type": "Hackspace-Infotisch, Exhibition",
     "end_time": "2016-05-05T08:00:00+00:00"
@@ -169,7 +169,7 @@
     "session_id": "MS-7",
     "slides": null,
     "video": null,
-    "location": "Erdgeschoss, Saal",
+    "location": "Erdgeschoss, Saal / Ground Floor",
     "sign_up": null,
     "type": "Freie Software-Infoecke / Information Corner",
     "end_time": "2016-05-05T08:00:00+00:00"
@@ -194,7 +194,7 @@
     "session_id": "MS-8",
     "slides": null,
     "video": null,
-    "location": "Erdgeschoss, Saal",
+    "location": "Erdgeschoss, Saal / Ground Floor",
     "sign_up": null,
     "type": "Infotisch/Info Table",
     "end_time": "2016-05-05T08:00:00+00:00"
@@ -219,7 +219,7 @@
     "session_id": "MS-9",
     "slides": null,
     "video": null,
-    "location": "Erdgeschoss, Saal",
+    "location": "Erdgeschoss, Saal / Ground Floor",
     "sign_up": null,
     "type": "Hardware Hacks",
     "end_time": "2016-05-05T08:00:00+00:00"
@@ -244,7 +244,7 @@
     "session_id": "W-1",
     "slides": null,
     "video": null,
-    "location": "Erdgeschoss, Saal",
+    "location": "Erdgeschoss, Saal / Ground Floor",
     "sign_up": "http://www.meetup.com/OpenXLab/events/230435191/",
     "type": "Workshop, 2h",
     "end_time": "2016-05-05T08:30:00+00:00"
@@ -284,7 +284,7 @@
     "session_id": "W-2",
     "slides": null,
     "video": null,
-    "location": "Erdgeschoss, Saal",
+    "location": "Erdgeschoss, Saal / Ground Floor",
     "sign_up": null,
     "type": "Workshop, 5h",
     "end_time": "2016-05-05T08:30:00+00:00"
@@ -309,9 +309,9 @@
     "session_id": "W-3",
     "slides": null,
     "video": null,
-    "location": "Erdgeschoss, Saal",
+    "location": "Erdgeschoss, Saal / Ground Floor",
     "sign_up": "http://www.meetup.com/Software-Craftsmanship-Berlin/events/230566242/",
-    "type": "Workshop und Developer Meetup",
+    "type": "Workshop und Developer Meetup, 2h",
     "end_time": "2016-05-05T09:30:00+00:00"
   },
   {
@@ -334,7 +334,7 @@
     "session_id": "W-4",
     "slides": null,
     "video": null,
-    "location": "Ebene 1, Raum 4",
+    "location": "Ebene 1, Raum 4 / First Floor, Room 4",
     "sign_up": "http://www.meetup.com/OpenXLab/events/230446672/",
     "type": "Workshop",
     "end_time": "2016-05-05T09:30:00+00:00"
@@ -359,7 +359,7 @@
     "session_id": "W-5",
     "slides": null,
     "video": null,
-    "location": "Ebene 1, Raum 1",
+    "location": "Ebene 1, Raum 1 / First Floor, Room 1",
     "sign_up": "http://www.meetup.com/OpenXLab/events/230447656/",
     "type": "Workshop",
     "end_time": "2016-05-05T12:30:00+00:00"
@@ -384,7 +384,7 @@
     "session_id": "W-6",
     "slides": null,
     "video": null,
-    "location": "Ebene 1, Raum 1",
+    "location": "Ebene 1, Raum 1 / First Floor, Room 1",
     "sign_up": "http://www.meetup.com/OpenXLab/events/230539055/",
     "type": "Workshop",
     "end_time": "2016-05-05T14:30:00+00:00"
@@ -409,9 +409,9 @@
     "session_id": "W-7",
     "slides": null,
     "video": null,
-    "location": "Saal",
+    "location": "Erdgeschoss, Saal / Ground Floor",
     "sign_up": "http://www.meetup.com/Software-Craftsmanship-Berlin/events/230566242/",
-    "type": "Workshop und Developer Meetup",
+    "type": "Workshop und Developer Meetup, 2h",
     "end_time": "2016-05-05T14:30:00+00:00"
   },
   {
@@ -434,7 +434,7 @@
     "session_id": "KC-1",
     "slides": null,
     "video": null,
-    "location": "Erdgeschoss, Saal",
+    "location": "Erdgeschoss, Saal / Ground Floor",
     "sign_up": "http://www.meetup.com/OpenXLab/events/230160858/",
     "type": "Kids Workshops",
     "end_time": "2016-05-05T08:00:00+00:00"
@@ -464,7 +464,7 @@
     "session_id": "KC-2",
     "slides": null,
     "video": null,
-    "location": "Ebene 1, Raum 2 und Raum 3",
+    "location": "Ebene 1, Raum 2 und Raum 3 / Floor 1, Room 2 and Room 3",
     "sign_up": "http://www.meetup.com/OpenXLab/events/230160858/",
     "type": "Kids Workshops",
     "end_time": "2016-05-05T08:00:00+00:00"
@@ -489,7 +489,7 @@
     "session_id": "KC-3",
     "slides": null,
     "video": null,
-    "location": "Erdgeschoss, Saal",
+    "location": "Erdgeschoss, Saal / Ground Floor",
     "sign_up": null,
     "type": "Ausstellung/Vorstellung/Exhibition",
     "end_time": "2016-05-05T08:00:00+00:00"
@@ -514,7 +514,7 @@
     "session_id": "KC-4",
     "slides": null,
     "video": null,
-    "location": "Erdgeschoss, Saal",
+    "location": "Erdgeschoss, Saal / Ground Floor",
     "sign_up": null,
     "type": "Ausstellung/Vorstellung/Exhibition",
     "end_time": "2016-05-05T08:00:00+00:00"
@@ -539,7 +539,7 @@
     "session_id": "OT-01",
     "slides": null,
     "video": null,
-    "location": "Ebene 1, Galerie",
+    "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "",
     "end_time": "2016-05-05T09:25:00+00:00"
@@ -564,7 +564,7 @@
     "session_id": "OT-02",
     "slides": null,
     "video": null,
-    "location": "Ebene 1, Galerie",
+    "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Vortrag/Talk",
     "end_time": "2016-05-05T09:30:00+00:00"
@@ -589,7 +589,7 @@
     "session_id": "OT-03",
     "slides": null,
     "video": null,
-    "location": "Ebene 1, Galerie",
+    "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T09:55:00+00:00"
@@ -614,7 +614,7 @@
     "session_id": "OT-04",
     "slides": null,
     "video": null,
-    "location": "Ebene 1, Galerie",
+    "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Vortrag/Talk",
     "end_time": "2016-05-05T10:20:00+00:00"
@@ -639,7 +639,7 @@
     "session_id": "OT-05",
     "slides": null,
     "video": null,
-    "location": "Ebene 1, Galerie",
+    "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Vortrag/Talk",
     "end_time": "2016-05-05T10:50:00+00:00"
@@ -664,7 +664,7 @@
     "session_id": "OT-06",
     "slides": null,
     "video": null,
-    "location": "Ebene 1, Galerie",
+    "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Vortrag/Talk",
     "end_time": "2016-05-05T11:20:00+00:00"
@@ -689,7 +689,7 @@
     "session_id": "OT-07",
     "slides": null,
     "video": null,
-    "location": "Ebene 1, Galerie",
+    "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Vortrag/Talk",
     "end_time": "2016-05-05T11:40:00+00:00"
@@ -714,7 +714,7 @@
     "session_id": "OT-08",
     "slides": null,
     "video": null,
-    "location": "Ebene 1, Galerie",
+    "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Lightning Talks",
     "end_time": "2016-05-05T12:00:00+00:00"
@@ -739,7 +739,7 @@
     "session_id": "OT-09",
     "slides": null,
     "video": null,
-    "location": "Ebene 1, Galerie",
+    "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Vortrag/Talk",
     "end_time": "2016-05-05T12:45:00+00:00"
@@ -764,7 +764,7 @@
     "session_id": "OT-10",
     "slides": null,
     "video": null,
-    "location": "Ebene 1, Galerie",
+    "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T13:15:00+00:00"
@@ -789,7 +789,7 @@
     "session_id": "OT-11",
     "slides": null,
     "video": null,
-    "location": "Ebene 1, Galerie",
+    "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Panel",
     "end_time": "2016-05-05T13:45:00+00:00"
@@ -814,7 +814,7 @@
     "session_id": "OT-12",
     "slides": null,
     "video": null,
-    "location": "Ebene 1, Galerie",
+    "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Vortrag/Talk",
     "end_time": "2016-05-05T14:30:00+00:00"
@@ -839,7 +839,7 @@
     "session_id": "OT-13",
     "slides": null,
     "video": null,
-    "location": "Ebene 1, Galerie",
+    "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Vortrag/Talk",
     "end_time": "2016-05-05T15:00:00+00:00"
@@ -864,7 +864,7 @@
     "session_id": "OT-14",
     "slides": null,
     "video": null,
-    "location": "Ebene 1, Galerie",
+    "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Vortrag/Talk",
     "end_time": "2016-05-05T15:40:00+00:00"
@@ -894,7 +894,7 @@
     "session_id": "OT-15",
     "slides": null,
     "video": null,
-    "location": "Ebene 1, Galerie",
+    "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Vortrag/Talk",
     "end_time": "2016-05-05T16:10:00+00:00"
@@ -919,7 +919,7 @@
     "session_id": "OT-16",
     "slides": null,
     "video": null,
-    "location": "Ebene 1, Galerie",
+    "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Vortrag/Talk",
     "end_time": "2016-05-05T16:40:00+00:00"
@@ -944,7 +944,7 @@
     "session_id": "OT-17",
     "slides": null,
     "video": null,
-    "location": "Ebene 1, Galerie",
+    "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Vortrag/Talk",
     "end_time": "2016-05-05T17:10:00+00:00"
@@ -969,7 +969,7 @@
     "session_id": "OT-18",
     "slides": null,
     "video": null,
-    "location": "Ebene 1, Galerie",
+    "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Vortrag/Talk",
     "end_time": "2016-05-05T17:35:00+00:00"
@@ -999,7 +999,7 @@
     "session_id": "OT-19",
     "slides": null,
     "video": null,
-    "location": "Ebene 1, Galerie",
+    "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Vortrag/Talk",
     "end_time": "2016-05-05T18:00:00+00:00"
@@ -1024,7 +1024,7 @@
     "session_id": "OT2-1",
     "slides": null,
     "video": null,
-    "location": "Ebene 2, Loft",
+    "location": "Ebene 2, Loft / Floor 2",
     "sign_up": null,
     "type": "Vortrag/Talk",
     "end_time": "2016-05-05T09:30:00+00:00"
@@ -1054,7 +1054,7 @@
     "session_id": "OT2-2",
     "slides": null,
     "video": null,
-    "location": "Ebene 2, Loft",
+    "location": "Ebene 2, Loft / Floor 2",
     "sign_up": null,
     "type": "Vortrag/Talk",
     "end_time": "2016-05-05T10:00:00+00:00"
@@ -1079,7 +1079,7 @@
     "session_id": "OT2-3",
     "slides": null,
     "video": null,
-    "location": "Ebene 2, Loft",
+    "location": "Ebene 2, Loft / Floor 2",
     "sign_up": null,
     "type": "Vortrag/Talk",
     "end_time": "2016-05-05T10:30:00+00:00"
@@ -1104,7 +1104,7 @@
     "session_id": "OT2-4",
     "slides": null,
     "video": null,
-    "location": "Ebene 2, Loft",
+    "location": "Ebene 2, Loft / Floor 2",
     "sign_up": null,
     "type": "Vortrag/Talk",
     "end_time": "2016-05-05T11:00:00+00:00"
@@ -1129,7 +1129,7 @@
     "session_id": "OT2-5",
     "slides": null,
     "video": null,
-    "location": "Ebene 2, Loft",
+    "location": "Ebene 2, Loft / Floor 2",
     "sign_up": null,
     "type": "Vortrag/Talk",
     "end_time": "2016-05-05T11:30:00+00:00"
@@ -1154,7 +1154,7 @@
     "session_id": "OT2-6",
     "slides": null,
     "video": null,
-    "location": "Ebene 2, Loft",
+    "location": "Ebene 2, Loft / Floor 2",
     "sign_up": null,
     "type": "Vortrag/Talk",
     "end_time": "2016-05-05T12:00:00+00:00"
@@ -1179,7 +1179,7 @@
     "session_id": "OT2-7",
     "slides": null,
     "video": null,
-    "location": "Ebene 2, Loft",
+    "location": "Ebene 2, Loft / Floor 2",
     "sign_up": null,
     "type": "Vortrag/Talk",
     "end_time": "2016-05-05T12:30:00+00:00"
@@ -1204,7 +1204,7 @@
     "session_id": "OT2-8",
     "slides": null,
     "video": null,
-    "location": "Ebene 2, Loft",
+    "location": "Ebene 2, Loft / Floor 2",
     "sign_up": null,
     "type": "Vortrag/Talk",
     "end_time": "2016-05-05T13:00:00+00:00"
@@ -1229,7 +1229,7 @@
     "session_id": "OT2-9",
     "slides": null,
     "video": null,
-    "location": "Ebene 2, Loft",
+    "location": "Ebene 2, Loft / Floor 2",
     "sign_up": null,
     "type": "Talk mit Live-Hack (20 Minuten)",
     "end_time": "2016-05-05T13:30:00+00:00"
@@ -1254,7 +1254,7 @@
     "session_id": "OT2-10",
     "slides": null,
     "video": null,
-    "location": "Ebene 2, Loft",
+    "location": "Ebene 2, Loft / Floor 2",
     "sign_up": null,
     "type": "Vortrag/Talk",
     "end_time": "2016-05-05T13:50:00+00:00"
@@ -1279,7 +1279,7 @@
     "session_id": "OT2-11",
     "slides": null,
     "video": null,
-    "location": "Ebene 2, Loft",
+    "location": "Ebene 2, Loft / Floor 2",
     "sign_up": null,
     "type": "Vortrag/Talk",
     "end_time": "2016-05-05T14:20:00+00:00"
@@ -1304,7 +1304,7 @@
     "session_id": "OT2-12",
     "slides": null,
     "video": null,
-    "location": "Ebene 2, Loft",
+    "location": "Ebene 2, Loft / Floor 2",
     "sign_up": null,
     "type": "Vortrag/Talk",
     "end_time": "2016-05-05T14:40:00+00:00"
@@ -1329,7 +1329,7 @@
     "session_id": "OT2-13",
     "slides": null,
     "video": null,
-    "location": "Ebene 2, Loft",
+    "location": "Ebene 2, Loft / Floor 2",
     "sign_up": null,
     "type": "Vortrag/Talk",
     "end_time": "2016-05-05T15:10:00+00:00"
@@ -1354,7 +1354,7 @@
     "session_id": "OT2-14",
     "slides": null,
     "video": null,
-    "location": "Ebene 2, Loft",
+    "location": "Ebene 2, Loft / Floor 2",
     "sign_up": null,
     "type": "Vortrag/Talk",
     "end_time": "2016-05-05T15:40:00+00:00"
@@ -1379,7 +1379,7 @@
     "session_id": "OT2-15",
     "slides": null,
     "video": null,
-    "location": "Ebene 2, Loft",
+    "location": "Ebene 2, Loft / Floor 2",
     "sign_up": null,
     "type": "Vortrag/Talk",
     "end_time": "2016-05-05T16:10:00+00:00"
@@ -1404,7 +1404,7 @@
     "session_id": "OT2-16",
     "slides": null,
     "video": null,
-    "location": "Ebene 2, Loft",
+    "location": "Ebene 2, Loft / Floor 2",
     "sign_up": null,
     "type": "Vortrag/Talk",
     "end_time": "2016-05-05T16:40:00+00:00"
@@ -1429,7 +1429,7 @@
     "session_id": "OT2-17",
     "slides": null,
     "video": null,
-    "location": "Ebene 2, Loft",
+    "location": "Ebene 2, Loft / Floor 2",
     "sign_up": null,
     "type": "Vortrag/Talk",
     "end_time": "2016-05-05T17:10:00+00:00"
@@ -1454,7 +1454,7 @@
     "session_id": "OT2-18",
     "slides": null,
     "video": null,
-    "location": "Ebene 2, Loft",
+    "location": "Ebene 2, Loft / Floor 2",
     "sign_up": null,
     "type": "Vortrag/Talk",
     "end_time": "2016-05-05T17:40:00+00:00"
@@ -1479,7 +1479,7 @@
     "session_id": "OT2-19",
     "slides": null,
     "video": null,
-    "location": "Ebene 2, Loft",
+    "location": "Ebene 2, Loft / Floor 2",
     "sign_up": null,
     "type": "Vortrag/Talk",
     "end_time": "2016-05-05T18:10:00+00:00"
@@ -1501,7 +1501,7 @@
       "id": 7
     },
     "session_id": "LT-1",
-    "slides": null,
+    "slides": "Ebene 1, Galerie / Floor 1",
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
@@ -1524,7 +1524,7 @@
       "id": 7
     },
     "session_id": "LT-2",
-    "slides": null,
+    "slides": "Ebene 1, Galerie / Floor 1",
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
@@ -1547,7 +1547,7 @@
       "id": 7
     },
     "session_id": "LT-3",
-    "slides": null,
+    "slides": "Ebene 1, Galerie / Floor 1",
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
@@ -1570,7 +1570,7 @@
       "id": 7
     },
     "session_id": "LT-4",
-    "slides": null,
+    "slides": "Ebene 1, Galerie / Floor 1",
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
@@ -1593,7 +1593,7 @@
       "id": 7
     },
     "session_id": "LT-5",
-    "slides": null,
+    "slides": "Ebene 1, Galerie / Floor 1",
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
@@ -1616,7 +1616,7 @@
       "id": 7
     },
     "session_id": "LT-6",
-    "slides": null,
+    "slides": "Ebene 1, Galerie / Floor 1",
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
@@ -1639,7 +1639,7 @@
       "id": 7
     },
     "session_id": "LT-7",
-    "slides": null,
+    "slides": "Ebene 1, Galerie / Floor 1",
     "video": null,
     "location": "Ebene 1, Galerie",
     "sign_up": null,
