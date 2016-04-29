@@ -607,8 +607,8 @@
     "linkedin": "https://de.linkedin.com/in/felicitasblanck",
     "id": 47,
     "photo": "speakers/Felicitas_Blanck.jpg",
-    "organisation": "Kommentarspezialistin",
-    "biography": "Community Managerin oder auch Zensuruschi. Urspr\u00fcnglich Kunsthistorikerin. Ich besch\u00e4ftige mich mit der Kommentardebatte im Internet und der Frage, wie man Nutzer am besten zu Wort kommen lassen kann. Sehr interessiert an Verkn\u00fcpfungen von Kultur/Journalismus und Internet."
+    "organisation": "Community Managerin",
+    "biography": "Community Managerin und Zensuruschi. Urspr\u00fcnglich Kunsthistorikerin. Ich besch\u00e4ftige mich mit der Kommentardebatte im Internet und der Frage, wie man Nutzer am besten zu Wort kommen lassen kann. Sehr interessiert an Verkn\u00fcpfungen von Kultur/Journalismus und Internet."
   },
   {
     "py/object": "models.Speaker",
