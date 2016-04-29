@@ -127,7 +127,7 @@
     "id": 10,
     "photo": "speakers/Birgit_Marzinka.jpg",
     "organisation": "Metaversa e.V.",
-    "biography": "Der Metaversa e.V. ist ein Verein f\u00fcr Medien, Bildung und Kultur und besteht aus einem engagierten Team von Medienp\u00e4dagogInnen.  Studierte in Heidelberg, Bremen und Mexiko-Stadt Geografie und an der Universit\u00e4t Rostock den Masterstudiengang Medienbildung, arbeitet selbstst\u00e4ndig in der Medienp\u00e4dagogik und in den Bereichen: Bildung in virtuellen R\u00e4umen, E-Learning und Bildungsportale. Sie initiierte und hat die Leitung des Webportals \u201ezeitzeugengeschichte.de\u201c inne. Sie entwickelt Projekte, gibt Radio- und Computerworkshops und arbeitet mit Jugendlichen und Erwachsenen. Ihre Themen sind Nationalsozialismus \u2013 Zeitzeugenarbeit (zeitgen\u00f6ssische Geschichte), Rechtsextremismus, Diversity bzw. Migration, Entwicklungszusammenarbeit und Umweltschutz."
+    "biography": "Studierte in Heidelberg, Bremen und Mexiko-Stadt Geografie und an der Universit\u00e4t Rostock den Masterstudiengang Medienbildung, arbeitet selbstst\u00e4ndig in der Medienp\u00e4dagogik und in den Bereichen: Bildung in virtuellen R\u00e4umen, E-Learning und Bildungsportale. Sie initiierte und hat die Leitung des Webportals \u201ezeitzeugengeschichte.de\u201c inne. Sie entwickelt Projekte, gibt Radio- und Computerworkshops und arbeitet mit Jugendlichen und Erwachsenen. Ihre Themen sind Nationalsozialismus \u2013 Zeitzeugenarbeit (zeitgen\u00f6ssische Geschichte), Rechtsextremismus, Diversity bzw. Migration, Entwicklungszusammenarbeit und Umweltschutz."
   },
   {
     "py/object": "models.Speaker",

@@ -248,7 +248,7 @@
         "name": "Kirsten Mohri"
       }
     ],
-    "description": "Roboter mit Scratch und Blockly programmieren - das ist das Thema vom Metaversa e.V. auf dem OpenTechSummit. Die mBots k\u00f6nnen \u00fcber eine grafische Programmiersprache an Tablets und Laptops programmiert werden. Zeit: 10 bis 15 Uhr",
+    "description": "Roboter mit Scratch und Blockly programmieren - das ist das Thema vom Metaversa e.V. auf dem OpenTechSummit. Die mBots k\u00f6nnen \u00fcber eine grafische Programmiersprache an Tablets und Laptops programmiert werden. Zeit: 10 bis 15 Uhr. //  Der Metaversa e.V. ist ein Verein f\u00fcr Medien, Bildung und Kultur und besteht aus einem engagierten Team von Medienp\u00e4dagogInnen.",
     "title": "Roboter mit Scratch und Blockly programmieren",
     "track": {
       "order": 3,
@@ -343,31 +343,6 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community",
-        "id": 14,
-        "name": "Raimo, Markus Radczewski, Decke"
-      }
-    ],
-    "description": "\u00dcbung macht den Meister! Zusammen mit der Softwerkskammer Berlin richten wir ein Coding Dojo aus. In zwei Stunden bearbeiten wir paarweise eine Programmieraufgabe und besprechen anschlie\u00dfend eure L\u00f6sungen.  Ganz im Sinne von Teach Me, Teach You, gilt die Lernerfahrung als oberstes Ziel des Workshops. Lern eine neue Sprache oder zeig jemand anderem deine Lieblingssprache!        Bringt, wenn m\u00f6glich, eure Laptops mit eingerichteter Entwicklungsumgebung mit (im besten Fall mit Testframework, z.B. JUnit oder mocha). Auch ohne Laptop k\u00f6nnt ihr teilnehmen. ",
-    "title": "Coding Dojo",
-    "track": {
-      "order": 3,
-      "name": "Workshops",
-      "id": 3
-    },
-    "start_time": "2016-05-05T14:00:00+00:00",
-    "session_id": "W-6",
-    "slides": null,
-    "video": null,
-    "location": "Saal",
-    "sign_up": "http://www.meetup.com/Software-Craftsmanship-Berlin/events/230566242/",
-    "type": "Workshop und Developer Meetup",
-    "end_time": "2016-05-05T14:30:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
         "organisation": "Altran",
         "id": 17,
         "name": "Toon PETERS"
@@ -387,6 +362,31 @@
     "location": "Ebene 1, Raum 1",
     "sign_up": "http://www.meetup.com/OpenXLab/events/230539055/",
     "type": "Workshop",
+    "end_time": "2016-05-05T14:30:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community",
+        "id": 14,
+        "name": "Raimo, Markus Radczewski, Decke"
+      }
+    ],
+    "description": "\u00dcbung macht den Meister! Zusammen mit der Softwerkskammer Berlin richten wir ein Coding Dojo aus. In zwei Stunden bearbeiten wir paarweise eine Programmieraufgabe und besprechen anschlie\u00dfend eure L\u00f6sungen.  Ganz im Sinne von Teach Me, Teach You, gilt die Lernerfahrung als oberstes Ziel des Workshops. Lern eine neue Sprache oder zeig jemand anderem deine Lieblingssprache!        Bringt, wenn m\u00f6glich, eure Laptops mit eingerichteter Entwicklungsumgebung mit (im besten Fall mit Testframework, z.B. JUnit oder mocha). Auch ohne Laptop k\u00f6nnt ihr teilnehmen. ",
+    "title": "Coding Dojo",
+    "track": {
+      "order": 3,
+      "name": "Workshops",
+      "id": 3
+    },
+    "start_time": "2016-05-05T14:00:00+00:00",
+    "session_id": "W-6",
+    "slides": null,
+    "video": null,
+    "location": "Saal",
+    "sign_up": "http://www.meetup.com/Software-Craftsmanship-Berlin/events/230566242/",
+    "type": "Workshop und Developer Meetup",
     "end_time": "2016-05-05T14:30:00+00:00"
   },
   {
