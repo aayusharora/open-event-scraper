@@ -356,7 +356,7 @@
       "id": 3
     },
     "start_time": "2016-05-05T14:00:00+00:00",
-    "session_id": "W-7",
+    "session_id": "W-6",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Raum 1",
@@ -381,7 +381,7 @@
       "id": 3
     },
     "start_time": "2016-05-05T14:00:00+00:00",
-    "session_id": "W-6",
+    "session_id": "W-7",
     "slides": null,
     "video": null,
     "location": "Saal",
@@ -418,13 +418,13 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Jugend Hackt",
+        "organisation": "Junge T\u00fcftler",
         "id": 19,
-        "name": "Jakob Schade"
+        "name": "Julia Kleeberger"
       }
     ],
-    "description": "Auch 2015 konnten junge Hacker_innen bei Jugend Hackt zeigen, wie sie mit Code die Welt verbessern. In 5 Events mit fast 300 Teilnehmenden und \u00fcber 50 entstandenen Projekten gab es eine Vielzahl an spannenden, lustigen und auch wegweisenden Ideen und Prototypen, wie die Junghacker_innen ihre F\u00e4higkeiten f\u00fcr eine positive Gesellschaft einsetzen. An dem Stand k\u00f6nnen einige dieser Projekte mit den jungen Entwicklern selbst diskutiert werden und es besteht die M\u00f6glichkeit sich \u00fcber die Veranstaltungen 2016 zu informieren Jugend Hackt ist ein Hackathon f\u00fcr Jugendliche zwischen 12 und 18 Jahren, welcher seit 2013 von der Open Knowledge Foundation veranstaltet wird.",
-    "title": "Jugend Hackt",
+    "description": "How can fabrics conduct electricity and is it possible to build electric circuits out of paper? In our 3 hour workshop children aged 6 and older will have the possibility to tinker and explore the impact of electricity in a playful way. They can craft figures made out of paper or felt and enrich them with electric functions. With our workshop we wanna share the fascination of technology with kids and want to encourage them to hack and tinker around with everyday objects. ",
+    "title": "Wir Bauen Tolle Sachen und T\u00fcfteln mit Elektronik, Papier, Knete und Stoff",
     "track": {
       "order": 4,
       "name": "Kids Camp",
@@ -434,22 +434,22 @@
     "session_id": "KC-2",
     "slides": null,
     "video": null,
-    "location": "Erdgeschoss, Saal",
-    "sign_up": null,
-    "type": "Ausstellung/Vorstellung/Exhibition",
+    "location": "Ebene 1, Raum 2 und Raum 3",
+    "sign_up": "http://www.meetup.com/OpenXLab/events/230160858/",
+    "type": "Kids Workshops",
     "end_time": "2016-05-05T08:00:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Code Week Award",
+        "organisation": "Jugend Hackt",
         "id": 20,
-        "name": "Code Week Award"
+        "name": "Jakob Schade"
       }
     ],
-    "description": "Matthias und Nora vom Code Week Team stellen den Code Week Award vor und zeigen einen Live-Hack. Wir programmieren ein Computerspiel in nur 15 Minuten und spielen mit euch. Wer gewinnt, bekommt von uns einen \u00dcberraschungs-Preis.  Unter dem Motto \u201cJede Woche ist Code Week\u201d f\u00f6rdert der Code Week Award spielerische und kreative Workshop-Formate und digitale Kompetenzen bei Kindern und Jugendlichen in ganz Deutschland. Der Award wurde ankn\u00fcpfend an den Erfolg der EU Code Week im Oktober 2014 erstmalig von der Technologiestiftung Berlin und dem Design Research Lab der Universit\u00e4t der K\u00fcnste Berlin ausgeschrieben und durch die Unterst\u00fctzung von Samsung ins Leben gerufen. 2016 findet bereits die zweite Ausgabe des Awards statt, der in den vergangenen beiden Jahren bereits hunderte Kindern und Jugendlichen einen kreativen Umgang mit digitalen Technologien erm\u00f6glicht hat. ",
-    "title": "Code Week Award Live-Hack",
+    "description": "Auch 2015 konnten junge Hacker_innen bei Jugend Hackt zeigen, wie sie mit Code die Welt verbessern. In 5 Events mit fast 300 Teilnehmenden und \u00fcber 50 entstandenen Projekten gab es eine Vielzahl an spannenden, lustigen und auch wegweisenden Ideen und Prototypen, wie die Junghacker_innen ihre F\u00e4higkeiten f\u00fcr eine positive Gesellschaft einsetzen. An dem Stand k\u00f6nnen einige dieser Projekte mit den jungen Entwicklern selbst diskutiert werden und es besteht die M\u00f6glichkeit sich \u00fcber die Veranstaltungen 2016 zu informieren Jugend Hackt ist ein Hackathon f\u00fcr Jugendliche zwischen 12 und 18 Jahren, welcher seit 2013 von der Open Knowledge Foundation veranstaltet wird.",
+    "title": "Jugend Hackt",
     "track": {
       "order": 4,
       "name": "Kids Camp",
@@ -468,13 +468,13 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Junge T\u00fcftler",
+        "organisation": "Code Week Award",
         "id": 21,
-        "name": "Julia Kleeberger"
+        "name": "Code Week Award"
       }
     ],
-    "description": "How can fabrics conduct electricity and is it possible to build electric circuits out of paper? In our 3 hour workshop children aged 6 and older will have the possibility to tinker and explore the impact of electricity in a playful way. They can craft figures made out of paper or felt and enrich them with electric functions. With our workshop we wanna share the fascination of technology with kids and want to encourage them to hack and tinker around with everyday objects. ",
-    "title": "Wir Bauen Tolle Sachen und T\u00fcfteln mit Elektronik, Papier, Knete und Stoff",
+    "description": "Matthias und Nora vom Code Week Team stellen den Code Week Award vor und zeigen einen Live-Hack. Wir programmieren ein Computerspiel in nur 15 Minuten und spielen mit euch. Wer gewinnt, bekommt von uns einen \u00dcberraschungs-Preis.  Unter dem Motto \u201cJede Woche ist Code Week\u201d f\u00f6rdert der Code Week Award spielerische und kreative Workshop-Formate und digitale Kompetenzen bei Kindern und Jugendlichen in ganz Deutschland. Der Award wurde ankn\u00fcpfend an den Erfolg der EU Code Week im Oktober 2014 erstmalig von der Technologiestiftung Berlin und dem Design Research Lab der Universit\u00e4t der K\u00fcnste Berlin ausgeschrieben und durch die Unterst\u00fctzung von Samsung ins Leben gerufen. 2016 findet bereits die zweite Ausgabe des Awards statt, der in den vergangenen beiden Jahren bereits hunderte Kindern und Jugendlichen einen kreativen Umgang mit digitalen Technologien erm\u00f6glicht hat. ",
+    "title": "Code Week Award Live-Hack",
     "track": {
       "order": 4,
       "name": "Kids Camp",
@@ -484,9 +484,9 @@
     "session_id": "KC-4",
     "slides": null,
     "video": null,
-    "location": "Ebene 1, Raum 2 und Raum 3",
-    "sign_up": "http://www.meetup.com/OpenXLab/events/230160858/",
-    "type": "Kids Workshops",
+    "location": "Erdgeschoss, Saal",
+    "sign_up": null,
+    "type": "Ausstellung/Vorstellung/Exhibition",
     "end_time": "2016-05-05T08:00:00+00:00"
   },
   {
@@ -979,7 +979,7 @@
     "speakers": [
       {
         "organisation": "Jugend Hackt",
-        "id": 19,
+        "id": 20,
         "name": "Jakob Schade"
       }
     ],
@@ -1009,7 +1009,7 @@
       },
       {
         "organisation": "Junge T\u00fcftler",
-        "id": 21,
+        "id": 19,
         "name": "Julia Kleeberger"
       }
     ],
@@ -1184,7 +1184,7 @@
     "speakers": [
       {
         "organisation": "Code Week Award",
-        "id": 20,
+        "id": 21,
         "name": "Code Week Award"
       }
     ],
