@@ -1107,12 +1107,14 @@
       "name": "OTS 2",
       "id": 6
     },
+    "start_time": "2016-05-05T12:00:00+00:00",
     "session_id": "OT2-7",
     "slides": null,
     "video": null,
     "location": "Ebene 2, Loft",
     "sign_up": null,
-    "type": "Vortrag/Talk"
+    "type": "Vortrag/Talk",
+    "end_time": "2016-05-05T12:30:00+00:00"
   },
   {
     "py/object": "models.Session",
