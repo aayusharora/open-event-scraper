@@ -791,7 +791,7 @@
       }
     ],
     "description": "Linux container technologies are an effective way to isolate processes while saving system resources. This translates directly to lower hosting costs as opposed to running full VMs.  rkt is a modular and secure container runtime for Linux systems. In this talk we'll first give a general overview of the project and then demonstrate how to use it.  The overview will include why it exists, what it is, how it works and what makes it unique. The demonstration will show how to build an Application Container Image (ACI), share the ACI, run ACIs and Docker images and use various utility functions rkt provides.",
-    "title": "The rkt container runtime; explaination and demonstration",
+    "title": "The rkt container runtime; explanation and demonstration",
     "track": {
       "order": 5,
       "name": "OTS 1",
