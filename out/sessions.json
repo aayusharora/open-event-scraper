@@ -670,9 +670,15 @@
   },
   {
     "py/object": "models.Session",
-    "speakers": [],
-    "description": "",
-    "title": "Michael Christen",
+    "speakers": [
+      {
+        "organisation": "",
+        "id": 4,
+        "name": "Michael Christen"
+      }
+    ],
+    "description": "Hauptentwickler Michael Christen zeigt uns wie wir in wenigen Schritten YaCy auf dem PC oder Handy installieren. YaCy ist eine Suchmaschine bei dem die Nutzer selbst zum Betreiber werden. Die freie Suchmaschinensoftware YaCy l\u00e4uft nicht auf einem Server im Internet, sondern auf dem eigenen Rechner und kann sich mit anderen Nutzern im Internet zusammenschalten, um die Reichweite des Suchindexes zu vergr\u00f6ssern.",
+    "title": "loklak Big Data Engine",
     "track": {
       "order": 5,
       "name": "OTS 1",
