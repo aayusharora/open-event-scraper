@@ -299,7 +299,7 @@
     "session_id": "MS-12",
     "slides": null,
     "video": null,
-    "location": "Ebene 1, Galerie / Floor 1",
+    "location": "Erdgeschoss, Saal / Ground Floor",
     "sign_up": null,
     "type": "Infotisch / Showcase Table",
     "end_time": "2016-05-05T08:00:00+00:00"
@@ -308,8 +308,33 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "OpenTech Designer",
+        "organisation": "Neurofox, Brainduino",
         "id": 14,
+        "name": "Konrad Willi D\u00f6ring"
+      }
+    ],
+    "description": "In the recent years, brain-computer interfaces are becoming increasingly popular for the use at home. However, current consumer devices are still subject to quality issues, and while most of the time the software is hackable, the hardware is only in a very few cases. In this talk, a brief introduction into brain-computer interfaces is given, as well as a presentation of a novel neuroheadset, that is low-cost, provides high quality and is completely open-source.",
+    "title": "Brain-Computer Interfaces",
+    "track": {
+      "order": 2,
+      "name": "Maker Space",
+      "id": 2
+    },
+    "start_time": "2016-05-05T07:30:00+00:00",
+    "session_id": "MS-13",
+    "slides": "http://neurofox.com/files/makerfaire_berlin_15.pdf",
+    "video": null,
+    "location": "Erdgeschoss, Saal / Ground Floor",
+    "sign_up": null,
+    "type": "",
+    "end_time": "2016-05-05T08:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "OpenTech Designer",
+        "id": 15,
         "name": "Jan Dittrich"
       }
     ],
@@ -334,22 +359,22 @@
     "speakers": [
       {
         "organisation": "Metaversa e.V.",
-        "id": 15,
+        "id": 16,
         "name": "Birgit Marzinka"
       },
       {
         "organisation": "Metaversa e.V.",
-        "id": 16,
+        "id": 17,
         "name": "Daniel Abma"
       },
       {
         "organisation": "Metaversa e.V.",
-        "id": 17,
+        "id": 18,
         "name": "Jenny Roberts"
       },
       {
         "organisation": "Metaversa e.V.",
-        "id": 18,
+        "id": 19,
         "name": "Kirsten Mohri"
       }
     ],
@@ -374,12 +399,12 @@
     "speakers": [
       {
         "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community",
-        "id": 19,
+        "id": 20,
         "name": "Raimo, Radczewski"
       },
       {
         "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community",
-        "id": 20,
+        "id": 21,
         "name": "Markus Decke"
       }
     ],
@@ -404,7 +429,7 @@
     "speakers": [
       {
         "organisation": "ownCloud",
-        "id": 21,
+        "id": 22,
         "name": "Jos Poortvliet"
       }
     ],
@@ -429,7 +454,7 @@
     "speakers": [
       {
         "organisation": "Piradio - Sender Berlin",
-        "id": 22,
+        "id": 23,
         "name": "Jenz Steiner"
       }
     ],
@@ -454,7 +479,7 @@
     "speakers": [
       {
         "organisation": "Altran",
-        "id": 23,
+        "id": 24,
         "name": "Toon PETERS"
       }
     ],
@@ -479,12 +504,12 @@
     "speakers": [
       {
         "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community",
-        "id": 19,
+        "id": 20,
         "name": "Raimo, Radczewski"
       },
       {
         "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community",
-        "id": 20,
+        "id": 21,
         "name": "Markus Decke"
       }
     ],
@@ -509,7 +534,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 24,
+        "id": 25,
         "name": "OTS OpenTechSummit"
       }
     ],
@@ -534,7 +559,7 @@
     "speakers": [
       {
         "organisation": "Intelligent Systems / Altran",
-        "id": 25,
+        "id": 26,
         "name": "Toon Peters"
       }
     ],
@@ -584,7 +609,7 @@
     "speakers": [
       {
         "organisation": "Wikimedia Deutschland e.V.",
-        "id": 26,
+        "id": 27,
         "name": "Marius Hoch"
       }
     ],
@@ -609,7 +634,7 @@
     "speakers": [
       {
         "organisation": "FreeGeo API",
-        "id": 27,
+        "id": 28,
         "name": "Zac Brown"
       }
     ],
@@ -634,7 +659,7 @@
     "speakers": [
       {
         "organisation": "Code for Berlin",
-        "id": 28,
+        "id": 29,
         "name": "Thomas Tursics"
       }
     ],
@@ -659,7 +684,7 @@
     "speakers": [
       {
         "organisation": "IBM",
-        "id": 29,
+        "id": 30,
         "name": "Alexander Loibl"
       }
     ],
@@ -684,7 +709,7 @@
     "speakers": [
       {
         "organisation": "OpenTechSummit",
-        "id": 30,
+        "id": 31,
         "name": "Lightning Talkers"
       }
     ],
@@ -709,7 +734,7 @@
     "speakers": [
       {
         "organisation": "Hackerspace.sg",
-        "id": 31,
+        "id": 32,
         "name": "Justin Lee"
       }
     ],
@@ -759,7 +784,7 @@
     "speakers": [
       {
         "organisation": "Thoughtworks",
-        "id": 32,
+        "id": 33,
         "name": "Erik D\u00f6rnenburg"
       }
     ],
@@ -784,7 +809,7 @@
     "speakers": [
       {
         "organisation": "OpenKnowledge",
-        "id": 33,
+        "id": 34,
         "name": "Rufus Pollock"
       }
     ],
@@ -809,7 +834,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 34,
+        "id": 35,
         "name": "Lennart Poettering"
       }
     ],
@@ -834,7 +859,7 @@
     "speakers": [
       {
         "organisation": "Kinvolk GmbH",
-        "id": 35,
+        "id": 36,
         "name": "Chris K\u00fchl"
       }
     ],
@@ -859,12 +884,12 @@
     "speakers": [
       {
         "organisation": "Beuth Hochschule f\u00fcr Technik Berlin",
-        "id": 36,
+        "id": 37,
         "name": "Ruediger Weis"
       },
       {
         "organisation": "Beuth Hochschule f\u00fcr Technik Berlin",
-        "id": 37,
+        "id": 38,
         "name": "Bruno Kirschner"
       }
     ],
@@ -889,7 +914,7 @@
     "speakers": [
       {
         "organisation": "Free Software Foundation Europe e.V.",
-        "id": 38,
+        "id": 39,
         "name": "Matthias Kirschner"
       }
     ],
@@ -914,7 +939,7 @@
     "speakers": [
       {
         "organisation": "cusy GmbH",
-        "id": 39,
+        "id": 40,
         "name": "Veit Schiele"
       }
     ],
@@ -939,7 +964,7 @@
     "speakers": [
       {
         "organisation": "Thunderbird",
-        "id": 40,
+        "id": 41,
         "name": "J\u00f6rg Knobloch"
       }
     ],
@@ -964,7 +989,7 @@
     "speakers": [
       {
         "organisation": "Bioflux",
-        "id": 41,
+        "id": 42,
         "name": "R\u00fcdiger Trojok"
       }
     ],
@@ -989,7 +1014,7 @@
     "speakers": [
       {
         "organisation": "Bioflux",
-        "id": 42,
+        "id": 43,
         "name": "Mirela Alistar"
       }
     ],
@@ -1012,7 +1037,7 @@
     "speakers": [
       {
         "organisation": "OTS",
-        "id": 43,
+        "id": 44,
         "name": "Mario Behling"
       }
     ],
@@ -1037,7 +1062,7 @@
     "speakers": [
       {
         "organisation": "Jugend Hackt",
-        "id": 44,
+        "id": 45,
         "name": "Jakob Schade"
       }
     ],
@@ -1062,12 +1087,12 @@
     "speakers": [
       {
         "organisation": "Junge T\u00fcftler",
-        "id": 45,
+        "id": 46,
         "name": "Franziska Schmid"
       },
       {
         "organisation": "Junge T\u00fcftler",
-        "id": 46,
+        "id": 47,
         "name": "Julia Kleeberger"
       }
     ],
@@ -1092,7 +1117,7 @@
     "speakers": [
       {
         "organisation": "Wikimedia Deutschland",
-        "id": 47,
+        "id": 48,
         "name": "Barbara Fischer"
       }
     ],
@@ -1117,7 +1142,7 @@
     "speakers": [
       {
         "organisation": "initOS GmbH / Otto-von-Guericke University Magdeburg",
-        "id": 48,
+        "id": 49,
         "name": "Frederik Kramer"
       }
     ],
@@ -1167,7 +1192,7 @@
     "speakers": [
       {
         "organisation": "Mozilla",
-        "id": 49,
+        "id": 50,
         "name": "Elio Qoshi"
       }
     ],
@@ -1192,7 +1217,7 @@
     "speakers": [
       {
         "organisation": "Open Source Circular Economy Days",
-        "id": 50,
+        "id": 51,
         "name": "Lars Zimmermann"
       }
     ],
@@ -1217,7 +1242,7 @@
     "speakers": [
       {
         "organisation": "Community Managerin",
-        "id": 51,
+        "id": 52,
         "name": "Felicitas Blanck"
       }
     ],
@@ -1242,7 +1267,7 @@
     "speakers": [
       {
         "organisation": "Code Week Award",
-        "id": 52,
+        "id": 53,
         "name": "Code Week Award"
       }
     ],
@@ -1267,7 +1292,7 @@
     "speakers": [
       {
         "organisation": "Gregarious Mammal",
-        "id": 53,
+        "id": 54,
         "name": "Chris Ward"
       }
     ],
@@ -1292,7 +1317,7 @@
     "speakers": [
       {
         "organisation": "Endocode AG",
-        "id": 54,
+        "id": 55,
         "name": "Thomas Fricke"
       }
     ],
@@ -1317,7 +1342,7 @@
     "speakers": [
       {
         "organisation": "flashcat-project",
-        "id": 55,
+        "id": 56,
         "name": "Kai Mertens"
       }
     ],
@@ -1342,7 +1367,7 @@
     "speakers": [
       {
         "organisation": "Technische Universit\u00e4t Berlin",
-        "id": 56,
+        "id": 57,
         "name": "J\u00e9r\u00e9my Bonvoisin"
       }
     ],
@@ -1367,7 +1392,7 @@
     "speakers": [
       {
         "organisation": "Mozilla",
-        "id": 57,
+        "id": 58,
         "name": "Rok Garbas"
       }
     ],
@@ -1392,7 +1417,7 @@
     "speakers": [
       {
         "organisation": "Askemos",
-        "id": 58,
+        "id": 59,
         "name": "J\u00f6rg Wittenberger"
       }
     ],
@@ -1417,7 +1442,7 @@
     "speakers": [
       {
         "organisation": "ionary",
-        "id": 59,
+        "id": 60,
         "name": "Denjell Caleb Thompson"
       }
     ],
@@ -1442,7 +1467,7 @@
     "speakers": [
       {
         "organisation": "Open Knowledge Foundation Deutschland",
-        "id": 60,
+        "id": 61,
         "name": "Maximilian Richt"
       }
     ],
@@ -1467,7 +1492,7 @@
     "speakers": [
       {
         "organisation": "youbroketheinternet.org",
-        "id": 61,
+        "id": 62,
         "name": "carlo von lynX"
       }
     ],
@@ -1492,7 +1517,7 @@
     "speakers": [
       {
         "organisation": "FFII.org",
-        "id": 62,
+        "id": 63,
         "name": "Andr\u00e9 Rebentisch"
       }
     ],
@@ -1536,7 +1561,7 @@
     "speakers": [
       {
         "organisation": "Syria on the Move, SocialVisions e.V.",
-        "id": 22,
+        "id": 23,
         "name": "Jenz Steiner"
       }
     ],
@@ -1561,7 +1586,7 @@
     "speakers": [
       {
         "organisation": "Open Source Enthusiasts",
-        "id": 63,
+        "id": 64,
         "name": "Jan / Lisa Dittrich / Conrad"
       }
     ],
@@ -1586,7 +1611,7 @@
     "speakers": [
       {
         "organisation": "Copertura Label",
-        "id": 64,
+        "id": 65,
         "name": "Ivers Yves Pierre"
       }
     ],
@@ -1636,7 +1661,7 @@
     "speakers": [
       {
         "organisation": "Heart of Code",
-        "id": 65,
+        "id": 66,
         "name": "Conny Kawohl"
       }
     ],
@@ -1661,7 +1686,7 @@
     "speakers": [
       {
         "organisation": "Flowedoo",
-        "id": 66,
+        "id": 67,
         "name": "Stefan Koehler"
       }
     ],
@@ -1686,7 +1711,7 @@
     "speakers": [
       {
         "organisation": "FOSSASIA",
-        "id": 67,
+        "id": 68,
         "name": "Hong Phuc Dang"
       }
     ],
@@ -1710,8 +1735,33 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "Neurofox, Brainduino",
+        "id": 14,
+        "name": "Konrad Willi D\u00f6ring"
+      }
+    ],
+    "description": "In the recent years, brain-computer interfaces are becoming increasingly popular for the use at home. However, current consumer devices are still subject to quality issues, and while most of the time the software is hackable, the hardware is only in a very few cases. In this talk, a brief introduction into brain-computer interfaces is given, as well as a presentation of a novel neuroheadset, that is low-cost, provides high quality and is completely open-source.",
+    "title": "Brain-Computer Interfaces",
+    "track": {
+      "order": 6,
+      "name": "LightningTalks",
+      "id": 6
+    },
+    "start_time": "2016-05-05T12:12:00+00:00",
+    "session_id": "LT-8",
+    "slides": "http://neurofox.com/files/makerfaire_berlin_15.pdf",
+    "video": null,
+    "location": "Ebene 1, Galerie / Floor 1",
+    "sign_up": null,
+    "type": "Lightning Talk",
+    "end_time": "2016-05-05T12:42:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
         "organisation": "Coder Dojo Potsdam",
-        "id": 68,
+        "id": 69,
         "name": "Nicco Kunzmann"
       }
     ],
@@ -1736,12 +1786,12 @@
     "speakers": [
       {
         "organisation": "Junge T\u00fcftler",
-        "id": 46,
+        "id": 47,
         "name": "Julia Kleeberger"
       },
       {
         "organisation": "Junge T\u00fcftler",
-        "id": 45,
+        "id": 46,
         "name": "Franziska Schmid"
       }
     ],
@@ -1766,7 +1816,7 @@
     "speakers": [
       {
         "organisation": "Jugend Hackt",
-        "id": 44,
+        "id": 45,
         "name": "Jakob Schade"
       }
     ],
@@ -1791,7 +1841,7 @@
     "speakers": [
       {
         "organisation": "Code Week Award",
-        "id": 52,
+        "id": 53,
         "name": "Code Week Award"
       }
     ],
@@ -1816,7 +1866,7 @@
     "speakers": [
       {
         "organisation": "LPI e.V.",
-        "id": 69,
+        "id": 70,
         "name": "Harald Maa\u00dfen"
       }
     ],
@@ -1841,7 +1891,7 @@
     "speakers": [
       {
         "organisation": "LPI e.V.",
-        "id": 69,
+        "id": 70,
         "name": "Harald Maa\u00dfen"
       }
     ],
