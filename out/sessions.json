@@ -1585,12 +1585,12 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Open Source Enthusiasts",
+        "organisation": "User Researcher",
         "id": 15,
         "name": "Jan Dittrich"
       },
       {
-        "organisation": "Open Source Enthusiasts",
+        "organisation": "Anthropologist",
         "id": 64,
         "name": "Lisa Conrad"
       }
