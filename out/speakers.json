@@ -302,12 +302,12 @@
     "py/object": "models.Speaker",
     "web": "http://www.picotcp.com",
     "github": "https://github.com/tass-belgium/picotcp",
-    "name": "Toon PETERS",
+    "name": "Toon Peters",
     "country": "Belgium",
     "twitter": "https://twitter.com/@picotcp",
     "linkedin": "",
     "id": 24,
-    "photo": "speakers/Toon_PETERS.jpg",
+    "photo": "speakers/Toon_Peters.jpg",
     "organisation": "Altran",
     "biography": "Toon is not your everyday engineer. With his passion for technology and enthusiasm for interesting projects, he can truly bring a project to the next level. All while having loads of fun.  Skill-wise, Toon has experience in Embedded software and Electronics, but also marketing, offer development and even recruiting. In short: An all-rounder"
   },
@@ -315,7 +315,7 @@
     "py/object": "models.Speaker",
     "web": "",
     "github": "",
-    "name": "OTS OpenTechSummit",
+    "name": "OpenTechSummit 2016",
     "country": "",
     "twitter": "",
     "linkedin": "",
@@ -326,26 +326,13 @@
   },
   {
     "py/object": "models.Speaker",
-    "web": "http://www.picotcp.com/",
-    "github": "https://github.com/tass-belgium/picotcp",
-    "name": "Toon Peters",
-    "country": "Belgium",
-    "twitter": "https://twitter.com/@picotcp",
-    "linkedin": "https://be.linkedin.com/in/toonpeters",
-    "id": 26,
-    "photo": "speakers/Toon_Peters.jpg",
-    "organisation": "Intelligent Systems / Altran",
-    "biography": "Toon is not your everyday engineer. With his passion for technology and enthusiasm for interesting projects, he can truly bring a project to the next level. All while having loads of fun.  Skill-wise, Toon has experience in Embedded software and Electronics, but also marketing, offer development and even recruiting. In short: An all-rounder"
-  },
-  {
-    "py/object": "models.Speaker",
     "web": "https://www.wikidata.org/",
     "github": "https://github.com/mariushoch",
     "name": "Marius Hoch",
     "country": "Deutschland",
     "twitter": "https://twitter.com/wikidata",
     "linkedin": "",
-    "id": 27,
+    "id": 26,
     "photo": "speakers/Marius_Hoch.jpg",
     "organisation": "Wikimedia Deutschland e.V.",
     "biography": "Marius Hoch is software developer at Wikimedia Deutschland e.V. and a contributor to the Wikidata project since 2012. "
@@ -358,7 +345,7 @@
     "country": "USA",
     "twitter": "https://twitter.com/@YupItsZac",
     "linkedin": "http://linkedin.com/in/yupitszac",
-    "id": 28,
+    "id": 27,
     "photo": "speakers/Zac_Brown.jpg",
     "organisation": "FreeGeo API",
     "biography": "Zac has learned his first two development languages at age 9 when he became curious about computers. Now, at age 21, he builds scalable web based applications for a company in Berlin. Zac uses his knowledge, experience, and desire to learn as a tool to excite engineers about the crucial role open technologies play in shaping the future of the computng industry. "
@@ -371,7 +358,7 @@
     "country": "Germany",
     "twitter": "https://twitter.com/@tursics",
     "linkedin": "http://www.linkedin.com/in/thomastursics",
-    "id": 29,
+    "id": 28,
     "photo": "speakers/Thomas_Tursics.jpg",
     "organisation": "Code for Berlin",
     "biography": "Als gelernter Softwareentwickler arbeite ich seit Jahren an kleinen und gro\u00dfen Projekten mit. In meiner Freizeit nutze ich dieses Wissen, um aus offenen Daten vielf\u00e4ltige Anwendungen zu erstellen. Ich treibe mich des \u00f6fteren auf Hackathons rum und erz\u00e4hle jedem der mir zuh\u00f6rt, wie toll dieses Open Data ist."
@@ -384,7 +371,7 @@
     "country": "",
     "twitter": "",
     "linkedin": "",
-    "id": 30,
+    "id": 29,
     "photo": "speakers/Alexander_Loibl.jpg",
     "organisation": "IBM",
     "biography": ""
@@ -397,7 +384,7 @@
     "country": "",
     "twitter": "",
     "linkedin": "",
-    "id": 31,
+    "id": 30,
     "photo": "",
     "organisation": "OpenTechSummit",
     "biography": ""
@@ -410,7 +397,7 @@
     "country": "",
     "twitter": "",
     "linkedin": "",
-    "id": 32,
+    "id": 31,
     "photo": "speakers/Justin_Lee.jpg",
     "organisation": "Hackerspace.sg",
     "biography": ""
@@ -423,7 +410,7 @@
     "country": "Germany",
     "twitter": "https://twitter.com/opntec",
     "linkedin": "",
-    "id": 33,
+    "id": 32,
     "photo": "speakers/Erik_D\u00f6rnenburg.jpg",
     "organisation": "Thoughtworks",
     "biography": "OpenTech Panel"
@@ -436,7 +423,7 @@
     "country": "UK",
     "twitter": "",
     "linkedin": "",
-    "id": 34,
+    "id": 33,
     "photo": "speakers/Rufus _Pollock.jpg",
     "organisation": "OpenKnowledge",
     "biography": "Leading academic of the European open data movement"
@@ -449,7 +436,7 @@
     "country": "Germany",
     "twitter": "",
     "linkedin": "",
-    "id": 35,
+    "id": 34,
     "photo": "speakers/Lennart_Poettering.jpg",
     "organisation": "Red Hat",
     "biography": "Lennart Poettering is employed by Red Hat to work on systemd. He lives in Berlin."
@@ -462,7 +449,7 @@
     "country": "Germany",
     "twitter": "https://twitter.com/@blixtra",
     "linkedin": "https://www.linkedin.com/in/christopherk1",
-    "id": 36,
+    "id": 35,
     "photo": "speakers/Chris_K\u00fchl.jpg",
     "organisation": "Kinvolk GmbH",
     "biography": "After getting hooked on free and open source software as a hobby through the GNOME project, Chris was able to turn this passion into a career and has since co-founded Kinvolk in Berlin, which focuses exclusively on open source software engineering for foundational Linux technologies: the Linux kernel, systemd, rkt, etc.  Chris is an active member of the Berlin open source community. He helps organize the Berlin meetups for CoreOS and systemd, the Berlin Open Source Eats-n-Drinks Meetup and works with the systemd team to organize systemd.conf."
@@ -475,7 +462,7 @@
     "country": "Berlin",
     "twitter": "",
     "linkedin": "",
-    "id": 37,
+    "id": 36,
     "photo": "speakers/Ruediger_Weis.jpg",
     "organisation": "Beuth Hochschule f\u00fcr Technik Berlin",
     "biography": "Ruediger Weis has studied math at the University of Mannheim. After his PhD in computer science about cryptography for distributed systems he founded cryptolabs Amsterdam. From 2002 till 2005 he worked as Post-Doc researcher with Andy Tanenbaum at the Vrije Universiteit Amsterdam. In 2005 he has accepted a professorship at the Technische Fachhochschule Berlin. Ruediger Weis is a longtime member of the Chaos Computer club and founding member of the Digitale Gesellschaft e.V.. Since 2016 he is also a member of the Minix 3 steering team."
@@ -488,7 +475,7 @@
     "country": "",
     "twitter": "https://twitter.com/ondorio",
     "linkedin": "https://www.linkedin.com/in/bruno-kirschner-4b8421b4",
-    "id": 38,
+    "id": 37,
     "photo": "speakers/Bruno_Kirschner.jpg",
     "organisation": "Beuth Hochschule f\u00fcr Technik Berlin",
     "biography": "Bruno Kirchner is a Master student at the Beuth-Hochschule fuer Technik in Berlin."
@@ -501,7 +488,7 @@
     "country": "Germany",
     "twitter": "https://twitter.com/kirschner",
     "linkedin": "https://de.linkedin.com/in/matthiaskirschner",
-    "id": 39,
+    "id": 38,
     "photo": "speakers/Matthias_Kirschner.jpg",
     "organisation": "Free Software Foundation Europe e.V.",
     "biography": "Matthias Kirschner ist Pr\u00e4sident der FSFE. 1999 begann er GNU/Linux zu nutzen und realisierte, dass Software tief in allen Bereichen unseres Lebens verwurzelt ist. Er ist davon \u00fcberzeugt, dass diese Technik unsere Gesellschaft nicht einschr\u00e4nken, sondern sie bef\u00e4higen muss. Seit 2004, w\u00e4hrend seines Studiums der Politik- und Verwaltungswissenschaft, engagiert er sich bei der FSFE. Er unterst\u00fctzt Organisationen, Unternehmen und die \u00d6ffentliche Verwaltung dabei, von Freier Software zu profitieren und er erkl\u00e4rt, wie die grundlegenden Rechte von Freier Software -- das Recht sie zu verwenden, zu verstehen, zu verbreiten und zu verbessern -- die Meinungsfreiheit, Pressefreiheit oder Privatsph\u00e4re f\u00f6rdern.  Matthias Kirschner is President of FSFE. In 1999 he started using GNU/Linux and realised that software is deeply involved in all aspects of our lives. Matthias is convinced that this technology has to empower society not restrict it. While studying Political and Administrative Science he joined FSFE in 2004. He helps other organisations, companies and governments to understand how they can benefit from Free Software -- which gives everybody the rights to use, understand, adapt and share software -- and how those rights help to support freedom of speech, freedom of press or privacy."
@@ -514,7 +501,7 @@
     "country": "Deutschland",
     "twitter": "https://twitter.com/VeitSchiele",
     "linkedin": "https://www.linkedin.com/in/veit-schiele-84759570",
-    "id": 40,
+    "id": 39,
     "photo": "speakers/Veit_Schiele.jpg",
     "organisation": "cusy GmbH",
     "biography": "Gr\u00fcnder und Gesch\u00e4ftsf\u00fchrer der cusy GmbH. Community manager des Python Software Verband (PySV) und Co-Organisator der Python Users Berlin (PUB)."
@@ -527,7 +514,7 @@
     "country": "Germany",
     "twitter": "",
     "linkedin": "",
-    "id": 41,
+    "id": 40,
     "photo": "speakers/J\u00f6rg_Knobloch.jpg",
     "organisation": "Thunderbird",
     "biography": "Thunderbird-Entwickler und Council-Member"
@@ -540,7 +527,7 @@
     "country": "Deutschland",
     "twitter": "",
     "linkedin": "",
-    "id": 42,
+    "id": 41,
     "photo": "speakers/R\u00fcdiger_Trojok.jpg",
     "organisation": "Bioflux",
     "biography": "R\u00fcdiger Trojok Diplom Biologist, studied systems and synthetic biology at the Universities of Potsdam, Copenhagen (DTU) and Freiburg. During his thesis he invented a novel contraceptive method based on genetically altered lactic acid bacteria. He worked as a freelance consultant for the office for Technology Assessment by the German Parliament on biohacking and synthetic biology. Since 2014 he works for the Institute for Technology Assessment and Systems Analysis at the Karlsruhe Institute for Technology on the EU program Synenergene. He is currently establishing a citizen science biolab in Berlin, and is supporting open-source biotechnology projects related to public life, politics and the arts."
@@ -553,7 +540,7 @@
     "country": "Deutschland",
     "twitter": "",
     "linkedin": "",
-    "id": 43,
+    "id": 42,
     "photo": "speakers/Mirela_Alistar.jpg",
     "organisation": "Bioflux",
     "biography": "Mirela Alistar has received her PhD in computer engineering from the Technical University of Denmark in 2014. Since 2010, she has been working on developing Computer-Aided Design tools for digital microfluidic biochips. Her main research interests are in the area of system-level design of embedded systems, with a special focus on digital microfluidics. She is supporting open access research and she has organized citizen-science events, where she dissiminates to the public with the aim of involving them into creating more knowledge."
@@ -566,7 +553,7 @@
     "country": "",
     "twitter": "",
     "linkedin": "",
-    "id": 44,
+    "id": 43,
     "photo": "",
     "organisation": "OTS",
     "biography": ""
@@ -579,7 +566,7 @@
     "country": "Deutschland",
     "twitter": "",
     "linkedin": "",
-    "id": 45,
+    "id": 44,
     "photo": "speakers/Jakob_Schade.jpg",
     "organisation": "Jugend Hackt",
     "biography": "Der Vortrag soll von Teilnehmer_innen, Mentor_innen und Organisator_innen gemeinsam gestaltet werden."
@@ -592,7 +579,7 @@
     "country": "Germany",
     "twitter": "https://twitter.com/@Franzi_Schmid",
     "linkedin": "",
-    "id": 46,
+    "id": 45,
     "photo": "speakers/Franziska_Schmid.jpg",
     "organisation": "Junge T\u00fcftler",
     "biography": "Franziska is Co-Founder of Junge T\u00fcftler. Before she started the Junge T\u00fcftler initiative in 2015 she worked as a Designer for the Volkswagen Innovation Team and IXDS. Junge T\u00fcftler wants to get kids excited about tech and coding. Within the last year the Junge T\u00fcftler team developed various formats to reach kids and multiplicators within Berlin and Germany. "
@@ -605,7 +592,7 @@
     "country": "Germany",
     "twitter": "https://twitter.com/@Ju_lea",
     "linkedin": "    https://de.linkedin.com/in/julea",
-    "id": 47,
+    "id": 46,
     "photo": "speakers/Julia_Kleeberger.jpg",
     "organisation": "Junge T\u00fcftler",
     "biography": "Julia is a passionate tinkerer and believes in the wisdom of the hands and the knowledge you gain when making things on your own. She shares her knowledge and passion about tinkering with technology in Hands-On workshops and also works as a lecturer for DIY seminars, e.g. for the Art & Design University, Braunschweig. Getting daily inspired by her own children it is an inner objective for her to offer kids a playful access to technology and provide them with the right tools to creatively tinker around - and by doing so to develop the required skill set to solve the problems of tomorrow. That\u2019s why she founded \u201cJunge T\u00fcftler\u201d. Besides, Julia worked many years as a design strategist for the automobile industry with a focus on human centred design and business innovation and holds M.A and Ph.D. degrees in Media Interaction & Media Sciences. While she loves digital technology she is always driven by combining its potential with human values to create a worth living world."
@@ -618,7 +605,7 @@
     "country": "Sweden",
     "twitter": "https://twitter.com/@fischerdata",
     "linkedin": "",
-    "id": 48,
+    "id": 47,
     "photo": "speakers/Barbara_Fischer.jpg",
     "organisation": "Wikimedia Deutschland",
     "biography": "The art manager Barbara Fischer is operating as curator for cultural partnerships at Wikimedia Deutschland. Her job is to enhance GLAM institutions to join the Open Culture movement as in Wikimedia projects."
@@ -631,7 +618,7 @@
     "country": "Germany",
     "twitter": "https://twitter.com/OSevangelist",
     "linkedin": "https://www.linkedin.com/in/frederik-kramer-68188087",
-    "id": 49,
+    "id": 48,
     "photo": "speakers/Frederik_Kramer.jpg",
     "organisation": "initOS GmbH / Otto-von-Guericke University Magdeburg",
     "biography": "Frederik Kramer studierte Wirtschaftsinformatik am Institut f\u00fcr Technische und Betriebliche Informationssysteme der Otto-von-Guericke-Universit\u00e4t Magdeburg. Aktuell arbeitet er als assoziierter Wissenschaftler am Magdeburg Research and Competence Cluster (MRCC) an seiner Promotion zur strategischen Gestaltung von Systemlandschaften in KMU. Sein Forschungsinteresse liegt dabei insbesondere bei der strategischen Nutzung von Open Source Software zur Gewinnung nachhaltiger Wettbewerbsvorteile. Als Gr\u00fcnder und Gesch\u00e4ftsf\u00fchrer der initOS GmbH besch\u00e4ftigt er sich zusammen mit seinen Kollegen seit vielen Jahren mit der strategischen Planung, Einf\u00fchrung, Wartung und Nutzung auf Open Source Software basierender komplexer betrieblicher Anwendungssysteme."
@@ -644,7 +631,7 @@
     "country": "Albania",
     "twitter": "https://twitter.com/elioqoshi",
     "linkedin": "https://al.linkedin.com/in/elioqoshi",
-    "id": 50,
+    "id": 49,
     "photo": "speakers/Elio_Qoshi.jpg",
     "organisation": "Mozilla",
     "biography": "Elio is an open source designer from Albania currently involved as a Creative Lead at Mozilla Community Design, Glucosio and GalliumOS. He works for SitePoint as a Community Manager and Author, covering the latest open source technologies and topics. When he is not pursuing his studies at the University of Arts in Tirana, he contributes with efforts as a board member at Open Labs Hackerspace and organizing OSCAL (Open Source Conference Albania)."
@@ -657,7 +644,7 @@
     "country": "Germany",
     "twitter": "https://twitter.com/@bricktick",
     "linkedin": "",
-    "id": 51,
+    "id": 50,
     "photo": "speakers/Lars_Zimmermann.jpg",
     "organisation": "Open Source Circular Economy Days",
     "biography": "Lars Zimmermann (larszimmermann.de) is an artist and economist. He explores Open Source Hardware business models and Open Source for Circular Economy. He is involved in a variety of projects and organizations like the Open It Agency (openitagency.eu), Open Source Circular Economy Days (oscedays.org), The City Is Open Source (thecityisopensource.de) and Mifactori (mifactori.bloglz.de)."
@@ -670,7 +657,7 @@
     "country": "Germany",
     "twitter": "https://twitter.com/fraufeli/",
     "linkedin": "https://de.linkedin.com/in/felicitasblanck",
-    "id": 52,
+    "id": 51,
     "photo": "speakers/Felicitas_Blanck.jpg",
     "organisation": "Community Managerin",
     "biography": "Community Managerin und Zensuruschi. Urspr\u00fcnglich Kunsthistorikerin. Ich besch\u00e4ftige mich mit der Kommentardebatte im Internet und der Frage, wie man Nutzer am besten zu Wort kommen lassen kann. Sehr interessiert an Verkn\u00fcpfungen von Kultur/Journalismus und Internet."
@@ -683,7 +670,7 @@
     "country": "Berlin",
     "twitter": "https://twitter.com/@codeweekaward",
     "linkedin": "",
-    "id": 53,
+    "id": 52,
     "photo": "speakers/Code Week_Award.jpg",
     "organisation": "Code Week Award",
     "biography": "Wir sind das Team des Code Week Awards. Wir unterst\u00fctzen und vernetzen Projekte, sind unterwegs auf kreativen Tech Festivals, f\u00fchren Workshops durch, geben euch Tipps bei Fragen zu OER-Konzepten oder helfen bei der Suche einer Coding-Initiative in eurer N\u00e4he."
@@ -696,7 +683,7 @@
     "country": "Germany",
     "twitter": "https://twitter.com/ChrisChinch",
     "linkedin": "http://www.linkedin.com/in/chrischinchilla",
-    "id": 54,
+    "id": 53,
     "photo": "speakers/Chris_Ward.jpg",
     "organisation": "Gregarious Mammal",
     "biography": "Developer Relations, Technical Writing and Editing, (Board) Game Design, Education, Explanation and always more to come."
@@ -709,7 +696,7 @@
     "country": "Germany",
     "twitter": "",
     "linkedin": "https://www.linkedin.com/in/thomas-fricke-9840a21",
-    "id": 55,
+    "id": 54,
     "photo": "speakers/Thomas_Fricke.jpg",
     "organisation": "Endocode AG",
     "biography": "CTO and Partner of Endocode AG  As a Cloud Architect, he has designed clouds and applications shaped to run in clouds for more than a decade.  OpenSource enthusiast for nearly 30 years  "
@@ -722,7 +709,7 @@
     "country": "Germany/ Berlin",
     "twitter": "",
     "linkedin": "",
-    "id": 56,
+    "id": 55,
     "photo": "speakers/Kai_Mertens.jpg",
     "organisation": "flashcat-project",
     "biography": "born in 1970 studying art until 2001 working as sculptor until 2014 participating on 31c3 initiating the flashcat project in 2015   "
@@ -735,7 +722,7 @@
     "country": "Bordeaux, France",
     "twitter": "",
     "linkedin": "",
-    "id": 57,
+    "id": 56,
     "photo": "speakers/J\u00e9r\u00e9my_Bonvoisin.jpg",
     "organisation": "Technische Universit\u00e4t Berlin",
     "biography": "J\u00e9r\u00e9my Bonvoisin performs research in sustainable product development at the department of Industrial Information Technology of the Technische Universit\u00e4t Berlin. He leads the French-German research project \"OPEN!-Methods and tools for community-based product development\" that is dedicated to open source hardware and started in March 2016 for a duration of three years. Along the precedent years of research, he covered research topics such as: remanufacturing, energy efficiency of electric and electronic products, environmental assessment of ICT-based services, energy efficiency of production systems and product modularization. "
@@ -748,7 +735,7 @@
     "country": "Slovenia",
     "twitter": "https://twitter.com/garbas",
     "linkedin": "",
-    "id": 58,
+    "id": 57,
     "photo": "speakers/Rok_Garbas.jpg",
     "organisation": "Mozilla",
     "biography": "Rok Garbas is a web programmer, when not writing Javascript, he usually scripts in Python. He started using Nix and later NixOS (linux distribution built around Nix) 3 years ago. Currently he works at Mozilla as a Release Engineer."
@@ -761,7 +748,7 @@
     "country": "Deutschland",
     "twitter": "",
     "linkedin": "",
-    "id": 59,
+    "id": 58,
     "photo": "speakers/J\u00f6rg_Wittenberger.jpg",
     "organisation": "Askemos",
     "biography": "geboren 1965  Studium der Informatik (Diplom) 1988-93"
@@ -774,7 +761,7 @@
     "country": "Germany",
     "twitter": "http://twitter.com/denjello",
     "linkedin": "",
-    "id": 60,
+    "id": 59,
     "photo": "speakers/Denjell_Caleb Thompson.jpg",
     "organisation": "ionary",
     "biography": "Media Artist at ionary"
@@ -787,7 +774,7 @@
     "country": "Deutschland",
     "twitter": "https://twitter.com/robbi5",
     "linkedin": "",
-    "id": 61,
+    "id": 60,
     "photo": "speakers/Maximilian_Richt.jpg",
     "organisation": "Open Knowledge Foundation Deutschland",
     "biography": "Maximilian Richt ist ehrenamtlich bei der Open Knowledge Foundation Deutschland und besch\u00e4ftigt sich mit der \u00d6ffnung und Durchsuchbarkeit von Daten.  Sonst verbringt er viel Zeit in Z\u00fcgen, die hin und wieder zu Projekten wie kleineAnfragen.de f\u00fchrt."
@@ -800,7 +787,7 @@
     "country": "Rome",
     "twitter": "https://twitter.com/lynXintl",
     "linkedin": "",
-    "id": 62,
+    "id": 61,
     "photo": "speakers/carlo_von lynX.jpg",
     "organisation": "youbroketheinternet.org",
     "biography": "Recently Yanis Varoufakis joined the Icelandic Pirate Party's choir, asking for a new Constitution for the European Union. It is quite obvious, that such a document must be developed in a participatory utilizing the Internet. Yet, the Internet bears many threats and e-democracy platforms are prone to many fallacies. carlo von lynX has been publicly discussing potentials and risks after participating in the debut installation of Liquid Feedback which led to 2011's electoral success of the Berlin Piratenpartei. Later he joined the Italian Pirate Party in the endeavor of designing a leaderless political party, continuously governed by a permanent electronic assembly \u2013 where decisions are taken together. At first it didn't work, but after several years of design re-iterations it now seems like the design is functional. A large-scale digital assembly or parliament is not only possible, it can also be self-governed."
@@ -813,7 +800,7 @@
     "country": "",
     "twitter": "",
     "linkedin": "",
-    "id": 63,
+    "id": 62,
     "photo": "speakers/Andr\u00e9_Rebentisch.jpg",
     "organisation": "FFII.org",
     "biography": ""
@@ -826,7 +813,7 @@
     "country": "Germany",
     "twitter": "",
     "linkedin": "",
-    "id": 64,
+    "id": 63,
     "photo": "",
     "organisation": "Anthropologist",
     "biography": "Lisa is an Anthropologist. She is interested in why people do what they do. "
@@ -839,7 +826,7 @@
     "country": "Haiti-Germany",
     "twitter": "https://www.twitter.com/Iversps",
     "linkedin": "https://de.linkedin.com/in/iversp",
-    "id": 65,
+    "id": 64,
     "photo": "speakers/Ivers Yves_Pierre.jpg",
     "organisation": "Copertura Label",
     "biography": "Ivers, originally from Haiti but resides in Germany for 7 years, Founder and CEO of Copertura Label, a 2 co-branded lines of fashion Tempo Libero for casuals and Sports and Wearable for fashion tech. Actual Regional Business Development Manager in Deliveryhero.com, the largest online food ordering platform worldwide. "
@@ -852,7 +839,7 @@
     "country": "Germany",
     "twitter": "https://twitter.com/ckawohl",
     "linkedin": "",
-    "id": 66,
+    "id": 65,
     "photo": "speakers/Conny_Kawohl.jpg",
     "organisation": "Heart of Code",
     "biography": "I am a Senior UI/UX Designer slowly morphing into a Web Frontend Developer. I write JavaScript (Angular/React) but also Ruby (RoR) and am fascinated by CSS Preprocessors. I <3 Hard Science Fiction, Slow Food, Graphic Novels and Human Languages."
@@ -865,7 +852,7 @@
     "country": "Deutschland",
     "twitter": "",
     "linkedin": "",
-    "id": 67,
+    "id": 66,
     "photo": "speakers/Stefan_Koehler.jpg",
     "organisation": "Flowedoo",
     "biography": "Stefan is a dedicated and experienced IT professional with a passion for, but no limitation to, Free Software."
@@ -878,7 +865,7 @@
     "country": "Vietnam",
     "twitter": "https://twitter.com/hpdang",
     "linkedin": "",
-    "id": 68,
+    "id": 67,
     "photo": "speakers/Hong Phuc_Dang.jpg",
     "organisation": "FOSSASIA",
     "biography": "Hong Phuc, originally from Vietnam, has lived in the US, Singapore and Dubai. She is the founder of FOSSASIA, an initiative in Asia bringing together an inspiring community across borders and ages to form a better future with Open Technologies and ICT. Hong Phuc organizes events like the annual FOSSASIA summit since 2009 and puts together Science Hack days across the region in Vietnam, Dubai and China. URL: http://sciencehack.asia | http://fossasia.org"
@@ -891,7 +878,7 @@
     "country": "Germany",
     "twitter": "https://twitter.com/@DojoPotsdam",
     "linkedin": "",
-    "id": 69,
+    "id": 68,
     "photo": "speakers/Nicco_Kunzmann.jpg",
     "organisation": "Coder Dojo Potsdam",
     "biography": "Hier k\u00f6nnen sich Kinder mit programmieren ud Basteln besch\u00e4ftigen. Mentoren sind da zur Betreuung. Man kann mit verschiedenen Programmiersprachen anfangen.   Bilder: https://github.com/CoderDojoPotsdam/material/tree/master/roboter#roboter https://github.com/niccokunzmann/mearm#mearm "
@@ -904,7 +891,7 @@
     "country": "Germany",
     "twitter": "",
     "linkedin": "",
-    "id": 70,
+    "id": 69,
     "photo": "speakers/Harald_Maa\u00dfen.jpg",
     "organisation": "LPI e.V.",
     "biography": "Harald Maassen ist langjaehriger Aktiver beim Linux Professional Institute."
