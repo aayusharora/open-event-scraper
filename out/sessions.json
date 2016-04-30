@@ -977,7 +977,7 @@
     },
     "start_time": "2016-05-05T17:05:00+00:00",
     "session_id": "OT-18",
-    "slides": null,
+    "slides": "http://www.jorgk.com/misc/tb.htm",
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
@@ -1421,7 +1421,7 @@
         "name": "J\u00f6rg Wittenberger"
       }
     ],
-    "description": "Modellierung von rechtlichen Prozessen.  Anforderungen und L\u00f6sungsans\u00e4tze im Vergleich.",
+    "description": "Der Vortrag beleuchtet die Modellierung rechtlicher Prozesse, die dabei stehenden ethischen und juristischen Anforderungen und vergleicht letztlich bekannte L\u00f6sungsans\u00e4tze. Gestreift werden Fragen wie:  Was sind Vertr\u00e4ge - Texte oder Prozesse? Vertr\u00e4ge \u00fcbertragen Rechte.  Alle Rechte, oder sind manche Rechte unver\u00e4u\u00dferlich?  (Menschenrechte irgendwo?!) Entscheiden mit \"smart contracts\" Maschinen was Recht ist? Smart contracts in der Blockchain?  Was wird aus Privatsph\u00e4re, ~autonomie, Bankgeheimnis etc.? Was ist Askemos?  Das Konzept ist 350 Jahre alt und entstammt der Aufkl\u00e4rung. Keine Authorit\u00e4t \"des Vertrauens\" sage uns was Recht ist! Ein \"modifiziertes git\"; privat, ohne schneller, skalierbar, privat und Ressourcen schonend.",
     "title": "smart contracts [th]at work",
     "track": {
       "order": 5,
