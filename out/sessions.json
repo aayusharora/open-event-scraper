@@ -322,7 +322,7 @@
     },
     "start_time": "2016-05-05T07:30:00+00:00",
     "session_id": "MS-13",
-    "slides": "http://neurofox.com/files/makerfaire_berlin_15.pdf",
+    "slides": null,
     "video": null,
     "location": "Erdgeschoss, Saal / Ground Floor",
     "sign_up": null,
@@ -745,14 +745,14 @@
       "name": "OTS 1",
       "id": 4
     },
-    "start_time": "2016-05-05T12:15:00+00:00",
+    "start_time": "2016-05-05T12:20:00+00:00",
     "session_id": "OT-09",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Vortrag/Talk",
-    "end_time": "2016-05-05T12:45:00+00:00"
+    "end_time": "2016-05-05T12:50:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -1586,11 +1586,16 @@
     "speakers": [
       {
         "organisation": "Open Source Enthusiasts",
+        "id": 15,
+        "name": "Jan Dittrich"
+      },
+      {
+        "organisation": "Open Source Enthusiasts",
         "id": 64,
-        "name": "Jan / Lisa Dittrich / Conrad"
+        "name": "Lisa Conrad"
       }
     ],
-    "description": "Applications, algorithms and devices have an intended use \u2013 which often is ignored: People use Excel as a database, images to send text, Dropbox to share code\u2026 Why don't they use the \u00bbright\u00ab tools?  Instead of pointing out that the users are wrong we want to show why these \u00bbmisuses\u00ab of systems make sense from the users perspective  nd why the people who use workarounds instead of the \u00bbright\u00ab tools are  hackers \u2013 without knowing it.",
+    "description": "Applications, algorithms and devices have an intended use \u2013 which often is ignored: People use Excel as a database, images to send text, Dropbox to share code\u2026 Why don't they use the \u00bbright\u00ab tools?  Instead of pointing out that the users are wrong we want to show why these \u00bbmisuses\u00ab of systems make sense from the users perspective  and why the people who use workarounds instead of the \u00bbright\u00ab tools are  hackers \u2013 without knowing it.",
     "title": "In praise of workarounds",
     "track": {
       "order": 6,
@@ -1749,7 +1754,7 @@
     },
     "start_time": "2016-05-05T12:12:00+00:00",
     "session_id": "LT-8",
-    "slides": "http://neurofox.com/files/makerfaire_berlin_15.pdf",
+    "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,

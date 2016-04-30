@@ -821,15 +821,15 @@
   {
     "py/object": "models.Speaker",
     "web": "http://www.fordes.de",
-    "github": "https://github.com/jdittrich/",
-    "name": "Jan / Lisa Dittrich / Conrad",
+    "github": "",
+    "name": "Lisa Conrad",
     "country": "Germany",
-    "twitter": "https://twitter.com/@simulo",
+    "twitter": "",
     "linkedin": "",
     "id": 64,
-    "photo": "speakers/Jan _ Lisa_Dittrich _ Conrad.jpg",
+    "photo": "",
     "organisation": "Open Source Enthusiasts",
-    "biography": "Jan is User Researcher, Lisa is an Anthropologist. Both are interested in why people do what they do. "
+    "biography": "Lisa is an Anthropologist. She is interested in why people do what they do. "
   },
   {
     "py/object": "models.Speaker",
