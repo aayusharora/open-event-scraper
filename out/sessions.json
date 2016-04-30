@@ -250,7 +250,7 @@
     "slides": null,
     "video": null,
     "location": "Erdgeschoss, Saal / Ground Floor",
-    "sign_up": null,
+    "sign_up": "http://www.meetup.com/FashionTec-Meetup-Berlin/events/230760758/",
     "type": "Workshop mit befreiten Strickmaschinen / Knitting Machines with Open Source",
     "end_time": "2016-05-05T08:00:00+00:00"
   },
@@ -264,7 +264,7 @@
       }
     ],
     "description": "Twitch Builds Reality is a game that connects the world virtually with a thing at Maker Faire Berlin. The thing consists of large scale wooden building blocks. Via online chat, participants submit positions of blocks. The collaborative construction process is live broadcasted on Twitch.tv.",
-    "title": "Installation",
+    "title": "Twitch Builds Reality",
     "track": {
       "order": 2,
       "name": "Maker Space",
@@ -276,7 +276,7 @@
     "video": "http://www.twitch.tv/TwitchBuildsReality",
     "location": "Erdgeschoss, Saal / Ground Floor",
     "sign_up": null,
-    "type": "Twitch Builds Reality",
+    "type": "Installation",
     "end_time": "2016-05-05T08:00:00+00:00"
   },
   {
