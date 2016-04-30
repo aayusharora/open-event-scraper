@@ -283,8 +283,33 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "OpenTech Designer",
+        "organisation": "Valentina",
         "id": 13,
+        "name": "Susan Spencer"
+      }
+    ],
+    "description": "Valentina is open source pattern drafting software, designed to be the foundation of a new stack of open source tools to remake the garment industry. Parametric design +  open data formats + open source code = shareable/remixable patterns usable by any sewist or manufacturer for garment production.  Valentina enables independent designers to become ethically profitable, and can empower designers focused on eco fashion and slow fashion.   Small batch and custom sized clothing manufacturing is essential to create a sustainable future, preserve small to medium sized textile spinning and weaving manufacturers, enable independent and small designers and manufacturers to scale up to make a decent living, rebuild local garment districts, and reduce or eliminate slave labor.  Valentina is available for Linux, Mac, and Windows.",
+    "title": "Valentina Digital Pattern Design",
+    "track": {
+      "order": 2,
+      "name": "Maker Space",
+      "id": 2
+    },
+    "start_time": "2016-05-05T07:30:00+00:00",
+    "session_id": "MS-12",
+    "slides": null,
+    "video": null,
+    "location": "Ebene 1, Galerie / Floor 1",
+    "sign_up": null,
+    "type": "Infotisch / Showcase Table",
+    "end_time": "2016-05-05T08:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "OpenTech Designer",
+        "id": 14,
         "name": "Jan Dittrich"
       }
     ],
@@ -309,22 +334,22 @@
     "speakers": [
       {
         "organisation": "Metaversa e.V.",
-        "id": 14,
+        "id": 15,
         "name": "Birgit Marzinka"
       },
       {
         "organisation": "Metaversa e.V.",
-        "id": 15,
+        "id": 16,
         "name": "Daniel Abma"
       },
       {
         "organisation": "Metaversa e.V.",
-        "id": 16,
+        "id": 17,
         "name": "Jenny Roberts"
       },
       {
         "organisation": "Metaversa e.V.",
-        "id": 17,
+        "id": 18,
         "name": "Kirsten Mohri"
       }
     ],
@@ -349,12 +374,12 @@
     "speakers": [
       {
         "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community",
-        "id": 18,
+        "id": 19,
         "name": "Raimo, Radczewski"
       },
       {
         "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community",
-        "id": 19,
+        "id": 20,
         "name": "Markus Decke"
       }
     ],
@@ -379,7 +404,7 @@
     "speakers": [
       {
         "organisation": "ownCloud",
-        "id": 20,
+        "id": 21,
         "name": "Jos Poortvliet"
       }
     ],
@@ -404,7 +429,7 @@
     "speakers": [
       {
         "organisation": "Piradio - Sender Berlin",
-        "id": 21,
+        "id": 22,
         "name": "Jenz Steiner"
       }
     ],
@@ -429,7 +454,7 @@
     "speakers": [
       {
         "organisation": "Altran",
-        "id": 22,
+        "id": 23,
         "name": "Toon PETERS"
       }
     ],
@@ -454,12 +479,12 @@
     "speakers": [
       {
         "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community",
-        "id": 18,
+        "id": 19,
         "name": "Raimo, Radczewski"
       },
       {
         "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community",
-        "id": 19,
+        "id": 20,
         "name": "Markus Decke"
       }
     ],
@@ -484,7 +509,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 23,
+        "id": 24,
         "name": "OTS OpenTechSummit"
       }
     ],
@@ -509,7 +534,7 @@
     "speakers": [
       {
         "organisation": "Intelligent Systems / Altran",
-        "id": 24,
+        "id": 25,
         "name": "Toon Peters"
       }
     ],
@@ -534,7 +559,7 @@
     "speakers": [
       {
         "organisation": "Valentina",
-        "id": 25,
+        "id": 13,
         "name": "Susan Spencer"
       }
     ],
@@ -1511,7 +1536,7 @@
     "speakers": [
       {
         "organisation": "Syria on the Move, SocialVisions e.V.",
-        "id": 21,
+        "id": 22,
         "name": "Jenz Steiner"
       }
     ],

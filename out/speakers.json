@@ -157,13 +157,26 @@
   },
   {
     "py/object": "models.Speaker",
+    "web": "http://www.valentina-project.org",
+    "github": "https://github.com/tusuzu",
+    "name": "Susan Spencer",
+    "country": "USA",
+    "twitter": "https://twitter.com/@ValentinaPSW",
+    "linkedin": "https://www.linkedin.com/in/susan-spencer-3b502516",
+    "id": 13,
+    "photo": "speakers/Susan_Spencer.jpg",
+    "organisation": "Valentina",
+    "biography": "Product developer for Valentina open source pattern drafting software.  Network analyst now open source evangelist.    Looking for programmers: Blender - 3D development, C++  - 'assymetric' pattern features to make patterns for disabled persons. Corporate funding possible. Looking for fashion designers and patternmakers. Looking for translators.  Send email to contact@valentina-project.org "
+  },
+  {
+    "py/object": "models.Speaker",
     "web": "http://www.fordes.de",
     "github": "https://github.com/jdittrich",
     "name": "Jan Dittrich",
     "country": "Germany",
     "twitter": "https://twitter.com/@simulo",
     "linkedin": "https://de.linkedin.com/in/jandittrich",
-    "id": 13,
+    "id": 14,
     "photo": "speakers/Jan_Dittrich.jpg",
     "organisation": "OpenTech Designer",
     "biography": "Jan is an UX Designer and User Researcher. His current focus is making research on user needs and motivations easier for small design teams. He contributes to open source projects like RKWard, Etherpad and quickMockup.   When not dealing with Design and Research, Jan enjoys playing guitar and reading books on neuroscience."
@@ -176,7 +189,7 @@
     "country": "Germany",
     "twitter": "",
     "linkedin": "",
-    "id": 14,
+    "id": 15,
     "photo": "speakers/Birgit_Marzinka.jpg",
     "organisation": "Metaversa e.V.",
     "biography": "Studierte in Heidelberg, Bremen und Mexiko-Stadt Geografie und an der Universit\u00e4t Rostock den Masterstudiengang Medienbildung, arbeitet selbstst\u00e4ndig in der Medienp\u00e4dagogik und in den Bereichen: Bildung in virtuellen R\u00e4umen, E-Learning und Bildungsportale. Sie initiierte und hat die Leitung des Webportals \u201ezeitzeugengeschichte.de\u201c inne. Sie entwickelt Projekte, gibt Radio- und Computerworkshops und arbeitet mit Jugendlichen und Erwachsenen. Ihre Themen sind Nationalsozialismus \u2013 Zeitzeugenarbeit (zeitgen\u00f6ssische Geschichte), Rechtsextremismus, Diversity bzw. Migration, Entwicklungszusammenarbeit und Umweltschutz."
@@ -189,7 +202,7 @@
     "country": "Germany",
     "twitter": "",
     "linkedin": "",
-    "id": 15,
+    "id": 16,
     "photo": "speakers/Daniel_Abma.jpg",
     "organisation": "Metaversa e.V.",
     "biography": "Daniel Abma, geboren 1978 in Westerbork, Studium der Grundschulp\u00e4dagogik in den Niederlanden. Seit 2004 als freiberuflicher Medienp\u00e4dagoge t\u00e4tig in Berlin und Brandenburg, Arbeitsschwerpunkte: NS-ZeitzeugInnen, Rechtsextremismus gestern und heute, Geschlechterbilder. Mitarbeit an zeitgeschichtlichen Dokumentationen (Arte/SWR) und Sch\u00fclerfernsehen in den Niederlanden. Aktuell Student der \u201eFilm- und Fernsehregie\u201c an der Hochschule f\u00fcr Film und Fernsehen \u201eKonrad Wolf\u201c in Potsdam."
@@ -202,7 +215,7 @@
     "country": "Germany",
     "twitter": "",
     "linkedin": "",
-    "id": 16,
+    "id": 17,
     "photo": "speakers/Jenny_Roberts.jpg",
     "organisation": "Metaversa e.V.",
     "biography": "Kulturwissenschaftlerin und Erzieherin mit den Schwerpunkten Medienp\u00e4dagogik, Interkulturelle und Gendersensible Arbeit.  Koordinatorin des Medienkompetenzzentrums Tempelhof-Sch\u00f6neberg, sowie jahrelange T\u00e4tigkeit im Medienkompetenzzentrum Neuk\u00f6lln. Durchf\u00fchrung von Workshops und Projekttagen an Berliner Schulen, Fortbildungen f\u00fcr Eltern, Lehrer_innen und Multiplikator_inne"
@@ -215,7 +228,7 @@
     "country": "Germany",
     "twitter": "",
     "linkedin": "",
-    "id": 17,
+    "id": 18,
     "photo": "speakers/Kirsten_Mohri.jpg",
     "organisation": "Metaversa e.V.",
     "biography": "Jahrgang 1979. Abgeschlossenes Studium der Sozial- und Theaterp\u00e4dagogik. Sozialp\u00e4dagogische T\u00e4tigkeiten in Witten (Ruhrgebiet), Berlin und Brandenburg. Theater- und Filmprojekte mit Kindern, Jugendlichen und jungen Erwachsenen (z.B. KITA-und Hortkinder, lernbehinderte Azubis, Pflegekinder aus NYC, Strafgefangene). Schwerpunktthemen: Gewalt, Rechtsextremismus, M\u00e4nner-und Frauenbilder, deutsche Geschichte. Ensemblemitglied bei Theaterspiel. Seit 2008 freiberufliche Schauspielerin, Theater- und Medienp\u00e4dagogin. Homepage: www.theater-machen.de Homepage: www.kamerakultur.de Homepage: www.theater-spiel.de"
@@ -228,7 +241,7 @@
     "country": "Germany",
     "twitter": "https://twitter.com/@swkBerlin",
     "linkedin": "",
-    "id": 18,
+    "id": 19,
     "photo": "speakers/Raimo, _Radczewski.jpg",
     "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community",
     "biography": "Die Softwerkskammer Berlin ist die Berliner Lokalgruppe der weltweiten Software Craftsmanship Bewegung, die sich zum Ziel gesetzt hat, IT-Professionals eine Community zu geben, in der das gegenseitige Lernen im Vordergrund steht. Die Softwerkskammer trifft sich mindestens einmal im Monat zu gemeinsamen Workshops, Diskussionen und Vortr\u00e4gen.  Raimo Radczewski (@rradczewski) ist Software Engineer bei @vaamo und freiberuflicher Coach und Trainer f\u00fcr Pair Programming, TDD und JavaScript"
@@ -241,7 +254,7 @@
     "country": "Germany",
     "twitter": "https://twitter.com/@swkBerlin",
     "linkedin": "",
-    "id": 19,
+    "id": 20,
     "photo": "",
     "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community",
     "biography": "Die Softwerkskammer Berlin ist die Berliner Lokalgruppe der weltweiten Software Craftsmanship Bewegung, die sich zum Ziel gesetzt hat, IT-Professionals eine Community zu geben, in der das gegenseitige Lernen im Vordergrund steht. Die Softwerkskammer trifft sich mindestens einmal im Monat zu gemeinsamen Workshops, Diskussionen und Vortr\u00e4gen.  Markus Decke (@mrksdck) ist Software Engineer bei idealo internet GmbH."
@@ -254,7 +267,7 @@
     "country": "Europe",
     "twitter": "https://twitter.com/jospoortvliet",
     "linkedin": "",
-    "id": 20,
+    "id": 21,
     "photo": "speakers/Jos _Poortvliet.jpg",
     "organisation": "ownCloud",
     "biography": "People person, technology enthusiast and all-things-open evangelist. Previously community manager at SUSE and now at ownCloud while continuing an decade long involvement in the KDE community. Enjoys avoiding traffic and public transport on bike through Berlin, but only when the weather is good. Loves cooking for friends and family and playing with our dog. https://github.com/jospoortvliet  | http://twitter.com/jospoortvliet"
@@ -267,7 +280,7 @@
     "country": "Germany",
     "twitter": "https://twitter.com/reifenwechsler",
     "linkedin": "",
-    "id": 21,
+    "id": 22,
     "photo": "speakers/Jenz_Steiner.jpg",
     "organisation": "Piradio - Sender Berlin",
     "biography": "Jenz Steiner is hosting a couple of radio shows on Berlins free station Piradio, Radio Corax in Halle and Radio fsk in Hamburg. He is into anything related to podcast, radio, grassroots journalism and experimental music formats. As a media coach he shows people how to mache  difficult things real easy and motivates them to become the media."
@@ -280,7 +293,7 @@
     "country": "Belgium",
     "twitter": "https://twitter.com/@picotcp",
     "linkedin": "",
-    "id": 22,
+    "id": 23,
     "photo": "speakers/Toon_PETERS.jpg",
     "organisation": "Altran",
     "biography": "Toon is not your everyday engineer. With his passion for technology and enthusiasm for interesting projects, he can truly bring a project to the next level. All while having loads of fun.  Skill-wise, Toon has experience in Embedded software and Electronics, but also marketing, offer development and even recruiting. In short: An all-rounder"
@@ -293,7 +306,7 @@
     "country": "",
     "twitter": "",
     "linkedin": "",
-    "id": 23,
+    "id": 24,
     "photo": "",
     "organisation": "",
     "biography": ""
@@ -306,23 +319,10 @@
     "country": "Belgium",
     "twitter": "https://twitter.com/@picotcp",
     "linkedin": "https://be.linkedin.com/in/toonpeters",
-    "id": 24,
+    "id": 25,
     "photo": "speakers/Toon_Peters.jpg",
     "organisation": "Intelligent Systems / Altran",
     "biography": "Toon is not your everyday engineer. With his passion for technology and enthusiasm for interesting projects, he can truly bring a project to the next level. All while having loads of fun.  Skill-wise, Toon has experience in Embedded software and Electronics, but also marketing, offer development and even recruiting. In short: An all-rounder"
-  },
-  {
-    "py/object": "models.Speaker",
-    "web": "http://www.valentina-project.org",
-    "github": "https://github.com/tusuzu",
-    "name": "Susan Spencer",
-    "country": "USA",
-    "twitter": "https://twitter.com/@ValentinaPSW",
-    "linkedin": "https://www.linkedin.com/in/susan-spencer-3b502516",
-    "id": 25,
-    "photo": "speakers/Susan_Spencer.jpg",
-    "organisation": "Valentina",
-    "biography": "Product developer for Valentina open source pattern drafting software.  Network analyst now open source evangelist.    Looking for programmers: Blender - 3D development, C++  - 'assymetric' pattern features to make patterns for disabled persons. Corporate funding possible. Looking for fashion designers and patternmakers. Looking for translators.  Send email to contact@valentina-project.org "
   },
   {
     "py/object": "models.Speaker",
