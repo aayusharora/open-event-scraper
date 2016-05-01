@@ -496,7 +496,7 @@
     "video": null,
     "location": "Erdgeschoss, Hoflounge / Ground Floor, Hoflounge Room",
     "sign_up": null,
-    "type": "Workshop, 1/2 hour",
+    "type": "Workshop, 1/2 h",
     "end_time": "2016-05-05T13:30:00+00:00"
   },
   {
@@ -1628,7 +1628,7 @@
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
-    "type": "Workshop, 1/2 hour",
+    "type": "Lightning Talk",
     "end_time": "2016-05-05T12:05:00+00:00"
   },
   {
