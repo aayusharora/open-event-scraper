@@ -209,16 +209,16 @@
   },
   {
     "py/object": "models.Speaker",
-    "web": "http://yupitszac.com",
+    "web": "https://www.freegeoapi.org",
     "github": "http://github.com/YupItsZac",
     "name": "Zac Brown",
     "country": "USA",
     "twitter": "https://twitter.com/@YupItsZac",
     "linkedin": "http://linkedin.com/in/yupitszac",
     "id": 17,
-    "photo": "speakers/Zac_Brown.jpg",
+    "photo": "speakers/Zac _Brown.jpg",
     "organisation": "FreeGeo API",
-    "biography": "Zac has learned his first two development languages at age 9 when he became curious about computers. Now, at age 21, he builds scalable web based applications for a company in Berlin. Zac uses his knowledge, experience, and desire to learn as a tool to excite engineers about the crucial role open technologies play in shaping the future of the computng industry. "
+    "biography": "Zac has learned his first two development languages at age 9 when he became curious about computers. Now, at age 21, he builds scalable web based applications for a company in Berlin. Zac uses his knowledge, experience, and desire to learn as a tool to excite engineers about the crucial role open technologies play in shaping the future of the computing industry. "
   },
   {
     "py/object": "models.Speaker",
