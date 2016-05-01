@@ -143,7 +143,7 @@
                 </p>
                 <div id="desc-{{session_id}}">
                   <p class="collapse">
-                    <span class="session-description">{{description}}</span>
+                    <span class="session-description">{{#linkify}}{{description}}{{/linkify}}</span>
                   </p>
                   <div class="session-speakers-list collapse">
                     {{#speakers_list}}
