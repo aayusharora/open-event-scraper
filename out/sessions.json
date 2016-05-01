@@ -419,7 +419,7 @@
     "session_id": "W-3",
     "slides": null,
     "video": null,
-    "location": "Erdgeschoss, Saal / Ground Floor",
+    "location": "Erdgeschoss, Hoflounge / Ground Floor, Hoflounge Room",
     "sign_up": "http://www.meetup.com/Software-Craftsmanship-Berlin/events/230566242/",
     "type": "Workshop und Developer Meetup, 2h",
     "end_time": "2016-05-05T09:30:00+00:00"
@@ -478,8 +478,33 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Altran",
+        "organisation": "metacollect",
         "id": 24,
+        "name": "Ulrike Thalheim"
+      }
+    ],
+    "description": "Germany has been experiencing a huge wave of civic engagement for refugees and newcomers during the last year. This is great and that is why some people at the refugee hackathon in Berlin wanted to provide an overview of these projects as complete as possible by creating metacollect. metacollect is an open data service that collects and provides current information on civil society projects and initiatives. Our long-term goal is to strengthen all players through the creation of a single interface. In the talk, we will give you a short overview about how to map the landscape of projects that aim to support refugees and newcomers and what pitfalls we encountered. Also, we would like to share some of our learnings on how to set up an open data project from scratch.",
+    "title": "metacollect - an open data service for refugee & integration projects",
+    "track": {
+      "order": 3,
+      "name": "Workshops",
+      "id": 3
+    },
+    "start_time": "2016-05-05T13:00:00+00:00",
+    "session_id": "W-8",
+    "slides": null,
+    "video": null,
+    "location": "Erdgeschoss, Hoflounge / Ground Floor, Hoflounge Room",
+    "sign_up": null,
+    "type": "Workshop, 1/2 hour",
+    "end_time": "2016-05-05T13:30:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "Altran",
+        "id": 25,
         "name": "Toon Peters"
       }
     ],
@@ -524,7 +549,7 @@
     "session_id": "W-7",
     "slides": null,
     "video": null,
-    "location": "Erdgeschoss, Saal / Ground Floor",
+    "location": "Erdgeschoss, Hoflounge / Ground Floor, Hoflounge Room",
     "sign_up": "http://www.meetup.com/Software-Craftsmanship-Berlin/events/230566242/",
     "type": "Workshop und Developer Meetup, 2h",
     "end_time": "2016-05-05T14:30:00+00:00"
@@ -534,7 +559,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 25,
+        "id": 26,
         "name": "OpenTechSummit 2016"
       }
     ],
@@ -559,7 +584,7 @@
     "speakers": [
       {
         "organisation": "Intelligent Systems / Altran",
-        "id": 24,
+        "id": 25,
         "name": "Toon Peters"
       }
     ],
@@ -609,7 +634,7 @@
     "speakers": [
       {
         "organisation": "Wikimedia Deutschland e.V.",
-        "id": 26,
+        "id": 27,
         "name": "Marius Hoch"
       }
     ],
@@ -634,7 +659,7 @@
     "speakers": [
       {
         "organisation": "FreeGeo API",
-        "id": 27,
+        "id": 28,
         "name": "Zac Brown"
       }
     ],
@@ -659,7 +684,7 @@
     "speakers": [
       {
         "organisation": "Code for Berlin",
-        "id": 28,
+        "id": 29,
         "name": "Thomas Tursics"
       }
     ],
@@ -684,7 +709,7 @@
     "speakers": [
       {
         "organisation": "IBM",
-        "id": 29,
+        "id": 30,
         "name": "Alexander Loibl"
       }
     ],
@@ -709,7 +734,7 @@
     "speakers": [
       {
         "organisation": "OpenTechSummit",
-        "id": 30,
+        "id": 31,
         "name": "Lightning Talkers"
       }
     ],
@@ -734,7 +759,7 @@
     "speakers": [
       {
         "organisation": "Hackerspace.sg",
-        "id": 31,
+        "id": 32,
         "name": "Justin Lee"
       }
     ],
@@ -784,7 +809,7 @@
     "speakers": [
       {
         "organisation": "Thoughtworks",
-        "id": 32,
+        "id": 33,
         "name": "Erik D\u00f6rnenburg"
       }
     ],
@@ -809,7 +834,7 @@
     "speakers": [
       {
         "organisation": "OpenKnowledge",
-        "id": 33,
+        "id": 34,
         "name": "Rufus Pollock"
       }
     ],
@@ -834,7 +859,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 34,
+        "id": 35,
         "name": "Lennart Poettering"
       }
     ],
@@ -859,7 +884,7 @@
     "speakers": [
       {
         "organisation": "Kinvolk GmbH",
-        "id": 35,
+        "id": 36,
         "name": "Chris K\u00fchl"
       }
     ],
@@ -884,12 +909,12 @@
     "speakers": [
       {
         "organisation": "Beuth Hochschule f\u00fcr Technik Berlin",
-        "id": 36,
+        "id": 37,
         "name": "Ruediger Weis"
       },
       {
         "organisation": "Beuth Hochschule f\u00fcr Technik Berlin",
-        "id": 37,
+        "id": 38,
         "name": "Bruno Kirschner"
       }
     ],
@@ -914,7 +939,7 @@
     "speakers": [
       {
         "organisation": "Free Software Foundation Europe e.V.",
-        "id": 38,
+        "id": 39,
         "name": "Matthias Kirschner"
       }
     ],
@@ -939,7 +964,7 @@
     "speakers": [
       {
         "organisation": "cusy GmbH",
-        "id": 39,
+        "id": 40,
         "name": "Veit Schiele"
       }
     ],
@@ -964,7 +989,7 @@
     "speakers": [
       {
         "organisation": "Thunderbird",
-        "id": 40,
+        "id": 41,
         "name": "J\u00f6rg Knobloch"
       }
     ],
@@ -989,7 +1014,7 @@
     "speakers": [
       {
         "organisation": "Bioflux",
-        "id": 41,
+        "id": 42,
         "name": "R\u00fcdiger Trojok"
       }
     ],
@@ -1014,7 +1039,7 @@
     "speakers": [
       {
         "organisation": "Bioflux",
-        "id": 42,
+        "id": 43,
         "name": "Mirela Alistar"
       }
     ],
@@ -1037,7 +1062,7 @@
     "speakers": [
       {
         "organisation": "OTS",
-        "id": 43,
+        "id": 44,
         "name": "Mario Behling"
       }
     ],
@@ -1062,7 +1087,7 @@
     "speakers": [
       {
         "organisation": "Jugend Hackt",
-        "id": 44,
+        "id": 45,
         "name": "Jakob Schade"
       }
     ],
@@ -1087,12 +1112,12 @@
     "speakers": [
       {
         "organisation": "Junge T\u00fcftler",
-        "id": 45,
+        "id": 46,
         "name": "Franziska Schmid"
       },
       {
         "organisation": "Junge T\u00fcftler",
-        "id": 46,
+        "id": 47,
         "name": "Julia Kleeberger"
       }
     ],
@@ -1117,7 +1142,7 @@
     "speakers": [
       {
         "organisation": "Wikimedia Deutschland",
-        "id": 47,
+        "id": 48,
         "name": "Barbara Fischer"
       }
     ],
@@ -1142,7 +1167,7 @@
     "speakers": [
       {
         "organisation": "initOS GmbH / Otto-von-Guericke University Magdeburg",
-        "id": 48,
+        "id": 49,
         "name": "Frederik Kramer"
       }
     ],
@@ -1192,7 +1217,7 @@
     "speakers": [
       {
         "organisation": "Mozilla",
-        "id": 49,
+        "id": 50,
         "name": "Elio Qoshi"
       }
     ],
@@ -1217,7 +1242,7 @@
     "speakers": [
       {
         "organisation": "Open Source Circular Economy Days",
-        "id": 50,
+        "id": 51,
         "name": "Lars Zimmermann"
       }
     ],
@@ -1242,7 +1267,7 @@
     "speakers": [
       {
         "organisation": "Community Managerin",
-        "id": 51,
+        "id": 52,
         "name": "Felicitas Blanck"
       }
     ],
@@ -1267,7 +1292,7 @@
     "speakers": [
       {
         "organisation": "Code Week Award",
-        "id": 52,
+        "id": 53,
         "name": "Code Week Award"
       }
     ],
@@ -1292,7 +1317,7 @@
     "speakers": [
       {
         "organisation": "Gregarious Mammal",
-        "id": 53,
+        "id": 54,
         "name": "Chris Ward"
       }
     ],
@@ -1317,7 +1342,7 @@
     "speakers": [
       {
         "organisation": "Endocode AG",
-        "id": 54,
+        "id": 55,
         "name": "Thomas Fricke"
       }
     ],
@@ -1342,7 +1367,7 @@
     "speakers": [
       {
         "organisation": "flashcat-project",
-        "id": 55,
+        "id": 56,
         "name": "Kai Mertens"
       }
     ],
@@ -1367,7 +1392,7 @@
     "speakers": [
       {
         "organisation": "Technische Universit\u00e4t Berlin",
-        "id": 56,
+        "id": 57,
         "name": "J\u00e9r\u00e9my Bonvoisin"
       }
     ],
@@ -1392,7 +1417,7 @@
     "speakers": [
       {
         "organisation": "Mozilla",
-        "id": 57,
+        "id": 58,
         "name": "Rok Garbas"
       }
     ],
@@ -1417,7 +1442,7 @@
     "speakers": [
       {
         "organisation": "Askemos",
-        "id": 58,
+        "id": 59,
         "name": "J\u00f6rg Wittenberger"
       }
     ],
@@ -1442,7 +1467,7 @@
     "speakers": [
       {
         "organisation": "ionary",
-        "id": 59,
+        "id": 60,
         "name": "Denjell Caleb Thompson"
       }
     ],
@@ -1467,7 +1492,7 @@
     "speakers": [
       {
         "organisation": "Open Knowledge Foundation Deutschland",
-        "id": 60,
+        "id": 61,
         "name": "Maximilian Richt"
       }
     ],
@@ -1492,7 +1517,7 @@
     "speakers": [
       {
         "organisation": "youbroketheinternet.org",
-        "id": 61,
+        "id": 62,
         "name": "carlo von lynX"
       }
     ],
@@ -1517,7 +1542,7 @@
     "speakers": [
       {
         "organisation": "FFII.org",
-        "id": 62,
+        "id": 63,
         "name": "Andr\u00e9 Rebentisch"
       }
     ],
@@ -1585,13 +1610,63 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "metacollect",
+        "id": 24,
+        "name": "Ulrike Thalheim"
+      }
+    ],
+    "description": "Germany has been experiencing a huge wave of civic engagement for refugees and newcomers during the last year. This is great and that is why some people at the refugee hackathon in Berlin wanted to provide an overview of these projects as complete as possible by creating metacollect. metacollect is an open data service that collects and provides current information on civil society projects and initiatives. Our long-term goal is to strengthen all players through the creation of a single interface. In the talk, we will give you a short overview about how to map the landscape of projects that aim to support refugees and newcomers and what pitfalls we encountered. Also, we would like to share some of our learnings on how to set up an open data project from scratch.",
+    "title": "metacollect - an open data service for refugee & integration projects",
+    "track": {
+      "order": 6,
+      "name": "LightningTalks",
+      "id": 6
+    },
+    "start_time": "2016-05-05T11:35:00+00:00",
+    "session_id": "LT-9",
+    "slides": null,
+    "video": null,
+    "location": "Ebene 1, Galerie / Floor 1",
+    "sign_up": null,
+    "type": "Workshop, 1/2 hour",
+    "end_time": "2016-05-05T12:05:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "FOSSASIA",
+        "id": 64,
+        "name": "Hong Phuc Dang"
+      }
+    ],
+    "description": "Background of FOSSASIA - an initiative in Asia bringing together an inspiring community across borders and ages to form a better future with Open Technologies and introduction to Code Program for Youth. ",
+    "title": "Open Source Movement In Asia",
+    "track": {
+      "order": 6,
+      "name": "LightningTalks",
+      "id": 6
+    },
+    "start_time": "2016-05-05T11:40:00+00:00",
+    "session_id": "LT-7",
+    "slides": null,
+    "video": null,
+    "location": "Ebene 1, Galerie / Floor 1",
+    "sign_up": null,
+    "type": "Lightning Talk",
+    "end_time": "2016-05-05T12:10:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
         "organisation": "User Researcher",
         "id": 15,
         "name": "Jan Dittrich"
       },
       {
         "organisation": "Anthropologist",
-        "id": 63,
+        "id": 65,
         "name": "Lisa Conrad"
       }
     ],
@@ -1602,21 +1677,21 @@
       "name": "LightningTalks",
       "id": 6
     },
-    "start_time": "2016-05-05T11:36:00+00:00",
+    "start_time": "2016-05-05T11:45:00+00:00",
     "session_id": "LT-2",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Lightning Talk",
-    "end_time": "2016-05-05T12:06:00+00:00"
+    "end_time": "2016-05-05T12:15:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "organisation": "Copertura Label",
-        "id": 64,
+        "id": 66,
         "name": "Ivers Yves Pierre"
       }
     ],
@@ -1627,14 +1702,14 @@
       "name": "LightningTalks",
       "id": 6
     },
-    "start_time": "2016-05-05T11:42:00+00:00",
+    "start_time": "2016-05-05T11:50:00+00:00",
     "session_id": "LT-3",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Lightning Talk",
-    "end_time": "2016-05-05T12:12:00+00:00"
+    "end_time": "2016-05-05T12:20:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -1652,21 +1727,21 @@
       "name": "LightningTalks",
       "id": 6
     },
-    "start_time": "2016-05-05T11:48:00+00:00",
+    "start_time": "2016-05-05T11:55:00+00:00",
     "session_id": "LT-4",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Lightning Talk",
-    "end_time": "2016-05-05T12:18:00+00:00"
+    "end_time": "2016-05-05T12:25:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "organisation": "Heart of Code",
-        "id": 65,
+        "id": 67,
         "name": "Conny Kawohl"
       }
     ],
@@ -1677,33 +1752,8 @@
       "name": "LightningTalks",
       "id": 6
     },
-    "start_time": "2016-05-05T11:54:00+00:00",
-    "session_id": "LT-5",
-    "slides": null,
-    "video": null,
-    "location": "Ebene 1, Galerie / Floor 1",
-    "sign_up": null,
-    "type": "Lightning Talk",
-    "end_time": "2016-05-05T12:24:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
-        "organisation": "Flowedoo",
-        "id": 66,
-        "name": "Stefan Koehler"
-      }
-    ],
-    "description": "Vielfalt scheint erstrebenswert. Niemand m\u00f6chte jeden Tag dasselbe Essen vorgesetzt bekommen, st\u00e4ndig ein und dasselbe Computerspiel spielen m\u00fcssen oder gar von Monopolisten in Soft- und Hardware abh\u00e4ngen.  Damit Vielfalt entstehen kann, m\u00fcssen Voraussetzungen erf\u00fcllt werden. Einige dieser Bedingungenwerden im Vortrag kurz beleuchtet.",
-    "title": "Netze f\u00fcr Vielfalt",
-    "track": {
-      "order": 6,
-      "name": "LightningTalks",
-      "id": 6
-    },
     "start_time": "2016-05-05T12:00:00+00:00",
-    "session_id": "LT-6",
+    "session_id": "LT-5",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
@@ -1715,26 +1765,26 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "FOSSASIA",
-        "id": 67,
-        "name": "Hong Phuc Dang"
+        "organisation": "Flowedoo",
+        "id": 68,
+        "name": "Stefan Koehler"
       }
     ],
-    "description": "Background of FOSSASIA - an initiative in Asia bringing together an inspiring community across borders and ages to form a better future with Open Technologies and introduction to Code Program for Youth. ",
-    "title": "Open Source Movement In Asia",
+    "description": "Vielfalt scheint erstrebenswert. Niemand m\u00f6chte jeden Tag dasselbe Essen vorgesetzt bekommen, st\u00e4ndig ein und dasselbe Computerspiel spielen m\u00fcssen oder gar von Monopolisten in Soft- und Hardware abh\u00e4ngen.  Damit Vielfalt entstehen kann, m\u00fcssen Voraussetzungen erf\u00fcllt werden. Einige dieser Bedingungenwerden im Vortrag kurz beleuchtet.",
+    "title": "Netze f\u00fcr Vielfalt",
     "track": {
       "order": 6,
       "name": "LightningTalks",
       "id": 6
     },
-    "start_time": "2016-05-05T12:06:00+00:00",
-    "session_id": "LT-7",
+    "start_time": "2016-05-05T12:05:00+00:00",
+    "session_id": "LT-6",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Lightning Talk",
-    "end_time": "2016-05-05T12:36:00+00:00"
+    "end_time": "2016-05-05T12:35:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -1752,21 +1802,21 @@
       "name": "LightningTalks",
       "id": 6
     },
-    "start_time": "2016-05-05T12:12:00+00:00",
+    "start_time": "2016-05-05T12:10:00+00:00",
     "session_id": "LT-8",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Lightning Talk",
-    "end_time": "2016-05-05T12:42:00+00:00"
+    "end_time": "2016-05-05T12:40:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "organisation": "Coder Dojo Potsdam",
-        "id": 68,
+        "id": 69,
         "name": "Nicco Kunzmann"
       }
     ],
@@ -1791,12 +1841,12 @@
     "speakers": [
       {
         "organisation": "Junge T\u00fcftler",
-        "id": 46,
+        "id": 47,
         "name": "Julia Kleeberger"
       },
       {
         "organisation": "Junge T\u00fcftler",
-        "id": 45,
+        "id": 46,
         "name": "Franziska Schmid"
       }
     ],
@@ -1821,7 +1871,7 @@
     "speakers": [
       {
         "organisation": "Jugend Hackt",
-        "id": 44,
+        "id": 45,
         "name": "Jakob Schade"
       }
     ],
@@ -1846,7 +1896,7 @@
     "speakers": [
       {
         "organisation": "Code Week Award",
-        "id": 52,
+        "id": 53,
         "name": "Code Week Award"
       }
     ],
@@ -1871,7 +1921,7 @@
     "speakers": [
       {
         "organisation": "LPI e.V.",
-        "id": 69,
+        "id": 70,
         "name": "Harald Maa\u00dfen"
       }
     ],
@@ -1896,7 +1946,7 @@
     "speakers": [
       {
         "organisation": "LPI e.V.",
-        "id": 69,
+        "id": 70,
         "name": "Harald Maa\u00dfen"
       }
     ],
