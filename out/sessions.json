@@ -289,7 +289,7 @@
       }
     ],
     "description": "Valentina is open source pattern drafting software, designed to be the foundation of a new stack of open source tools to remake the garment industry. Parametric design +  open data formats + open source code = shareable/remixable patterns usable by any sewist or manufacturer for garment production.  Valentina enables independent designers to become ethically profitable, and can empower designers focused on eco fashion and slow fashion.   Small batch and custom sized clothing manufacturing is essential to create a sustainable future, preserve small to medium sized textile spinning and weaving manufacturers, enable independent and small designers and manufacturers to scale up to make a decent living, rebuild local garment districts, and reduce or eliminate slave labor.  Valentina is available for Linux, Mac, and Windows.",
-    "title": "Valentina Digital Pattern Design",
+    "title": "Schnittmuster am PC erstellen mit Valentina / Valentina Digital Pattern Design",
     "track": {
       "order": 2,
       "name": "Maker Space",
@@ -314,7 +314,7 @@
       }
     ],
     "description": "In the recent years, brain-computer interfaces are becoming increasingly popular for the use at home. However, current consumer devices are still subject to quality issues, and while most of the time the software is hackable, the hardware is only in a very few cases. In this talk, a brief introduction into brain-computer interfaces is given, as well as a presentation of a novel neuroheadset, that is low-cost, provides high quality and is completely open-source.",
-    "title": "Brain-Computer Interfaces",
+    "title": "PC mit Gedanken steuern - Brain-Computer Interfaces",
     "track": {
       "order": 2,
       "name": "Maker Space",
