@@ -83,7 +83,7 @@ function foldByTrack(sessions, speakers) {
     if (!trackData.has(slug)) {
       track = {
         title: session.track.name,
-        date: moment(session.start_time).format('ddd, MMM DD') + ' / ' + moment(session.start_time).locale('de').format('ddd DD MMM'),
+        date: moment(session.start_time).locale('de').format('ddd D. MMM') + ' / ' + moment(session.start_time).format('ddd, Do MMM'),
         slug: slug,
         sortKey: date + '-' + zeroFill(session.track.order),
         sessions: []
