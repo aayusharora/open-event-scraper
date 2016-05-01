@@ -24,13 +24,24 @@
   {
     "py/object": "models.Track",
     "key_color": "#3DC8C3",
-    "name": "OTS 1",
+    "name": "LightningTalks",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
     "id": 4,
-    "gid": "11336237",
+    "gid": "1549016393",
     "location": "Ebene 1, Galerie",
     "order": 4
+  },
+  {
+    "py/object": "models.Track",
+    "key_color": "#3DC8C3",
+    "name": "OTS 1",
+    "header_line": 2,
+    "track_image_url": "http://lorempixel.com/400/200",
+    "id": 5,
+    "gid": "11336237",
+    "location": "Ebene 1, Galerie",
+    "order": 5
   },
   {
     "py/object": "models.Track",
@@ -38,20 +49,9 @@
     "name": "OTS 2",
     "header_line": 2,
     "track_image_url": "http://lorempixel.com/400/200",
-    "id": 5,
+    "id": 6,
     "gid": "2134915567",
     "location": "Ebene 2, Loft",
-    "order": 5
-  },
-  {
-    "py/object": "models.Track",
-    "key_color": "#3DC8C3",
-    "name": "LightningTalks",
-    "header_line": 2,
-    "track_image_url": "http://lorempixel.com/400/200",
-    "id": 6,
-    "gid": "1549016393",
-    "location": "Ebene 1, Galerie",
     "order": 6
   },
   {
