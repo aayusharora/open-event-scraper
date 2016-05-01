@@ -333,12 +333,12 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Nefertiti Hack",
+        "organisation": "Open Scan der Nofretete / Nefertiti Hack",
         "id": 15,
         "name": "Nora Al-Badri"
       },
       {
-        "organisation": "Nefertiti Hack",
+        "organisation": "Open Scan der Nofretete / Nefertiti Hack",
         "id": 16,
         "name": "Jan Nikolai Nelles"
       }
