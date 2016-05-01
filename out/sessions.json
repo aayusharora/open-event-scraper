@@ -363,33 +363,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "FreeGeo API",
-        "id": 17,
-        "name": "Zac Brown"
-      }
-    ],
-    "description": "Explore the way the FreeGeo API uses the freely available, and open geospatial data provided by the OSM project to accomplish a free (and, of course, also open) production ready interface that lets developers perform geospatial calculations, geocoding and more! Link: https://www.freegeoapi.org",
-    "title": "FreeGeo API: What, Why & How",
-    "track": {
-      "order": 2,
-      "name": "Maker Space",
-      "id": 2
-    },
-    "start_time": "2016-05-05T07:30:00+00:00",
-    "session_id": "MS-15",
-    "slides": null,
-    "video": null,
-    "location": "Erdgeschoss, Saal / Ground Floor",
-    "sign_up": null,
-    "type": "Workshop und Infotisch / Showcase Table",
-    "end_time": "2016-05-05T08:00:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
         "organisation": "OpenTech Designer",
-        "id": 18,
+        "id": 17,
         "name": "Jan Dittrich"
       }
     ],
@@ -414,22 +389,22 @@
     "speakers": [
       {
         "organisation": "Metaversa e.V.",
-        "id": 19,
+        "id": 18,
         "name": "Birgit Marzinka"
       },
       {
         "organisation": "Metaversa e.V.",
-        "id": 20,
+        "id": 19,
         "name": "Daniel Abma"
       },
       {
         "organisation": "Metaversa e.V.",
-        "id": 21,
+        "id": 20,
         "name": "Jenny Roberts"
       },
       {
         "organisation": "Metaversa e.V.",
-        "id": 22,
+        "id": 21,
         "name": "Kirsten Mohri"
       }
     ],
@@ -454,12 +429,12 @@
     "speakers": [
       {
         "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community",
-        "id": 23,
+        "id": 22,
         "name": "Raimo, Radczewski"
       },
       {
         "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community",
-        "id": 24,
+        "id": 23,
         "name": "Markus Decke"
       }
     ],
@@ -484,7 +459,7 @@
     "speakers": [
       {
         "organisation": "ownCloud",
-        "id": 25,
+        "id": 24,
         "name": "Jos Poortvliet"
       }
     ],
@@ -509,7 +484,7 @@
     "speakers": [
       {
         "organisation": "Piradio - Sender Berlin",
-        "id": 26,
+        "id": 25,
         "name": "Jenz Steiner"
       }
     ],
@@ -534,7 +509,7 @@
     "speakers": [
       {
         "organisation": "metacollect",
-        "id": 27,
+        "id": 26,
         "name": "Ulrike Thalheim"
       }
     ],
@@ -559,7 +534,7 @@
     "speakers": [
       {
         "organisation": "Altran",
-        "id": 28,
+        "id": 27,
         "name": "Toon Peters"
       }
     ],
@@ -584,12 +559,12 @@
     "speakers": [
       {
         "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community",
-        "id": 23,
+        "id": 22,
         "name": "Raimo, Radczewski"
       },
       {
         "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community",
-        "id": 24,
+        "id": 23,
         "name": "Markus Decke"
       }
     ],
@@ -614,7 +589,7 @@
     "speakers": [
       {
         "organisation": "Syria on the Move, SocialVisions e.V.",
-        "id": 26,
+        "id": 25,
         "name": "Jenz Steiner"
       }
     ],
@@ -639,7 +614,7 @@
     "speakers": [
       {
         "organisation": "metacollect",
-        "id": 27,
+        "id": 26,
         "name": "Ulrike Thalheim"
       }
     ],
@@ -664,7 +639,7 @@
     "speakers": [
       {
         "organisation": "FOSSASIA",
-        "id": 29,
+        "id": 28,
         "name": "Hong Phuc Dang"
       }
     ],
@@ -689,12 +664,12 @@
     "speakers": [
       {
         "organisation": "User Researcher",
-        "id": 18,
+        "id": 17,
         "name": "Jan Dittrich"
       },
       {
         "organisation": "Anthropologist",
-        "id": 30,
+        "id": 29,
         "name": "Lisa Conrad"
       }
     ],
@@ -719,7 +694,7 @@
     "speakers": [
       {
         "organisation": "Copertura Label",
-        "id": 31,
+        "id": 30,
         "name": "Ivers Yves Pierre"
       }
     ],
@@ -769,7 +744,7 @@
     "speakers": [
       {
         "organisation": "Heart of Code",
-        "id": 32,
+        "id": 31,
         "name": "Conny Kawohl"
       }
     ],
@@ -794,7 +769,7 @@
     "speakers": [
       {
         "organisation": "Flowedoo",
-        "id": 33,
+        "id": 32,
         "name": "Stefan Koehler"
       }
     ],
@@ -874,7 +849,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 34,
+        "id": 33,
         "name": "OpenTechSummit 2016"
       }
     ],
@@ -899,7 +874,7 @@
     "speakers": [
       {
         "organisation": "Intelligent Systems / Altran",
-        "id": 28,
+        "id": 27,
         "name": "Toon Peters"
       }
     ],
@@ -949,7 +924,7 @@
     "speakers": [
       {
         "organisation": "Wikimedia Deutschland e.V.",
-        "id": 35,
+        "id": 34,
         "name": "Marius Hoch"
       }
     ],
@@ -974,7 +949,7 @@
     "speakers": [
       {
         "organisation": "FreeGeo API",
-        "id": 17,
+        "id": 35,
         "name": "Zac Brown"
       }
     ],

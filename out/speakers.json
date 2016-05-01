@@ -209,26 +209,13 @@
   },
   {
     "py/object": "models.Speaker",
-    "web": "https://www.freegeoapi.org",
-    "github": "http://github.com/YupItsZac",
-    "name": "Zac Brown",
-    "country": "USA",
-    "twitter": "https://twitter.com/@YupItsZac",
-    "linkedin": "http://linkedin.com/in/yupitszac",
-    "id": 17,
-    "photo": "speakers/Zac _Brown.jpg",
-    "organisation": "FreeGeo API",
-    "biography": "Zac has learned his first two development languages at age 9 when he became curious about computers. Now, at age 21, he builds scalable web based applications for a company in Berlin. Zac uses his knowledge, experience, and desire to learn as a tool to excite engineers about the crucial role open technologies play in shaping the future of the computing industry. "
-  },
-  {
-    "py/object": "models.Speaker",
     "web": "http://www.fordes.de",
     "github": "https://github.com/jdittrich",
     "name": "Jan Dittrich",
     "country": "Germany",
     "twitter": "https://twitter.com/@simulo",
     "linkedin": "https://de.linkedin.com/in/jandittrich",
-    "id": 18,
+    "id": 17,
     "photo": "speakers/Jan_Dittrich.jpg",
     "organisation": "OpenTech Designer",
     "biography": "Jan is an UX Designer and User Researcher. His current focus is making research on user needs and motivations easier for small design teams. He contributes to open source projects like RKWard, Etherpad and quickMockup.   When not dealing with Design and Research, Jan enjoys playing guitar and reading books on neuroscience."
@@ -241,7 +228,7 @@
     "country": "Germany",
     "twitter": "",
     "linkedin": "",
-    "id": 19,
+    "id": 18,
     "photo": "speakers/Birgit_Marzinka.jpg",
     "organisation": "Metaversa e.V.",
     "biography": "Studierte in Heidelberg, Bremen und Mexiko-Stadt Geografie und an der Universit\u00e4t Rostock den Masterstudiengang Medienbildung, arbeitet selbstst\u00e4ndig in der Medienp\u00e4dagogik und in den Bereichen: Bildung in virtuellen R\u00e4umen, E-Learning und Bildungsportale. Sie initiierte und hat die Leitung des Webportals \u201ezeitzeugengeschichte.de\u201c inne. Sie entwickelt Projekte, gibt Radio- und Computerworkshops und arbeitet mit Jugendlichen und Erwachsenen. Ihre Themen sind Nationalsozialismus \u2013 Zeitzeugenarbeit (zeitgen\u00f6ssische Geschichte), Rechtsextremismus, Diversity bzw. Migration, Entwicklungszusammenarbeit und Umweltschutz."
@@ -254,7 +241,7 @@
     "country": "Germany",
     "twitter": "",
     "linkedin": "",
-    "id": 20,
+    "id": 19,
     "photo": "speakers/Daniel_Abma.jpg",
     "organisation": "Metaversa e.V.",
     "biography": "Daniel Abma, geboren 1978 in Westerbork, Studium der Grundschulp\u00e4dagogik in den Niederlanden. Seit 2004 als freiberuflicher Medienp\u00e4dagoge t\u00e4tig in Berlin und Brandenburg, Arbeitsschwerpunkte: NS-ZeitzeugInnen, Rechtsextremismus gestern und heute, Geschlechterbilder. Mitarbeit an zeitgeschichtlichen Dokumentationen (Arte/SWR) und Sch\u00fclerfernsehen in den Niederlanden. Aktuell Student der \u201eFilm- und Fernsehregie\u201c an der Hochschule f\u00fcr Film und Fernsehen \u201eKonrad Wolf\u201c in Potsdam."
@@ -267,7 +254,7 @@
     "country": "Germany",
     "twitter": "",
     "linkedin": "",
-    "id": 21,
+    "id": 20,
     "photo": "speakers/Jenny_Roberts.jpg",
     "organisation": "Metaversa e.V.",
     "biography": "Kulturwissenschaftlerin und Erzieherin mit den Schwerpunkten Medienp\u00e4dagogik, Interkulturelle und Gendersensible Arbeit.  Koordinatorin des Medienkompetenzzentrums Tempelhof-Sch\u00f6neberg, sowie jahrelange T\u00e4tigkeit im Medienkompetenzzentrum Neuk\u00f6lln. Durchf\u00fchrung von Workshops und Projekttagen an Berliner Schulen, Fortbildungen f\u00fcr Eltern, Lehrer_innen und Multiplikator_inne"
@@ -280,7 +267,7 @@
     "country": "Germany",
     "twitter": "",
     "linkedin": "",
-    "id": 22,
+    "id": 21,
     "photo": "speakers/Kirsten_Mohri.jpg",
     "organisation": "Metaversa e.V.",
     "biography": "Jahrgang 1979. Abgeschlossenes Studium der Sozial- und Theaterp\u00e4dagogik. Sozialp\u00e4dagogische T\u00e4tigkeiten in Witten (Ruhrgebiet), Berlin und Brandenburg. Theater- und Filmprojekte mit Kindern, Jugendlichen und jungen Erwachsenen (z.B. KITA-und Hortkinder, lernbehinderte Azubis, Pflegekinder aus NYC, Strafgefangene). Schwerpunktthemen: Gewalt, Rechtsextremismus, M\u00e4nner-und Frauenbilder, deutsche Geschichte. Ensemblemitglied bei Theaterspiel. Seit 2008 freiberufliche Schauspielerin, Theater- und Medienp\u00e4dagogin. Homepage: www.theater-machen.de Homepage: www.kamerakultur.de Homepage: www.theater-spiel.de"
@@ -293,7 +280,7 @@
     "country": "Germany",
     "twitter": "https://twitter.com/@swkBerlin",
     "linkedin": "",
-    "id": 23,
+    "id": 22,
     "photo": "speakers/Raimo, _Radczewski.jpg",
     "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community",
     "biography": "Die Softwerkskammer Berlin ist die Berliner Lokalgruppe der weltweiten Software Craftsmanship Bewegung, die sich zum Ziel gesetzt hat, IT-Professionals eine Community zu geben, in der das gegenseitige Lernen im Vordergrund steht. Die Softwerkskammer trifft sich mindestens einmal im Monat zu gemeinsamen Workshops, Diskussionen und Vortr\u00e4gen.  Raimo Radczewski (@rradczewski) ist Software Engineer bei @vaamo und freiberuflicher Coach und Trainer f\u00fcr Pair Programming, TDD und JavaScript"
@@ -306,7 +293,7 @@
     "country": "Germany",
     "twitter": "https://twitter.com/@swkBerlin",
     "linkedin": "",
-    "id": 24,
+    "id": 23,
     "photo": "",
     "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community",
     "biography": "Die Softwerkskammer Berlin ist die Berliner Lokalgruppe der weltweiten Software Craftsmanship Bewegung, die sich zum Ziel gesetzt hat, IT-Professionals eine Community zu geben, in der das gegenseitige Lernen im Vordergrund steht. Die Softwerkskammer trifft sich mindestens einmal im Monat zu gemeinsamen Workshops, Diskussionen und Vortr\u00e4gen.  Markus Decke (@mrksdck) ist Software Engineer bei idealo internet GmbH."
@@ -319,7 +306,7 @@
     "country": "Europe",
     "twitter": "https://twitter.com/jospoortvliet",
     "linkedin": "",
-    "id": 25,
+    "id": 24,
     "photo": "speakers/Jos _Poortvliet.jpg",
     "organisation": "ownCloud",
     "biography": "People person, technology enthusiast and all-things-open evangelist. Previously community manager at SUSE and now at ownCloud while continuing an decade long involvement in the KDE community. Enjoys avoiding traffic and public transport on bike through Berlin, but only when the weather is good. Loves cooking for friends and family and playing with our dog. https://github.com/jospoortvliet  | http://twitter.com/jospoortvliet"
@@ -332,7 +319,7 @@
     "country": "Germany",
     "twitter": "https://twitter.com/reifenwechsler",
     "linkedin": "",
-    "id": 26,
+    "id": 25,
     "photo": "speakers/Jenz_Steiner.jpg",
     "organisation": "Piradio - Sender Berlin",
     "biography": "Jenz Steiner is hosting a couple of radio shows on Berlins free station Piradio, Radio Corax in Halle and Radio fsk in Hamburg. He is into anything related to podcast, radio, grassroots journalism and experimental music formats. As a media coach he shows people how to mache  difficult things real easy and motivates them to become the media."
@@ -345,7 +332,7 @@
     "country": "Germany",
     "twitter": "https://twitter.com/metacollect",
     "linkedin": "",
-    "id": 27,
+    "id": 26,
     "photo": "speakers/Ulrike_Thalheim.jpg",
     "organisation": "metacollect",
     "biography": "Ulrike is part of the open data community Code for Germany and has been active in the Berlin OK Lab for more than 2 years now. Since November 2015, she has been working on metacollect as a project manager. "
@@ -358,7 +345,7 @@
     "country": "Belgium",
     "twitter": "https://twitter.com/@picotcp",
     "linkedin": "",
-    "id": 28,
+    "id": 27,
     "photo": "speakers/Toon_Peters.jpg",
     "organisation": "Altran",
     "biography": "Toon is not your everyday engineer. With his passion for technology and enthusiasm for interesting projects, he can truly bring a project to the next level. All while having loads of fun.  Skill-wise, Toon has experience in Embedded software and Electronics, but also marketing, offer development and even recruiting. In short: An all-rounder"
@@ -371,7 +358,7 @@
     "country": "Vietnam",
     "twitter": "https://twitter.com/hpdang",
     "linkedin": "",
-    "id": 29,
+    "id": 28,
     "photo": "speakers/Hong Phuc_Dang.jpg",
     "organisation": "FOSSASIA",
     "biography": "Hong Phuc, originally from Vietnam, has lived in the US, Singapore and Dubai. She is the founder of FOSSASIA, an initiative in Asia bringing together an inspiring community across borders and ages to form a better future with Open Technologies and ICT. Hong Phuc organizes events like the annual FOSSASIA summit since 2009 and puts together Science Hack days across the region in Vietnam, Dubai and China. URL: http://sciencehack.asia | http://fossasia.org"
@@ -384,7 +371,7 @@
     "country": "Germany",
     "twitter": "",
     "linkedin": "",
-    "id": 30,
+    "id": 29,
     "photo": "",
     "organisation": "Anthropologist",
     "biography": "Lisa is an Anthropologist. She is interested in why people do what they do. "
@@ -397,7 +384,7 @@
     "country": "Haiti-Germany",
     "twitter": "https://www.twitter.com/Iversps",
     "linkedin": "https://de.linkedin.com/in/iversp",
-    "id": 31,
+    "id": 30,
     "photo": "speakers/Ivers Yves_Pierre.jpg",
     "organisation": "Copertura Label",
     "biography": "Ivers, originally from Haiti but resides in Germany for 7 years, Founder and CEO of Copertura Label, a 2 co-branded lines of fashion Tempo Libero for casuals and Sports and Wearable for fashion tech. Actual Regional Business Development Manager in Deliveryhero.com, the largest online food ordering platform worldwide. "
@@ -410,7 +397,7 @@
     "country": "Germany",
     "twitter": "https://twitter.com/ckawohl",
     "linkedin": "",
-    "id": 32,
+    "id": 31,
     "photo": "speakers/Conny_Kawohl.jpg",
     "organisation": "Heart of Code",
     "biography": "I am a Senior UI/UX Designer slowly morphing into a Web Frontend Developer. I write JavaScript (Angular/React) but also Ruby (RoR) and am fascinated by CSS Preprocessors. I <3 Hard Science Fiction, Slow Food, Graphic Novels and Human Languages."
@@ -423,7 +410,7 @@
     "country": "Deutschland",
     "twitter": "",
     "linkedin": "",
-    "id": 33,
+    "id": 32,
     "photo": "speakers/Stefan_Koehler.jpg",
     "organisation": "Flowedoo",
     "biography": "Stefan is a dedicated and experienced IT professional with a passion for, but no limitation to, Free Software."
@@ -436,7 +423,7 @@
     "country": "",
     "twitter": "",
     "linkedin": "",
-    "id": 34,
+    "id": 33,
     "photo": "",
     "organisation": "",
     "biography": ""
@@ -449,10 +436,23 @@
     "country": "Deutschland",
     "twitter": "https://twitter.com/wikidata",
     "linkedin": "",
-    "id": 35,
+    "id": 34,
     "photo": "speakers/Marius_Hoch.jpg",
     "organisation": "Wikimedia Deutschland e.V.",
     "biography": "Marius Hoch is software developer at Wikimedia Deutschland e.V. and a contributor to the Wikidata project since 2012. "
+  },
+  {
+    "py/object": "models.Speaker",
+    "web": "http://yupitszac.com",
+    "github": "http://github.com/YupItsZac",
+    "name": "Zac Brown",
+    "country": "USA",
+    "twitter": "https://twitter.com/@YupItsZac",
+    "linkedin": "http://linkedin.com/in/yupitszac",
+    "id": 35,
+    "photo": "speakers/Zac_Brown.jpg",
+    "organisation": "FreeGeo API",
+    "biography": "Zac has learned his first two development languages at age 9 when he became curious about computers. Now, at age 21, he builds scalable web based applications for a company in Berlin. Zac uses his knowledge, experience, and desire to learn as a tool to excite engineers about the crucial role open technologies play in shaping the future of the computing industry. "
   },
   {
     "py/object": "models.Speaker",
