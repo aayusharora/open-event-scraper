@@ -1796,7 +1796,7 @@
       }
     ],
     "description": "In the recent years, brain-computer interfaces are becoming increasingly popular for the use at home. However, current consumer devices are still subject to quality issues, and while most of the time the software is hackable, the hardware is only in a very few cases. In this talk, a brief introduction into brain-computer interfaces is given, as well as a presentation of a novel neuroheadset, that is low-cost, provides high quality and is completely open-source.",
-    "title": "Brain-Computer Interfaces",
+    "title": "Computer mit Gehirn steuer - Brain-Computer Interfaces",
     "track": {
       "order": 6,
       "name": "LightningTalks",
