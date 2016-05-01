@@ -363,8 +363,33 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "OpenTech Designer",
+        "organisation": "FreeGeo API",
         "id": 17,
+        "name": "Zac Brown"
+      }
+    ],
+    "description": "Explore the way the FreeGeo API uses the freely available, and open geospatial data provided by the OSM project to accomplish a free (and, of course, also open) production ready interface that lets developers perform geospatial calclations, geocoding and more! Link: https://www.freegeoapi.org",
+    "title": "FreeGeo API: What, Why & How",
+    "track": {
+      "order": 2,
+      "name": "Maker Space",
+      "id": 2
+    },
+    "start_time": "2016-05-05T07:30:00+00:00",
+    "session_id": "MS-15",
+    "slides": null,
+    "video": null,
+    "location": "Erdgeschoss, Saal / Ground Floor",
+    "sign_up": null,
+    "type": "Workshop und Infotisch / Showcase Table",
+    "end_time": "2016-05-05T08:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "OpenTech Designer",
+        "id": 18,
         "name": "Jan Dittrich"
       }
     ],
@@ -389,22 +414,22 @@
     "speakers": [
       {
         "organisation": "Metaversa e.V.",
-        "id": 18,
+        "id": 19,
         "name": "Birgit Marzinka"
       },
       {
         "organisation": "Metaversa e.V.",
-        "id": 19,
+        "id": 20,
         "name": "Daniel Abma"
       },
       {
         "organisation": "Metaversa e.V.",
-        "id": 20,
+        "id": 21,
         "name": "Jenny Roberts"
       },
       {
         "organisation": "Metaversa e.V.",
-        "id": 21,
+        "id": 22,
         "name": "Kirsten Mohri"
       }
     ],
@@ -429,12 +454,12 @@
     "speakers": [
       {
         "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community",
-        "id": 22,
+        "id": 23,
         "name": "Raimo, Radczewski"
       },
       {
         "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community",
-        "id": 23,
+        "id": 24,
         "name": "Markus Decke"
       }
     ],
@@ -459,7 +484,7 @@
     "speakers": [
       {
         "organisation": "ownCloud",
-        "id": 24,
+        "id": 25,
         "name": "Jos Poortvliet"
       }
     ],
@@ -484,7 +509,7 @@
     "speakers": [
       {
         "organisation": "Piradio - Sender Berlin",
-        "id": 25,
+        "id": 26,
         "name": "Jenz Steiner"
       }
     ],
@@ -509,7 +534,7 @@
     "speakers": [
       {
         "organisation": "metacollect",
-        "id": 26,
+        "id": 27,
         "name": "Ulrike Thalheim"
       }
     ],
@@ -534,7 +559,7 @@
     "speakers": [
       {
         "organisation": "Altran",
-        "id": 27,
+        "id": 28,
         "name": "Toon Peters"
       }
     ],
@@ -559,12 +584,12 @@
     "speakers": [
       {
         "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community",
-        "id": 22,
+        "id": 23,
         "name": "Raimo, Radczewski"
       },
       {
         "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community",
-        "id": 23,
+        "id": 24,
         "name": "Markus Decke"
       }
     ],
@@ -589,7 +614,7 @@
     "speakers": [
       {
         "organisation": "Syria on the Move, SocialVisions e.V.",
-        "id": 25,
+        "id": 26,
         "name": "Jenz Steiner"
       }
     ],
@@ -614,7 +639,7 @@
     "speakers": [
       {
         "organisation": "metacollect",
-        "id": 26,
+        "id": 27,
         "name": "Ulrike Thalheim"
       }
     ],
@@ -639,7 +664,7 @@
     "speakers": [
       {
         "organisation": "FOSSASIA",
-        "id": 28,
+        "id": 29,
         "name": "Hong Phuc Dang"
       }
     ],
@@ -664,12 +689,12 @@
     "speakers": [
       {
         "organisation": "User Researcher",
-        "id": 17,
+        "id": 18,
         "name": "Jan Dittrich"
       },
       {
         "organisation": "Anthropologist",
-        "id": 29,
+        "id": 30,
         "name": "Lisa Conrad"
       }
     ],
@@ -694,7 +719,7 @@
     "speakers": [
       {
         "organisation": "Copertura Label",
-        "id": 30,
+        "id": 31,
         "name": "Ivers Yves Pierre"
       }
     ],
@@ -744,7 +769,7 @@
     "speakers": [
       {
         "organisation": "Heart of Code",
-        "id": 31,
+        "id": 32,
         "name": "Conny Kawohl"
       }
     ],
@@ -769,7 +794,7 @@
     "speakers": [
       {
         "organisation": "Flowedoo",
-        "id": 32,
+        "id": 33,
         "name": "Stefan Koehler"
       }
     ],
@@ -849,7 +874,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 33,
+        "id": 34,
         "name": "OpenTechSummit 2016"
       }
     ],
@@ -874,7 +899,7 @@
     "speakers": [
       {
         "organisation": "Intelligent Systems / Altran",
-        "id": 27,
+        "id": 28,
         "name": "Toon Peters"
       }
     ],
@@ -924,7 +949,7 @@
     "speakers": [
       {
         "organisation": "Wikimedia Deutschland e.V.",
-        "id": 34,
+        "id": 35,
         "name": "Marius Hoch"
       }
     ],
@@ -949,11 +974,11 @@
     "speakers": [
       {
         "organisation": "FreeGeo API",
-        "id": 35,
+        "id": 17,
         "name": "Zac Brown"
       }
     ],
-    "description": "Explore the way the FreeGeo API uses the freely available, and open geospatial data provided by the OSM project to accomplish a free (and, of course, also open) production ready interface that lets developers perform geospatial calclations, geocoding and more!",
+    "description": "Explore the way the FreeGeo API uses the freely available, and open geospatial data provided by the OSM project to accomplish a free (and, of course, also open) production ready interface that lets developers perform geospatial calclations, geocoding and more! Link: https://www.freegeoapi.org",
     "title": "FreeGeo API: What, Why & How",
     "track": {
       "order": 5,
@@ -1048,13 +1073,13 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Hackerspace.sg",
+        "organisation": "FOSSASIA",
         "id": 39,
         "name": "Justin Lee"
       }
     ],
-    "description": "",
-    "title": "Open Tech in Asia",
+    "description": "The Hyperledger Project is a collaborative effort created to advance blockchain technology by identifying and addressing important features and currently missing requirements, for a cross-industry open standard for distributed ledgers that can transform the way business transactions are conducted globally. This session discusses the underpinning technology focuses, future possibilities, and a quick demo to show a use case of Hyperledger.",
+    "title": "Introduction to Hyperledger",
     "track": {
       "order": 5,
       "name": "OTS 1",
@@ -1066,7 +1091,7 @@
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
-    "type": "Vortrag/Talk",
+    "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T12:50:00+00:00"
   },
   {
