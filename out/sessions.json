@@ -600,14 +600,14 @@
       "name": "LightningTalks",
       "id": 4
     },
-    "start_time": "2016-05-05T11:30:00+00:00",
+    "start_time": "2016-05-05T11:20:00+00:00",
     "session_id": "LT-1",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Lightning Talk",
-    "end_time": "2016-05-05T12:00:00+00:00"
+    "end_time": "2016-05-05T11:50:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -625,14 +625,14 @@
       "name": "LightningTalks",
       "id": 4
     },
-    "start_time": "2016-05-05T11:35:00+00:00",
+    "start_time": "2016-05-05T11:26:00+00:00",
     "session_id": "LT-9",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Lightning Talk",
-    "end_time": "2016-05-05T12:05:00+00:00"
+    "end_time": "2016-05-05T11:56:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -650,14 +650,14 @@
       "name": "LightningTalks",
       "id": 4
     },
-    "start_time": "2016-05-05T11:40:00+00:00",
+    "start_time": "2016-05-05T11:32:00+00:00",
     "session_id": "LT-7",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Lightning Talk",
-    "end_time": "2016-05-05T12:10:00+00:00"
+    "end_time": "2016-05-05T12:02:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -680,14 +680,14 @@
       "name": "LightningTalks",
       "id": 4
     },
-    "start_time": "2016-05-05T11:45:00+00:00",
+    "start_time": "2016-05-05T11:38:00+00:00",
     "session_id": "LT-2",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Lightning Talk",
-    "end_time": "2016-05-05T12:15:00+00:00"
+    "end_time": "2016-05-05T12:08:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -705,14 +705,14 @@
       "name": "LightningTalks",
       "id": 4
     },
-    "start_time": "2016-05-05T11:50:00+00:00",
+    "start_time": "2016-05-05T11:44:00+00:00",
     "session_id": "LT-3",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Lightning Talk",
-    "end_time": "2016-05-05T12:20:00+00:00"
+    "end_time": "2016-05-05T12:14:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -730,14 +730,14 @@
       "name": "LightningTalks",
       "id": 4
     },
-    "start_time": "2016-05-05T11:55:00+00:00",
+    "start_time": "2016-05-05T11:50:00+00:00",
     "session_id": "LT-4",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Lightning Talk",
-    "end_time": "2016-05-05T12:25:00+00:00"
+    "end_time": "2016-05-05T12:20:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -755,14 +755,14 @@
       "name": "LightningTalks",
       "id": 4
     },
-    "start_time": "2016-05-05T12:00:00+00:00",
+    "start_time": "2016-05-05T11:56:00+00:00",
     "session_id": "LT-5",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Lightning Talk",
-    "end_time": "2016-05-05T12:30:00+00:00"
+    "end_time": "2016-05-05T12:26:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -780,14 +780,14 @@
       "name": "LightningTalks",
       "id": 4
     },
-    "start_time": "2016-05-05T12:05:00+00:00",
+    "start_time": "2016-05-05T12:02:00+00:00",
     "session_id": "LT-6",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Lightning Talk",
-    "end_time": "2016-05-05T12:35:00+00:00"
+    "end_time": "2016-05-05T12:32:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -805,14 +805,14 @@
       "name": "LightningTalks",
       "id": 4
     },
-    "start_time": "2016-05-05T12:10:00+00:00",
+    "start_time": "2016-05-05T12:08:00+00:00",
     "session_id": "LT-8",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Lightning Talk",
-    "end_time": "2016-05-05T12:40:00+00:00"
+    "end_time": "2016-05-05T12:38:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -835,14 +835,14 @@
       "name": "LightningTalks",
       "id": 4
     },
-    "start_time": "2016-05-05T12:15:00+00:00",
+    "start_time": "2016-05-05T12:14:00+00:00",
     "session_id": "LT-10",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Workshop und Infotisch / Showcase Table",
-    "end_time": "2016-05-05T12:45:00+00:00"
+    "end_time": "2016-05-05T12:44:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -985,14 +985,14 @@
       "name": "OTS 1",
       "id": 5
     },
-    "start_time": "2016-05-05T10:50:00+00:00",
+    "start_time": "2016-05-05T10:40:00+00:00",
     "session_id": "OT-06",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Vortrag/Talk",
-    "end_time": "2016-05-05T11:20:00+00:00"
+    "end_time": "2016-05-05T11:10:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -1010,14 +1010,14 @@
       "name": "OTS 1",
       "id": 5
     },
-    "start_time": "2016-05-05T11:10:00+00:00",
+    "start_time": "2016-05-05T11:00:00+00:00",
     "session_id": "OT-07",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Vortrag/Talk",
-    "end_time": "2016-05-05T11:40:00+00:00"
+    "end_time": "2016-05-05T11:30:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -1035,14 +1035,14 @@
       "name": "OTS 1",
       "id": 5
     },
-    "start_time": "2016-05-05T11:30:00+00:00",
+    "start_time": "2016-05-05T11:20:00+00:00",
     "session_id": "OT-08",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Lightning Talks",
-    "end_time": "2016-05-05T12:00:00+00:00"
+    "end_time": "2016-05-05T11:50:00+00:00"
   },
   {
     "py/object": "models.Session",
