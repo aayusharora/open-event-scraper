@@ -434,7 +434,7 @@
       }
     ],
     "description": "Arduino Programmierung f\u00fcr Einsteiger mit CoderDojo und OpenTechSchool ",
-    "title": "CoderDojo",
+    "title": "Arduino Programmierung f\u00fcr Einsteiger mit CoderDojo und OpenTechSchool ",
     "track": {
       "order": 3,
       "name": "Workshops",
@@ -446,7 +446,7 @@
     "video": null,
     "location": "Erdgeschoss, Saal / Ground Floor",
     "sign_up": "http://www.meetup.com/OpenXLab/events/230160858/",
-    "type": "Kids Workshops, Ganzt\u00e4gig / Whole day",
+    "type": "Workshop",
     "end_time": "2016-05-05T09:00:00+00:00"
   },
   {
@@ -514,7 +514,7 @@
       }
     ],
     "description": "Python Programmieren f\u00fcr Anf\u00e4nger",
-    "title": "CoderDojo",
+    "title": "Python Programmieren f\u00fcr Anf\u00e4nger",
     "track": {
       "order": 3,
       "name": "Workshops",
@@ -526,7 +526,7 @@
     "video": null,
     "location": "Erdgeschoss, Saal / Ground Floor",
     "sign_up": "http://www.meetup.com/OpenXLab/events/230160858/",
-    "type": "Kids Workshops, Ganzt\u00e4gig / Whole day",
+    "type": "Workshop",
     "end_time": "2016-05-05T09:00:00+00:00"
   },
   {
