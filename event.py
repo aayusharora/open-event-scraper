@@ -9,6 +9,7 @@ import jsonpickle
 import logging
 import parser
 import urllib2
+import os
 from pprint import pprint
 from models import *
 
@@ -16,10 +17,10 @@ from models import *
 # Should have all service information
 # ID Prefix = should be unique across services
 # Color code
-SHEET_ID = '1KzZ0YVSQMw3BJfiDm80Pzq3o2QJ6Fv7iKMKUuhyw5jo'
+SHEET_ID = os.environ['SHEET_ID']
 SHEET_VERSIONING_GID = '2055409932'
 
-# We assume each row represents a time interval of 30 minutes and use that to calculate end time 
+# We assume each row represents a time interval of 30 minutes and use that to calculate end time
 SESSION_LENGTH = datetime.timedelta(minutes=30)
 TZ_UTC = pytz.utc
 TZ_LOCAL = pytz.timezone('Europe/Berlin')
@@ -86,7 +87,7 @@ def write_json(filename, root_key, the_json):
     f.write(json_to_write)
     f.close()
 
-def validate_sessions(sessions): 
+def validate_sessions(sessions):
     logging.info('validating')
 
     s_map = {}
