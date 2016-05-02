@@ -9,6 +9,7 @@ import jsonpickle
 import logging
 import parser
 import urllib2
+import os
 from pprint import pprint
 from models import *
 
@@ -16,10 +17,10 @@ from models import *
 # Should have all track information
 # ID Prefix = should be unique across tracks
 # Color code
-SHEET_ID = '1KzZ0YVSQMw3BJfiDm80Pzq3o2QJ6Fv7iKMKUuhyw5jo'
+SHEET_ID = os.environ['SHEET_ID']
 SHEET_VERSIONING_GID = '1228727534'
 
-# We assume each row represents a time interval of 30 minutes and use that to calculate end time 
+# We assume each row represents a time interval of 30 minutes and use that to calculate end time
 SESSION_LENGTH = datetime.timedelta(minutes=30)
 TZ_UTC = pytz.utc
 TZ_LOCAL = pytz.timezone('Europe/Berlin')
@@ -90,9 +91,9 @@ SESSIONS = []
 
 GLOBAL_SPEAKER_IDS = {}
 
-# Assume consequent rows with the same SessionID belong to the same session. 
-# - Start time is taken from first row, end time from last row + 30 minutes. 
-# - Title, description, etc. are taken from first row 
+# Assume consequent rows with the same SessionID belong to the same session.
+# - Start time is taken from first row, end time from last row + 30 minutes.
+# - Title, description, etc. are taken from first row
 # - Speaker data on additional rows is appended to the speaker list for that session
 # - Rows w/o SessionId are skipped
 def parse_row(row, last_speaker, last_session, current_track):
@@ -125,8 +126,8 @@ def parse_row(row, last_speaker, last_session, current_track):
 
         if hasattr(speaker, 'photo'):
             speaker.photo = validate_result(
-                parser.get_pic_url(row), 
-                speaker.photo, 
+                parser.get_pic_url(row),
+                speaker.photo,
                 "URL")
         else:
             speaker.photo = parser.get_pic_url(row)
@@ -159,7 +160,7 @@ def parse_row(row, last_speaker, last_session, current_track):
         if not maybe_title and speaker is not None:
             # print('use speaker name' + speaker.name)
             maybe_title = speaker.name
-            speaker = None    
+            speaker = None
         session.title = maybe_title
 
     if not hasattr(session, 'description'):
@@ -190,8 +191,8 @@ def parse_row(row, last_speaker, last_session, current_track):
             session.location = track.location
     if speaker is not None:
         session.speakers.append({
-            'name': speaker.name, 
-            'id': speaker.id, 
+            'name': speaker.name,
+            'id': speaker.id,
             'organisation': speaker.organisation
         })
 
@@ -252,7 +253,7 @@ def write_json(filename, root_key, the_json):
     f.write(json_to_write)
     f.close()
 
-def validate_sessions(sessions): 
+def validate_sessions(sessions):
     logging.info('validating')
 
     s_map = {}
@@ -297,7 +298,7 @@ if __name__ == "__main__":
 
     i = 0
     for track in tracks:
-        if not track.gid: 
+        if not track.gid:
             continue
         # debug only, limit to a single track
         # if i > 0:
