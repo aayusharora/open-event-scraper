@@ -33,6 +33,18 @@ class Service(object):
         self.url = url
 
 
+class LogoIco(object):
+    logo_url = ""
+    ico_url = ""
+    main_page_url = ""
+
+    def __init__(self, logo_url, ico_url, main_page_url):
+        super(LogoIco, self).__init__()
+        self.logo_url = logo_url
+        self.ico_url = ico_url
+        self.main_page_url = main_page_url
+
+
 class Speaker(object):
 
     def __init__(self):
