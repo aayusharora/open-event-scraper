@@ -511,6 +511,11 @@
         "organisation": "metacollect",
         "id": 26,
         "name": "Ulrike Thalheim"
+      },
+      {
+        "organisation": "metacollect",
+        "id": 27,
+        "name": "Moritz Beber"
       }
     ],
     "description": "Germany has been experiencing a huge wave of civic engagement for refugees and newcomers during the last year. This is great and that is why some people at the refugee hackathon in Berlin wanted to provide an overview of these projects as complete as possible by creating metacollect. metacollect is an open data service that collects and provides current information on civil society projects and initiatives. Our long-term goal is to strengthen all players through the creation of a single interface. In the talk, we will give you a short overview about how to map the landscape of projects that aim to support refugees and newcomers and what pitfalls we encountered. Also, we would like to share some of our learnings on how to set up an open data project from scratch.",
@@ -533,8 +538,38 @@
     "py/object": "models.Session",
     "speakers": [
       {
+        "organisation": "r0g_agency for open culture gGmbH",
+        "id": 28,
+        "name": "Stephen Kovats"
+      },
+      {
+        "organisation": "Peace Hack Camp",
+        "id": 29,
+        "name": "Mbisimo Emmanuel"
+      }
+    ],
+    "description": "Featuring #peacehackcamper Mbisimo Emmanuel, from jHUB, South Sudan's first Open Knowledge and Innovation Hub introducing their 'Open Learning Guide' http://jubahub.org/ and #peacehackcamp - an event that brings peacebuiders and tech innovators together for community empowerment and development in post-conflict regions. Website: http://peacehackcamp.net/",
+    "title": "#peacehackcamp @jHUB_Juba",
+    "track": {
+      "order": 3,
+      "name": "Workshops",
+      "id": 3
+    },
+    "start_time": "2016-05-05T13:30:00+00:00",
+    "session_id": "W-9",
+    "slides": null,
+    "video": null,
+    "location": "Erdgeschoss und Ebene 1",
+    "sign_up": null,
+    "type": "Lightning Talk (5-10 minutes)",
+    "end_time": "2016-05-05T14:00:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
         "organisation": "Altran",
-        "id": 27,
+        "id": 30,
         "name": "Toon Peters"
       }
     ],
@@ -600,14 +635,14 @@
       "name": "LightningTalks",
       "id": 4
     },
-    "start_time": "2016-05-05T11:20:00+00:00",
+    "start_time": "2016-05-05T11:15:00+00:00",
     "session_id": "LT-1",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Lightning Talk",
-    "end_time": "2016-05-05T11:50:00+00:00"
+    "end_time": "2016-05-05T11:45:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -616,6 +651,11 @@
         "organisation": "metacollect",
         "id": 26,
         "name": "Ulrike Thalheim"
+      },
+      {
+        "organisation": "metacollect",
+        "id": 27,
+        "name": "Moritz Beber"
       }
     ],
     "description": "Germany has been experiencing a huge wave of civic engagement for refugees and newcomers during the last year. This is great and that is why some people at the refugee hackathon in Berlin wanted to provide an overview of these projects as complete as possible by creating metacollect. metacollect is an open data service that collects and provides current information on civil society projects and initiatives. Our long-term goal is to strengthen all players through the creation of a single interface. In the talk, we will give you a short overview about how to map the landscape of projects that aim to support refugees and newcomers and what pitfalls we encountered. Also, we would like to share some of our learnings on how to set up an open data project from scratch.",
@@ -625,21 +665,21 @@
       "name": "LightningTalks",
       "id": 4
     },
-    "start_time": "2016-05-05T11:26:00+00:00",
+    "start_time": "2016-05-05T11:21:00+00:00",
     "session_id": "LT-9",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Lightning Talk",
-    "end_time": "2016-05-05T11:56:00+00:00"
+    "end_time": "2016-05-05T11:51:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "organisation": "FOSSASIA",
-        "id": 28,
+        "id": 31,
         "name": "Hong Phuc Dang"
       }
     ],
@@ -650,14 +690,14 @@
       "name": "LightningTalks",
       "id": 4
     },
-    "start_time": "2016-05-05T11:32:00+00:00",
+    "start_time": "2016-05-05T11:27:00+00:00",
     "session_id": "LT-7",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Lightning Talk",
-    "end_time": "2016-05-05T12:02:00+00:00"
+    "end_time": "2016-05-05T11:57:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -669,7 +709,7 @@
       },
       {
         "organisation": "Anthropologist",
-        "id": 29,
+        "id": 32,
         "name": "Lisa Conrad"
       }
     ],
@@ -680,21 +720,21 @@
       "name": "LightningTalks",
       "id": 4
     },
-    "start_time": "2016-05-05T11:38:00+00:00",
+    "start_time": "2016-05-05T11:33:00+00:00",
     "session_id": "LT-2",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Lightning Talk",
-    "end_time": "2016-05-05T12:08:00+00:00"
+    "end_time": "2016-05-05T12:03:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "organisation": "Copertura Label",
-        "id": 30,
+        "id": 33,
         "name": "Ivers Yves Pierre"
       }
     ],
@@ -705,14 +745,14 @@
       "name": "LightningTalks",
       "id": 4
     },
-    "start_time": "2016-05-05T11:44:00+00:00",
+    "start_time": "2016-05-05T11:39:00+00:00",
     "session_id": "LT-3",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Lightning Talk",
-    "end_time": "2016-05-05T12:14:00+00:00"
+    "end_time": "2016-05-05T12:09:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -730,21 +770,21 @@
       "name": "LightningTalks",
       "id": 4
     },
-    "start_time": "2016-05-05T11:50:00+00:00",
+    "start_time": "2016-05-05T11:45:00+00:00",
     "session_id": "LT-4",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Lightning Talk",
-    "end_time": "2016-05-05T12:20:00+00:00"
+    "end_time": "2016-05-05T12:15:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "organisation": "Heart of Code",
-        "id": 31,
+        "id": 34,
         "name": "Conny Kawohl"
       }
     ],
@@ -755,21 +795,21 @@
       "name": "LightningTalks",
       "id": 4
     },
-    "start_time": "2016-05-05T11:56:00+00:00",
+    "start_time": "2016-05-05T11:51:00+00:00",
     "session_id": "LT-5",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Lightning Talk",
-    "end_time": "2016-05-05T12:26:00+00:00"
+    "end_time": "2016-05-05T12:21:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "organisation": "Flowedoo",
-        "id": 32,
+        "id": 35,
         "name": "Stefan Koehler"
       }
     ],
@@ -780,14 +820,14 @@
       "name": "LightningTalks",
       "id": 4
     },
-    "start_time": "2016-05-05T12:02:00+00:00",
+    "start_time": "2016-05-05T11:57:00+00:00",
     "session_id": "LT-6",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Lightning Talk",
-    "end_time": "2016-05-05T12:32:00+00:00"
+    "end_time": "2016-05-05T12:27:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -805,14 +845,44 @@
       "name": "LightningTalks",
       "id": 4
     },
-    "start_time": "2016-05-05T12:08:00+00:00",
+    "start_time": "2016-05-05T12:03:00+00:00",
     "session_id": "LT-8",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Lightning Talk",
-    "end_time": "2016-05-05T12:38:00+00:00"
+    "end_time": "2016-05-05T12:33:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "r0g_agency for open culture gGmbH",
+        "id": 28,
+        "name": "Stephen Kovats"
+      },
+      {
+        "organisation": "Peace Hack Camp",
+        "id": 29,
+        "name": "Mbisimo Emmanuel"
+      }
+    ],
+    "description": "Featuring #peacehackcamper Mbisimo Emmanuel, from jHUB, South Sudan's first Open Knowledge and Innovation Hub introducing their 'Open Learning Guide' http://jubahub.org/ and #peacehackcamp - an event that brings peacebuiders and tech innovators together for community empowerment and development in post-conflict regions. ",
+    "title": "#peacehackcamp @jHUB_Juba",
+    "track": {
+      "order": 4,
+      "name": "LightningTalks",
+      "id": 4
+    },
+    "start_time": "2016-05-05T12:09:00+00:00",
+    "session_id": "LT-11",
+    "slides": null,
+    "video": null,
+    "location": "Ebene 1, Galerie",
+    "sign_up": null,
+    "type": "Lightning Talk",
+    "end_time": "2016-05-05T12:39:00+00:00"
   },
   {
     "py/object": "models.Session",
@@ -835,21 +905,21 @@
       "name": "LightningTalks",
       "id": 4
     },
-    "start_time": "2016-05-05T12:14:00+00:00",
+    "start_time": "2016-05-05T12:15:00+00:00",
     "session_id": "LT-10",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
-    "type": "Workshop und Infotisch / Showcase Table",
-    "end_time": "2016-05-05T12:44:00+00:00"
+    "type": "Lightning Talk",
+    "end_time": "2016-05-05T12:45:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "organisation": "",
-        "id": 33,
+        "id": 36,
         "name": "OpenTechSummit 2016"
       }
     ],
@@ -874,7 +944,7 @@
     "speakers": [
       {
         "organisation": "Intelligent Systems / Altran",
-        "id": 27,
+        "id": 30,
         "name": "Toon Peters"
       }
     ],
@@ -924,7 +994,7 @@
     "speakers": [
       {
         "organisation": "Wikimedia Deutschland e.V.",
-        "id": 34,
+        "id": 37,
         "name": "Marius Hoch"
       }
     ],
@@ -949,7 +1019,7 @@
     "speakers": [
       {
         "organisation": "FreeGeo API",
-        "id": 35,
+        "id": 38,
         "name": "Zac Brown"
       }
     ],
@@ -960,21 +1030,21 @@
       "name": "OTS 1",
       "id": 5
     },
-    "start_time": "2016-05-05T10:20:00+00:00",
+    "start_time": "2016-05-05T10:15:00+00:00",
     "session_id": "OT-05",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Vortrag/Talk",
-    "end_time": "2016-05-05T10:50:00+00:00"
+    "end_time": "2016-05-05T10:45:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "organisation": "Code for Berlin",
-        "id": 36,
+        "id": 39,
         "name": "Thomas Tursics"
       }
     ],
@@ -985,21 +1055,21 @@
       "name": "OTS 1",
       "id": 5
     },
-    "start_time": "2016-05-05T10:40:00+00:00",
+    "start_time": "2016-05-05T10:35:00+00:00",
     "session_id": "OT-06",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Vortrag/Talk",
-    "end_time": "2016-05-05T11:10:00+00:00"
+    "end_time": "2016-05-05T11:05:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "organisation": "IBM",
-        "id": 37,
+        "id": 40,
         "name": "Alexander Loibl"
       }
     ],
@@ -1010,21 +1080,21 @@
       "name": "OTS 1",
       "id": 5
     },
-    "start_time": "2016-05-05T11:00:00+00:00",
+    "start_time": "2016-05-05T10:55:00+00:00",
     "session_id": "OT-07",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Vortrag/Talk",
-    "end_time": "2016-05-05T11:30:00+00:00"
+    "end_time": "2016-05-05T11:25:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "organisation": "OpenTechSummit",
-        "id": 38,
+        "id": 41,
         "name": "Lightning Talkers"
       }
     ],
@@ -1035,21 +1105,21 @@
       "name": "OTS 1",
       "id": 5
     },
-    "start_time": "2016-05-05T11:20:00+00:00",
+    "start_time": "2016-05-05T11:15:00+00:00",
     "session_id": "OT-08",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Lightning Talks",
-    "end_time": "2016-05-05T11:50:00+00:00"
+    "end_time": "2016-05-05T11:45:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [
       {
         "organisation": "FOSSASIA",
-        "id": 39,
+        "id": 42,
         "name": "Justin Lee"
       }
     ],
@@ -1099,7 +1169,7 @@
     "speakers": [
       {
         "organisation": "Thoughtworks",
-        "id": 40,
+        "id": 43,
         "name": "Erik D\u00f6rnenburg"
       }
     ],
@@ -1124,7 +1194,7 @@
     "speakers": [
       {
         "organisation": "OpenKnowledge",
-        "id": 41,
+        "id": 44,
         "name": "Rufus Pollock"
       }
     ],
@@ -1149,7 +1219,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 42,
+        "id": 45,
         "name": "Lennart Poettering"
       }
     ],
@@ -1174,7 +1244,7 @@
     "speakers": [
       {
         "organisation": "Kinvolk GmbH",
-        "id": 43,
+        "id": 46,
         "name": "Chris K\u00fchl"
       }
     ],
@@ -1199,12 +1269,12 @@
     "speakers": [
       {
         "organisation": "Beuth Hochschule f\u00fcr Technik Berlin",
-        "id": 44,
+        "id": 47,
         "name": "Ruediger Weis"
       },
       {
         "organisation": "Beuth Hochschule f\u00fcr Technik Berlin",
-        "id": 45,
+        "id": 48,
         "name": "Bruno Kirschner"
       }
     ],
@@ -1229,7 +1299,7 @@
     "speakers": [
       {
         "organisation": "Free Software Foundation Europe e.V.",
-        "id": 46,
+        "id": 49,
         "name": "Matthias Kirschner"
       }
     ],
@@ -1254,7 +1324,7 @@
     "speakers": [
       {
         "organisation": "cusy GmbH",
-        "id": 47,
+        "id": 50,
         "name": "Veit Schiele"
       }
     ],
@@ -1279,7 +1349,7 @@
     "speakers": [
       {
         "organisation": "Thunderbird",
-        "id": 48,
+        "id": 51,
         "name": "J\u00f6rg Knobloch"
       }
     ],
@@ -1304,7 +1374,7 @@
     "speakers": [
       {
         "organisation": "Bioflux",
-        "id": 49,
+        "id": 52,
         "name": "R\u00fcdiger Trojok"
       }
     ],
@@ -1329,7 +1399,7 @@
     "speakers": [
       {
         "organisation": "Bioflux",
-        "id": 50,
+        "id": 53,
         "name": "Mirela Alistar"
       }
     ],
@@ -1352,7 +1422,7 @@
     "speakers": [
       {
         "organisation": "OTS",
-        "id": 51,
+        "id": 54,
         "name": "Mario Behling"
       }
     ],
@@ -1377,7 +1447,7 @@
     "speakers": [
       {
         "organisation": "Jugend Hackt",
-        "id": 52,
+        "id": 55,
         "name": "Jakob Schade"
       }
     ],
@@ -1402,12 +1472,12 @@
     "speakers": [
       {
         "organisation": "Junge T\u00fcftler",
-        "id": 53,
+        "id": 56,
         "name": "Franziska Schmid"
       },
       {
         "organisation": "Junge T\u00fcftler",
-        "id": 54,
+        "id": 57,
         "name": "Julia Kleeberger"
       }
     ],
@@ -1432,7 +1502,7 @@
     "speakers": [
       {
         "organisation": "Wikimedia Deutschland",
-        "id": 55,
+        "id": 58,
         "name": "Barbara Fischer"
       }
     ],
@@ -1457,7 +1527,7 @@
     "speakers": [
       {
         "organisation": "initOS GmbH / Otto-von-Guericke University Magdeburg",
-        "id": 56,
+        "id": 59,
         "name": "Frederik Kramer"
       }
     ],
@@ -1507,7 +1577,7 @@
     "speakers": [
       {
         "organisation": "Mozilla",
-        "id": 57,
+        "id": 60,
         "name": "Elio Qoshi"
       }
     ],
@@ -1532,7 +1602,7 @@
     "speakers": [
       {
         "organisation": "Open Source Circular Economy Days",
-        "id": 58,
+        "id": 61,
         "name": "Lars Zimmermann"
       }
     ],
@@ -1557,7 +1627,7 @@
     "speakers": [
       {
         "organisation": "Community Managerin",
-        "id": 59,
+        "id": 62,
         "name": "Felicitas Blanck"
       }
     ],
@@ -1582,7 +1652,7 @@
     "speakers": [
       {
         "organisation": "Code Week Award",
-        "id": 60,
+        "id": 63,
         "name": "Code Week Award"
       }
     ],
@@ -1607,7 +1677,7 @@
     "speakers": [
       {
         "organisation": "Gregarious Mammal",
-        "id": 61,
+        "id": 64,
         "name": "Chris Ward"
       }
     ],
@@ -1632,7 +1702,7 @@
     "speakers": [
       {
         "organisation": "Endocode AG",
-        "id": 62,
+        "id": 65,
         "name": "Thomas Fricke"
       }
     ],
@@ -1657,7 +1727,7 @@
     "speakers": [
       {
         "organisation": "flashcat-project",
-        "id": 63,
+        "id": 66,
         "name": "Kai Mertens"
       }
     ],
@@ -1682,7 +1752,7 @@
     "speakers": [
       {
         "organisation": "Technische Universit\u00e4t Berlin",
-        "id": 64,
+        "id": 67,
         "name": "J\u00e9r\u00e9my Bonvoisin"
       }
     ],
@@ -1707,7 +1777,7 @@
     "speakers": [
       {
         "organisation": "Mozilla",
-        "id": 65,
+        "id": 68,
         "name": "Rok Garbas"
       }
     ],
@@ -1732,7 +1802,7 @@
     "speakers": [
       {
         "organisation": "Askemos",
-        "id": 66,
+        "id": 69,
         "name": "J\u00f6rg Wittenberger"
       }
     ],
@@ -1757,7 +1827,7 @@
     "speakers": [
       {
         "organisation": "ionary",
-        "id": 67,
+        "id": 70,
         "name": "Denjell Caleb Thompson"
       }
     ],
@@ -1782,7 +1852,7 @@
     "speakers": [
       {
         "organisation": "Open Knowledge Foundation Deutschland",
-        "id": 68,
+        "id": 71,
         "name": "Maximilian Richt"
       }
     ],
@@ -1807,7 +1877,7 @@
     "speakers": [
       {
         "organisation": "youbroketheinternet.org",
-        "id": 69,
+        "id": 72,
         "name": "carlo von lynX"
       }
     ],
@@ -1832,7 +1902,7 @@
     "speakers": [
       {
         "organisation": "FFII.org",
-        "id": 70,
+        "id": 73,
         "name": "Andr\u00e9 Rebentisch"
       }
     ],
@@ -1876,7 +1946,7 @@
     "speakers": [
       {
         "organisation": "Coder Dojo Potsdam",
-        "id": 71,
+        "id": 74,
         "name": "Nicco Kunzmann"
       }
     ],
@@ -1901,12 +1971,12 @@
     "speakers": [
       {
         "organisation": "Junge T\u00fcftler",
-        "id": 54,
+        "id": 57,
         "name": "Julia Kleeberger"
       },
       {
         "organisation": "Junge T\u00fcftler",
-        "id": 53,
+        "id": 56,
         "name": "Franziska Schmid"
       }
     ],
@@ -1931,7 +2001,7 @@
     "speakers": [
       {
         "organisation": "Jugend Hackt",
-        "id": 52,
+        "id": 55,
         "name": "Jakob Schade"
       }
     ],
@@ -1956,7 +2026,7 @@
     "speakers": [
       {
         "organisation": "Code Week Award",
-        "id": 60,
+        "id": 63,
         "name": "Code Week Award"
       }
     ],
@@ -1981,7 +2051,7 @@
     "speakers": [
       {
         "organisation": "LPI e.V.",
-        "id": 72,
+        "id": 75,
         "name": "Harald Maa\u00dfen"
       }
     ],
@@ -2006,7 +2076,7 @@
     "speakers": [
       {
         "organisation": "LPI e.V.",
-        "id": 72,
+        "id": 75,
         "name": "Harald Maa\u00dfen"
       }
     ],
