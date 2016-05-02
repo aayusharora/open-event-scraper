@@ -1901,13 +1901,13 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "FFII.org",
+        "organisation": "OTS",
         "id": 73,
         "name": "Andr\u00e9 Rebentisch"
       }
     ],
-    "description": "How Trade Secrets Work.",
-    "title": "Trade Secrets",
+    "description": "From its start in 2004 Mr. Rebentisch closely followed the European Interoperability Framework (EIF) dossier. The document sparked a fruitful controversy about the promotion and use of open standards in the European public sector. External interference, trade sensitivities and a weak stance towards competition lead to a broader EIFv2 - which is right now under yet another review by the European Commission. The talk will focus on the EIF potentials for open technologies and also briefly touch upon the ongoing trade negotiations and TTIP disclosures.",
+    "title": "Open Standards in perils? European Commission revises the European Interoperability Framework",
     "track": {
       "order": 6,
       "name": "OTS 2",
@@ -1919,14 +1919,14 @@
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
-    "type": "Vortrag/Talk",
+    "type": "Talk of 25 minutes",
     "end_time": "2016-05-05T18:00:00+00:00"
   },
   {
     "py/object": "models.Session",
     "speakers": [],
     "description": "",
-    "title": "In der Galerie, Ebene 1: Kurzes Wrap up und Ab geht's zur Lounge im Erdgeschoss bis 23 Uhr. / Wrap up and Lounge until 11pm in the ground floor space.",
+    "title": "",
     "track": {
       "order": 6,
       "name": "OTS 2",
@@ -1938,7 +1938,7 @@
     "video": null,
     "location": "Ebene 2, Loft",
     "sign_up": null,
-    "type": "Danke und Lounge",
+    "type": "",
     "end_time": "2016-05-05T18:25:00+00:00"
   },
   {

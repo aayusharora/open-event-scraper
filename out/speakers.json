@@ -937,16 +937,16 @@
   },
   {
     "py/object": "models.Speaker",
-    "web": "",
+    "web": "http://ffii.org",
     "github": "",
     "name": "Andr\u00e9 Rebentisch",
-    "country": "",
-    "twitter": "",
+    "country": "Germany",
+    "twitter": "https://twitter.com/agonarch",
     "linkedin": "",
     "id": 73,
     "photo": "speakers/Andr\u00e9_Rebentisch.jpg",
-    "organisation": "FFII.org",
-    "biography": ""
+    "organisation": "OTS",
+    "biography": "Senior UX developer, fmr. digital advocate in Brussels, organiser of the annual OpenTechSummit."
   },
   {
     "py/object": "models.Speaker",
