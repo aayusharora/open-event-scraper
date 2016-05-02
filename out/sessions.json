@@ -879,7 +879,7 @@
     "session_id": "LT-11",
     "slides": null,
     "video": null,
-    "location": "Ebene 1, Galerie",
+    "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Lightning Talk",
     "end_time": "2016-05-05T12:39:00+00:00"
@@ -2000,9 +2000,9 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Jugend Hackt",
-        "id": 55,
-        "name": "Jakob Schade"
+        "organisation": "",
+        "id": 75,
+        "name": "Jugend Hackt"
       }
     ],
     "description": "Auch 2015 konnten junge Hacker_innen bei Jugend Hackt zeigen, wie sie mit Code die Welt verbessern. In 5 Events mit fast 300 Teilnehmenden und \u00fcber 50 entstandenen Projekten gab es eine Vielzahl an spannenden, lustigen und auch wegweisenden Ideen und Prototypen, wie die Junghacker_innen ihre F\u00e4higkeiten f\u00fcr eine positive Gesellschaft einsetzen. An dem Stand k\u00f6nnen einige dieser Projekte mit den jungen Entwicklern selbst diskutiert werden und es besteht die M\u00f6glichkeit sich \u00fcber die Veranstaltungen 2016 zu informieren Jugend Hackt ist ein Hackathon f\u00fcr Jugendliche zwischen 12 und 18 Jahren, welcher seit 2013 von der Open Knowledge Foundation veranstaltet wird.",
@@ -2051,7 +2051,7 @@
     "speakers": [
       {
         "organisation": "LPI e.V.",
-        "id": 75,
+        "id": 76,
         "name": "Harald Maa\u00dfen"
       }
     ],
@@ -2076,7 +2076,7 @@
     "speakers": [
       {
         "organisation": "LPI e.V.",
-        "id": 75,
+        "id": 76,
         "name": "Harald Maa\u00dfen"
       }
     ],

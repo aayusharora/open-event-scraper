@@ -963,13 +963,26 @@
   },
   {
     "py/object": "models.Speaker",
+    "web": "https://jugendhackt.de",
+    "github": "https://github.com/jugendhackt",
+    "name": "Jugend Hackt",
+    "country": "Deutschland",
+    "twitter": "",
+    "linkedin": "",
+    "id": 75,
+    "photo": "speakers/Jugend_Hackt.jpg",
+    "organisation": "",
+    "biography": "Der Stand soll durch Teilnehmer_innen, Mentor_innen und Organisator_innen gemeinsam betreut werden."
+  },
+  {
+    "py/object": "models.Speaker",
     "web": "https://www.lpi.org",
     "github": "",
     "name": "Harald Maa\u00dfen",
     "country": "Germany",
     "twitter": "",
     "linkedin": "",
-    "id": 75,
+    "id": 76,
     "photo": "speakers/Harald_Maa\u00dfen.jpg",
     "organisation": "LPI e.V.",
     "biography": "Harald Maassen ist langjaehriger Aktiver beim Linux Professional Institute."
