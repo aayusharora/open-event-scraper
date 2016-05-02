@@ -520,14 +520,14 @@
       "name": "Workshops",
       "id": 3
     },
-    "start_time": "2016-05-05T08:30:00+00:00",
+    "start_time": "2016-05-05T12:00:00+00:00",
     "session_id": "W-11",
     "slides": null,
     "video": null,
     "location": "Erdgeschoss, Saal / Ground Floor",
-    "sign_up": "http://www.meetup.com/OpenXLab/events/230160858/",
+    "sign_up": null,
     "type": "Workshop",
-    "end_time": "2016-05-05T09:00:00+00:00"
+    "end_time": "2016-05-05T12:30:00+00:00"
   },
   {
     "py/object": "models.Session",
