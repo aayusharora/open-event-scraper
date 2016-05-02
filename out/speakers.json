@@ -62,7 +62,7 @@
     "id": 5,
     "photo": "speakers/Jan_Suhr.jpg",
     "organisation": "Nitrokey",
-    "biography": ""
+    "biography": "Jan Suhr is the CEO and lead architect of Nitrokey."
   },
   {
     "py/object": "models.Speaker",
