@@ -12,7 +12,7 @@ python event.py
 if git diff-index --quiet HEAD; then
   exit 0
 fi
-
+git pull
 git commit -m '[Auto] updated json files [ci skip]' out/*.json || echo "no changes"
 git push "https://${GH_TOKEN}@github.com/OpenTechSummit/open-event-scraper" HEAD:master
 
