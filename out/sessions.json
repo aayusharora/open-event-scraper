@@ -375,12 +375,14 @@
       "name": "Maker Space",
       "id": 2
     },
+    "start_time": "2016-05-05T07:30:00+00:00",
     "session_id": "MS-15",
     "slides": null,
     "video": null,
-    "location": "Erdgeschoss, Saal",
+    "location": "Erdgeschoss, Saal / Ground Floor",
     "sign_up": null,
-    "type": "Talk of 25 minutes"
+    "type": "Talk of 25 minutes",
+    "end_time": "2016-05-05T08:00:00+00:00"
   },
   {
     "py/object": "models.Session",
