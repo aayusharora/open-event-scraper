@@ -1243,7 +1243,7 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "OpenKnowledge",
+        "organisation": "Founder Open Knowledge",
         "id": 45,
         "name": "Rufus Pollock"
       }
@@ -1268,17 +1268,17 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Thoughtworks",
+        "organisation": "CTO Thoughtworks",
         "id": 46,
         "name": "Erik D\u00f6rnenburg"
       },
       {
-        "organisation": "OpenKnowledge",
+        "organisation": "Founder Open Knowledge",
         "id": 45,
         "name": "Rufus Pollock"
       },
       {
-        "organisation": "FOSSASIA",
+        "organisation": "Founder FOSSASIA",
         "id": 33,
         "name": "Hong Phuc Dang"
       },
