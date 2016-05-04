@@ -426,7 +426,7 @@
     "id": 33,
     "photo": "speakers/Hong Phuc_Dang.jpg",
     "organisation": "FOSSASIA",
-    "biography": "Hong Phuc, originally from Vietnam, has lived in the US, Singapore and Dubai. She is the founder of FOSSASIA, an initiative in Asia bringing together an inspiring community across borders and ages to form a better future with Open Technologies and ICT. Hong Phuc organizes events like the annual FOSSASIA summit since 2009 and puts together Science Hack days across the region in Vietnam, Dubai and China. URL: http://sciencehack.asia | http://fossasia.org"
+    "biography": "Hong Phuc, originally from Vietnam, has lived in the US, Singapore and Dubai. She is the founder of FOSSASIA, an initiative in Asia bringing together an inspiring community across borders and ages to form a better future with Open Technologies and ICT. Hong Phuc organizes events like the annual FOSSASIA summit since 2009 and puts together Science Hack days across the region in Vietnam, Dubai and China. She is also responsible for online coding programs like Google Code-In bringing more than 1000 young developers to work with Open Source and learn about best practices every year. URL: http://sciencehack.asia | http://fossasia.org"
   },
   {
     "py/object": "models.Speaker",
