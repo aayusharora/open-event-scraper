@@ -978,14 +978,40 @@
     "py/object": "models.Speaker",
     "web": "https://jugendhackt.de",
     "github": "https://github.com/jugendhackt",
-    "name": "Jugend Hackt",
+    "name": "David Weber",
     "country": "Deutschland",
     "twitter": "",
     "linkedin": "",
     "id": 76,
-    "photo": "speakers/Jugend_Hackt.jpg",
+    "photo": "",
     "organisation": "",
-    "biography": "Der Stand soll durch Teilnehmer_innen, Mentor_innen und Organisator_innen gemeinsam betreut werden."
+    "biography": ""
+  },
+  {
+    "py/object": "models.Speaker",
+    "web": "https://jugendhackt.de",
+    "github": "https://github.com/jugendhackt",
+    "name": "Roman Kobosil",
+    "country": "Deutschland",
+    "twitter": "",
+    "linkedin": "",
+    "id": 77,
+    "photo": "",
+    "organisation": "",
+    "biography": ""
+  },
+  {
+    "py/object": "models.Speaker",
+    "web": "https://jugendhackt.de",
+    "github": "https://github.com/jugendhackt",
+    "name": "Paula Glaser",
+    "country": "Deutschland",
+    "twitter": "",
+    "linkedin": "",
+    "id": 78,
+    "photo": "",
+    "organisation": "",
+    "biography": ""
   },
   {
     "py/object": "models.Speaker",
@@ -995,7 +1021,7 @@
     "country": "Germany",
     "twitter": "",
     "linkedin": "",
-    "id": 77,
+    "id": 79,
     "photo": "speakers/Harald_Maa\u00dfen.jpg",
     "organisation": "LPI e.V.",
     "biography": "Harald Maassen ist langjaehriger Aktiver beim Linux Professional Institute."

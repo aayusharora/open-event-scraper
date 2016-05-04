@@ -2076,8 +2076,23 @@
     "speakers": [
       {
         "organisation": "",
+        "id": 57,
+        "name": "Jakob Schade"
+      },
+      {
+        "organisation": "",
         "id": 76,
-        "name": "Jugend Hackt"
+        "name": "David Weber"
+      },
+      {
+        "organisation": "",
+        "id": 77,
+        "name": "Roman Kobosil"
+      },
+      {
+        "organisation": "",
+        "id": 78,
+        "name": "Paula Glaser"
       }
     ],
     "description": "Auch 2015 konnten junge Hacker_innen bei Jugend Hackt zeigen, wie sie mit Code die Welt verbessern. In 5 Events mit fast 300 Teilnehmenden und \u00fcber 50 entstandenen Projekten gab es eine Vielzahl an spannenden, lustigen und auch wegweisenden Ideen und Prototypen, wie die Junghacker_innen ihre F\u00e4higkeiten f\u00fcr eine positive Gesellschaft einsetzen. An dem Stand k\u00f6nnen einige dieser Projekte mit den jungen Entwicklern selbst diskutiert werden und es besteht die M\u00f6glichkeit sich \u00fcber die Veranstaltungen 2016 zu informieren Jugend Hackt ist ein Hackathon f\u00fcr Jugendliche zwischen 12 und 18 Jahren, welcher seit 2013 von der Open Knowledge Foundation veranstaltet wird.",
@@ -2126,7 +2141,7 @@
     "speakers": [
       {
         "organisation": "LPI e.V.",
-        "id": 77,
+        "id": 79,
         "name": "Harald Maa\u00dfen"
       }
     ],
@@ -2151,7 +2166,7 @@
     "speakers": [
       {
         "organisation": "LPI e.V.",
-        "id": 77,
+        "id": 79,
         "name": "Harald Maa\u00dfen"
       }
     ],
