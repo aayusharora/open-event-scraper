@@ -363,8 +363,31 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "OpenTech Designer",
+        "organisation": "GNU Project",
         "id": 17,
+        "name": "Ricardo Wurmus"
+      }
+    ],
+    "description": "This talk introduces the functional package manager GNU Guix and the underlying concept of functional package management to a general audience.  Also demonstrates the hackable GNU distribution \"Guix SD\" built on top of GNU Guix.",
+    "title": "Functional package management with GNU Guix",
+    "track": {
+      "order": 2,
+      "name": "Maker Space",
+      "id": 2
+    },
+    "session_id": "MS-15",
+    "slides": null,
+    "video": null,
+    "location": "Erdgeschoss, Saal",
+    "sign_up": null,
+    "type": "Talk of 25 minutes"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "OpenTech Designer",
+        "id": 18,
         "name": "Jan Dittrich"
       }
     ],
@@ -389,22 +412,22 @@
     "speakers": [
       {
         "organisation": "Metaversa e.V.",
-        "id": 18,
+        "id": 19,
         "name": "Birgit Marzinka"
       },
       {
         "organisation": "Metaversa e.V.",
-        "id": 19,
+        "id": 20,
         "name": "Daniel Abma"
       },
       {
         "organisation": "Metaversa e.V.",
-        "id": 20,
+        "id": 21,
         "name": "Jenny Roberts"
       },
       {
         "organisation": "Metaversa e.V.",
-        "id": 21,
+        "id": 22,
         "name": "Kirsten Mohri"
       }
     ],
@@ -429,7 +452,7 @@
     "speakers": [
       {
         "organisation": "Coder Dojo Potsdam/OpenTechSchool",
-        "id": 22,
+        "id": 23,
         "name": "Nicco Kunzmann"
       }
     ],
@@ -454,12 +477,12 @@
     "speakers": [
       {
         "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community",
-        "id": 23,
+        "id": 24,
         "name": "Raimo, Radczewski"
       },
       {
         "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community",
-        "id": 24,
+        "id": 25,
         "name": "Markus Decke"
       }
     ],
@@ -484,7 +507,7 @@
     "speakers": [
       {
         "organisation": "ownCloud",
-        "id": 25,
+        "id": 26,
         "name": "Jos Poortvliet"
       }
     ],
@@ -509,7 +532,7 @@
     "speakers": [
       {
         "organisation": "Coder Dojo Potsdam/OpenTechSchool",
-        "id": 22,
+        "id": 23,
         "name": "Nicco Kunzmann"
       }
     ],
@@ -534,7 +557,7 @@
     "speakers": [
       {
         "organisation": "Piradio - Sender Berlin",
-        "id": 26,
+        "id": 27,
         "name": "Jenz Steiner"
       }
     ],
@@ -559,12 +582,12 @@
     "speakers": [
       {
         "organisation": "metacollect",
-        "id": 27,
+        "id": 28,
         "name": "Ulrike Thalheim"
       },
       {
         "organisation": "metacollect",
-        "id": 28,
+        "id": 29,
         "name": "Moritz Beber"
       }
     ],
@@ -589,12 +612,12 @@
     "speakers": [
       {
         "organisation": "r0g_agency for open culture gGmbH",
-        "id": 29,
+        "id": 30,
         "name": "Stephen Kovats"
       },
       {
         "organisation": "Peace Hack Camp",
-        "id": 30,
+        "id": 31,
         "name": "Mbisimo Emmanuel"
       }
     ],
@@ -619,7 +642,7 @@
     "speakers": [
       {
         "organisation": "Altran",
-        "id": 31,
+        "id": 32,
         "name": "Toon Peters"
       }
     ],
@@ -644,12 +667,12 @@
     "speakers": [
       {
         "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community",
-        "id": 23,
+        "id": 24,
         "name": "Raimo, Radczewski"
       },
       {
         "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community",
-        "id": 24,
+        "id": 25,
         "name": "Markus Decke"
       }
     ],
@@ -674,7 +697,7 @@
     "speakers": [
       {
         "organisation": "Syria on the Move, SocialVisions e.V.",
-        "id": 26,
+        "id": 27,
         "name": "Jenz Steiner"
       }
     ],
@@ -699,12 +722,12 @@
     "speakers": [
       {
         "organisation": "metacollect",
-        "id": 27,
+        "id": 28,
         "name": "Ulrike Thalheim"
       },
       {
         "organisation": "metacollect",
-        "id": 28,
+        "id": 29,
         "name": "Moritz Beber"
       }
     ],
@@ -729,7 +752,7 @@
     "speakers": [
       {
         "organisation": "FOSSASIA",
-        "id": 32,
+        "id": 33,
         "name": "Hong Phuc Dang"
       }
     ],
@@ -754,12 +777,12 @@
     "speakers": [
       {
         "organisation": "User Researcher",
-        "id": 17,
+        "id": 18,
         "name": "Jan Dittrich"
       },
       {
         "organisation": "Anthropologist",
-        "id": 33,
+        "id": 34,
         "name": "Lisa Conrad"
       }
     ],
@@ -784,7 +807,7 @@
     "speakers": [
       {
         "organisation": "Copertura Label",
-        "id": 34,
+        "id": 35,
         "name": "Ivers Yves Pierre"
       }
     ],
@@ -834,7 +857,7 @@
     "speakers": [
       {
         "organisation": "Heart of Code",
-        "id": 35,
+        "id": 36,
         "name": "Conny Kawohl"
       }
     ],
@@ -859,7 +882,7 @@
     "speakers": [
       {
         "organisation": "Flowedoo",
-        "id": 36,
+        "id": 37,
         "name": "Stefan Koehler"
       }
     ],
@@ -909,12 +932,12 @@
     "speakers": [
       {
         "organisation": "r0g_agency for open culture gGmbH",
-        "id": 29,
+        "id": 30,
         "name": "Stephen Kovats"
       },
       {
         "organisation": "Peace Hack Camp",
-        "id": 30,
+        "id": 31,
         "name": "Mbisimo Emmanuel"
       }
     ],
@@ -969,7 +992,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 37,
+        "id": 38,
         "name": "OpenTechSummit 2016"
       }
     ],
@@ -994,7 +1017,7 @@
     "speakers": [
       {
         "organisation": "Intelligent Systems / Altran",
-        "id": 31,
+        "id": 32,
         "name": "Toon Peters"
       }
     ],
@@ -1044,7 +1067,7 @@
     "speakers": [
       {
         "organisation": "Wikimedia Deutschland e.V.",
-        "id": 38,
+        "id": 39,
         "name": "Marius Hoch"
       }
     ],
@@ -1069,7 +1092,7 @@
     "speakers": [
       {
         "organisation": "FreeGeo API",
-        "id": 39,
+        "id": 40,
         "name": "Zac Brown"
       }
     ],
@@ -1094,7 +1117,7 @@
     "speakers": [
       {
         "organisation": "Code for Berlin",
-        "id": 40,
+        "id": 41,
         "name": "Thomas Tursics"
       }
     ],
@@ -1119,7 +1142,7 @@
     "speakers": [
       {
         "organisation": "IBM",
-        "id": 41,
+        "id": 42,
         "name": "Alexander Loibl"
       }
     ],
@@ -1144,7 +1167,7 @@
     "speakers": [
       {
         "organisation": "OpenTechSummit",
-        "id": 42,
+        "id": 43,
         "name": "Lightning Talkers"
       }
     ],
@@ -1169,7 +1192,7 @@
     "speakers": [
       {
         "organisation": "FOSSASIA",
-        "id": 43,
+        "id": 44,
         "name": "Justin Lee"
       }
     ],
@@ -1219,7 +1242,7 @@
     "speakers": [
       {
         "organisation": "Thoughtworks",
-        "id": 44,
+        "id": 45,
         "name": "Erik D\u00f6rnenburg"
       }
     ],
@@ -1244,7 +1267,7 @@
     "speakers": [
       {
         "organisation": "OpenKnowledge",
-        "id": 45,
+        "id": 46,
         "name": "Rufus Pollock"
       }
     ],
@@ -1269,7 +1292,7 @@
     "speakers": [
       {
         "organisation": "Red Hat",
-        "id": 46,
+        "id": 47,
         "name": "Lennart Poettering"
       }
     ],
@@ -1294,7 +1317,7 @@
     "speakers": [
       {
         "organisation": "Kinvolk GmbH",
-        "id": 47,
+        "id": 48,
         "name": "Chris K\u00fchl"
       }
     ],
@@ -1319,12 +1342,12 @@
     "speakers": [
       {
         "organisation": "Beuth Hochschule f\u00fcr Technik Berlin",
-        "id": 48,
+        "id": 49,
         "name": "Ruediger Weis"
       },
       {
         "organisation": "Beuth Hochschule f\u00fcr Technik Berlin",
-        "id": 49,
+        "id": 50,
         "name": "Bruno Kirschner"
       }
     ],
@@ -1349,7 +1372,7 @@
     "speakers": [
       {
         "organisation": "Free Software Foundation Europe e.V.",
-        "id": 50,
+        "id": 51,
         "name": "Matthias Kirschner"
       }
     ],
@@ -1374,7 +1397,7 @@
     "speakers": [
       {
         "organisation": "cusy GmbH",
-        "id": 51,
+        "id": 52,
         "name": "Veit Schiele"
       }
     ],
@@ -1399,7 +1422,7 @@
     "speakers": [
       {
         "organisation": "Thunderbird",
-        "id": 52,
+        "id": 53,
         "name": "J\u00f6rg Knobloch"
       }
     ],
@@ -1424,7 +1447,7 @@
     "speakers": [
       {
         "organisation": "Bioflux",
-        "id": 53,
+        "id": 54,
         "name": "R\u00fcdiger Trojok"
       }
     ],
@@ -1449,7 +1472,7 @@
     "speakers": [
       {
         "organisation": "Bioflux",
-        "id": 54,
+        "id": 55,
         "name": "Mirela Alistar"
       }
     ],
@@ -1472,7 +1495,7 @@
     "speakers": [
       {
         "organisation": "OTS",
-        "id": 55,
+        "id": 56,
         "name": "Mario Behling"
       }
     ],
@@ -1497,7 +1520,7 @@
     "speakers": [
       {
         "organisation": "Jugend Hackt",
-        "id": 56,
+        "id": 57,
         "name": "Jakob Schade"
       }
     ],
@@ -1522,12 +1545,12 @@
     "speakers": [
       {
         "organisation": "Junge T\u00fcftler",
-        "id": 57,
+        "id": 58,
         "name": "Franziska Schmid"
       },
       {
         "organisation": "Junge T\u00fcftler",
-        "id": 58,
+        "id": 59,
         "name": "Julia Kleeberger"
       }
     ],
@@ -1552,7 +1575,7 @@
     "speakers": [
       {
         "organisation": "Wikimedia Deutschland",
-        "id": 59,
+        "id": 60,
         "name": "Barbara Fischer"
       }
     ],
@@ -1577,7 +1600,7 @@
     "speakers": [
       {
         "organisation": "initOS GmbH / Otto-von-Guericke University Magdeburg",
-        "id": 60,
+        "id": 61,
         "name": "Frederik Kramer"
       }
     ],
@@ -1627,7 +1650,7 @@
     "speakers": [
       {
         "organisation": "Mozilla",
-        "id": 61,
+        "id": 62,
         "name": "Elio Qoshi"
       }
     ],
@@ -1652,7 +1675,7 @@
     "speakers": [
       {
         "organisation": "Open Source Circular Economy Days",
-        "id": 62,
+        "id": 63,
         "name": "Lars Zimmermann"
       }
     ],
@@ -1677,7 +1700,7 @@
     "speakers": [
       {
         "organisation": "Community Managerin",
-        "id": 63,
+        "id": 64,
         "name": "Felicitas Blanck"
       }
     ],
@@ -1702,7 +1725,7 @@
     "speakers": [
       {
         "organisation": "Code Week Award",
-        "id": 64,
+        "id": 65,
         "name": "Code Week Award"
       }
     ],
@@ -1727,7 +1750,7 @@
     "speakers": [
       {
         "organisation": "Gregarious Mammal",
-        "id": 65,
+        "id": 66,
         "name": "Chris Ward"
       }
     ],
@@ -1752,7 +1775,7 @@
     "speakers": [
       {
         "organisation": "Endocode AG",
-        "id": 66,
+        "id": 67,
         "name": "Thomas Fricke"
       }
     ],
@@ -1777,7 +1800,7 @@
     "speakers": [
       {
         "organisation": "flashcat-project",
-        "id": 67,
+        "id": 68,
         "name": "Kai Mertens"
       }
     ],
@@ -1802,7 +1825,7 @@
     "speakers": [
       {
         "organisation": "Technische Universit\u00e4t Berlin",
-        "id": 68,
+        "id": 69,
         "name": "J\u00e9r\u00e9my Bonvoisin"
       }
     ],
@@ -1827,7 +1850,7 @@
     "speakers": [
       {
         "organisation": "Mozilla",
-        "id": 69,
+        "id": 70,
         "name": "Rok Garbas"
       }
     ],
@@ -1852,7 +1875,7 @@
     "speakers": [
       {
         "organisation": "Askemos",
-        "id": 70,
+        "id": 71,
         "name": "J\u00f6rg Wittenberger"
       }
     ],
@@ -1877,7 +1900,7 @@
     "speakers": [
       {
         "organisation": "ionary",
-        "id": 71,
+        "id": 72,
         "name": "Denjell Caleb Thompson"
       }
     ],
@@ -1902,7 +1925,7 @@
     "speakers": [
       {
         "organisation": "Open Knowledge Foundation Deutschland",
-        "id": 72,
+        "id": 73,
         "name": "Maximilian Richt"
       }
     ],
@@ -1927,7 +1950,7 @@
     "speakers": [
       {
         "organisation": "youbroketheinternet.org",
-        "id": 73,
+        "id": 74,
         "name": "carlo von lynX"
       }
     ],
@@ -1952,7 +1975,7 @@
     "speakers": [
       {
         "organisation": "OTS",
-        "id": 74,
+        "id": 75,
         "name": "Andr\u00e9 Rebentisch"
       }
     ],
@@ -1996,7 +2019,7 @@
     "speakers": [
       {
         "organisation": "Coder Dojo Potsdam",
-        "id": 22,
+        "id": 23,
         "name": "Nicco Kunzmann"
       }
     ],
@@ -2021,12 +2044,12 @@
     "speakers": [
       {
         "organisation": "Junge T\u00fcftler",
-        "id": 58,
+        "id": 59,
         "name": "Julia Kleeberger"
       },
       {
         "organisation": "Junge T\u00fcftler",
-        "id": 57,
+        "id": 58,
         "name": "Franziska Schmid"
       }
     ],
@@ -2051,7 +2074,7 @@
     "speakers": [
       {
         "organisation": "",
-        "id": 75,
+        "id": 76,
         "name": "Jugend Hackt"
       }
     ],
@@ -2076,7 +2099,7 @@
     "speakers": [
       {
         "organisation": "Code Week Award",
-        "id": 64,
+        "id": 65,
         "name": "Code Week Award"
       }
     ],
@@ -2101,7 +2124,7 @@
     "speakers": [
       {
         "organisation": "LPI e.V.",
-        "id": 76,
+        "id": 77,
         "name": "Harald Maa\u00dfen"
       }
     ],
@@ -2126,7 +2149,7 @@
     "speakers": [
       {
         "organisation": "LPI e.V.",
-        "id": 76,
+        "id": 77,
         "name": "Harald Maa\u00dfen"
       }
     ],
