@@ -158,11 +158,17 @@ function createSocialLinks(services) {
   return sociallinks
 }
 
+function extractEventUrls(services) {
+  let urls = services.logoico
+  return urls
+}
+
 function transformData(sessions, speakers, services) {
   let tracks = foldByTrack(sessions.sessions, speakers.speakers)
   let days = foldByDate(tracks)
   let sociallinks = createSocialLinks(services)
-  return {tracks, days, sociallinks}
+  let eventurls = extractEventUrls(services)
+  return {tracks, days, sociallinks, eventurls}
 }
 
 const data = transformData(sessionsData, speakersData, servicesData)
