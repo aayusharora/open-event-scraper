@@ -581,8 +581,8 @@
     "linkedin": "",
     "id": 45,
     "photo": "speakers/Rufus _Pollock.jpg",
-    "organisation": "OpenKnowledge",
-    "biography": "Leading academic of the European open data movement"
+    "organisation": "Founder Open Knowledge",
+    "biography": "Leading academic of the European open data movement. Rufus Pollock (born 1980) is an economist and founder of Open Knowledge. He is a Shuttleworth Foundation alumnus, an Associate of the Centre for Intellectual Property and Information Law at the University of Cambridge and President of Open Knowledge which he co-founded (as the Open Knowledge Foundation) in 2004 and served as a board director until 2013.  On 24 May 2004 Pollock founded in Cambridge, UK the Open Knowledge Foundation as a global non-profit network that promotes and shares information at no charge, including both content and data.  In 2007 and 2009 Pollock published two controversial papers regarding the optimal copyright term, where he proposed based on an economical model with empirically-estimable parameters an optimal duration of only 15 years, significantly shorter than any currently existing copyright term. He has held the Mead Research Fellowship in economics at Emmanuel College, Cambridge.  In 2009, he was credited by web inventor Tim Berners-Lee for starting the Raw Data Now meme.  In 2010 he was appointed as one of the four founding members of the UK Government's Public Sector Transparency Board."
   },
   {
     "py/object": "models.Speaker",
@@ -594,7 +594,7 @@
     "linkedin": "http://de.linkedin.com/in/edoernenburg/",
     "id": 46,
     "photo": "speakers/Erik_D\u00f6rnenburg.jpg",
-    "organisation": "Thoughtworks",
+    "organisation": "CTO Thoughtworks",
     "biography": "I'm a software developer, consultant, and Head of Technology at ThoughtWorks, helping our clients with writing custom software.   Over the years I have worked with many different technologies and technology platforms, always curious to understand the potential they offer to solve real-world problems. Having seen a fair share of overly complex architectures I became interested in exploring simplicity in design and software visualisation as a way to make architecture more understandable.  My career began in the early nineties and throughout I have been an advocate of agile values and open source software. Over the past ten years I have spoken at many international conferences, contributed to a few books, and maintained the OCMock and CCMenu open source projects."
   },
   {
