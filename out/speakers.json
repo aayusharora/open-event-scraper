@@ -573,29 +573,29 @@
   },
   {
     "py/object": "models.Speaker",
-    "web": "http://opentechsummit.net",
-    "github": "",
-    "name": "Erik D\u00f6rnenburg",
-    "country": "Germany",
-    "twitter": "https://twitter.com/erikdoe",
-    "linkedin": "",
-    "id": 45,
-    "photo": "speakers/Erik_D\u00f6rnenburg.jpg",
-    "organisation": "Thoughtworks",
-    "biography": "OpenTech Panel"
-  },
-  {
-    "py/object": "models.Speaker",
     "web": "http://www.rufuspollock.org",
     "github": "https://github.com/rgrp",
     "name": "Rufus Pollock",
     "country": "UK",
     "twitter": "",
     "linkedin": "",
-    "id": 46,
+    "id": 45,
     "photo": "speakers/Rufus _Pollock.jpg",
     "organisation": "OpenKnowledge",
     "biography": "Leading academic of the European open data movement"
+  },
+  {
+    "py/object": "models.Speaker",
+    "web": "http://opentechsummit.net",
+    "github": "",
+    "name": "Erik D\u00f6rnenburg",
+    "country": "Germany",
+    "twitter": "https://twitter.com/erikdoe",
+    "linkedin": "",
+    "id": 46,
+    "photo": "speakers/Erik_D\u00f6rnenburg.jpg",
+    "organisation": "Thoughtworks",
+    "biography": "OpenTech Panel"
   },
   {
     "py/object": "models.Speaker",

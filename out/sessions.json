@@ -1243,33 +1243,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Thoughtworks",
-        "id": 45,
-        "name": "Erik D\u00f6rnenburg"
-      }
-    ],
-    "description": "Technology and Society Panel",
-    "title": "Open Technology and Society Panel",
-    "track": {
-      "order": 5,
-      "name": "OTS 1",
-      "id": 5
-    },
-    "start_time": "2016-05-05T13:15:00+00:00",
-    "session_id": "OT-11",
-    "slides": null,
-    "video": null,
-    "location": "Ebene 1, Galerie / Floor 1",
-    "sign_up": null,
-    "type": "Panel",
-    "end_time": "2016-05-05T13:45:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
         "organisation": "OpenKnowledge",
-        "id": 46,
+        "id": 45,
         "name": "Rufus Pollock"
       }
     ],
@@ -1280,14 +1255,39 @@
       "name": "OTS 1",
       "id": 5
     },
-    "start_time": "2016-05-05T14:00:00+00:00",
+    "start_time": "2016-05-05T13:15:00+00:00",
     "session_id": "OT-12",
     "slides": null,
     "video": null,
     "location": "Ebene 1, Galerie / Floor 1",
     "sign_up": null,
     "type": "Vortrag/Talk",
-    "end_time": "2016-05-05T14:30:00+00:00"
+    "end_time": "2016-05-05T13:45:00+00:00"
+  },
+  {
+    "py/object": "models.Session",
+    "speakers": [
+      {
+        "organisation": "Thoughtworks",
+        "id": 46,
+        "name": "Erik D\u00f6rnenburg"
+      }
+    ],
+    "description": "Technology and Society Panel",
+    "title": "Open Technology and Society Panel",
+    "track": {
+      "order": 5,
+      "name": "OTS 1",
+      "id": 5
+    },
+    "start_time": "2016-05-05T13:40:00+00:00",
+    "session_id": "OT-11",
+    "slides": null,
+    "video": null,
+    "location": "Ebene 1, Galerie / Floor 1",
+    "sign_up": null,
+    "type": "Panel",
+    "end_time": "2016-05-05T14:10:00+00:00"
   },
   {
     "py/object": "models.Session",
