@@ -1271,10 +1271,25 @@
         "organisation": "Thoughtworks",
         "id": 46,
         "name": "Erik D\u00f6rnenburg"
+      },
+      {
+        "organisation": "OpenKnowledge",
+        "id": 45,
+        "name": "Rufus Pollock"
+      },
+      {
+        "organisation": "FOSSASIA",
+        "id": 33,
+        "name": "Hong Phuc Dang"
+      },
+      {
+        "organisation": "IBM",
+        "id": 42,
+        "name": "Alexander Loibl"
       }
     ],
     "description": "Technology and Society Panel",
-    "title": "Open Technology and Society Panel",
+    "title": "The Power of Open",
     "track": {
       "order": 5,
       "name": "OTS 1",
