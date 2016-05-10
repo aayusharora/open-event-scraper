@@ -1866,33 +1866,8 @@
     "py/object": "models.Session",
     "speakers": [
       {
-        "organisation": "Mozilla",
-        "id": 70,
-        "name": "Rok Garbas"
-      }
-    ],
-    "description": "Packaging is a hard problem, no doubt. Still every language/distribution tries to (re)invent packaging on their own. This leaves us (developers / sysadmins) with a big number of tools that we need to master in order to do our job.  We will look at how Nix[1] and NixOS[2] can be used in today's software development processes and which are the benefits and drawbacks you might face.  [1] Nix is a powerful package manager for Linux and other Unix systems that makes package management reliable and reproducible. It provides atomic upgrades and rollbacks, side-by-side installation of multiple versions of a package, multi-user package management and easy setup of build environments. http://nixos.org/nix  [2] NixOS is a Linux distribution built on top of the Nix package manager, it is completely declarative, makes upgrading systems reliable, and has many other advantages. http://nixos.org/",
-    "title": "rethinking package management",
-    "track": {
-      "order": 6,
-      "name": "OTS 2",
-      "id": 6
-    },
-    "start_time": "2016-05-05T15:00:00+00:00",
-    "session_id": "OT2-14",
-    "slides": null,
-    "video": null,
-    "location": "Ebene 2, Loft / Floor 2",
-    "sign_up": null,
-    "type": "Vortrag/Talk",
-    "end_time": "2016-05-05T15:30:00+00:00"
-  },
-  {
-    "py/object": "models.Session",
-    "speakers": [
-      {
         "organisation": "Askemos",
-        "id": 71,
+        "id": 70,
         "name": "J\u00f6rg Wittenberger"
       }
     ],
@@ -1917,7 +1892,7 @@
     "speakers": [
       {
         "organisation": "ionary",
-        "id": 72,
+        "id": 71,
         "name": "Denjell Caleb Thompson"
       }
     ],
@@ -1942,7 +1917,7 @@
     "speakers": [
       {
         "organisation": "Open Knowledge Foundation Deutschland",
-        "id": 73,
+        "id": 72,
         "name": "Maximilian Richt"
       }
     ],
@@ -1967,7 +1942,7 @@
     "speakers": [
       {
         "organisation": "youbroketheinternet.org",
-        "id": 74,
+        "id": 73,
         "name": "carlo von lynX"
       }
     ],
@@ -1992,7 +1967,7 @@
     "speakers": [
       {
         "organisation": "OTS",
-        "id": 75,
+        "id": 74,
         "name": "Andr\u00e9 Rebentisch"
       }
     ],
@@ -2096,17 +2071,17 @@
       },
       {
         "organisation": "",
-        "id": 76,
+        "id": 75,
         "name": "David Weber"
       },
       {
         "organisation": "",
-        "id": 77,
+        "id": 76,
         "name": "Roman Kobosil"
       },
       {
         "organisation": "",
-        "id": 78,
+        "id": 77,
         "name": "Paula Glaser"
       }
     ],
@@ -2156,7 +2131,7 @@
     "speakers": [
       {
         "organisation": "LPI e.V.",
-        "id": 79,
+        "id": 78,
         "name": "Harald Maa\u00dfen"
       }
     ],
@@ -2181,7 +2156,7 @@
     "speakers": [
       {
         "organisation": "LPI e.V.",
-        "id": 79,
+        "id": 78,
         "name": "Harald Maa\u00dfen"
       }
     ],
