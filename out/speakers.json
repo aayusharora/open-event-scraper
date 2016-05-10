@@ -885,26 +885,13 @@
   },
   {
     "py/object": "models.Speaker",
-    "web": "https://garbas.si",
-    "github": "https://github.com/garbas",
-    "name": "Rok Garbas",
-    "country": "Slovenia",
-    "twitter": "https://twitter.com/garbas",
-    "linkedin": "",
-    "id": 69,
-    "photo": "speakers/Rok_Garbas.jpg",
-    "organisation": "Mozilla",
-    "biography": "Rok Garbas is a web programmer, when not writing Javascript, he usually scripts in Python. He started using Nix and later NixOS (linux distribution built around Nix) 3 years ago. Currently he works at Mozilla as a Release Engineer."
-  },
-  {
-    "py/object": "models.Speaker",
     "web": "http://ball.askemos.org",
     "github": "https://github.com/0-8-15",
     "name": "J\u00f6rg Wittenberger",
     "country": "Deutschland",
     "twitter": "",
     "linkedin": "",
-    "id": 70,
+    "id": 69,
     "photo": "speakers/J\u00f6rg_Wittenberger.jpg",
     "organisation": "Askemos",
     "biography": "geboren 1965  Studium der Informatik (Diplom) 1988-93"
@@ -917,7 +904,7 @@
     "country": "Germany",
     "twitter": "http://twitter.com/denjello",
     "linkedin": "",
-    "id": 71,
+    "id": 70,
     "photo": "speakers/Denjell_Caleb Thompson.jpg",
     "organisation": "ionary",
     "biography": "Media Artist at ionary"
@@ -930,7 +917,7 @@
     "country": "Deutschland",
     "twitter": "https://twitter.com/robbi5",
     "linkedin": "",
-    "id": 72,
+    "id": 71,
     "photo": "speakers/Maximilian_Richt.jpg",
     "organisation": "Open Knowledge Foundation Deutschland",
     "biography": "Maximilian Richt ist ehrenamtlich bei der Open Knowledge Foundation Deutschland und besch\u00e4ftigt sich mit der \u00d6ffnung und Durchsuchbarkeit von Daten.  Sonst verbringt er viel Zeit in Z\u00fcgen, die hin und wieder zu Projekten wie kleineAnfragen.de f\u00fchrt."
@@ -943,7 +930,7 @@
     "country": "Rome",
     "twitter": "https://twitter.com/lynXintl",
     "linkedin": "",
-    "id": 73,
+    "id": 72,
     "photo": "speakers/carlo_von lynX.jpg",
     "organisation": "youbroketheinternet.org",
     "biography": "Recently Yanis Varoufakis joined the Icelandic Pirate Party's choir, asking for a new Constitution for the European Union. It is quite obvious, that such a document must be developed in a participatory utilizing the Internet. Yet, the Internet bears many threats and e-democracy platforms are prone to many fallacies. carlo von lynX has been publicly discussing potentials and risks after participating in the debut installation of Liquid Feedback which led to 2011's electoral success of the Berlin Piratenpartei. Later he joined the Italian Pirate Party in the endeavor of designing a leaderless political party, continuously governed by a permanent electronic assembly \u2013 where decisions are taken together. At first it didn't work, but after several years of design re-iterations it now seems like the design is functional. A large-scale digital assembly or parliament is not only possible, it can also be self-governed."
@@ -956,7 +943,7 @@
     "country": "Germany",
     "twitter": "https://twitter.com/agonarch",
     "linkedin": "",
-    "id": 74,
+    "id": 73,
     "photo": "speakers/Andr\u00e9_Rebentisch.jpg",
     "organisation": "OTS",
     "biography": "Senior UX developer, fmr. digital advocate in Brussels, organiser of the annual OpenTechSummit."
@@ -969,7 +956,7 @@
     "country": "Deutschland",
     "twitter": "",
     "linkedin": "",
-    "id": 75,
+    "id": 74,
     "photo": "",
     "organisation": "",
     "biography": ""
@@ -982,7 +969,7 @@
     "country": "Deutschland",
     "twitter": "",
     "linkedin": "",
-    "id": 76,
+    "id": 75,
     "photo": "",
     "organisation": "",
     "biography": ""
@@ -995,7 +982,7 @@
     "country": "Deutschland",
     "twitter": "",
     "linkedin": "",
-    "id": 77,
+    "id": 76,
     "photo": "",
     "organisation": "",
     "biography": ""
@@ -1008,7 +995,7 @@
     "country": "Germany",
     "twitter": "",
     "linkedin": "",
-    "id": 78,
+    "id": 77,
     "photo": "speakers/Harald_Maa\u00dfen.jpg",
     "organisation": "LPI e.V.",
     "biography": "Harald Maassen ist langjaehriger Aktiver beim Linux Professional Institute."
