@@ -183,7 +183,7 @@ def parse_row(row, last_speaker, last_session, current_track):
     if not hasattr(session, 'type'):
         session.type = row["Type of Proposal"]
     if not hasattr(session, 'track'):
-        session.track = {'id': track.id, 'name': track.name, 'order': track.order}
+        session.track = track.id
     if not hasattr(session, 'location'):
         if row.has_key('Location') and row['Location']:
             session.location = row['Location']
