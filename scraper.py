@@ -180,6 +180,11 @@ def parse_row(row, last_speaker, last_session, current_track):
             session.slides = row['Slideshow']
         else:
             session.slides = None
+    if not hasattr(session, 'audio'):
+        if row.has_key('Audio') and row['Audio']:
+            session.audio = row['Audio']
+        else:
+            session.audio = None
     if not hasattr(session, 'type'):
         session.type = row["Type of Proposal"]
     if not hasattr(session, 'track'):

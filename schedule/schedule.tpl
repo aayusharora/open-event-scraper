@@ -130,6 +130,13 @@
                     {{location}}
                   </p>
                 </div>
+                <p class="audio-player">
+                  {{#if audio}}
+                  <audio controls>
+                    <source src="{{audio}}" type="audio/mpeg">
+                  </audio>
+                  {{/if}}
+                </p>
                 <p class="session-speakers">
                   {{#speakers_list}}
                   {{#if photo}}
