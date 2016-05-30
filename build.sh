@@ -23,7 +23,8 @@ node schedule/generator > ots-repo/programm/index.html
 cd ots-repo
 rm -rf programm/speakers
 rsync -r ../speakers/* programm/speakers
-git add programm/index.html programm/speakers/*.jpg
+rsync -a ../img programm/img
+git add programm/index.html programm/speakers/*.jpg programm/img/*
 git commit -m '[Auto] updated schedule' || echo "no changes"
 git push origin gh-pages
 
