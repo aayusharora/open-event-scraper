@@ -58,7 +58,7 @@
   "logoico": {
     "py/object": "models.LogoIco",
     "main_page_url": "/",
-    "ico_url": "../OpenTechSummit.ico",
-    "logo_url": "../img/Logo_OpenTecSummit_TXT_grey.png"
+    "ico_url": "img/OpenTechSummit.ico",
+    "logo_url": "img/Logo_OpenTecSummit_TXT_grey.png"
   }
 }

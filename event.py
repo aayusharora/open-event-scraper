@@ -53,8 +53,8 @@ def parse_logo_ico(data, event_main_page_url):
     logo_filename = save_img(logo_url, basename(logo_url), filter_image=False, dirname='img')
     ico_filename = save_img(ico_url, basename(ico_url), filter_image=False, dirname='img')
 
-    logo_filename = join('..', 'img', basename(logo_filename))
-    ico_filename = join('..', basename(ico_filename))
+    logo_filename = join('img', basename(logo_filename))
+    ico_filename = join('img', basename(ico_filename))
 
     return LogoIco(
         logo_url = logo_filename,
