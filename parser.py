@@ -1,4 +1,5 @@
 import saveImage
+import saveAudio
 
 # result is a dictionary of the excel sheet
 def get_linkedin_url(result):
@@ -23,3 +24,7 @@ def get_pic_url(result):
         filename = result["Given Name"].replace("/","_") + "_" + result["Family Name"].replace("/","_") + ".jpg"
         return saveImage.save_img(img_url, filename)
     return ""
+
+def get_audio_url(aud_url):
+    filename = aud_url.rsplit('/', 1)[-1]
+    return saveAudio.save_audio(aud_url, filename)
