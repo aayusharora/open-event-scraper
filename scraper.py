@@ -182,7 +182,7 @@ def parse_row(row, last_speaker, last_session, current_track):
             session.slides = None
     if not hasattr(session, 'audio'):
         if row.has_key('Audio') and row['Audio']:
-            session.audio = row['Audio']
+            session.audio = parser.get_audio_url(row['Audio'])
         else:
             session.audio = None
     if not hasattr(session, 'type'):
