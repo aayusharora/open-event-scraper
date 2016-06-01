@@ -32,16 +32,17 @@ YEAR_OF_CONF = '2016'
 
 def parse_sponsors(sponsor_data):
     sponsors = []
+    HEADER_LINE = 1
 
     i = 1
     sponsor = None
-    for line in csv.reader(track_data.split("\n"), delimiter="\t"):
+    for line in csv.reader(sponsor_data.split("\n"), delimiter="\t"):
         if i == HEADER_LINE:
             HEADERS = map(str.strip, line)
         elif i > HEADER_LINE:
             row = create_associative_arr(line, HEADERS)
-            if not row["Header Line"]:
-                continue
+            # if not row["Header Line"]:
+            #     continue
             sponsor = Sponsor()
             sponsor.name = row['Sponsor']
             sponsor.image = row['Image']
@@ -50,7 +51,7 @@ def parse_sponsors(sponsor_data):
             sponsor.type = row['Type']
             sponsor.description = row['Description']
 
-            sponsors.append(track)
+            sponsors.append(sponsor)
 
         i = i + 1
 
