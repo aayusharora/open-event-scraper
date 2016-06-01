@@ -56,6 +56,11 @@ class Session(object):
     def __init__(self):
         super(Session, self).__init__()
 
+class Sponsor(object):
+
+    def __init__(self):
+        super(Sponsor, self).__init__()
+
 
 class Microlocation(object):
 
