@@ -35,6 +35,28 @@ YEAR_OF_CONF = '2016'
 # Sheet GID for 'Images'. Contains 'Logo' and 'Ico'
 LOGO_ICO_SHEET_GID = '1222060277'
 
+COPYRIGHT_SHEET_GID = '280232578'
+
+
+def parse_copyright(data):
+    lines = csv.reader(data.split("\n"), delimiter="\t")
+    # Skip Header
+    header_vals = next(lines)
+    HEADERS = map(str.strip, header_vals)
+
+
+    line =  next(lines)
+    row = create_associative_arr(line, HEADERS)
+    copyright = Copyright()
+    copyright.holder =row['Holder']
+    copyright.holder_url =row['Link to Holder']
+    copyright.year =row['Year']
+    copyright.license =row['License']
+    copyright.license_url =row['Link to License']
+    copyright.logo =row['Copyright Logo']
+
+    return copyright
+
 
 def parse_logo_ico(data, event_main_page_url):
     """
@@ -164,10 +186,16 @@ if __name__ == "__main__":
     data = fetch_tsv_data(LOGO_ICO_SHEET_GID)
     logoico = parse_logo_ico(data, event_main_page_url)
 
+    logging.info("[Fetching copyright], gid = %s", COPYRIGHT_SHEET_GID)
+    data = fetch_tsv_data(COPYRIGHT_SHEET_GID)
+    copyright = parse_copyright(data)
+
+
     logging.info('Writing %d services to out/services.json', len(services))
     services_json = jsonpickle.encode(services)
     logoico_json = jsonpickle.encode(logoico)
+    copyright_json = jsonpickle.encode(copyright)
 
-    json_to_write = '{ "%s": %s, "%s": %s}' % ("services", services_json, "logoico", logoico_json)
+    json_to_write = '{ "%s": %s, "%s": %s, "%s": %s}' % ("services", services_json, "logoico", logoico_json, "copyright", copyright_json)
 
     write_json('out/services', json_to_write)

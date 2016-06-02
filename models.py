@@ -50,6 +50,11 @@ class Speaker(object):
     def __init__(self):
         super(Speaker, self).__init__()
 
+class Copyright(object):
+
+    def __init__(self):
+        super(Copyright, self).__init__()
+
 
 class Session(object):
 
