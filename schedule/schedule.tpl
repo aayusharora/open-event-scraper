@@ -18,7 +18,7 @@
 
   <!-- Bootstrap core CSS -->
   <!-- Latest compiled and minified CSS -->
-  <link rel="shortcut icon" href="../fossasia.ico" type="image/x-icon" />
+  <link rel="shortcut icon" href="{{ eventurls.ico_url }}" type="image/x-icon" />
   <link href="../css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all"/>
   <link href='//fonts.googleapis.com/css?family=Open+Sans:400,600,300' rel='stylesheet' type='text/css'>
   <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all"/>
@@ -37,8 +37,8 @@
     <nav class="navbar navbar-default navbar-fixed-top">
       <div class="container">
         <div class="navbar-header navbar-left pull-left">
-          <a class="navbar-brand" href="//opentechsummit.net/">
-            <img alt="Logo" class="logo logo-dark" src="../img/Logo_OpenTecSummit_TXT_grey.png">
+          <a class="navbar-brand" href="{{ eventurls.main_page_url }}">
+            <img alt="Logo" class="logo logo-dark" src="{{ eventurls.logo_url }}">
           </a>
         </div>
 
@@ -130,6 +130,13 @@
                     {{location}}
                   </p>
                 </div>
+                <p class="audio-player">
+                  {{#if audio}}
+                  <audio controls>
+                    <source src="{{audio}}" type="audio/mpeg">
+                  </audio>
+                  {{/if}}
+                </p>
                 <p class="session-speakers">
                   {{#speakers_list}}
                   {{#if photo}}

@@ -27,6 +27,9 @@ handlebars.registerHelper('linkify', function (options) {
 });
 
 function slugify(str) {
+  if (str === undefined) {
+    return ""
+  }
   return str.replace(/[^\w]/g, '-').replace(/-+/g, '-').toLowerCase()
 }
 
@@ -62,6 +65,9 @@ function byProperty(key) {
 }
 
 function zeroFill(num) {
+  if (num === undefined) {
+    return ""
+  }
   if (num >= 10) return num.toString()
   else return '0' + num.toString()
 }
@@ -104,7 +110,8 @@ function foldByTrack(sessions, speakers) {
       session_id: session.session_id,
       sign_up: session.sign_up,
       video: session.video,
-      slides: session.slides
+      slides: session.slides,
+      audio: session.audio
     })
   });
 
@@ -158,11 +165,17 @@ function createSocialLinks(services) {
   return sociallinks
 }
 
+function extractEventUrls(services) {
+  let urls = services.logoico
+  return urls
+}
+
 function transformData(sessions, speakers, services) {
   let tracks = foldByTrack(sessions.sessions, speakers.speakers)
   let days = foldByDate(tracks)
   let sociallinks = createSocialLinks(services)
-  return {tracks, days, sociallinks}
+  let eventurls = extractEventUrls(services)
+  return {tracks, days, sociallinks, eventurls}
 }
 
 const data = transformData(sessionsData, speakersData, servicesData)

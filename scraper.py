@@ -9,6 +9,7 @@ import jsonpickle
 import logging
 import parser
 import urllib2
+import os
 from pprint import pprint
 from models import *
 
@@ -16,16 +17,46 @@ from models import *
 # Should have all track information
 # ID Prefix = should be unique across tracks
 # Color code
-SHEET_ID = '1KzZ0YVSQMw3BJfiDm80Pzq3o2QJ6Fv7iKMKUuhyw5jo'
+SHEET_ID = os.environ['SHEET_ID']
 SHEET_VERSIONING_GID = '1228727534'
 
-# We assume each row represents a time interval of 30 minutes and use that to calculate end time 
+SPONSOR_SHEET_GID = '5501924'
+
+# We assume each row represents a time interval of 30 minutes and use that to calculate end time
 SESSION_LENGTH = datetime.timedelta(minutes=30)
 TZ_UTC = pytz.utc
 TZ_LOCAL = pytz.timezone('Europe/Berlin')
 
 # Provide year of conference in case the date is impossible to parse
 YEAR_OF_CONF = '2016'
+
+def parse_sponsors(sponsor_data):
+    sponsors = []
+    HEADER_LINE = 1
+
+    i = 1
+    sponsor = None
+    for line in csv.reader(sponsor_data.split("\n"), delimiter="\t"):
+        if i == HEADER_LINE:
+            HEADERS = map(str.strip, line)
+        elif i > HEADER_LINE:
+            row = create_associative_arr(line, HEADERS)
+            # if not row["Header Line"]:
+            #     continue
+            sponsor = Sponsor()
+            sponsor.name = row['Sponsor']
+            sponsor.image = row['Image']
+            sponsor.link = row['Link']
+            sponsor.level = row['Level']
+            sponsor.type = row['Type']
+            sponsor.description = row['Description']
+
+            sponsors.append(sponsor)
+
+        i = i + 1
+
+    return sponsors
+
 
 def parse_tracklist(track_data):
     tracks = []
@@ -87,12 +118,13 @@ def create_associative_arr(line, headers):
 
 SPEAKERS = []
 SESSIONS = []
+SPONSORS = []
 
 GLOBAL_SPEAKER_IDS = {}
 
-# Assume consequent rows with the same SessionID belong to the same session. 
-# - Start time is taken from first row, end time from last row + 30 minutes. 
-# - Title, description, etc. are taken from first row 
+# Assume consequent rows with the same SessionID belong to the same session.
+# - Start time is taken from first row, end time from last row + 30 minutes.
+# - Title, description, etc. are taken from first row
 # - Speaker data on additional rows is appended to the speaker list for that session
 # - Rows w/o SessionId are skipped
 def parse_row(row, last_speaker, last_session, current_track):
@@ -125,8 +157,8 @@ def parse_row(row, last_speaker, last_session, current_track):
 
         if hasattr(speaker, 'photo'):
             speaker.photo = validate_result(
-                parser.get_pic_url(row), 
-                speaker.photo, 
+                parser.get_pic_url(row),
+                speaker.photo,
                 "URL")
         else:
             speaker.photo = parser.get_pic_url(row)
@@ -159,7 +191,7 @@ def parse_row(row, last_speaker, last_session, current_track):
         if not maybe_title and speaker is not None:
             # print('use speaker name' + speaker.name)
             maybe_title = speaker.name
-            speaker = None    
+            speaker = None
         session.title = maybe_title
 
     if not hasattr(session, 'description'):
@@ -179,6 +211,11 @@ def parse_row(row, last_speaker, last_session, current_track):
             session.slides = row['Slideshow']
         else:
             session.slides = None
+    if not hasattr(session, 'audio'):
+        if row.has_key('Audio') and row['Audio']:
+            session.audio = parser.get_audio_url(row['Audio'])
+        else:
+            session.audio = None
     if not hasattr(session, 'type'):
         session.type = row["Type of Proposal"]
     if not hasattr(session, 'track'):
@@ -190,8 +227,8 @@ def parse_row(row, last_speaker, last_session, current_track):
             session.location = track.location
     if speaker is not None:
         session.speakers.append({
-            'name': speaker.name, 
-            'id': speaker.id, 
+            'name': speaker.name,
+            'id': speaker.id,
             'organisation': speaker.organisation
         })
 
@@ -252,7 +289,7 @@ def write_json(filename, root_key, the_json):
     f.write(json_to_write)
     f.close()
 
-def validate_sessions(sessions): 
+def validate_sessions(sessions):
     logging.info('validating')
 
     s_map = {}
@@ -295,9 +332,13 @@ if __name__ == "__main__":
     track_data = fetch_tsv_data(SHEET_VERSIONING_GID)
     tracks = parse_tracklist(track_data)
 
+    sponsor_data = fetch_tsv_data(SPONSOR_SHEET_GID)
+    SPONSORS = parse_sponsors(sponsor_data)
+
+
     i = 0
     for track in tracks:
-        if not track.gid: 
+        if not track.gid:
             continue
         # debug only, limit to a single track
         # if i > 0:
@@ -322,6 +363,10 @@ if __name__ == "__main__":
     logging.info('Writing %d sessions to out/sessions.json', len(SESSIONS))
     session_json = jsonpickle.encode(SESSIONS)
     write_json('out/sessions', 'sessions', session_json)
+
+    logging.info('Writing %d sponsors to out/sponsors.json', len(SPONSORS))
+    sponsors_json = jsonpickle.encode(SPONSORS)
+    write_json('out/sponsors', 'sponsors', sponsors_json)
 
     logging.info('Writing %d tracks to out/tracks.json', len(tracks))
     tracks_json = jsonpickle.encode(tracks)

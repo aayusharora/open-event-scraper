@@ -606,7 +606,7 @@
     "twitter": "https://twitter.com/@blixtra",
     "linkedin": "https://www.linkedin.com/in/christopherk1",
     "id": 47,
-    "photo": "",
+    "photo": "speakers/Chris_K\u00fchl.jpg",
     "organisation": "Kinvolk GmbH",
     "biography": "After getting hooked on free and open source software as a hobby through the GNOME project, Chris was able to turn this passion into a career and has since co-founded Kinvolk in Berlin, which focuses exclusively on open source software engineering for foundational Linux technologies: the Linux kernel, systemd, rkt, etc.  Chris is an active member of the Berlin open source community. He helps organize the Berlin meetups for CoreOS and systemd, the Berlin Open Source Eats-n-Drinks Meetup and works with the systemd team to organize systemd.conf."
   },
@@ -801,7 +801,7 @@
     "twitter": "https://twitter.com/@bricktick",
     "linkedin": "",
     "id": 62,
-    "photo": "",
+    "photo": "speakers/Lars_Zimmermann.jpg",
     "organisation": "Open Source Circular Economy Days",
     "biography": "Lars Zimmermann (larszimmermann.de) is an artist and economist. He explores Open Source Hardware business models and Open Source for Circular Economy. He is involved in a variety of projects and organizations like the Open It Agency (openitagency.eu), Open Source Circular Economy Days (oscedays.org), The City Is Open Source (thecityisopensource.de) and Mifactori (mifactori.bloglz.de)."
   },
