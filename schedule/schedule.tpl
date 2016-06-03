@@ -198,7 +198,15 @@
       </div><!-- /.row -->
       {{/tracks}}
       <div class="navbar navbar-default footer">
-      <p></p>
+      {{#if copyright}}
+        <p>
+          <img src="{{{copyright.logo}}}">
+          &copy; {{copyright.year}}
+          <a href="{{{copyright.holder_url}}}">{{copyright.holder}}</a>
+          The website and it's contents are licensed under
+          <a href="{{{copyright.license_url}}}"> {{copyright.license}} </a>
+        </p>
+      {{/if}}
     </div>
     </div><!-- /#session-list -->
 
