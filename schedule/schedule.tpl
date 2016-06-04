@@ -19,11 +19,11 @@
   <!-- Bootstrap core CSS -->
   <!-- Latest compiled and minified CSS -->
   <link rel="shortcut icon" href="{{ eventurls.ico_url }}" type="image/x-icon" />
-  <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all"/>
+  <link href="../css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all"/>
   <link href='//fonts.googleapis.com/css?family=Open+Sans:400,600,300' rel='stylesheet' type='text/css'>
   <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all"/>
 
-  <link rel="stylesheet" href="css/schedule.css">
+  <link rel="stylesheet" href="../css/schedule.css">
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -197,17 +197,42 @@
         </div><!-- /.col-md-12 -->
       </div><!-- /.row -->
       {{/tracks}}
-      <div class="navbar navbar-default footer">
-      {{#if copyright}}
-        <p>
-          <img src="{{{copyright.logo}}}">
-          &copy; {{copyright.year}}
-          <a href="{{{copyright.holder_url}}}">{{copyright.holder}}</a>
-          The website and it's contents are licensed under
-          <a href="{{{copyright.license_url}}}"> {{copyright.license}} </a>
-        </p>
-      {{/if}}
-    </div>
+     <section class="sponsors">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12 text-center">
+            <h1 style="padding:3%">Sponsors</h1>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-offset-5 col-md-7 center">
+            <img class="large" style="padding:3% ;width:200px ;height:200px;"  src="https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/FFII.gif"/> 
+          </div>
+        </div>
+         <div class="row">
+            <div class=" col-md-offset-1 col-md-2">
+             <img  class="medium" src="https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/AStA-logo.png"/> 
+            </div>
+             <div class="col-md-2">
+             <img class="medium" src="https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/LPI-cube.jpg"/> 
+            </div>
+            <div class=" col-md-2">
+             <img class="medium" src="https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/CWA%20Logo%202016%20_S_White.png"/> 
+            </div>
+             <div class="col-md-2">
+             <img class="medium" src="https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/asta-fhp.png"/> 
+            </div>
+             <div class=" col-md-2">
+             <img class="medium" style="padding:3% ;width:180px ;height:180px;"  src="https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/Wikidata-logo-en.png"/> 
+            </div>
+         </div>
+         <div class="row">
+           <div class="col-md-offset-5 col-md-7">
+           <img class="large" style="padding:3% ;width:160px ;height:160px;"  src="https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/VoiceRepublic.png"/>
+         </div>
+      </div>
+
+     </section>
     </div><!-- /#session-list -->
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
