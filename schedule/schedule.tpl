@@ -73,6 +73,7 @@
               </ul>
             </li>
             {{/days}}
+            <li><a href="#Sponsors">Sponsors</a></li>
           </ul>
         </div>
       </div>
@@ -197,6 +198,7 @@
         </div><!-- /.col-md-12 -->
       </div><!-- /.row -->
       {{/tracks}}
+      <div id="Sponsors"></div>
        <section class="sponsors">
       <div class="container">
         <div class="row">
@@ -206,29 +208,29 @@
         </div>
         <div class="row">
           <div class="col-md-offset-5 col-md-7 center">
-            <img class="large" src="https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/FFII.gif"/> 
+            <a href=""><img class="large" alt="" src="https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/FFII.gif"/></a>
           </div>
         </div>
          <div class="row">
             <div class=" col-md-offset-1 col-md-2">
-             <img  class="medium" src="https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/AStA-logo.png"/> 
+             <a href=""><img  class="medium" alt="" src="https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/AStA-logo.png"/></a> 
             </div>
              <div class="col-md-2">
-             <img class="medium" src="https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/LPI-cube.jpg"/> 
+             <a href=""><img class="medium" alt="" src="https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/LPI-cube.jpg"/></a>
             </div>
             <div class=" col-md-2">
-             <img class="medium" src="https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/CWA%20Logo%202016%20_S_White.png"/> 
+             <a href=""><img class="medium" alt="" src="https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/CWA%20Logo%202016%20_S_White.png"/></a>
             </div>
              <div class="col-md-2">
-             <img class="medium" src="https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/asta-fhp.png"/> 
+             <a href=""><img class="medium" alt="" src="https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/asta-fhp.png"/></a>
             </div>
              <div class=" col-md-2">
-             <img class="medium" src="https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/Wikidata-logo-en.png"/> 
+             <a href=""><img class="medium" alt="" src="https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/Wikidata-logo-en.png"/></a>
             </div>
          </div>
          <div class="row">
            <div class="col-md-offset-5 col-md-7">
-           <img class="large" src="https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/VoiceRepublic.png"/>
+          <a href=""><img class="small" alt="" src="https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/VoiceRepublic.png"/>
          </div>
       </div>
 
@@ -246,7 +248,7 @@
       {{/if}}
     </div>
 
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.11.2/moment.min.js"></script>
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
     integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
