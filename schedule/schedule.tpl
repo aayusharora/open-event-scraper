@@ -233,7 +233,8 @@
       </div>
 
      </section>
-      <div class="navbar navbar-default footer">
+    </div><!-- /#session-list -->
+    <div class="navbar navbar-default footer">
      {{#if copyright}}
        <p>
          <img src="{{{copyright.logo}}}">
@@ -244,7 +245,6 @@
        </p>
       {{/if}}
     </div>
-    </div><!-- /#session-list -->
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.11.2/moment.min.js"></script>
