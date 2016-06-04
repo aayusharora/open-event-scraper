@@ -24,10 +24,6 @@
   <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all"/>
 
   <link rel="stylesheet" href="./css/schedule.css">
-<<<<<<< HEAD
-=======
-
->>>>>>> 062cc86f36bb86b32614d0e1cb4648b4a7ea6c2c
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -201,6 +197,17 @@
         </div><!-- /.col-md-12 -->
       </div><!-- /.row -->
       {{/tracks}}
+      <div class="navbar navbar-default footer">
+-      {{#if copyright}}
+-        <p>
+-          <img src="{{{copyright.logo}}}">
+-          &copy; {{copyright.year}}
+-          <a href="{{{copyright.holder_url}}}">{{copyright.holder}}</a>
+-          The website and it's contents are licensed under
+-          <a href="{{{copyright.license_url}}}"> {{copyright.license}} </a>
+-        </p>
+-      {{/if}}
+-    </div>
      <section class="sponsors">
       <div class="container">
         <div class="row">
