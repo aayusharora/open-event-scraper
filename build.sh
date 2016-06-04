@@ -42,7 +42,7 @@ rsync -r ../../audio/* audio
 rsync -r ../../img/* img
 git add index.html speakers/*.jpg json/*.json css/ audio/ img/
 git commit -m '[Auto] updated schedule' || echo "no changes"
-git push origin master
+git push origin gh-pages
 
 
 exit 0
