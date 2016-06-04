@@ -25,6 +25,7 @@
 
   <link rel="stylesheet" href="./css/schedule.css">
 
+
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -198,7 +199,15 @@
       </div><!-- /.row -->
       {{/tracks}}
       <div class="navbar navbar-default footer">
-      <p></p>
+      {{#if copyright}}
+        <p>
+          <img src="{{{copyright.logo}}}">
+          &copy; {{copyright.year}}
+          <a href="{{{copyright.holder_url}}}">{{copyright.holder}}</a>
+          The website and it's contents are licensed under
+          <a href="{{{copyright.license_url}}}"> {{copyright.license}} </a>
+        </p>
+      {{/if}}
     </div>
     </div><!-- /#session-list -->
 

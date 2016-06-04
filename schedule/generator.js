@@ -121,6 +121,11 @@ function foldByTrack(sessions, speakers) {
   return tracks
 }
 
+function getCopyrightData(services) {
+  let copyright = services.copyright
+  return copyright
+}
+
 function createSocialLinks(services) {
   let sociallinks = Array.from(services.services)
   sociallinks.forEach(link => {
@@ -175,7 +180,8 @@ function transformData(sessions, speakers, services) {
   let days = foldByDate(tracks)
   let sociallinks = createSocialLinks(services)
   let eventurls = extractEventUrls(services)
-  return {tracks, days, sociallinks, eventurls}
+  let copyright = getCopyrightData(services)
+  return {tracks, days, sociallinks, eventurls, copyright}
 }
 
 const data = transformData(sessionsData, speakersData, servicesData)
