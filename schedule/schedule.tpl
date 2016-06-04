@@ -197,18 +197,7 @@
         </div><!-- /.col-md-12 -->
       </div><!-- /.row -->
       {{/tracks}}
-      <div class="navbar navbar-default footer">
--      {{#if copyright}}
--        <p>
--          <img src="{{{copyright.logo}}}">
--          &copy; {{copyright.year}}
--          <a href="{{{copyright.holder_url}}}">{{copyright.holder}}</a>
--          The website and it's contents are licensed under
--          <a href="{{{copyright.license_url}}}"> {{copyright.license}} </a>
--        </p>
--      {{/if}}
--    </div>
-     <section class="sponsors">
+       <section class="sponsors">
       <div class="container">
         <div class="row">
           <div class="col-sm-12 text-center">
@@ -244,6 +233,17 @@
       </div>
 
      </section>
+      <div class="navbar navbar-default footer">
+     {{#if copyright}}
+       <p>
+         <img src="{{{copyright.logo}}}">
+         &copy; {{copyright.year}}
+         <a href="{{{copyright.holder_url}}}">{{copyright.holder}}</a>
+         The website and it's contents are licensed under
+          <a href="{{{copyright.license_url}}}"> {{copyright.license}} </a>
+       </p>
+      {{/if}}
+    </div>
     </div><!-- /#session-list -->
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
