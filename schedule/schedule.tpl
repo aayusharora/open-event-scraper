@@ -223,12 +223,12 @@
              <img class="medium" src="https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/asta-fhp.png"/> 
             </div>
              <div class=" col-md-2">
-             <img class="medium" style="padding:3% ;width:180px ;height:180px;"  src="https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/Wikidata-logo-en.png"/> 
+             <img class="medium" src="https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/Wikidata-logo-en.png"/> 
             </div>
          </div>
          <div class="row">
            <div class="col-md-offset-5 col-md-7">
-           <img class="large" style="padding:3% ;width:160px ;height:160px;"  src="https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/VoiceRepublic.png"/>
+           <img class="large" src="https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/VoiceRepublic.png"/>
          </div>
       </div>
 
