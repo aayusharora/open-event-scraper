@@ -201,7 +201,7 @@
       <div class="container">
         <div class="row">
           <div class="col-sm-12 text-center">
-            <h1 style="padding:3%">Sponsors</h1>
+            <h1 class="track-title">Sponsors</h1>
           </div>
         </div>
         <div class="row">

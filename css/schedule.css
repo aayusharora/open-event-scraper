@@ -222,4 +222,12 @@ body {
   width:150px ;
   height:150px;
 }
+.sponsors {
+  position: relative;
+  display: block;
+  padding: 10px 15px;
+  margin: 25px 0px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+}
 
