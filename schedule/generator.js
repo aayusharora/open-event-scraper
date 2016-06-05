@@ -8,6 +8,7 @@ const tpl = handlebars.compile(fs.readFileSync(__dirname + '/schedule.tpl').toSt
 const sessionsData = require('../out/sessions.json')
 const speakersData = require('../out/speakers.json')
 const servicesData = require('../out/services.json')
+const sponsorsData = require('../out/sponsors.json')
 
 if(!String.linkify) {
     String.prototype.linkify = function() {
@@ -126,6 +127,45 @@ function getCopyrightData(services) {
   return copyright
 }
 
+function foldByLevel(sponsors) {
+  let levelData = {}
+
+  sponsors.forEach(sponsor => {
+    if (levelData[sponsor.level] === undefined) {
+      levelData[sponsor.level] = []
+    }
+
+    let sponsorItem = {
+      divclass: '',
+      imgsize: '',
+      name: sponsor.name,
+      image: sponsor.image,
+      link: sponsor.link,
+      level: sponsor.level,
+      description: sponsor.description,
+      type: sponsor.type
+    }
+
+    switch (sponsorItem.level) {
+      case '1':
+        sponsorItem.divclass = "col-md-4"
+        sponsorItem.imgsize = "large"
+        break;
+      case '2':
+        sponsorItem.divclass = "col-md-3"
+        sponsorItem.imgsize = "medium"
+        break;
+      case '3':
+        sponsorItem.divclass = "col-md-2"
+        sponsorItem.imgsize = "small"
+        break;
+    }
+    levelData[sponsor.level].push(sponsorItem)
+  });
+  return levelData
+
+}
+
 function createSocialLinks(services) {
   let sociallinks = Array.from(services.services)
   sociallinks.forEach(link => {
@@ -175,14 +215,15 @@ function extractEventUrls(services) {
   return urls
 }
 
-function transformData(sessions, speakers, services) {
+function transformData(sessions, speakers, services, sponsors) {
   let tracks = foldByTrack(sessions.sessions, speakers.speakers)
   let days = foldByDate(tracks)
   let sociallinks = createSocialLinks(services)
   let eventurls = extractEventUrls(services)
   let copyright = getCopyrightData(services)
-  return {tracks, days, sociallinks, eventurls, copyright}
+  let sponsorpics = foldByLevel(sponsors.sponsors)
+  return {tracks, days, sociallinks, eventurls, copyright, sponsorpics}
 }
 
-const data = transformData(sessionsData, speakersData, servicesData)
+const data = transformData(sessionsData, speakersData, servicesData, sponsorsData)
 process.stdout.write(tpl(data))

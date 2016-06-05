@@ -198,44 +198,30 @@
         </div><!-- /.col-md-12 -->
       </div><!-- /.row -->
       {{/tracks}}
+      {{#if sponsorpics}}
       <div id="Sponsors"></div>
-       <section class="sponsors">
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-12 text-center">
-            <h1 class="track-title">Sponsors</h1>
+      <section class="sponsors">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-12 text-center">
+              <h1 class="track-title">Sponsors</h1>
+            </div>
           </div>
+      {{#each sponsorpics}}
+        <div class="row sponsor-row">
+        {{#each this}}
+          <div class="{{{divclass}}}">
+            <a href="{{{link}}}">
+              <img class="{{{imgsize}}}" alt="{{{name}}}" src="{{{image}}}">
+            </a>
         </div>
-        <div class="row">
-          <div class="col-md-offset-5 col-md-7 center">
-            <a href=""><img class="large" alt="" src="https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/FFII.gif"/></a>
-          </div>
-        </div>
-         <div class="row">
-            <div class=" col-md-offset-1 col-md-2">
-             <a href=""><img  class="medium" alt="" src="https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/AStA-logo.png"/></a> 
-            </div>
-             <div class="col-md-2">
-             <a href=""><img class="medium" alt="" src="https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/LPI-cube.jpg"/></a>
-            </div>
-            <div class=" col-md-2">
-             <a href=""><img class="medium" alt="" src="https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/CWA%20Logo%202016%20_S_White.png"/></a>
-            </div>
-             <div class="col-md-2">
-             <a href=""><img class="medium" alt="" src="https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/asta-fhp.png"/></a>
-            </div>
-             <div class=" col-md-2">
-             <a href=""><img class="medium" alt="" src="https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/Wikidata-logo-en.png"/></a>
-            </div>
-         </div>
-         <div class="row">
-           <div class="col-md-offset-5 col-md-7">
-          <a href=""><img class="small" alt="" src="https://raw.githubusercontent.com/OpenTechSummit/2016.opentechsummit.net/gh-pages/img/VoiceRepublic.png"/>
-         </div>
-      </div>
+        {{/each}}
+      </div> <!-- sponsor-row -->
+      {{/each}}
 
-     </section>
-    </div><!-- /#session-list -->
+    </div>
+    </section><!-- /#session-list -->
+    {{/if}}
     <div class="navbar navbar-default footer">
      {{#if copyright}}
        <p>
