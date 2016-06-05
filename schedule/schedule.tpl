@@ -225,7 +225,7 @@
     <div class="navbar navbar-default footer">
      {{#if copyright}}
        <p>
-         <img src="{{{copyright.logo}}}">
+         <a href="{{{copyright.license_url}}}"> <img src="{{{copyright.logo}}}"> </a>
          &copy; {{copyright.year}}
          <a href="{{{copyright.holder_url}}}">{{copyright.holder}}</a>
          The website and it's contents are licensed under
